@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Globetrotter 2025 Atlas</title>
+<link rel="stylesheet" href="styles.css" />
+<style>
+/* ---- hero ---- */
+.hero{ position:relative; padding:70px 0 56px; overflow:hidden; }
+.hero .grid2{ display:grid; grid-template-columns:1fr 480px; gap:56px; align-items:center; }
+.hero h1{ font-family:var(--ff-display); text-transform:uppercase; font-size:clamp(46px,6vw,82px); line-height:.9; margin:18px 0 18px; color:var(--cream); }
+.hero h1 .o{ color:var(--orange); }
+.hero h1 .g{ color:var(--gold); }
+.hero p.lead{ font-family:var(--ff-mono); font-size:15px; line-height:1.75; color:#B9C6DD; max-width:440px; margin:0 0 30px; }
+.hero .cta{ display:flex; gap:13px; flex-wrap:wrap; }
+/* passport page */
+.passport{ position:relative; transform:rotate(2deg); }
+.passport .page{ background:var(--parch); border-radius:8px; padding:14px; box-shadow:var(--shadow); position:relative; }
+.passport .page .perf-parch{ position:absolute; top:7px; left:14px; right:14px; }
+.passport .photo{ aspect-ratio:4/5; border-radius:4px; }
+.passport .cap{ display:flex; justify-content:space-between; align-items:flex-end; margin-top:11px; }
+.passport .cap .city{ font-family:var(--ff-display); text-transform:uppercase; font-size:21px; color:#2A2418; }
+.passport .cap .co{ font-family:var(--ff-mono); font-size:11px; color:#6B6048; margin-top:2px; }
+.passport .ovl-stamp{ position:absolute; right:24px; top:34px; transform:rotate(-12deg); }
+.banner-strip{ display:flex; align-items:center; gap:14px; margin-top:36px; padding-top:24px; border-top:1px solid var(--line); }
+.banner-strip img{ width:128px; border-radius:6px; border:3px solid #fff; box-shadow:0 8px 20px rgba(0,0,0,.35); transform:rotate(-3deg); }
+.banner-strip .t{ font-family:var(--ff-mono); font-size:12.5px; color:var(--steel); line-height:1.7; }
+
+/* ---- stat strip ---- */
+.stats{ display:grid; grid-template-columns:repeat(5,1fr); border:1px solid var(--line); border-radius:12px; overflow:hidden; background:rgba(255,255,255,.025); }
+.stats .cell{ padding:22px 24px; border-left:1px solid var(--line); }
+.stats .cell:first-child{ border-left:none; }
+.stats .v{ font-family:var(--ff-display); font-size:38px; color:var(--gold); }
+.stats .l{ font-family:var(--ff-mono); font-size:11px; letter-spacing:.16em; text-transform:uppercase; color:var(--steel); margin-top:5px; }
+
+/* ---- stamp cards (featured) ---- */
+.stamp-grid{ display:grid; grid-template-columns:repeat(3,1fr); gap:30px 26px; }
+.stamp-card{ background:var(--parch); border-radius:7px; padding:12px 12px 14px; box-shadow:var(--shadow); position:relative; transition:.2s; color:#2A2418; display:block; }
+.stamp-card:hover{ transform:translateY(-4px) rotate(-.5deg); box-shadow:0 24px 50px rgba(0,0,0,.5); }
+.stamp-card .pic{ position:relative; aspect-ratio:4/3; border-radius:3px; overflow:hidden; border:3px solid #fff; }
+.stamp-card .pic .photo{ width:100%; height:100%; }
+.stamp-card .ribbon{ position:absolute; left:8px; top:8px; }
+.stamp-card .ovl{ position:absolute; right:8px; bottom:8px; background:rgba(236,227,204,.85); }
+.stamp-card .meta-top{ display:flex; justify-content:space-between; align-items:flex-end; margin-top:11px; }
+.stamp-card .city{ font-family:var(--ff-display); text-transform:uppercase; font-size:19px; color:#2A2418; line-height:1; }
+.stamp-card .sub{ font-family:var(--ff-mono); font-size:10.5px; color:#6B6048; margin-top:4px; }
+.stamp-card .no{ font-family:var(--ff-mono); font-size:10px; color:#8A7B55; text-align:right; }
+.stamp-card .by{ display:flex; align-items:center; gap:7px; margin-top:11px; padding-top:9px; border-top:1px dashed #C7B894; }
+.stamp-card .ava{ width:21px; height:21px; border-radius:5px; background:var(--ink); color:#fff; font-family:var(--ff-mono); font-size:10px; font-weight:700; display:grid; place-items:center; }
+.stamp-card .by .nm{ font-family:var(--ff-mono); font-size:11px; color:#4A4232; }
+.stamp-card .by .rx{ margin-left:auto; font-family:var(--ff-mono); font-size:11px; color:#8A7B55; }
+
+/* ---- leaderboard ---- */
+.lb{ display:grid; grid-template-columns:repeat(3,1fr); gap:20px; }
+.lb-col{ border:1.5px solid var(--col,#888); border-radius:12px; padding:20px; background:rgba(255,255,255,.03); }
+.lb-col .hd{ display:flex; align-items:center; gap:11px; margin-bottom:16px; }
+.lb-col .seal2{ width:34px; height:34px; border-radius:999px; border:2px solid var(--col); color:var(--col); display:grid; place-items:center; font-size:15px; }
+.lb-col .ti{ font-family:var(--ff-display); text-transform:uppercase; font-size:19px; color:var(--col); }
+.lb-col .req{ margin-left:auto; font-family:var(--ff-mono); font-size:10.5px; color:var(--steel); }
+.lb-row{ display:flex; align-items:center; gap:11px; padding:9px 0; border-top:1px solid var(--line-2); }
+.lb-row .av{ width:26px; height:26px; border-radius:6px; background:var(--ink); color:var(--cream); font-family:var(--ff-mono); font-size:11px; font-weight:700; display:grid; place-items:center; }
+.lb-row .nm{ font-weight:600; font-size:14px; }
+.lb-row .ct{ margin-left:auto; font-family:var(--ff-mono); font-weight:700; font-size:15px; color:var(--col); }
+
+/* ---- map teaser ---- */
+.mapteaser{ position:relative; border:1px solid var(--line); border-radius:14px; overflow:hidden; background:linear-gradient(160deg,#0c1733,#0a1430); }
+.mapteaser .inner{ position:relative; padding:48px 48px; display:grid; grid-template-columns:1fr auto; gap:30px; align-items:center; }
+.mapteaser h2{ font-family:var(--ff-display); text-transform:uppercase; font-size:34px; color:var(--cream); margin:0 0 12px; }
+.mapteaser p{ font-family:var(--ff-mono); font-size:13.5px; color:var(--steel); max-width:420px; line-height:1.7; margin:0 0 22px; }
+.mapteaser .dots{ position:absolute; inset:0; opacity:.5; }
+
+@media(max-width:900px){
+  .hero .grid2{ grid-template-columns:1fr; } .passport{ max-width:360px; }
+  .stats{ grid-template-columns:repeat(2,1fr); } .stats .cell:nth-child(odd){ border-left:none; }
+  .stamp-grid{ grid-template-columns:1fr 1fr; } .lb{ grid-template-columns:1fr; }
+  .mapteaser .inner{ grid-template-columns:1fr; }
+}
+@media(max-width:560px){ .stamp-grid{ grid-template-columns:1fr; } }
+</style>
+</head>
+<body>
+<div id="header"></div>
+
+<!-- HERO -->
+<section class="hero" data-screen-label="Home / Hero">
+  <div class="wrap grid2">
+    <div>
+      <span class="stamp gold">★ Entry Granted · <span id="hero-count">100</span> Cities</span>
+      <h1>The<br><span class="o">Globe&shy;trotter</span><br><span class="g">Atlas</span> 2025</h1>
+      <p class="lead">One year. One server. Every city we set foot in — collected, stamped and filed. A passport of everywhere the community went in 2025, written and photographed by the people who were actually there.</p>
+      <div class="cta">
+        <a class="btn btn-primary" href="atlas.html">Open the Atlas →</a>
+        <a class="btn btn-ghost" href="map.html">Explore the map</a>
+      </div>
+      <div class="banner-strip">
+        <img src="assets/banner.png" alt="Globetrotter 2025" />
+        <div class="t">The 2025 community travel challenge.<br>Submit a city, stamp your passport,<br>climb to Gold.</div>
+      </div>
+    </div>
+    <div class="passport" id="hero-passport"></div>
+  </div>
+</section>
+
+<!-- STATS -->
+<section class="wrap" style="padding-bottom:8px">
+  <div class="stats" id="stat-strip"></div>
+</section>
+
+<!-- FEATURED STAMPS -->
+<section class="section wrap" data-screen-label="Home / Featured">
+  <div class="section-head">
+    <h2>Recent Stamps</h2><div class="ln"></div>
+    <a class="meta" href="atlas.html" style="color:var(--gold)">Browse all →</a>
+  </div>
+  <div class="stamp-grid" id="featured"></div>
+</section>
+
+<!-- LEADERBOARD -->
+<section class="section wrap" data-screen-label="Home / Leaderboard" style="padding-top:8px">
+  <div class="section-head">
+    <h2>The Podium</h2><div class="ln"></div>
+    <span class="meta">Gold 15 · Silver 10 · Bronze 5</span>
+  </div>
+  <div class="lb" id="leaderboard"></div>
+  <div style="text-align:center; margin-top:26px">
+    <a class="btn btn-ghost" href="contributors.html">See every trotter →</a>
+  </div>
+</section>
+
+<!-- MAP TEASER -->
+<section class="section wrap" style="padding-top:8px">
+  <div class="mapteaser">
+    <canvas class="dots" id="teaser-dots"></canvas>
+    <div class="inner">
+      <div>
+        <span class="eyebrow">Six continents</span>
+        <h2 style="margin-top:10px">Every pin, one world</h2>
+        <p>From Reykjavík to Queenstown, see the whole year laid out on the globe. Click any pin to read the submission.</p>
+        <a class="btn btn-gold" href="map.html">Open the world map →</a>
+      </div>
+      <div class="stamp gold" id="teaser-countries" style="font-size:14px; padding:9px 16px; transform:rotate(-5deg)">★ Countries</div>
+    </div>
+  </div>
+</section>
+
+<div id="footer"></div>
+
+<script src="data.js"></script>
+<script src="site.js"></script>
+<script>
+mountChrome("home");
+
+/* hero count + stats */
+document.getElementById("hero-count").textContent = STATS.cities;
+const statCells = [
+  [STATS.submissions,"Submissions"],[STATS.cities,"Cities"],[STATS.countries,"Countries"],
+  [STATS.contributors,"Trotters"],[STATS.photos,"Photos"]
+];
+document.getElementById("stat-strip").innerHTML = statCells
+  .map(([v,l]) => `<div class="cell"><div class="v">${v}</div><div class="l">${l}</div></div>`).join("");
+document.getElementById("teaser-countries").textContent = "★ " + STATS.countries + " Countries";
+
+/* hero passport — feature the most recent submission that has a real photo */
+const heroSub = SUBMISSIONS.slice().sort((a,b)=>b.date.localeCompare(a.date)).find(s=>s.photos.length) || SUBMISSIONS[0];
+const heroCity = cityOf(heroSub);
+document.getElementById("hero-passport").innerHTML = `
+  <a class="page" href="city.html?id=${heroCity.id}" style="display:block">
+    <div class="perf-parch"></div>
+    ${photoHTML(heroSub.photos[0], {glyph:true})}
+    <div class="cap">
+      <div><div class="city">${heroCity.name}</div><div class="co mono">${coordLabel(heroCity.lat,heroCity.lng)}</div></div>
+      <span class="stamp">${flag(heroCity.cc)} ${heroCity.cc}</span>
+    </div>
+    <span class="stamp ovl-stamp" style="background:rgba(236,227,204,.6)">Visited · '25</span>
+  </a>`;
+
+/* featured stamps — the most recent submissions */
+const featured = SUBMISSIONS.slice().sort((a,b)=>b.date.localeCompare(a.date)).slice(0,6);
+document.getElementById("featured").innerHTML = featured.map((s,i) => {
+  const c = cityOf(s); const sub = contributor(s.submittedBy);
+  const others = submissionCount(c.id);
+  const rot = [-1.2,.9,-.6,1.1,-.9,.7][i]||0;
+  return `<a class="stamp-card" href="city.html?id=${c.id}#${s.id}" style="transform:rotate(${rot}deg)">
+    <div class="pic">${photoHTML(s.photos[0])}
+      <span class="stamp ovl">${flag(c.cc)} ${c.cc}</span>
+    </div>
+    <div class="meta-top">
+      <div><div class="city">${c.name}</div><div class="sub">${c.country.toUpperCase()} · ${s.date.slice(0,7)}</div></div>
+      <div class="no">${others>1?others+'×':'NO.'+String(i+1).padStart(2,'0')}</div>
+    </div>
+    <div class="by"><span class="ava">${sub.display[0]}</span><span class="nm">${sub.display}</span><span class="rx">${totalReacts(s)} ✦</span></div>
+  </a>`;
+}).join("");
+
+/* leaderboard */
+document.getElementById("leaderboard").innerHTML = ["gold","silver","bronze"].map(t => {
+  const col = TIER_COLOR[t];
+  return `<div class="lb-col" style="--col:${col}">
+    <div class="hd"><span class="seal2">${TIER_GLYPH[t]}</span><span class="ti">${TIER_LABEL[t]}</span><span class="req">${TIER_REQ[t]}+ cities</span></div>
+    ${tierMembers(t).map(m => `<a class="lb-row" href="profile.html?id=${m.key}" style="text-decoration:none"><span class="av">${m.display[0]}</span><span class="nm">${m.display}</span><span class="ct">${m.count}</span></a>`).join("")}
+  </div>`;
+}).join("");
+
+/* teaser dots — subtle drifting constellation */
+(function(){
+  const cv = document.getElementById("teaser-dots");
+  const fit = () => { cv.width = cv.offsetWidth; cv.height = cv.offsetHeight; };
+  fit(); window.addEventListener("resize", fit);
+  const pts = submittedCities().map(c => ({ x:(c.lng+180)/360, y:(90-c.lat)/180 }));
+  const ctx = cv.getContext("2d");
+  (function draw(){
+    ctx.clearRect(0,0,cv.width,cv.height);
+    pts.forEach(p=>{
+      ctx.beginPath(); ctx.arc(p.x*cv.width, p.y*cv.height*1.05+10, 2.2, 0, 7);
+      ctx.fillStyle="rgba(216,162,76,.55)"; ctx.fill();
+    });
+  })();
+})();
+</script>
+</body>
+</html>

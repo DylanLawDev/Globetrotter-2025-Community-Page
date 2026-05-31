@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>City · Globetrotter 2025 Atlas</title>
+<link rel="stylesheet" href="styles.css" />
+<style>
+.cb{ font-family:var(--ff-mono); font-size:12px; color:var(--steel); padding:22px 0 0; }
+.cb a:hover{ color:var(--gold); }
+
+/* city hero */
+.chero{ display:grid; grid-template-columns:1fr 420px; gap:44px; align-items:center; padding:24px 0 40px; }
+@media(max-width:900px){ .chero{ grid-template-columns:1fr; } }
+.chero .eyebrow{ margin-bottom:14px; display:inline-block; }
+.chero h1{ font-family:var(--ff-display); text-transform:uppercase; font-size:clamp(44px,6vw,80px); line-height:.9; color:var(--cream); margin:0 0 12px; }
+.chero .where{ font-family:var(--ff-mono); font-size:14px; color:var(--gold); display:flex; gap:14px; flex-wrap:wrap; }
+.locator{ }
+.locator .chart{ aspect-ratio:2/1.05; }
+.locator .cap{ font-family:var(--ff-mono); font-size:11px; color:var(--steel); padding:11px 16px; border-top:1px solid var(--line); display:flex; justify-content:space-between; }
+
+.facts{ display:grid; grid-template-columns:repeat(4,1fr); border:1px solid var(--line); border-radius:12px; overflow:hidden; background:rgba(255,255,255,.025); margin-bottom:14px; }
+.facts .f{ padding:18px 22px; border-left:1px solid var(--line); }
+.facts .f:first-child{ border-left:none; }
+.facts .f .v{ font-family:var(--ff-display); font-size:26px; color:var(--gold); }
+.facts .f .l{ font-family:var(--ff-mono); font-size:10.5px; letter-spacing:.14em; text-transform:uppercase; color:var(--steel); margin-top:4px; }
+@media(max-width:760px){ .facts{ grid-template-columns:1fr 1fr; } }
+
+/* submissions */
+.subs-head{ display:flex; align-items:center; gap:16px; margin:42px 0 8px; }
+.subs-head h2{ font-family:var(--ff-display); text-transform:uppercase; font-size:26px; color:var(--cream); }
+.subs-head .ln{ flex:1; height:1px; background:var(--line); }
+.subs-head .meta{ font-family:var(--ff-mono); font-size:12px; color:var(--steel); }
+
+.submission{ border:1px solid var(--line); border-radius:16px; background:rgba(255,255,255,.022); padding:24px; margin-top:24px; scroll-margin-top:84px; transition:border-color .3s; }
+.submission.flash{ border-color:var(--gold); }
+.sub-top{ display:flex; align-items:center; gap:13px; margin-bottom:18px; flex-wrap:wrap; }
+.sub-top .av{ width:44px; height:44px; border-radius:10px; background:var(--ink); color:var(--cream); font-family:var(--ff-display); font-size:18px; display:grid; place-items:center; flex:none; }
+.sub-top .who .n{ font-weight:700; font-size:16px; color:var(--cream); }
+.sub-top .who .n a:hover{ color:var(--gold); }
+.sub-top .who .h{ font-family:var(--ff-mono); font-size:11px; color:var(--steel); }
+.sub-top .when{ margin-left:auto; font-family:var(--ff-mono); font-size:12px; color:var(--steel); text-align:right; }
+.sub-top .rx{ display:flex; gap:6px; flex-wrap:wrap; }
+.sub-top .rx span{ font-family:var(--ff-mono); font-size:12px; background:rgba(255,255,255,.05); border:1px solid var(--line); border-radius:999px; padding:4px 9px; color:var(--cream-2); }
+
+.gallery{ display:grid; grid-template-columns:repeat(4,1fr); gap:12px; margin-bottom:18px; }
+@media(max-width:760px){ .gallery{ grid-template-columns:repeat(2,1fr); } }
+.gallery .shot{ position:relative; border-radius:8px; overflow:hidden; border:1px solid var(--line); cursor:pointer; }
+.gallery .shot .photo{ aspect-ratio:1/1; }
+.gallery .shot.big{ grid-column:span 2; grid-row:span 2; }
+.gallery .shot.big .photo{ aspect-ratio:1/1; }
+.gallery .shot .cred{ position:absolute; left:0; right:0; bottom:0; padding:10px 12px; background:linear-gradient(transparent,rgba(8,14,30,.82)); font-family:var(--ff-mono); font-size:10.5px; color:#E8DFC8; opacity:0; transition:.2s; }
+.gallery .shot:hover .cred{ opacity:1; }
+.photo.vid{ position:relative; overflow:hidden; }
+.gallery .shot .photo.vid video{ width:100%; height:100%; object-fit:cover; display:block; }
+.play-badge{ position:absolute; inset:0; margin:auto; width:46px; height:46px; display:flex; align-items:center; justify-content:center; background:rgba(6,10,22,.55); color:#fff; border-radius:50%; font-size:15px; padding-left:3px; pointer-events:none; }
+
+.sub-lead{ font-size:17px; line-height:1.6; color:#D8D0BC; margin:0 0 18px; font-style:italic; }
+.sub-cols{ display:grid; grid-template-columns:1fr 1fr; gap:28px; }
+@media(max-width:680px){ .sub-cols{ grid-template-columns:1fr; } }
+.sub-cols h4{ font-family:var(--ff-mono); font-size:11px; letter-spacing:.16em; text-transform:uppercase; color:var(--gold); margin:0 0 10px; }
+.sub-cols p{ color:#CFC7B4; font-size:15px; line-height:1.65; margin:0; }
+.todo{ list-style:none; padding:0; margin:0; display:grid; gap:8px; }
+.todo li{ display:flex; gap:11px; align-items:flex-start; font-size:14.5px; color:#D8D0BC; }
+.todo li .n{ font-family:var(--ff-mono); font-weight:700; color:var(--gold); font-size:12px; flex:none; margin-top:2px; }
+
+.thread{ margin-top:20px; padding-top:18px; border-top:1px solid var(--line); }
+.thread .th-h{ font-family:var(--ff-mono); font-size:11px; letter-spacing:.16em; text-transform:uppercase; color:var(--steel); margin-bottom:10px; }
+.cmt{ display:flex; gap:12px; padding:12px 0; border-top:1px solid var(--line-2); }
+.cmt:first-of-type{ border-top:none; }
+.cmt .av{ width:34px; height:34px; border-radius:8px; flex:none; background:var(--ink); color:var(--cream); font-family:var(--ff-mono); font-weight:700; font-size:14px; display:grid; place-items:center; }
+.cmt .hd{ display:flex; align-items:baseline; gap:9px; margin-bottom:4px; }
+.cmt .hd .nm{ font-weight:700; font-size:14px; color:var(--cream); }
+.cmt .hd .hl{ font-family:var(--ff-mono); font-size:10.5px; color:var(--gold); }
+.cmt .hd .dt{ font-family:var(--ff-mono); font-size:10.5px; color:var(--steel); margin-left:auto; }
+.cmt .tx{ font-size:14.5px; line-height:1.55; color:#D2CAB7; white-space:pre-wrap; }
+.cmt .react{ display:flex; gap:6px; margin-top:7px; }
+.cmt .react span{ font-family:var(--ff-mono); font-size:11px; background:rgba(255,255,255,.05); border:1px solid var(--line); border-radius:999px; padding:2px 8px; color:var(--cream-2); }
+.cmt-empty{ font-family:var(--ff-mono); font-size:12.5px; color:var(--steel); }
+
+/* lightbox */
+.lightbox{ position:fixed; inset:0; z-index:100; background:rgba(6,10,22,.92); display:none; align-items:center; justify-content:center; padding:40px; }
+.lightbox.open{ display:flex; }
+.lightbox .frame{ max-width:90vw; max-height:86vh; background:var(--parch); padding:14px; border-radius:8px; box-shadow:var(--shadow); }
+.lightbox .frame .photo{ max-height:74vh; border-radius:3px; }
+.lightbox .frame .photo img{ max-height:74vh; width:auto; }
+.lightbox .frame .photo.vid video{ max-height:74vh; max-width:86vw; width:auto; border-radius:3px; }
+.lightbox .cap{ font-family:var(--ff-mono); font-size:12px; color:#5A4F36; margin-top:10px; text-align:center; }
+.lightbox .x{ position:absolute; top:22px; right:26px; font-family:var(--ff-mono); color:var(--cream); font-size:14px; cursor:pointer; border:1px solid var(--steel-2); border-radius:6px; padding:8px 13px; }
+</style>
+</head>
+<body>
+<div id="header"></div>
+<main class="wrap" id="city-root" data-screen-label="City view"></main>
+<div class="lightbox" id="lightbox"><div class="x" onclick="closeLB()">✕ Close</div><div class="frame" id="lb-frame"></div></div>
+<div id="footer"></div>
+
+<script src="data.js"></script>
+<script src="site.js"></script>
+<script src="chart.js"></script>
+<script>
+mountChrome("atlas");
+
+const id = new URLSearchParams(location.search).get("id") || "montreal";
+const c = cityById(id);
+const root = document.getElementById("city-root");
+
+if(!c){
+  root.innerHTML = `<div style="padding:80px 0; text-align:center">
+    <div class="eyebrow">404 · No stamp here</div>
+    <h1 class="display" style="font-size:48px; margin:14px 0">City not found</h1>
+    <a class="btn btn-primary" href="atlas.html">Back to submissions</a></div>`;
+} else {
+  const subs = submissionsForCity(c.id);
+  const photoTotal = subs.reduce((n,s)=>n+s.photos.length,0);
+  const submitters = [...new Set(subs.map(s=>s.submittedBy))];
+
+  root.innerHTML = `
+  <nav class="cb"><a href="index.html">Atlas</a> ／ <a href="atlas.html?continent=${encodeURIComponent(c.continent)}">${c.continent}</a> ／ <span style="color:var(--cream-2)">${c.name}</span></nav>
+
+  <section class="chero">
+    <div>
+      <span class="eyebrow">${c.continent}</span>
+      <h1>${c.name}</h1>
+      <div class="where"><span>${flag(c.cc)} ${c.country}</span><span>·</span><span>${coordLabel(c.lat,c.lng)}</span><span>·</span><span>pop ${fmtPop(c.population)}</span></div>
+    </div>
+    <div class="chart-wrap locator">
+      <div class="chart" id="locator"></div>
+      <div class="cap"><span>${coordLabel(c.lat,c.lng)}</span><a href="map.html?focus=${c.id}" style="color:var(--gold)">Open world map →</a></div>
+    </div>
+  </section>
+
+  <div class="facts">
+    <div class="f"><div class="v">${fmtPop(c.population)}</div><div class="l">Population</div></div>
+    <div class="f"><div class="v">${subs.length}</div><div class="l">Submission${subs.length>1?'s':''}</div></div>
+    <div class="f"><div class="v">${photoTotal}</div><div class="l">Photos</div></div>
+    <div class="f"><div class="v">${submitters.length}</div><div class="l">Trotter${submitters.length>1?'s':''}</div></div>
+  </div>
+
+  <div class="subs-head">
+    <h2>${subs.length>1?`${subs.length} Submissions`:'The Submission'}</h2><div class="ln"></div>
+    <span class="meta">${c.name} · ${c.country}</span>
+  </div>
+
+  ${subs.map((s,si)=>renderSubmission(s,si,subs.length)).join("")}
+  <div style="height:50px"></div>`;
+
+  /* locator mini-map */
+  const { projPct: proj } = buildChart(document.getElementById("locator"), { labels:false, stars:true });
+  const p = proj(c.lat,c.lng);
+  const pin = document.createElement("div"); pin.className="pin focus"; pin.style.left=p.x+"%"; pin.style.top=p.y+"%";
+  document.getElementById("locator").appendChild(pin);
+
+  document.title = `${c.name} · Globetrotter 2025 Atlas`;
+
+  /* lightbox + gallery wiring */
+  window.openLB=(sid,i)=>{ const s=submissionById(sid); const p=[...s.photos,...(s.videos||[])][i];
+    document.getElementById("lb-frame").innerHTML = photoHTML(p,{full:true}) +
+      `<div class="cap">${p.caption ? p.caption+(p.by?` — ${contributor(p.by).display}`:'') : c.name+' — '+contributor(s.submittedBy).display}</div>`;
+    document.getElementById("lightbox").classList.add("open"); };
+  window.closeLB=()=>document.getElementById("lightbox").classList.remove("open");
+  document.querySelectorAll(".gallery .shot").forEach(sh=>sh.addEventListener("click",()=>openLB(sh.dataset.sid,+sh.dataset.i)));
+  document.getElementById("lightbox").addEventListener("click",e=>{ if(e.target.id==="lightbox") closeLB(); });
+  document.addEventListener("keydown",e=>{ if(e.key==="Escape") closeLB(); });
+
+  /* deep-link to a specific submission */
+  if(location.hash){ const el=document.getElementById(location.hash.slice(1));
+    if(el){ el.classList.add("flash"); setTimeout(()=>window.scrollTo({top:el.getBoundingClientRect().top+window.scrollY-90,behavior:"smooth"}),250); } }
+}
+
+function renderSubmission(s, si, total){
+  const sub = contributor(s.submittedBy);
+  const tierStamp = sub.tier ? `<span class="stamp ${sub.tier==='gold'?'gold':''}" style="${sub.tier!=='gold'?'border-color:var(--silver);color:var(--silver)':''}">${TIER_GLYPH[sub.tier]} ${TIER_LABEL[sub.tier]}</span>` : "";
+  const media = [...s.photos, ...(s.videos||[])];
+  const gallery = media.map((p,i)=>`
+    <div class="shot ${i===0?'big':''}" data-sid="${s.id}" data-i="${i}">${photoHTML(p)}
+      <div class="cred">${p.caption ? p.caption : ''}${p.caption&&p.by?' — ':''}${p.by&&!p.caption?contributor(p.by).display:''}</div>
+    </div>`).join("");
+  const things = (s.thingsToDo&&s.thingsToDo.length) ? `<div><h4>Things to do</h4>
+    <ul class="todo">${s.thingsToDo.map((t,i)=>`<li><span class="n">${String(i+1).padStart(2,'0')}</span><span>${t}</span></li>`).join("")}</ul></div>` : "";
+  const comments = s.comments.length ? s.comments.map(cm=>{ const a=contributor(cm.by);
+    return `<div class="cmt"><span class="av">${a.display[0]}</span><div style="flex:1">
+      <div class="hd"><span class="nm">${a.display}</span>${a.role?`<span class="hl">${a.role}</span>`:""}<span class="dt">${cm.date}</span></div>
+      <div class="tx">${cm.text}</div>
+      ${cm.reactions&&cm.reactions.length?`<div class="react">${cm.reactions.map(r=>`<span>${r.e} ${r.c}</span>`).join("")}</div>`:""}
+    </div></div>`; }).join("") : `<div class="cmt-empty">No comments on this submission yet.</div>`;
+
+  return `<article class="submission" id="${s.id}">
+    <div class="sub-top">
+      <span class="av">${sub.display[0]}</span>
+      <div class="who"><div class="n"><a href="profile.html?id=${s.submittedBy}">${sub.display}</a></div><div class="h">@${sub.handle}${total>1?` · submission ${si+1} of ${total}`:""}</div></div>
+      ${tierStamp}
+      <div class="when">${s.date}${s.note?`<br><span style="color:var(--cream-2)">“${s.note}”</span>`:""}</div>
+    </div>
+    <div class="gallery">${gallery}</div>
+    ${s.blurb?`<p class="sub-lead">${s.blurb}</p>`:""}
+    <div class="sub-cols">
+      <div><h4>Getting there</h4><p>${s.getThere||"—"}</p></div>
+      ${things}
+    </div>
+    <div class="thread">
+      <div class="th-h">From the thread · ${s.comments.length} ${s.comments.length===1?'reply':'replies'}</div>
+      ${comments}
+    </div>
+  </article>`;
+}
+</script>
+</body>
+</html>
