@@ -60,6 +60,7 @@
 .lb-col .req{ margin-left:auto; font-family:var(--ff-mono); font-size:10.5px; color:var(--steel); }
 .lb-row{ display:flex; align-items:center; gap:11px; padding:9px 0; border-top:1px solid var(--line-2); }
 .lb-row .av{ width:26px; height:26px; border-radius:6px; background:var(--ink); color:var(--cream); font-family:var(--ff-mono); font-size:11px; font-weight:700; display:grid; place-items:center; }
+.stamp-card img.ava, .lb-row img.av{ object-fit:cover; }
 .lb-row .nm{ font-weight:600; font-size:14px; }
 .lb-row .ct{ margin-left:auto; font-family:var(--ff-mono); font-weight:700; font-size:15px; color:var(--col); }
 
@@ -188,7 +189,7 @@ document.getElementById("featured").innerHTML = featured.map((s,i) => {
       <div><div class="city">${c.name}</div><div class="sub">${c.country.toUpperCase()} · ${s.date.slice(0,7)}</div></div>
       <div class="no">${others>1?others+'×':'NO.'+String(i+1).padStart(2,'0')}</div>
     </div>
-    <div class="by"><span class="ava">${sub.display[0]}</span><span class="nm">${sub.display}</span><span class="rx">${totalReacts(s)} ✦</span></div>
+    <div class="by">${avatarHTML(sub,"ava")}<span class="nm">${sub.display}</span><span class="rx">${totalReacts(s)} ✦</span></div>
   </a>`;
 }).join("");
 
@@ -196,8 +197,8 @@ document.getElementById("featured").innerHTML = featured.map((s,i) => {
 document.getElementById("leaderboard").innerHTML = ["gold","silver","bronze"].map(t => {
   const col = TIER_COLOR[t];
   return `<div class="lb-col" style="--col:${col}">
-    <div class="hd"><span class="seal2">${TIER_GLYPH[t]}</span><span class="ti">${TIER_LABEL[t]}</span><span class="req">${TIER_REQ[t]}+ cities</span></div>
-    ${tierMembers(t).map(m => `<a class="lb-row" href="profile.html?id=${m.key}" style="text-decoration:none"><span class="av">${m.display[0]}</span><span class="nm">${m.display}</span><span class="ct">${m.count}</span></a>`).join("")}
+    <div class="hd"><span class="seal2">${TIER_GLYPH[t]}</span><span class="ti">${TIER_LABEL[t]}</span><span class="req">${tierMembers(t).length} awarded</span></div>
+    ${tierMembers(t).map(m => `<a class="lb-row" href="profile.html?id=${m.key}" style="text-decoration:none">${avatarHTML(m,"av")}<span class="nm">${m.display}</span><span class="ct">${m.count}</span></a>`).join("")}
   </div>`;
 }).join("");
 

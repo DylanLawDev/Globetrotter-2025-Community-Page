@@ -19,10 +19,15 @@ const flag = (cc) => FLAGS[cc] || (/^[A-Za-z]{2}$/.test(cc || "")
 const fmtPop = (n) => n >= 1e6 ? (n/1e6).toFixed(n>=1e7?1:2).replace(/\.?0+$/,'') + "M"
                     : n >= 1e3 ? Math.round(n/1e3) + "k" : "" + n;
 
-const TIER_REQ = { gold:15, silver:10, bronze:5 };
+// gold/silver/bronze = awarded Globetrotter 2025 medal roles (see build/medals.mjs).
 const TIER_LABEL = { gold:"Gold", silver:"Silver", bronze:"Bronze" };
 const TIER_COLOR = { gold:"var(--gold)", silver:"var(--silver)", bronze:"var(--bronze)" };
 const TIER_GLYPH = { gold:"★", silver:"✦", bronze:"✶" };
+
+/* Avatar: real Discord image when present, else the styled first-letter fallback. */
+const avatarHTML = (m, cls = "av") => m && m.avatar
+  ? `<img class="${cls}" src="${m.avatar}" alt="${m.display}" loading="lazy" />`
+  : `<span class="${cls}">${(m && m.display || "?")[0]}</span>`;
 
 /* ---- data joins ----------------------------------------------------------- */
 const contributor = (key) => CONTRIBUTORS[key] || { display:key, handle:key, count:0, tier:null };
@@ -97,7 +102,7 @@ function siteFooter() {
         <span class="seal">G</span>
         <span class="name">GLOBETROTTER<b>2025 ATLAS</b></span>
       </div>
-      <div class="mono">A community keepsake of everywhere we went in 2025.<br>Built from the server, by the server.</div>
+      <div class="mono">A community keepsake of everywhere we went in 2025.</div>
     </div>
     <div class="mono">
       <a href="atlas.html">All Submissions</a><br>
@@ -121,7 +126,7 @@ function mountChrome(active) {
 
 if (typeof window !== "undefined") {
   Object.assign(window, {
-    flag, fmtPop, TIER_REQ, TIER_LABEL, TIER_COLOR, TIER_GLYPH,
+    flag, fmtPop, TIER_LABEL, TIER_COLOR, TIER_GLYPH, avatarHTML,
     contributor, tierMembers, cityById, submissionById,
     submissionsForCity, submissionsBy, cityOf, submittedCities,
     submissionCount, totalReacts, photoHTML, coordLabel,

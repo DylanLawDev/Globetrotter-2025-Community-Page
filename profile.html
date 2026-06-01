@@ -12,6 +12,7 @@
 /* profile hero */
 .phero{ display:flex; align-items:center; gap:24px; padding:26px 0 30px; flex-wrap:wrap; }
 .phero .av{ width:88px; height:88px; border-radius:18px; background:var(--ink); color:var(--cream); font-family:var(--ff-display); font-size:38px; display:grid; place-items:center; flex:none; border:1px solid var(--line); }
+.phero img.av{ object-fit:cover; }
 .phero h1{ font-family:var(--ff-display); text-transform:uppercase; font-size:clamp(34px,5vw,58px); color:var(--cream); margin:0; line-height:.95; }
 .phero .handle{ font-family:var(--ff-mono); font-size:13px; color:var(--steel); margin-top:6px; }
 .phero .spacer{ flex:1; }
@@ -88,15 +89,14 @@ if(!m){
   const continents = [...new Set(subs.map(s=>cityOf(s).continent))];
   const photoTotal = subs.reduce((n,s)=>n+s.photos.length,0);
 
-  // tier progress
-  const next = m.count>=15?null : m.count>=10?["Gold",15] : m.count>=5?["Silver",10] : ["Bronze",5];
-  const target = next?next[1]:15; const pct=Math.min(100,Math.round(m.count/target*100));
+  // awarded Globetrotter 2025 medal — independent of city count
+  const medalLabel = m.tier ? TIER_LABEL[m.tier]+" Medalist" : "Contestant";
 
   root.innerHTML = `
   <nav class="cb"><a href="contributors.html">Trotters</a> ／ <span style="color:var(--cream-2)">${m.display}</span></nav>
 
   <section class="phero" style="--col:${col}">
-    <span class="av">${m.display[0]}</span>
+    ${avatarHTML(m)}
     <div>
       <h1>${m.display}</h1>
       <div class="handle">@${m.handle}${m.role?` · ${m.role}`:""}</div>
@@ -116,8 +116,7 @@ if(!m){
   </div>
 
   <div class="tier-prog" style="--col:${col}">
-    <div class="row"><span>${m.tier?TIER_LABEL[m.tier]+" trotter":"On the trail"}</span><span style="margin-left:auto">${next?`${target-m.count} to ${next[0]}`:"Max rank — Gold ★"}</span></div>
-    <div class="bar"><i style="width:${pct}%"></i></div>
+    <div class="row" style="margin:0"><span>${m.tier?`${TIER_GLYPH[m.tier]} ${medalLabel}`:"On the trail · Contestant"}</span><span style="margin-left:auto">${m.count} ${m.count===1?"city":"cities"} stamped</span></div>
   </div>
 
   <div class="layout">

@@ -38,6 +38,7 @@
 .scard .meta{ font-family:var(--ff-mono); font-size:10px; color:#6B6048; margin-top:5px; letter-spacing:.04em; }
 .scard .ft{ display:flex; align-items:center; gap:6px; margin-top:9px; padding-top:8px; border-top:1px dashed #C7B894; font-family:var(--ff-mono); font-size:10.5px; color:#7A6C4A; }
 .scard .ft .av{ width:18px; height:18px; border-radius:4px; background:var(--ink); color:#fff; font-size:9px; font-weight:700; display:grid; place-items:center; }
+.scard .ft img.av{ object-fit:cover; }
 .scard .ft .dt{ margin-left:auto; }
 .empty{ grid-column:1/-1; text-align:center; padding:60px 0; font-family:var(--ff-mono); color:var(--steel); }
 </style>
@@ -127,7 +128,7 @@ function render(){
       </div>
       <div class="nm">${c.name}</div>
       <div class="meta">${c.country.toUpperCase()} · POP ${fmtPop(c.population)}</div>
-      <div class="ft"><span class="av">${sub.display[0]}</span>${sub.display}<span class="dt">${s.date.slice(0,7)}</span></div>
+      <div class="ft">${avatarHTML(sub)}${sub.display}<span class="dt">${s.date.slice(0,7)}</span></div>
     </a>`;
   }).join("");
 }

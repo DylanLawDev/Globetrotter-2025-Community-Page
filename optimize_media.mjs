@@ -125,6 +125,42 @@ async function optimizeImages() {
   }
 }
 
+// ---- avatars ------------------------------------------------------------
+// Source PNGs come from the Discord export; jobs are produced by build_data.mjs /
+// build/apply_medals.mjs into out/avatar_jobs.json. Square-cropped to AVATAR_EDGE.
+const AVATAR_EDGE = 256;     // covers the 88px hero avatar at 2x+
+
+async function optimizeAvatars() {
+  const jobsPath = path.join(ROOT, "out", "avatar_jobs.json");
+  if (!fs.existsSync(jobsPath)) {
+    console.log("\nNo out/avatar_jobs.json — skipping avatars (run build_data.mjs or build/apply_medals.mjs first).");
+    return;
+  }
+  const jobs = JSON.parse(fs.readFileSync(jobsPath, "utf8"));
+  console.log(`\nOptimizing ${jobs.length} avatars -> media/avatars (${AVATAR_EDGE}px square, WebP q${QUALITY}).`);
+  let done = 0, missing = 0, failed = 0, srcBytes = 0, destBytes = 0;
+  await pool(jobs, IMG_CONCURRENCY, async (job) => {
+    const dest = path.join(ROOT, job.dest);
+    if (!fs.existsSync(job.srcPng)) { missing++; return; }
+    try {
+      fs.mkdirSync(path.dirname(dest), { recursive: true });
+      await sharp(job.srcPng, { failOn: "none" })
+        .rotate()
+        .resize(AVATAR_EDGE, AVATAR_EDGE, { fit: "cover", position: "centre" })
+        .webp({ quality: QUALITY })
+        .toFile(dest);
+      srcBytes += fs.statSync(job.srcPng).size;
+      destBytes += fs.statSync(dest).size;
+      done++;
+    } catch (e) {
+      failed++;
+      console.warn(`  ! failed ${job.key}: ${e.message}`);
+    }
+  });
+  console.log(`Avatars done: ${done} ok, ${missing} missing, ${failed} failed.`);
+  if (destBytes) console.log(`  ${fmtMB(srcBytes)} -> ${fmtMB(destBytes)}`);
+}
+
 function findVideos(dir, acc = []) {
   for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
     const p = path.join(dir, e.name);
@@ -178,5 +214,6 @@ async function optimizeVideos() {
 console.log(`Optimizing media -> ${MEDIA_DIR}`);
 console.log(`  images: max ${MAX_EDGE}px, WebP q${QUALITY}, ${IMG_CONCURRENCY} workers`);
 if (!hasFlag("--no-images")) await optimizeImages();
+if (!hasFlag("--no-avatars")) await optimizeAvatars();
 if (hasFlag("--with-videos")) await optimizeVideos();
 console.log("Done.");

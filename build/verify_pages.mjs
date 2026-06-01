@@ -51,14 +51,14 @@ const inlineScripts = (html) =>
   [...html.matchAll(/<script(?![^>]*\bsrc=)[^>]*>([\s\S]*?)<\/script>/g)].map((m) => m[1]).join("\n");
 
 const cases = [
-  ["index.html", {}, ["stat-strip:cell", "featured:stamp-card", "leaderboard:lb-row", "hero-passport:cap"]],
+  ["index.html", {}, ["stat-strip:cell", "featured:stamp-card", "leaderboard:lb-row", "hero-passport:cap", "leaderboard:media/avatars"]],
   ["atlas.html", {}, []],
   ["city.html", { search: "?id=budapest" }, ["city-root:submission"]],
   ["city.html", { search: "?id=montreal" }, ["city-root:submission"]],
   ["city.html", { search: "?id=zzz-nope" }, ["city-root:not found"]],
   ["map.html", { search: "" }, ["city-list:li"]],
-  ["contributors.html", {}, []],
-  ["profile.html", { search: "?id=duck" }, []],
+  ["contributors.html", {}, ["tiers:Medalists", "tiers:media/avatars"]],
+  ["profile.html", { search: "?id=duck" }, ["root:media/avatars", "root:Gold Medalist"]],
 ];
 
 let failures = 0;

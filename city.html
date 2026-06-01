@@ -73,6 +73,7 @@
 .cmt{ display:flex; gap:12px; padding:12px 0; border-top:1px solid var(--line-2); }
 .cmt:first-of-type{ border-top:none; }
 .cmt .av{ width:34px; height:34px; border-radius:8px; flex:none; background:var(--ink); color:var(--cream); font-family:var(--ff-mono); font-weight:700; font-size:14px; display:grid; place-items:center; }
+.sub-top img.av, .cmt img.av{ object-fit:cover; }
 .cmt .hd{ display:flex; align-items:baseline; gap:9px; margin-bottom:4px; }
 .cmt .hd .nm{ font-weight:700; font-size:14px; color:var(--cream); }
 .cmt .hd .hl{ font-family:var(--ff-mono); font-size:10.5px; color:var(--gold); }
@@ -203,7 +204,7 @@ function renderSubmission(s, si, total){
   const things = (s.thingsToDo&&s.thingsToDo.length) ? `<div><h4>Things to do</h4>
     <ul class="todo">${s.thingsToDo.map((t,i)=>`<li><span class="n">${String(i+1).padStart(2,'0')}</span><span>${t}</span></li>`).join("")}</ul></div>` : "";
   const comments = s.comments.length ? s.comments.map(cm=>{ const a=contributor(cm.by);
-    return `<div class="cmt"><span class="av">${a.display[0]}</span><div style="flex:1">
+    return `<div class="cmt">${avatarHTML(a)}<div style="flex:1">
       <div class="hd"><span class="nm">${a.display}</span>${a.role?`<span class="hl">${a.role}</span>`:""}<span class="dt">${cm.date}</span></div>
       <div class="tx">${cm.text}</div>
       ${cm.reactions&&cm.reactions.length?`<div class="react">${cm.reactions.map(r=>`<span>${r.e} ${r.c}</span>`).join("")}</div>`:""}
@@ -211,7 +212,7 @@ function renderSubmission(s, si, total){
 
   return `<article class="submission" id="${s.id}">
     <div class="sub-top">
-      <span class="av">${sub.display[0]}</span>
+      ${avatarHTML(sub)}
       <div class="who"><div class="n"><a href="profile.html?id=${s.submittedBy}">${sub.display}</a></div><div class="h">@${sub.handle}${total>1?` · submission ${si+1} of ${total}`:""}</div></div>
       ${tierStamp}
       <div class="when">${s.date}${s.note?`<br><span style="color:var(--cream-2)">“${s.note}”</span>`:""}</div>

@@ -10,19 +10,6 @@
 .con-hero h1{ font-family:var(--ff-display); text-transform:uppercase; font-size:clamp(36px,5vw,60px); color:var(--cream); margin:12px 0 14px; }
 .con-hero p{ font-family:var(--ff-mono); font-size:14px; color:var(--steel); max-width:600px; line-height:1.7; }
 
-/* podium */
-.podium{ display:grid; grid-template-columns:1fr 1.15fr 1fr; gap:18px; align-items:end; margin:44px 0 20px; }
-@media(max-width:760px){ .podium{ grid-template-columns:1fr; } }
-.pod{ border:1.5px solid var(--col); border-radius:14px; padding:24px 22px; background:rgba(255,255,255,.03); text-align:center; position:relative; }
-.pod.first{ padding-top:34px; }
-.pod .medal{ font-size:34px; }
-.pod .seal{ width:64px; height:64px; margin:8px auto 14px; border-radius:999px; border:2.5px solid var(--col); color:var(--col); display:grid; place-items:center; font-family:var(--ff-display); font-size:26px; position:relative; }
-.pod .seal::after{ content:""; position:absolute; inset:4px; border:1px dashed var(--col); border-radius:999px; opacity:.5; }
-.pod .nm{ font-family:var(--ff-display); text-transform:uppercase; font-size:22px; color:var(--cream); }
-.pod .role{ font-family:var(--ff-mono); font-size:11px; color:var(--gold); margin-top:4px; }
-.pod .ct{ font-family:var(--ff-mono); font-size:13px; color:var(--steel); margin-top:10px; }
-.pod .ct b{ color:var(--col); font-size:30px; font-family:var(--ff-display); display:block; }
-
 /* tier sections */
 .tier-block{ margin-top:14px; }
 .tier-block .bar{ display:flex; align-items:center; gap:14px; margin:30px 0 18px; }
@@ -36,6 +23,7 @@
 .trotter:hover{ border-color:var(--col); }
 .trotter .top{ display:flex; align-items:center; gap:13px; }
 .trotter .av{ width:48px; height:48px; border-radius:11px; background:var(--ink); color:var(--cream); font-family:var(--ff-display); font-size:20px; display:grid; place-items:center; flex:none; }
+.trotter img.av{ object-fit:cover; }
 .trotter .who .nm{ font-weight:700; font-size:16px; color:var(--cream); }
 .trotter .who .hl{ font-family:var(--ff-mono); font-size:11px; color:var(--steel); }
 .trotter .big{ margin-left:auto; text-align:right; }
@@ -49,11 +37,6 @@
 .trotter .trail a:hover{ background:var(--gold); color:var(--navy); border-color:var(--gold); }
 .trotter .trail .more{ color:var(--steel); }
 
-.howto{ margin-top:48px; border:1px solid var(--line); border-radius:14px; padding:30px 34px; background:rgba(255,255,255,.025); display:grid; grid-template-columns:repeat(3,1fr); gap:24px; }
-@media(max-width:760px){ .howto{ grid-template-columns:1fr; } }
-.howto .h{ font-family:var(--ff-display); text-transform:uppercase; font-size:18px; color:var(--cream); margin-bottom:8px; }
-.howto .seal2{ width:34px; height:34px; border-radius:999px; border:2px solid var(--col); color:var(--col); display:grid; place-items:center; margin-bottom:12px; font-size:15px; }
-.howto p{ font-family:var(--ff-mono); font-size:12.5px; color:var(--steel); line-height:1.7; margin:0; }
 </style>
 </head>
 <body>
@@ -63,13 +46,9 @@
   <section class="con-hero">
     <span class="eyebrow">Hall of Fame · 2025</span>
     <h1>The Trotters</h1>
-    <p>Everyone who stamped their passport this year, ranked by cities visited. Reach 5 for Bronze, 10 for Silver, 15 for Gold. Showing up is the whole game.</p>
   </section>
 
-  <div class="podium" id="podium"></div>
   <div id="tiers"></div>
-
-  <div class="howto" id="howto"></div>
   <div style="height:50px"></div>
 </main>
 
@@ -80,41 +59,26 @@
 <script>
 mountChrome("contributors");
 
+// tier = the AWARDED Globetrotter 2025 medal role (gold/silver/bronze | null) — not city count.
+// ALL is sorted by city count desc, so each medal group lists its busiest trotters first.
 const ALL = Object.entries(CONTRIBUTORS).map(([k,v])=>({key:k,...v})).sort((a,b)=>b.count-a.count);
-const tierOf = (n)=> n>=15?"gold":n>=10?"silver":n>=5?"bronze":null;
-const nextTier = (n)=> n>=15?null : n>=10?["Gold",15] : n>=5?["Silver",10] : ["Bronze",5];
 
-/* podium — top 3 */
-const top3 = ALL.slice(0,3);
-const order = [1,0,2]; // silver, gold, bronze visual order
-document.getElementById("podium").innerHTML = order.map((oi,slot)=>{
-  const m = top3[oi]; if(!m) return "";
-  const t = tierOf(m.count)||"bronze"; const col = TIER_COLOR[t];
-  return `<a class="pod ${oi===0?'first':''}" href="profile.html?id=${m.key}" style="--col:${col}; text-decoration:none; display:block">
-    <div class="medal">${["🥇","🥈","🥉"][oi]}</div>
-    <div class="seal">${m.display[0]}</div>
-    <div class="nm">${m.display.split(" ")[0]}</div>
-    ${m.role?`<div class="role">${m.role}</div>`:`<div class="role" style="color:var(--steel)">#${oi+1} overall</div>`}
-    <div class="ct"><b>${m.count}</b> cities stamped</div>
-  </a>`;
-}).join("");
-
-/* tier blocks */
+/* medal blocks */
 document.getElementById("tiers").innerHTML = ["gold","silver","bronze"].map(t=>{
-  const members = ALL.filter(m=>tierOf(m.count)===t);
+  const members = ALL.filter(m=>m.tier===t);
   if(!members.length) return "";
   const col = TIER_COLOR[t];
   return `<div class="tier-block" style="--col:${col}">
-    <div class="bar"><span class="seal">${TIER_GLYPH[t]}</span><h2>${TIER_LABEL[t]} Trotters</h2><span class="ln"></span><span class="req">${TIER_REQ[t]}+ cities · ${members.length}</span></div>
+    <div class="bar"><span class="seal">${TIER_GLYPH[t]}</span><h2>${TIER_LABEL[t]} Medalists</h2><span class="ln"></span><span class="req">${members.length} awarded</span></div>
     <div class="trotter-grid">${members.map(m=>trotterCard(m,col)).join("")}</div>
   </div>`;
 }).join("");
 
-/* below-bronze (working toward it) */
-const climbing = ALL.filter(m=>!tierOf(m.count));
+/* everyone else — contestants without a medal */
+const climbing = ALL.filter(m=>!m.tier);
 if(climbing.length){
   document.getElementById("tiers").innerHTML += `<div class="tier-block" style="--col:var(--steel)">
-    <div class="bar"><span class="seal">◇</span><h2 style="color:var(--steel)">On the Trail</h2><span class="ln"></span><span class="req">Working toward Bronze</span></div>
+    <div class="bar"><span class="seal">◇</span><h2 style="color:var(--steel)">Contestants</h2><span class="ln"></span><span class="req">${climbing.length} trotters</span></div>
     <div class="trotter-grid">${climbing.map(m=>trotterCard(m,"var(--steel)")).join("")}</div>
   </div>`;
 }
@@ -122,33 +86,19 @@ if(climbing.length){
 function trotterCard(m, col){
   const subs = submissionsBy(m.key);
   const cities = [...new Map(subs.map(s=>[s.cityId, cityOf(s)])).values()];
-  const nt = nextTier(m.count);
-  const t = tierOf(m.count);
-  const base = t==="gold"?15 : t==="silver"?10 : t==="bronze"?5 : 0;
-  const target = nt? nt[1] : 15;
-  const pct = Math.min(100, Math.round(m.count/target*100));
+  const status = m.tier ? `${TIER_GLYPH[m.tier]} ${TIER_LABEL[m.tier]} Medalist` : "Contestant";
   const chips = cities.slice(0,5).map(c=>`<a href="city.html?id=${c.id}">${c.name}</a>`).join("");
   const more = cities.length>5 ? `<span class="more">+${cities.length-5} more</span>` : "";
   return `<div class="trotter" id="${m.key}" style="--col:${col}">
     <a class="top" href="profile.html?id=${m.key}" style="text-decoration:none">
-      <span class="av">${m.display[0]}</span>
+      ${avatarHTML(m)}
       <div class="who"><div class="nm">${m.display}</div><div class="hl">@${m.handle}${m.role?` · ${m.role}`:""}</div></div>
       <div class="big"><div class="v">${m.count}</div><div class="l">cities</div></div>
     </a>
-    <div class="prog"><i style="width:${pct}%"></i></div>
-    <div class="next">${nt ? `${target-m.count} more to ${nt[0]}` : "Max rank — Gold ★"}</div>
+    <div class="next">${status}</div>
     ${cities.length?`<div class="trail">${chips}${more}</div>`:""}
   </div>`;
 }
-
-/* how-to */
-document.getElementById("howto").innerHTML = [
-  ["bronze","Bronze","✶","Stamp 5 cities. Each needs a name, how to get there, a few things to do and at least 3 of your own photos."],
-  ["silver","Silver","✦","Reach 10 cities. Repeats don't count — every stamp is somewhere new you actually went this year."],
-  ["gold","Gold","★","Hit 15 cities to top the podium. The hosts verify each thread before it counts toward your rank."]
-].map(([t,name,g,desc])=>`<div style="--col:${TIER_COLOR[t]}">
-  <div class="seal2">${g}</div><div class="h" style="color:${TIER_COLOR[t]}">${name} — ${TIER_REQ[t]}</div>
-  <p>${desc}</p></div>`).join("");
 
 /* scroll to deep-linked trotter */
 if(location.hash){ const el=document.getElementById(location.hash.slice(1)); if(el){ el.style.borderColor="var(--gold)"; setTimeout(()=>window.scrollTo({top: el.getBoundingClientRect().top + window.scrollY - 140, behavior:"smooth"}),300); } }

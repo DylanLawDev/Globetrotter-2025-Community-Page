@@ -16,10 +16,13 @@
  */
 import fs from "node:fs";
 import path from "node:path";
+import { DEFAULT_EXPORT_DIR, loadMedalLookup, enrichContributors } from "./build/medals.mjs";
 
 const ROOT = path.resolve(".");
 const EXPORT_DIR = path.join(ROOT, "data/threads");
 const HOST_HANDLES = new Set(["index.php"]); // Carl = host
+// Fuller Discord export carrying medal roles + avatars (sibling of repo by default).
+const MEDAL_EXPORT = process.env.MEDAL_EXPORT || DEFAULT_EXPORT_DIR(ROOT);
 
 const EMOJI_ALIAS = {
   ChefKiss: "🤌", LetsFuckingGo: "🔥", letsfuckinggo: "🔥", bourdain: "🧑‍🍳",
@@ -169,18 +172,30 @@ const CITIES = citiesIn.filter((c) => usedCityIds.has(c.id)).map((c) => ({
 })).sort((a, b) => a.name.localeCompare(b.name));
 
 // CONTRIBUTORS — derived from the surviving submissions; count = their submissions.
-const tierOf = (n) => (n >= 15 ? "gold" : n >= 10 ? "silver" : n >= 5 ? "bronze" : null);
+// `tier` (gold/silver/bronze) is the AWARDED Discord medal role, not the city count.
 const counts = {};
 for (const s of SUBMISSIONS) counts[s.submittedBy] = (counts[s.submittedBy] || 0) + 1;
 const CONTRIBUTORS = {};
 for (const [key, count] of Object.entries(counts)) {
   const c = contribIn[key] || {};
-  const entry = { handle: c.handle || key, display: c.display || c.handle || key, count, tier: tierOf(count) };
+  const entry = { handle: c.handle || key, display: c.display || c.handle || key, count, tier: null };
   if (HOST_HANDLES.has(entry.handle)) entry.role = "Host";
   // keep field order natural: handle, display, [role], count, tier
   CONTRIBUTORS[key] = entry.role
-    ? { handle: entry.handle, display: entry.display, role: entry.role, count, tier: entry.tier }
-    : { handle: entry.handle, display: entry.display, count, tier: entry.tier };
+    ? { handle: entry.handle, display: entry.display, role: entry.role, count, tier: null }
+    : { handle: entry.handle, display: entry.display, count, tier: null };
+}
+
+// Join Discord medal roles + avatars onto contributors (by handle); emit avatar jobs.
+const medalLookup = loadMedalLookup(MEDAL_EXPORT);
+const avatarJobs = enrichContributors(CONTRIBUTORS, medalLookup);
+if (!medalLookup) {
+  console.warn(`  ! medal export not found at ${MEDAL_EXPORT} — skipping medals/avatars`);
+} else {
+  fs.mkdirSync(path.join(ROOT, "out"), { recursive: true });
+  fs.writeFileSync(path.join(ROOT, "out/avatar_jobs.json"), JSON.stringify(avatarJobs, null, 2));
+  const medaled = Object.values(CONTRIBUTORS).filter((c) => c.tier).length;
+  console.log(`  medals: ${medaled} medalists · avatars: ${avatarJobs.length} jobs -> out/avatar_jobs.json`);
 }
 
 /* ---- emit data.js (STATS derives itself, verbatim per the spec) ----------- */

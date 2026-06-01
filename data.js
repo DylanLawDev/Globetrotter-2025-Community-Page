@@ -5,284 +5,331 @@ const CONTRIBUTORS = {
     "handle": "ahhh000",
     "display": "EEEEEEEH",
     "count": 1,
-    "tier": null
+    "tier": null,
+    "avatar": "media/avatars/eeeeeeeh.webp"
   },
   "hk77": {
     "handle": "hk77",
     "display": "HK77",
     "count": 5,
-    "tier": "bronze"
+    "tier": "bronze",
+    "avatar": "media/avatars/hk77.webp"
   },
   "duck": {
     "handle": "duck001",
     "display": "duck",
     "count": 30,
-    "tier": "gold"
+    "tier": "gold",
+    "avatar": "media/avatars/duck.webp"
   },
   "omega": {
     "handle": "omega_the_norse",
     "display": "Omega",
     "count": 1,
-    "tier": null
+    "tier": null,
+    "avatar": "media/avatars/omega.webp"
   },
   "michael": {
     "handle": "___michael",
     "display": "michael",
     "count": 16,
-    "tier": "gold"
+    "tier": "gold",
+    "avatar": "media/avatars/michael.webp"
   },
   "spiceboy": {
     "handle": "spiceboy1",
     "display": "Spiceboy",
     "count": 22,
-    "tier": "gold"
+    "tier": "gold",
+    "avatar": "media/avatars/spiceboy.webp"
   },
   "rozark": {
     "handle": "rozarkist",
     "display": "Rozark",
     "count": 1,
-    "tier": null
+    "tier": null,
+    "avatar": "media/avatars/rozark.webp"
   },
   "gia": {
     "handle": "gia941",
     "display": "Gia",
     "count": 10,
-    "tier": "silver"
+    "tier": "silver",
+    "avatar": "media/avatars/gia.webp"
   },
   "yryesthepigeon": {
     "handle": "yryesthepigeon",
     "display": "YryesThePigeon",
     "count": 1,
-    "tier": null
+    "tier": null,
+    "avatar": "media/avatars/yryesthepigeon.webp"
   },
   "met3774": {
     "handle": "met3774",
     "display": "Met3774",
     "count": 7,
-    "tier": "bronze"
+    "tier": "bronze",
+    "avatar": "media/avatars/met3774.webp"
   },
   "adrenal": {
     "handle": "adrenal",
     "display": "adrenal",
     "count": 1,
-    "tier": null
+    "tier": null,
+    "avatar": "media/avatars/adrenal.webp"
   },
   "spookyxjenn": {
     "handle": "spookyxjenn",
     "display": "spookyxjenn",
     "count": 16,
-    "tier": "gold"
+    "tier": "gold",
+    "avatar": "media/avatars/spookyxjenn.webp"
   },
   "tom-sawyer": {
     "handle": "tompickleballsawyer",
     "display": "Tom Sawyer",
     "count": 13,
-    "tier": "silver"
+    "tier": "gold",
+    "avatar": "media/avatars/tom-sawyer.webp"
   },
   "sakib": {
     "handle": "sakib_kxn",
     "display": "sakib",
     "count": 8,
-    "tier": "bronze"
+    "tier": "bronze",
+    "avatar": "media/avatars/sakib.webp"
   },
   "ragnar-danneskjold": {
     "handle": "ragnar.danneskjold",
     "display": "Ragnar Danneskjold",
     "count": 10,
-    "tier": "silver"
+    "tier": "silver",
+    "avatar": "media/avatars/ragnar-danneskjold.webp"
   },
   "kerb": {
     "handle": "soycialist",
     "display": "kerb",
     "count": 1,
-    "tier": null
+    "tier": null,
+    "avatar": "media/avatars/kerb.webp"
   },
   "zara": {
     "handle": "nyarxist",
     "display": "zara",
     "count": 3,
-    "tier": null
+    "tier": null,
+    "avatar": "media/avatars/zara.webp"
   },
   "dragon-library-system": {
     "handle": "dragonlibrarysystem",
     "display": "Dragon Library System",
     "count": 22,
-    "tier": "gold"
+    "tier": null,
+    "avatar": "media/avatars/dragon-library-system.webp"
   },
   "matt": {
     "handle": "potatovibes0939",
     "display": "matt",
     "count": 1,
-    "tier": null
+    "tier": null,
+    "avatar": "media/avatars/matt.webp"
   },
   "shlug": {
     "handle": "diegokvaradona",
     "display": "Shlug",
     "count": 2,
-    "tier": null
+    "tier": null,
+    "avatar": "media/avatars/shlug.webp"
   },
   "knotte": {
     "handle": "_knotte_",
     "display": "Knotte",
     "count": 1,
-    "tier": null
+    "tier": null,
+    "avatar": "media/avatars/knotte.webp"
   },
   "pidge": {
     "handle": "pidge333",
     "display": "pidge",
     "count": 1,
-    "tier": null
+    "tier": null,
+    "avatar": "media/avatars/pidge.webp"
   },
   "karl": {
     "handle": "network.23",
     "display": "karl",
     "count": 5,
-    "tier": "bronze"
+    "tier": "bronze",
+    "avatar": "media/avatars/karl.webp"
   },
   "carl": {
     "handle": "index.php",
     "display": "Carl",
     "role": "Host",
     "count": 1,
-    "tier": null
+    "tier": null,
+    "avatar": "media/avatars/carl.webp"
   },
   "espressodesperado": {
     "handle": ".sillyoldbear",
     "display": "EspressoDesperado",
     "count": 2,
-    "tier": null
+    "tier": null,
+    "avatar": "media/avatars/espressodesperado.webp"
   },
   "genyuz": {
     "handle": "vitanimat75",
     "display": "Genyuz",
     "count": 5,
-    "tier": "bronze"
+    "tier": "bronze",
+    "avatar": "media/avatars/genyuz.webp"
   },
   "gabriel": {
     "handle": "judenvonrichthofen",
     "display": "Gabriel",
     "count": 1,
-    "tier": null
+    "tier": null,
+    "avatar": "media/avatars/gabriel.webp"
   },
   "msicebear-g": {
     "handle": "ms.icebear18",
     "display": "Ms.Icebear g",
     "count": 5,
-    "tier": "bronze"
+    "tier": null,
+    "avatar": "media/avatars/msicebear-g.webp"
   },
   "bun-thit-nuong": {
     "handle": "motogringo",
     "display": "Bún Thịt Nướng",
     "count": 1,
-    "tier": null
+    "tier": null,
+    "avatar": "media/avatars/bun-thit-nuong.webp"
   },
   "virtual-metro": {
     "handle": "virtualmetro",
     "display": "Virtual Metro",
     "count": 14,
-    "tier": "silver"
+    "tier": "gold",
+    "avatar": "media/avatars/virtual-metro.webp"
   },
   "pdk1": {
     "handle": "pdk1",
     "display": "PDK1",
     "count": 1,
-    "tier": null
+    "tier": null,
+    "avatar": "media/avatars/pdk1.webp"
   },
   "linaria": {
     "handle": "linariann",
     "display": "Linaria",
     "count": 1,
-    "tier": null
+    "tier": null,
+    "avatar": "media/avatars/linaria.webp"
   },
   "bunbun-26": {
     "handle": "tengteng",
     "display": "bunbun, 26",
     "count": 16,
-    "tier": "gold"
+    "tier": "gold",
+    "avatar": "media/avatars/bunbun-26.webp"
   },
   "sammi": {
     "handle": "sambri912",
     "display": "Sammi",
     "count": 1,
-    "tier": null
+    "tier": null,
+    "avatar": "media/avatars/sammi.webp"
   },
   "juan": {
     "handle": "arrastrategui",
     "display": "Juan",
     "count": 2,
-    "tier": null
+    "tier": null,
+    "avatar": "media/avatars/juan.webp"
   },
   "rox": {
     "handle": "foxingroxx",
     "display": "Rox",
     "count": 20,
-    "tier": "gold"
+    "tier": null,
+    "avatar": "media/avatars/rox.webp"
   },
   "lemonandlimeswirl": {
     "handle": "lemonandlimeswirl",
     "display": "lemonandlimeswirl",
     "count": 10,
-    "tier": "silver"
+    "tier": "silver",
+    "avatar": "media/avatars/lemonandlimeswirl.webp"
   },
   "joe-spades-the-tombstone-tourist": {
     "handle": "joespades",
     "display": "Joe Spades The Tombstone Tourist",
     "count": 5,
-    "tier": "bronze"
+    "tier": "bronze",
+    "avatar": "media/avatars/joe-spades-the-tombstone-tourist.webp"
   },
   "chaoticblush": {
     "handle": "chaoticblush",
     "display": "𝓒𝓱𝓪𝓸𝓽𝓲𝓬𝓑𝓵𝓾𝓼𝓱 ♡",
     "count": 5,
-    "tier": "bronze"
+    "tier": "bronze",
+    "avatar": "media/avatars/chaoticblush.webp"
   },
   "micky-mickardo": {
     "handle": "4crash",
     "display": "Micky (Mickardo)",
     "count": 10,
-    "tier": "silver"
+    "tier": "silver",
+    "avatar": "media/avatars/micky-mickardo.webp"
   },
   "japoolie": {
     "handle": "japoolie",
     "display": "japoolie",
     "count": 15,
-    "tier": "gold"
+    "tier": "gold",
+    "avatar": "media/avatars/japoolie.webp"
   },
   "yavianice": {
     "handle": "yavianice",
     "display": "Yavianice",
     "count": 1,
-    "tier": null
+    "tier": null,
+    "avatar": "media/avatars/yavianice.webp"
   },
   "d1sco": {
     "handle": "d1sconnect.2",
     "display": "d1sco",
     "count": 15,
-    "tier": "gold"
+    "tier": "gold",
+    "avatar": "media/avatars/d1sco.webp"
   },
   "stu": {
     "handle": "stuyplayz1",
     "display": "stu",
     "count": 5,
-    "tier": "bronze"
+    "tier": "bronze",
+    "avatar": "media/avatars/stu.webp"
   },
   "itsmebrat": {
     "handle": "itsmebrat",
     "display": "itsmebrat",
     "count": 14,
-    "tier": "silver"
+    "tier": "gold",
+    "avatar": "media/avatars/itsmebrat.webp"
   },
   "oak": {
     "handle": "this_is_oak",
     "display": "oak",
     "count": 3,
-    "tier": null
+    "tier": "bronze",
+    "avatar": "media/avatars/oak.webp"
   },
   "faith": {
     "handle": "wfaith",
     "display": "Faith",
     "count": 5,
-    "tier": "bronze"
+    "tier": "bronze",
+    "avatar": "media/avatars/faith.webp"
   }
 };
 
