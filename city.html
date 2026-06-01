@@ -55,7 +55,11 @@
 .gallery .shot .photo.vid video{ width:100%; height:100%; object-fit:cover; display:block; }
 .play-badge{ position:absolute; inset:0; margin:auto; width:46px; height:46px; display:flex; align-items:center; justify-content:center; background:rgba(6,10,22,.55); color:#fff; border-radius:50%; font-size:15px; padding-left:3px; pointer-events:none; }
 
-.sub-lead{ font-size:17px; line-height:1.6; color:#D8D0BC; margin:0 0 18px; font-style:italic; }
+.sub-lead{ font-size:16px; line-height:1.7; color:#D8D0BC; margin:0 0 18px; }
+.read-more{ display:inline; background:none; border:none; padding:0; margin-left:6px; cursor:pointer; font:inherit; font-family:var(--ff-mono); font-size:12px; letter-spacing:.1em; text-transform:uppercase; color:var(--gold); white-space:nowrap; }
+.read-more:hover{ color:var(--cream); text-decoration:underline; }
+.sub-lead .lead-full p{ margin:0 0 14px; }
+.sub-lead .lead-full p:last-of-type{ margin-bottom:8px; }
 .sub-cols{ display:grid; grid-template-columns:1fr 1fr; gap:28px; }
 @media(max-width:680px){ .sub-cols{ grid-template-columns:1fr; } }
 .sub-cols h4{ font-family:var(--ff-mono); font-size:11px; letter-spacing:.16em; text-transform:uppercase; color:var(--gold); margin:0 0 10px; }
@@ -162,6 +166,18 @@ if(!c){
   window.closeLB=()=>document.getElementById("lightbox").classList.remove("open");
   document.querySelectorAll(".gallery .shot").forEach(sh=>sh.addEventListener("click",()=>openLB(sh.dataset.sid,+sh.dataset.i)));
   document.getElementById("lightbox").addEventListener("click",e=>{ if(e.target.id==="lightbox") closeLB(); });
+
+  /* read-more inline expand/collapse */
+  window.toggleMore=(btn)=>{ const wrap=btn.closest(".sub-lead"); if(!wrap) return;
+    const preview=wrap.querySelector(".lead-preview");
+    const full=wrap.querySelector(".lead-full"); if(!full) return;
+    if(!full.hasChildNodes()){ const s=submissionById(wrap.dataset.sid);
+      (s&&s.getThere||"").split(/\n+/).map(t=>t.trim()).filter(Boolean).forEach(t=>{ const p=document.createElement("p"); p.textContent=t; full.appendChild(p); });
+      const less=document.createElement("button"); less.type="button"; less.className="read-more"; less.textContent="Read less ↑"; less.style.marginLeft="0"; less.onclick=()=>toggleMore(less); full.appendChild(less); }
+    const expand=full.hidden;
+    full.hidden=!expand; preview.hidden=expand;
+    if(expand) wrap.scrollIntoView({block:"nearest"}); };
+
   document.addEventListener("keydown",e=>{ if(e.key==="Escape") closeLB(); });
 
   /* deep-link to a specific submission */
@@ -177,6 +193,13 @@ function renderSubmission(s, si, total){
     <div class="shot ${i===0?'big':''}" data-sid="${s.id}" data-i="${i}">${photoHTML(p)}
       <div class="cred">${p.caption ? p.caption : ''}${p.caption&&p.by?' — ':''}${p.by&&!p.caption?contributor(p.by).display:''}</div>
     </div>`).join("");
+  const fullText = (s.getThere||"").replace(/\s+/g," ").trim();
+  const preview = s.blurb || (fullText ? fullText.slice(0,300).trim()+"…" : "");
+  const hasMore = !!(fullText && fullText.length > preview.replace(/…$/,"").trim().length);
+  const lead = preview ? `<div class="sub-lead" data-sid="${s.id}">
+      <span class="lead-preview">${preview}${hasMore?` <button type="button" class="read-more" onclick="toggleMore(this)">Read more →</button>`:""}</span>
+      ${hasMore?`<div class="lead-full" hidden></div>`:""}
+    </div>` : "";
   const things = (s.thingsToDo&&s.thingsToDo.length) ? `<div><h4>Things to do</h4>
     <ul class="todo">${s.thingsToDo.map((t,i)=>`<li><span class="n">${String(i+1).padStart(2,'0')}</span><span>${t}</span></li>`).join("")}</ul></div>` : "";
   const comments = s.comments.length ? s.comments.map(cm=>{ const a=contributor(cm.by);
@@ -194,11 +217,8 @@ function renderSubmission(s, si, total){
       <div class="when">${s.date}${s.note?`<br><span style="color:var(--cream-2)">“${s.note}”</span>`:""}</div>
     </div>
     <div class="gallery">${gallery}</div>
-    ${s.blurb?`<p class="sub-lead">${s.blurb}</p>`:""}
-    <div class="sub-cols">
-      <div><h4>Getting there</h4><p>${s.getThere||"—"}</p></div>
-      ${things}
-    </div>
+    ${lead}
+    ${things?`<div class="sub-cols">${things}</div>`:""}
     <div class="thread">
       <div class="th-h">From the thread · ${s.comments.length} ${s.comments.length===1?'reply':'replies'}</div>
       ${comments}
