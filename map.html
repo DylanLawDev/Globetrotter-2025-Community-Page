@@ -14,6 +14,15 @@
 .chart{ overflow:hidden; cursor:grab; touch-action:none; }
 .chart.grabbing{ cursor:grabbing; }
 
+/* tighter dots on the dense world map (scoped to #chart; city/profile keep theirs) */
+#chart .pin{ width:9px; height:9px; }
+#chart .pin::before{ box-shadow:0 0 0 2px rgba(216,162,76,.16), 0 0 7px 1px rgba(216,162,76,.42); }
+/* multi-submission cities: the count circle replaces the dot */
+#chart .pin.count{ width:20px; height:20px; }
+#chart .pin.count::before{ background:var(--orange); box-shadow:0 0 0 2px rgba(224,122,74,.20), 0 0 9px 1px rgba(224,122,74,.5); }
+#chart .pin.count .seq{ position:absolute; inset:0; display:grid; place-items:center; z-index:2; pointer-events:none;
+  font-family:var(--ff-mono); font-weight:700; font-size:10.5px; color:#1a1206; }
+
 /* zoom buttons, bottom-left inside the frame */
 .zoom-ctl{ position:absolute; left:14px; bottom:64px; z-index:11; display:flex; flex-direction:column; gap:6px; }
 .zoom-ctl button{ width:34px; height:34px; display:grid; place-items:center; font-size:18px; line-height:1;
@@ -104,7 +113,7 @@ cities.forEach(c=>{
   el.className = "pin"; el.href = "city.html?id="+c.id;
   el.style.left = p.x+"%"; el.style.top = p.y+"%";
   el.dataset.id = c.id;
-  if (subs.length>1) el.innerHTML = `<span class="cbadge">${subs.length}</span>`;
+  if (subs.length>1){ el.classList.add("count"); el.innerHTML = `<span class="seq">${subs.length}</span>`; }
   el.addEventListener("mouseenter",()=>{
     const r = el.getBoundingClientRect(), hr = chartEl.getBoundingClientRect();
     tip.innerHTML = photoHTML(subs[0].photos[0]) +

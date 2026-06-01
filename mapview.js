@@ -5,7 +5,8 @@
    with transform-origin 0 0 to a content box the size of the viewport.
    ========================================================================== */
 const MapView = {
-  MAX_SCALE: 8,
+  MAX_SCALE: 20,
+  DOT_CAP: 1.5,   // max on-screen dot growth; past this, zooming only separates pins
 
   /* Clamp scale to [1, MAX_SCALE] and pan so the scaled content always
      covers the viewport (no empty gutters). */
@@ -17,11 +18,12 @@ const MapView = {
     return { scale, x, y };
   },
 
-  /* CSS scale factor applied to a marker to counter the map zoom. Returns
-     1/sqrt(zoom): the dot still grows with zoom (net size = sqrt(zoom)) but
-     slower than the map, so dense clusters stay legible instead of blobbing. */
+  /* CSS scale factor applied to a marker to counter the map zoom. The dot's
+     net on-screen size is min(sqrt(zoom), DOT_CAP): it grows at low zoom, then
+     plateaus — so zooming further only spreads pins apart, never blobs them. */
   markerScale(scale) {
-    return 1 / Math.sqrt(Math.min(Math.max(scale, 1), this.MAX_SCALE));
+    const s = Math.min(Math.max(scale, 1), this.MAX_SCALE);
+    return Math.min(Math.sqrt(s), this.DOT_CAP) / s;
   },
 
   /* Zoom by `factor` around viewport point (px,py), keeping the content
