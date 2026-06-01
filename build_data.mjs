@@ -52,6 +52,8 @@ function mapReactions(reactions = []) {
 }
 
 const ymd = (iso) => (iso || "").slice(0, 10);
+// The 2025 challenge closed on Dec 31; a few threads land on 2026-01-01. Pin them to season end.
+const seasonDate = (d) => (d && d.slice(0, 10) === "2026-01-01" ? "2025-12-31" : d);
 const slug = (s = "") =>
   s.normalize("NFKD").replace(/[̀-ͯ]/g, "").replace(/[ł]/gi, "l").replace(/[ø]/gi, "o")
    .toLowerCase().replace(/['".]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
@@ -109,7 +111,7 @@ function gatherComments(t) {
     if (!text) return;
     out.push({
       by: slug(m.author?.display_name || m.author?.name || "member"),
-      date: ymd(m.created_at),
+      date: seasonDate(ymd(m.created_at)),
       text,
       reactions: mapReactions(m.reactions),
     });
@@ -153,7 +155,7 @@ const SUBMISSIONS = subsIn.map((s) => {
   const lite = !thingsToDo.length && (!blurb || blurb.length < 60) && !getThere;
 
   const out = {
-    id: sid, cityId: s.cityId, submittedBy: s.submittedBy, date: s.date,
+    id: sid, cityId: s.cityId, submittedBy: s.submittedBy, date: seasonDate(s.date),
     photos, blurb: blurb || "", getThere: getThere || "", thingsToDo,
     reactions: mapReactions(starter.reactions),
     comments: gatherComments(t),

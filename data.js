@@ -26405,7 +26405,7 @@ const SUBMISSIONS = [
     "comments": [
       {
         "by": "spiceboy",
-        "date": "2026-01-01",
+        "date": "2025-12-31",
         "text": "I think this is submission 24?",
         "reactions": []
       }
@@ -26481,7 +26481,7 @@ const SUBMISSIONS = [
     "id": "s-casablanca-michael",
     "cityId": "casablanca",
     "submittedBy": "michael",
-    "date": "2026-01-01",
+    "date": "2025-12-31",
     "photos": [
       {
         "src": "media/1456075145851441223/1456075146334048287_AP1GczMFKLPinnjMdZC-Dphfz5K_Tq8Kc-F-6bEqiEirCJ0t54moesPgUIwIhAw1255-h945-s-no-gm.webp",
@@ -26514,7 +26514,7 @@ const SUBMISSIONS = [
     "id": "s-rabat-michael",
     "cityId": "rabat",
     "submittedBy": "michael",
-    "date": "2026-01-01",
+    "date": "2025-12-31",
     "photos": [
       {
         "src": "media/1456089721020223673/1456089721523671131_AP1GczPsuGG3tpOh70vGh05iYsEuYD1xNNNbZtNUC1rW-dnqWibfDyzWAZ6Roww1255-h945-s-no-gm.webp",
@@ -26553,7 +26553,7 @@ const SUBMISSIONS = [
     "id": "s-swidnica-chaoticblush",
     "cityId": "swidnica",
     "submittedBy": "chaoticblush",
-    "date": "2026-01-01",
+    "date": "2025-12-31",
     "photos": [
       {
         "src": "media/1456093163428249631/1456093165353304257_ld-export-2ef8c743-01012026.webp",
@@ -26621,7 +26621,7 @@ const SUBMISSIONS = [
     "id": "s-tangier-michael",
     "cityId": "tangier",
     "submittedBy": "michael",
-    "date": "2026-01-01",
+    "date": "2025-12-31",
     "photos": [
       {
         "src": "media/1456097519338782882/1456097520357736458_AP1GczONEPJyI55xXL-l8FjwVSiVC1N0WZft3VCuIr2ZBuHCXioYnuXdxRLPjQw1255-h945-s-no-gm.webp",
@@ -26649,7 +26649,7 @@ const SUBMISSIONS = [
     "id": "s-fez-michael",
     "cityId": "fez",
     "submittedBy": "michael",
-    "date": "2026-01-01",
+    "date": "2025-12-31",
     "photos": [
       {
         "src": "media/1456098020138553384/1456098020528619623_AP1GczPRCdisz5x3kuCVV-ahqY-75J9JrHALR7bqB_GIAvWttnIAj86dgoRP5ww712-h945-s-no-gm.webp",
@@ -26682,7 +26682,7 @@ const SUBMISSIONS = [
     "id": "s-denver-michael",
     "cityId": "denver",
     "submittedBy": "michael",
-    "date": "2026-01-01",
+    "date": "2025-12-31",
     "photos": [
       {
         "src": "media/1456098598105256150/1456098598600048811_AP1GczOvCArzdhSLI9dVYNEFGVf2CMf17enc_vysoQTFO6l17uf6LBJgYglKcQw712-h945-s-no-gm.webp",
@@ -26710,7 +26710,7 @@ const SUBMISSIONS = [
     "id": "s-monterey-michael",
     "cityId": "monterey",
     "submittedBy": "michael",
-    "date": "2026-01-01",
+    "date": "2025-12-31",
     "photos": [
       {
         "src": "media/1456099399095816313/1456099399477235854_AP1GczOQiItbPWbsqT_d0J9U7JwnmZOnLJEBPBgD2u5H-L7ynEPpjOqTa2Z1KAw1255-h945-s-no-gm.webp",
@@ -26738,7 +26738,7 @@ const SUBMISSIONS = [
     "id": "s-tralee-michael",
     "cityId": "tralee",
     "submittedBy": "michael",
-    "date": "2026-01-01",
+    "date": "2025-12-31",
     "photos": [
       {
         "src": "media/1456099874436284589/1456099874788610108_AP1GczMqm87HtDx3As58YIiJvw-r1w3K6LmC2foeIeFluuWLmF-9evFwVEsyPAw1260-h945-s-no-gm.webp",
@@ -26766,7 +26766,7 @@ const SUBMISSIONS = [
     "id": "s-cork-michael",
     "cityId": "cork",
     "submittedBy": "michael",
-    "date": "2026-01-01",
+    "date": "2025-12-31",
     "photos": [
       {
         "src": "media/1456101862750294200/1456101863509331988_AP1GczN2OfG3xY0qUCdUwtgKK7BVgc2lABO0n4jdmzZM66STJANK6_n2RfytfAw712-h945-s-no-gm.webp",
@@ -26796,13 +26796,13 @@ const SUBMISSIONS = [
     "comments": [
       {
         "by": "stu",
-        "date": "2026-01-01",
+        "date": "2025-12-31",
         "text": "i actually need to visit deep down south",
         "reactions": []
       },
       {
         "by": "stu",
-        "date": "2026-01-01",
+        "date": "2025-12-31",
         "text": "furthest south i’ve been is like longford or dublin",
         "reactions": []
       }
