@@ -168,10 +168,10 @@ h1,h2,h3{ margin:0; }
   background:radial-gradient(120% 140% at 50% 0%, #0f1d40, #0a1430 70%); box-shadow:var(--shadow); }
 .chart{ position:relative; width:100%; aspect-ratio:2/1; }
 .chart canvas{ position:absolute; inset:0; width:100%; height:100%; }
-.continent-label{ position:absolute; transform:translate(-50%,-50%); font-family:var(--ff-mono); font-size:11px;
+.continent-label{ position:absolute; transform:translate(-50%,-50%) scale(var(--inv,1)); font-family:var(--ff-mono); font-size:11px;
   letter-spacing:.22em; text-transform:uppercase; color:rgba(159,180,216,.42); pointer-events:none; white-space:nowrap; }
 
-.pin{ position:absolute; transform:translate(-50%,-50%); width:13px; height:13px; cursor:pointer; z-index:3; }
+.pin{ position:absolute; transform:translate(-50%,-50%) scale(var(--inv,1)); width:13px; height:13px; cursor:pointer; z-index:3; }
 .pin::before{ content:""; position:absolute; inset:0; border-radius:999px; background:var(--gold);
   box-shadow:0 0 0 3px rgba(216,162,76,.18), 0 0 12px 2px rgba(216,162,76,.5); transition:.16s; }
 .pin::after{ content:""; position:absolute; inset:-6px; border-radius:999px; border:1px solid rgba(216,162,76,.4); opacity:0; transition:.2s; }

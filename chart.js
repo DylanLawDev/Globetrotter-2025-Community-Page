@@ -15,21 +15,30 @@ const projPct = (lat,lng) => ({ x:(lng+180)/360*100, y:(90-lat)/180*100 });
    opts: { labels:true, stars:true, graticule:true } */
 function buildChart(host, opts = {}) {
   const { labels = true, stars = true, graticule = true } = opts;
+
+  // Inner content layer: canvas + svg + labels + pins all live here so a single
+  // CSS transform on `inner` zooms/pans the whole map together. Pages that don't
+  // zoom (city/profile) simply leave `inner` untransformed.
+  const inner = document.createElement("div");
+  inner.className = "chart-inner";
+  Object.assign(inner.style, { position:"absolute", inset:"0", transformOrigin:"0 0" });
+  host.appendChild(inner);
+
   const cv = document.createElement("canvas");
-  host.appendChild(cv);
+  inner.appendChild(cv);
 
   // a dedicated SVG layer for path lines (journeys), under the pins
   const svg = document.createElementNS("http://www.w3.org/2000/svg","svg");
   svg.setAttribute("viewBox","0 0 100 100");
   svg.setAttribute("preserveAspectRatio","none");
   Object.assign(svg.style,{ position:"absolute", inset:"0", width:"100%", height:"100%", zIndex:2, pointerEvents:"none" });
-  host.appendChild(svg);
+  inner.appendChild(svg);
 
   if (labels) {
     CONTINENT_LABELS.forEach(([t,lng,lat])=>{
       const p = projPct(lat,lng); const el=document.createElement("div");
       el.className="continent-label"; el.textContent=t; el.style.left=p.x+"%"; el.style.top=p.y+"%";
-      host.appendChild(el);
+      inner.appendChild(el);
     });
   }
 
@@ -37,6 +46,19 @@ function buildChart(host, opts = {}) {
     const r = host.getBoundingClientRect();
     cv.width = r.width; cv.height = r.height;
     const ctx = cv.getContext("2d"); ctx.clearRect(0,0,cv.width,cv.height);
+    if (typeof WORLD_LAND !== "undefined"){
+      ctx.fillStyle = "rgba(159,180,216,.075)";
+      ctx.strokeStyle = "rgba(159,180,216,.22)";
+      ctx.lineWidth = 1; ctx.lineJoin = "round";
+      for (const ring of WORLD_LAND){
+        ctx.beginPath();
+        for (let i=0;i<ring.length;i++){
+          const x=(ring[i][0]+180)/360*cv.width, y=(90-ring[i][1])/180*cv.height;
+          i ? ctx.lineTo(x,y) : ctx.moveTo(x,y);
+        }
+        ctx.closePath(); ctx.fill(); ctx.stroke();
+      }
+    }
     if (graticule){
       ctx.lineWidth = 1;
       for(let lng=-180; lng<=180; lng+=30){
@@ -77,7 +99,7 @@ function buildChart(host, opts = {}) {
     return path;
   }
 
-  return { projPct, draw, drawPath, svg };
+  return { projPct, draw, drawPath, svg, inner };
 }
 
 if (typeof window !== "undefined") Object.assign(window, { buildChart, projPct, CONTINENT_LABELS });

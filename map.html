@@ -6,28 +6,40 @@
 <title>World Map · Globetrotter 2025 Atlas</title>
 <link rel="stylesheet" href="styles.css" />
 <style>
-.map-hero{ padding:42px 0 24px; display:flex; align-items:flex-end; justify-content:space-between; gap:24px; flex-wrap:wrap; }
-.map-hero h1{ font-family:var(--ff-display); text-transform:uppercase; font-size:clamp(34px,4.6vw,56px); color:var(--cream); margin:10px 0 0; }
-.map-hero p{ font-family:var(--ff-mono); font-size:13px; color:var(--steel); max-width:480px; line-height:1.7; margin:12px 0 0; }
-.map-filters{ display:flex; flex-wrap:wrap; gap:7px; }
-.mchip{ font-family:var(--ff-mono); font-size:11.5px; letter-spacing:.04em; text-transform:uppercase; color:var(--steel); background:rgba(255,255,255,.04); border:1px solid var(--line); border-radius:999px; padding:7px 13px; cursor:pointer; transition:.16s; }
-.mchip:hover{ color:var(--cream); }
-.mchip.active{ background:var(--gold); color:var(--navy); border-color:var(--gold); font-weight:700; }
+.map-hero{ padding:26px 0 16px; }
+.map-hero h1{ font-family:var(--ff-display); text-transform:uppercase; font-size:clamp(24px,3vw,38px); color:var(--cream); margin:6px 0 0; }
+.map-hero p{ font-family:var(--ff-mono); font-size:12px; color:var(--steel); max-width:520px; line-height:1.6; margin:8px 0 0; }
 
-.layout{ display:grid; grid-template-columns:1fr 300px; gap:26px; align-items:start; }
-@media(max-width:920px){ .layout{ grid-template-columns:1fr; } }
+/* the zoom/pan viewport clips the transformed map */
+.chart{ overflow:hidden; cursor:grab; touch-action:none; }
+.chart.grabbing{ cursor:grabbing; }
 
-.side-list{ border:1px solid var(--line); border-radius:14px; background:rgba(255,255,255,.025); overflow:hidden; }
-.side-list .hd{ padding:15px 18px; border-bottom:1px solid var(--line); font-family:var(--ff-mono); font-size:11px; letter-spacing:.14em; text-transform:uppercase; color:var(--steel); display:flex; justify-content:space-between; }
-.side-list .scroll{ max-height:560px; overflow:auto; }
-.li{ display:flex; align-items:center; gap:11px; padding:11px 18px; border-top:1px solid var(--line-2); cursor:pointer; transition:.14s; }
+/* zoom buttons, bottom-left inside the frame */
+.zoom-ctl{ position:absolute; left:14px; bottom:64px; z-index:11; display:flex; flex-direction:column; gap:6px; }
+.zoom-ctl button{ width:34px; height:34px; display:grid; place-items:center; font-size:18px; line-height:1;
+  font-family:var(--ff-mono); color:var(--cream); background:rgba(10,20,48,.78); border:1px solid var(--line);
+  border-radius:9px; cursor:pointer; backdrop-filter:blur(6px); transition:.14s; }
+.zoom-ctl button:hover{ border-color:var(--gold); color:var(--gold); }
+
+/* city list overlaid on the right, inside the map frame */
+.map-list{ position:absolute; top:14px; right:14px; bottom:64px; width:248px; z-index:11;
+  display:flex; flex-direction:column; border:1px solid var(--line); border-radius:12px; overflow:hidden;
+  background:rgba(9,17,42,.84); backdrop-filter:blur(7px); box-shadow:var(--shadow); }
+.map-list .hd{ padding:13px 16px; border-bottom:1px solid var(--line); font-family:var(--ff-mono); font-size:11px;
+  letter-spacing:.14em; text-transform:uppercase; color:var(--steel); display:flex; justify-content:space-between; }
+.map-list .scroll{ overflow:auto; }
+.li{ display:flex; align-items:center; gap:11px; padding:10px 16px; border-top:1px solid var(--line-2); cursor:pointer; transition:.14s; }
 .li:first-child{ border-top:none; }
-.li:hover{ background:rgba(216,162,76,.08); }
+.li:hover{ background:rgba(216,162,76,.10); }
 .li .fl{ font-size:16px; }
-.li .nm{ font-weight:600; font-size:14px; color:var(--cream); }
+.li .nm{ font-weight:600; font-size:13.5px; color:var(--cream); }
 .li .co{ font-family:var(--ff-mono); font-size:10.5px; color:var(--steel); }
 .li .cnt{ margin-left:auto; font-family:var(--ff-mono); font-size:10px; color:var(--gold); background:rgba(216,162,76,.12); border:1px solid rgba(216,162,76,.3); border-radius:999px; padding:3px 8px; }
-.li.hidden{ display:none; }
+
+@media(max-width:720px){
+  .map-list{ position:static; top:auto; right:auto; bottom:auto; width:auto; max-height:340px; margin-top:14px; }
+  .zoom-ctl{ bottom:auto; top:14px; }
+}
 </style>
 </head>
 <body>
@@ -35,27 +47,30 @@
 
 <main class="wrap" data-screen-label="World Map">
   <div class="map-hero">
-    <div>
-      <span class="eyebrow">Six continents · One year</span>
-      <h1>The World Map</h1>
-      <p>Every city with a submission, plotted by latitude and longitude. Hover a pin to preview, click to open the city. Cities with more than one submission carry a count.</p>
-    </div>
-    <div class="map-filters" id="map-filters"></div>
+    <span class="eyebrow">Six continents · One year</span>
+    <h1>The World Map</h1>
+    <p>Every city with a submission. Scroll to zoom, drag to pan, hover a pin to preview.</p>
   </div>
 
-  <div class="layout">
-    <div class="chart-wrap">
-      <div class="chart" id="chart"></div>
-      <div class="chart-legend">
-        <span class="d"><span class="dot"></span> City with a submission</span>
-        <span class="d" id="legend-count"></span>
-        <span class="d" style="margin-left:auto; color:var(--steel-2)">Equirectangular projection · hover to preview</span>
-      </div>
+  <div class="chart-wrap">
+    <div class="chart" id="chart"></div>
+
+    <div class="zoom-ctl">
+      <button id="zoom-in" aria-label="Zoom in" type="button">+</button>
+      <button id="zoom-out" aria-label="Zoom out" type="button">−</button>
+      <button id="zoom-reset" aria-label="Reset view" type="button">⤢</button>
     </div>
-    <aside class="side-list">
-      <div class="hd"><span id="list-title">All cities</span><span id="list-count"></span></div>
+
+    <aside class="map-list">
+      <div class="hd"><span>All cities</span><span id="list-count"></span></div>
       <div class="scroll" id="city-list"></div>
     </aside>
+
+    <div class="chart-legend">
+      <span class="d"><span class="dot"></span> City with a submission</span>
+      <span class="d" id="legend-count"></span>
+      <span class="d" style="margin-left:auto; color:var(--steel-2)">Scroll to zoom · drag to pan</span>
+    </div>
   </div>
   <div style="height:50px"></div>
 </main>
@@ -64,17 +79,23 @@
 
 <script src="data.js"></script>
 <script src="site.js"></script>
+<script src="world.js"></script>
+<script src="mapview.js"></script>
 <script src="chart.js"></script>
 <script>
 mountChrome("map");
 
 const chartEl = document.getElementById("chart");
-const { projPct: proj } = buildChart(chartEl, { labels:true, stars:true });
+const { projPct: proj, inner } = buildChart(chartEl, { labels:true, stars:true });
 
 const cities = submittedCities();
+let focusId = null;
+
+/* tooltip lives in the (untransformed) frame, positioned from each pin's
+   on-screen rect so it stays put at any zoom level */
 const tip = document.createElement("div"); tip.className="tooltip"; chartEl.appendChild(tip);
 
-/* one pin per city */
+/* one pin per city, inside the transformed inner layer */
 const pins = [];
 cities.forEach(c=>{
   const subs = submissionsForCity(c.id);
@@ -82,53 +103,92 @@ cities.forEach(c=>{
   const el = document.createElement("a");
   el.className = "pin"; el.href = "city.html?id="+c.id;
   el.style.left = p.x+"%"; el.style.top = p.y+"%";
-  el.dataset.cont = c.continent; el.dataset.id = c.id;
+  el.dataset.id = c.id;
   if (subs.length>1) el.innerHTML = `<span class="cbadge">${subs.length}</span>`;
   el.addEventListener("mouseenter",()=>{
-    const names = [...new Set(subs.map(s=>contributor(s.submittedBy).display))];
+    const r = el.getBoundingClientRect(), hr = chartEl.getBoundingClientRect();
     tip.innerHTML = photoHTML(subs[0].photos[0]) +
       `<div class="nm">${c.name}</div><div class="co">${flag(c.cc)} ${c.country} · ${subs.length} submission${subs.length>1?'s':''}</div>`;
-    tip.style.left=p.x+"%"; tip.style.top=p.y+"%"; tip.classList.add("show");
+    tip.style.left = (r.left + r.width/2 - hr.left)+"px";
+    tip.style.top  = (r.top - hr.top)+"px";
+    tip.classList.add("show");
   });
   el.addEventListener("mouseleave",()=>tip.classList.remove("show"));
-  chartEl.appendChild(el); pins.push({el,c});
+  inner.appendChild(el); pins.push({el,c});
 });
 
-/* filters */
-const conts=["All",...Array.from(new Set(cities.map(c=>c.continent))).sort()];
-const mf=document.getElementById("map-filters");
-mf.innerHTML=conts.map(ct=>`<button class="mchip ${ct==='All'?'active':''}" data-ct="${ct}">${ct}</button>`).join("");
-let active="All", focusId=null;
-function applyFilter(){
-  let shown=0;
-  pins.forEach(({el,c})=>{ const on=active==="All"||c.continent===active; el.classList.toggle("dim",!on); if(on)shown++; });
-  document.querySelectorAll(".li").forEach(li=>{ const on=active==="All"||li.dataset.cont===active; li.classList.toggle("hidden",!on); });
-  document.getElementById("legend-count").textContent=`${shown} of ${cities.length} cities`;
-  document.getElementById("list-title").textContent=active==="All"?"All cities":active;
-  document.getElementById("list-count").textContent=shown;
+/* ---- zoom + pan via the tested MapView math ---- */
+let state = { scale:1, x:0, y:0 };
+function apply(){
+  inner.style.transform = `translate(${state.x}px,${state.y}px) scale(${state.scale})`;
+  inner.style.setProperty("--inv", String(MapView.markerScale(state.scale)));  // dots grow with zoom, sub-linearly
 }
-mf.addEventListener("click",e=>{ const b=e.target.closest(".mchip"); if(!b)return; active=b.dataset.ct;
-  mf.querySelectorAll(".mchip").forEach(x=>x.classList.toggle("active",x===b)); applyFilter(); });
+apply();
 
-/* side list */
-const list=document.getElementById("city-list");
+chartEl.addEventListener("wheel",e=>{
+  e.preventDefault();
+  const hr = chartEl.getBoundingClientRect();
+  const factor = e.deltaY<0 ? 1.15 : 1/1.15;
+  state = MapView.zoomAt(state, factor, e.clientX-hr.left, e.clientY-hr.top, hr.width, hr.height);
+  apply();
+},{passive:false});
+
+let drag = null, moved = false;
+chartEl.addEventListener("pointerdown",e=>{
+  if (e.button !== 0) return;
+  // record the start but DON'T capture the pointer yet — a plain click on a pin
+  // must reach the <a> and navigate. We only take over once a real drag begins.
+  drag = { sx:e.clientX, sy:e.clientY, ox:state.x, oy:state.y, id:e.pointerId };
+  moved = false;
+});
+chartEl.addEventListener("pointermove",e=>{
+  if(!drag) return;
+  const dx = e.clientX-drag.sx, dy = e.clientY-drag.sy;
+  if (!moved && Math.abs(dx)+Math.abs(dy) > 4){
+    moved = true;
+    chartEl.classList.add("grabbing");
+    try{ chartEl.setPointerCapture(drag.id); }catch(_){}  // now keep events even if cursor leaves
+  }
+  if (!moved) return;
+  const hr = chartEl.getBoundingClientRect();
+  state = MapView.clamp({ scale:state.scale, x:drag.ox+dx, y:drag.oy+dy }, hr.width, hr.height);
+  apply();
+});
+function endDrag(){ if(drag){ drag=null; chartEl.classList.remove("grabbing"); } }
+chartEl.addEventListener("pointerup",endDrag);
+chartEl.addEventListener("pointercancel",endDrag);
+/* a real pan shouldn't also open the city under the cursor */
+chartEl.addEventListener("click",e=>{ if(moved){ e.preventDefault(); e.stopPropagation(); moved=false; } }, true);
+
+function zoomCenter(factor){
+  const hr = chartEl.getBoundingClientRect();
+  state = MapView.zoomAt(state, factor, hr.width/2, hr.height/2, hr.width, hr.height);
+  apply();
+}
+document.getElementById("zoom-in").addEventListener("click",()=>zoomCenter(1.4));
+document.getElementById("zoom-out").addEventListener("click",()=>zoomCenter(1/1.4));
+document.getElementById("zoom-reset").addEventListener("click",()=>{ state={scale:1,x:0,y:0}; apply(); });
+
+/* ---- city list (no filters) ---- */
+const list = document.getElementById("city-list");
 list.innerHTML = cities.slice().sort((a,b)=>a.name.localeCompare(b.name)).map(c=>{
-  const n=submissionCount(c.id);
-  return `<a class="li" href="city.html?id=${c.id}" data-cont="${c.continent}" data-id="${c.id}">
+  const n = submissionCount(c.id);
+  return `<a class="li" href="city.html?id=${c.id}" data-id="${c.id}">
     <span class="fl">${flag(c.cc)}</span>
     <span><span class="nm">${c.name}</span><br><span class="co">${c.country}</span></span>
     <span class="cnt">${n}</span></a>`;
 }).join("");
+document.getElementById("list-count").textContent = cities.length;
+document.getElementById("legend-count").textContent = `${cities.length} cities`;
+
 list.querySelectorAll(".li").forEach(li=>{
-  li.addEventListener("mouseenter",()=>{ const pin=chartEl.querySelector(`.pin[data-id="${li.dataset.id}"]`); if(pin)pin.classList.add("focus"); });
-  li.addEventListener("mouseleave",()=>{ const pin=chartEl.querySelector(`.pin[data-id="${li.dataset.id}"]`); if(pin && pin.dataset.id!==focusId)pin.classList.remove("focus"); });
+  li.addEventListener("mouseenter",()=>{ const pin=inner.querySelector(`.pin[data-id="${li.dataset.id}"]`); if(pin)pin.classList.add("focus"); });
+  li.addEventListener("mouseleave",()=>{ const pin=inner.querySelector(`.pin[data-id="${li.dataset.id}"]`); if(pin && pin.dataset.id!==focusId)pin.classList.remove("focus"); });
 });
 
-applyFilter();
-
-/* focus param */
-const fp=new URLSearchParams(location.search).get("focus");
-if(fp){ const pin=chartEl.querySelector(`.pin[data-id="${fp}"]`); if(pin){ focusId=fp; pin.classList.add("focus"); } }
+/* focus param highlights one pin */
+const fp = new URLSearchParams(location.search).get("focus");
+if(fp){ const pin=inner.querySelector(`.pin[data-id="${fp}"]`); if(pin){ focusId=fp; pin.classList.add("focus"); } }
 </script>
 </body>
 </html>
