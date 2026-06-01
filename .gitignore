@@ -17,3 +17,6 @@ out/
 *.bak
 *.orig
 dist/
+
+# brainstorming visual-companion sessions
+.superpowers/

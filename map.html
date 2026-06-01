@@ -34,8 +34,15 @@
 .map-list{ position:absolute; top:14px; right:14px; bottom:64px; width:248px; z-index:11;
   display:flex; flex-direction:column; border:1px solid var(--line); border-radius:12px; overflow:hidden;
   background:rgba(9,17,42,.84); backdrop-filter:blur(7px); box-shadow:var(--shadow); }
-.map-list .hd{ padding:13px 16px; border-bottom:1px solid var(--line); font-family:var(--ff-mono); font-size:11px;
-  letter-spacing:.14em; text-transform:uppercase; color:var(--steel); display:flex; justify-content:space-between; }
+.map-list .hd{ width:100%; padding:14px 16px; border:0; border-bottom:1px solid var(--line); background:transparent;
+  font-family:var(--ff-mono); font-size:11px; letter-spacing:.14em; text-transform:uppercase; color:var(--steel);
+  display:flex; align-items:center; justify-content:space-between; cursor:pointer; }
+.map-list .hd:hover{ color:var(--cream); }
+.map-list .hd .hd-right{ display:flex; align-items:center; gap:10px; }
+.map-list .hd .chev{ display:inline-block; transition:transform .18s; font-size:13px; }
+.map-list.collapsed .hd{ border-bottom:none; }
+.map-list.collapsed .hd .chev{ transform:rotate(-90deg); }
+.map-list.collapsed .scroll{ display:none; }
 .map-list .scroll{ overflow:auto; }
 .li{ display:flex; align-items:center; gap:11px; padding:10px 16px; border-top:1px solid var(--line-2); cursor:pointer; transition:.14s; }
 .li:first-child{ border-top:none; }
@@ -58,7 +65,7 @@
   <div class="map-hero">
     <span class="eyebrow">Six continents · One year</span>
     <h1>The World Map</h1>
-    <p>Every city with a submission. Scroll to zoom, drag to pan, hover a pin to preview.</p>
+    <p>Every city with a submission. Pinch or scroll to zoom, drag to explore, tap a pin to open.</p>
   </div>
 
   <div class="chart-wrap">
@@ -70,15 +77,18 @@
       <button id="zoom-reset" aria-label="Reset view" type="button">⤢</button>
     </div>
 
-    <aside class="map-list">
-      <div class="hd"><span>All cities</span><span id="list-count"></span></div>
+    <aside class="map-list" id="map-list">
+      <button class="hd" id="list-toggle" type="button" aria-expanded="true" aria-controls="city-list">
+        <span>All cities</span>
+        <span class="hd-right"><span id="list-count"></span><span class="chev" aria-hidden="true">▾</span></span>
+      </button>
       <div class="scroll" id="city-list"></div>
     </aside>
 
     <div class="chart-legend">
       <span class="d"><span class="dot"></span> City with a submission</span>
       <span class="d" id="legend-count"></span>
-      <span class="d" style="margin-left:auto; color:var(--steel-2)">Scroll to zoom · drag to pan</span>
+      <span class="d" style="margin-left:auto; color:var(--steel-2)">Pinch / scroll to zoom · drag to pan</span>
     </div>
   </div>
   <div style="height:50px"></div>
@@ -142,31 +152,61 @@ chartEl.addEventListener("wheel",e=>{
   apply();
 },{passive:false});
 
-let drag = null, moved = false;
+/* one finger / mouse = pan; two fingers = pinch-zoom (reuses MapView.zoomAt) */
+const pointers = new Map();          // active pointerId -> {x,y}
+let drag = null, moved = false, pinchDist = 0;
+
 chartEl.addEventListener("pointerdown",e=>{
-  if (e.button !== 0) return;
-  // record the start but DON'T capture the pointer yet — a plain click on a pin
-  // must reach the <a> and navigate. We only take over once a real drag begins.
-  drag = { sx:e.clientX, sy:e.clientY, ox:state.x, oy:state.y, id:e.pointerId };
-  moved = false;
+  if (e.pointerType === "mouse" && e.button !== 0) return;
+  pointers.set(e.pointerId, { x:e.clientX, y:e.clientY });
+  if (pointers.size === 1){
+    // record the start but DON'T capture yet — a plain tap on a pin must reach
+    // the <a> and navigate. We only take over once a real drag begins.
+    drag = { sx:e.clientX, sy:e.clientY, ox:state.x, oy:state.y, id:e.pointerId };
+    moved = false;
+  } else if (pointers.size === 2){
+    drag = null;                     // second finger down -> switch from pan to pinch
+    const [a,b] = [...pointers.values()];
+    pinchDist = Math.hypot(a.x-b.x, a.y-b.y) || 1;
+  }
 });
 chartEl.addEventListener("pointermove",e=>{
-  if(!drag) return;
+  if(!pointers.has(e.pointerId)) return;
+  pointers.set(e.pointerId, { x:e.clientX, y:e.clientY });
+  const hr = chartEl.getBoundingClientRect();
+
+  if (pointers.size >= 2){            // pinch: zoom about the two-finger midpoint
+    const [a,b] = [...pointers.values()];
+    const dist = Math.hypot(a.x-b.x, a.y-b.y) || 1;
+    const midx = (a.x+b.x)/2 - hr.left, midy = (a.y+b.y)/2 - hr.top;
+    state = MapView.zoomAt(state, dist/pinchDist, midx, midy, hr.width, hr.height);
+    pinchDist = dist; moved = true; apply();
+    return;
+  }
+
+  if(!drag) return;                   // single-pointer pan
   const dx = e.clientX-drag.sx, dy = e.clientY-drag.sy;
   if (!moved && Math.abs(dx)+Math.abs(dy) > 4){
     moved = true;
     chartEl.classList.add("grabbing");
-    try{ chartEl.setPointerCapture(drag.id); }catch(_){}  // now keep events even if cursor leaves
+    try{ chartEl.setPointerCapture(drag.id); }catch(_){}  // keep events even if cursor leaves
   }
   if (!moved) return;
-  const hr = chartEl.getBoundingClientRect();
   state = MapView.clamp({ scale:state.scale, x:drag.ox+dx, y:drag.oy+dy }, hr.width, hr.height);
   apply();
 });
-function endDrag(){ if(drag){ drag=null; chartEl.classList.remove("grabbing"); } }
-chartEl.addEventListener("pointerup",endDrag);
-chartEl.addEventListener("pointercancel",endDrag);
-/* a real pan shouldn't also open the city under the cursor */
+function liftPointer(e){
+  pointers.delete(e.pointerId);
+  if (pointers.size === 1){           // pinch -> one finger: resume panning from here
+    const [id, p] = [...pointers.entries()][0];
+    drag = { sx:p.x, sy:p.y, ox:state.x, oy:state.y, id };
+  } else if (pointers.size === 0){
+    drag = null; chartEl.classList.remove("grabbing");
+  }
+}
+chartEl.addEventListener("pointerup",liftPointer);
+chartEl.addEventListener("pointercancel",liftPointer);
+/* a real pan/pinch shouldn't also open the city under the cursor */
 chartEl.addEventListener("click",e=>{ if(moved){ e.preventDefault(); e.stopPropagation(); moved=false; } }, true);
 
 function zoomCenter(factor){
@@ -189,6 +229,18 @@ list.innerHTML = cities.slice().sort((a,b)=>a.name.localeCompare(b.name)).map(c=
 }).join("");
 document.getElementById("list-count").textContent = cities.length;
 document.getElementById("legend-count").textContent = `${cities.length} cities`;
+
+/* collapsible city list — default collapsed on phones so the map leads */
+const mapList = document.getElementById("map-list");
+const listToggle = document.getElementById("list-toggle");
+listToggle.addEventListener("click",()=>{
+  const collapsed = mapList.classList.toggle("collapsed");
+  listToggle.setAttribute("aria-expanded", String(!collapsed));
+});
+if (window.matchMedia && window.matchMedia("(max-width:720px)").matches){
+  mapList.classList.add("collapsed");
+  listToggle.setAttribute("aria-expanded","false");
+}
 
 list.querySelectorAll(".li").forEach(li=>{
   li.addEventListener("mouseenter",()=>{ const pin=inner.querySelector(`.pin[data-id="${li.dataset.id}"]`); if(pin)pin.classList.add("focus"); });
