@@ -1,0 +1,19 @@
+# dependencies
+node_modules/
+
+# raw Discord export + 8.6 GB of source images (referenced/optimized into media/)
+data/
+
+# regenerable build artifacts (produced by the build/ pipeline)
+build/threads.raw.json
+build/city-map.json
+build/chunks/
+build/maps/
+build/maps.bak/
+build/_names_for_curation.txt
+out/
+
+# local backups / scratch
+*.bak
+*.orig
+dist/

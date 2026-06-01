@@ -1,0 +1,16 @@
+{
+  "name": "globetrotter-2025-community-page",
+  "version": "1.0.0",
+  "description": "Globetrotter 2025 Atlas — static community travel site",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test test/*.test.mjs",
+    "verify": "node build/verify_pages.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.34.5"
+  }
+}
