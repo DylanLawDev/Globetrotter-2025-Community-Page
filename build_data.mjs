@@ -10,8 +10,8 @@
  *   data.js   (photos referenced in place at data/threads/...; site assembled at repo root)
  *
  * Each submission keeps the member's FULL post (`content`), Discord-markup stripped only —
- * no AI extraction, nothing dropped. `blurb` is a short teaser (first real paragraph) for
- * the collapsed card; the site expands to the full `content`. Empty post -> lite:true.
+ * no AI extraction, nothing dropped. `blurb` is the verbatim start of the post (a teaser
+ * for the collapsed card); the site expands to the full `content`. Empty post -> lite:true.
  *
  * Run:  node build_data.mjs
  */
@@ -63,16 +63,8 @@ const slug = (s = "") =>
 function extractProse(raw = "") {
   const content = clean(raw); // full member post, Discord-markup stripped — nothing dropped
 
-  // blurb: a short teaser = the member's first real paragraph (skip headings/labels/bullets)
-  let blurb = "";
-  for (const l of content.split("\n")) {
-    const t = l.trim();
-    if (!t) continue;
-    if (/^(population|country|how to|things to|getting there)/i.test(t)) continue;
-    if (/^[*\-•\d]/.test(t)) continue;
-    blurb = t;
-    if (blurb.length > 40) break;
-  }
+  // blurb: the verbatim start of the post (whitespace collapsed) — no extraction heuristics
+  let blurb = content.replace(/\s+/g, " ").trim();
   if (blurb.length > 320) blurb = blurb.slice(0, 317).replace(/\s+\S*$/, "") + "…";
 
   return { content, blurb };
