@@ -9,8 +9,9 @@
  * Writes:
  *   data.js   (photos referenced in place at data/threads/...; site assembled at repo root)
  *
- * Prose fields (getThere / thingsToDo / blurb) are lifted MECHANICALLY from the member's
- * own labelled markdown sections — no AI generation. Missing sections -> lite:true.
+ * Each submission keeps the member's FULL post (`content`), Discord-markup stripped only —
+ * no AI extraction, nothing dropped. `blurb` is a short teaser (first real paragraph) for
+ * the collapsed card; the site expands to the full `content`. Empty post -> lite:true.
  *
  * Run:  node build_data.mjs
  */
@@ -58,47 +59,23 @@ const slug = (s = "") =>
   s.normalize("NFKD").replace(/[̀-ͯ]/g, "").replace(/[ł]/gi, "l").replace(/[ø]/gi, "o")
    .toLowerCase().replace(/['".]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
 
-/* ---- mechanical prose extraction from the starter markdown ---------------- */
+/* ---- prose: keep the full post, derive a short teaser ---------------------- */
 function extractProse(raw = "") {
-  const text = raw.replace(/\r/g, "");
-  const lines = text.split("\n");
+  const content = clean(raw); // full member post, Discord-markup stripped — nothing dropped
 
-  const sectionBody = (re) => {
-    const idx = lines.findIndex((l) => re.test(l));
-    if (idx < 0) return null;
-    const body = [];
-    for (let i = idx + 1; i < lines.length; i++) {
-      if (/^#{1,6}\s/.test(lines[i])) break;
-      body.push(lines[i]);
-    }
-    return clean(body.join("\n")).trim() || null;
-  };
-
-  const getThere = sectionBody(/how to get there|getting there|how to get|how to arrive/i);
-
-  let thingsToDo = [];
-  const tIdx = lines.findIndex((l) => /things to (do|see)|what to do|see (and|&) do|must[- ]?see/i.test(l));
-  if (tIdx >= 0) {
-    for (let i = tIdx + 1; i < lines.length; i++) {
-      if (/^#{1,6}\s/.test(lines[i])) break;
-      const b = /^\s*[*\-•]\s+(.*)|^\s*\d+[.)]\s+(.*)/.exec(lines[i]);
-      if (b) { const v = clean(b[1] || b[2]).trim(); if (v) thingsToDo.push(v); }
-    }
-  }
-
-  // blurb: the member's first real intro paragraph (skip headings, labels, bullets)
+  // blurb: a short teaser = the member's first real paragraph (skip headings/labels/bullets)
   let blurb = "";
-  for (const l of lines) {
-    const t = clean(l).trim();
+  for (const l of content.split("\n")) {
+    const t = l.trim();
     if (!t) continue;
     if (/^(population|country|how to|things to|getting there)/i.test(t)) continue;
-    if (/^[*\-•\d]/.test(l.trim())) continue;
+    if (/^[*\-•\d]/.test(t)) continue;
     blurb = t;
     if (blurb.length > 40) break;
   }
   if (blurb.length > 320) blurb = blurb.slice(0, 317).replace(/\s+\S*$/, "") + "…";
 
-  return { getThere, thingsToDo, blurb };
+  return { content, blurb };
 }
 
 function gatherComments(t) {
@@ -151,12 +128,12 @@ const SUBMISSIONS = subsIn.map((s) => {
     .filter((a) => (a.content_type || "").startsWith("video/"))
     .map((a) => ({ src: `media/${s.id}/${mediaName(a.original)}.mp4`, by: s.submittedBy, caption: "" }));
 
-  const { getThere, thingsToDo, blurb } = extractProse(starter.content || "");
-  const lite = !thingsToDo.length && (!blurb || blurb.length < 60) && !getThere;
+  const { content, blurb } = extractProse(starter.content || "");
+  const lite = !content || content.length < 60;
 
   const out = {
     id: sid, cityId: s.cityId, submittedBy: s.submittedBy, date: seasonDate(s.date),
-    photos, blurb: blurb || "", getThere: getThere || "", thingsToDo,
+    photos, blurb: blurb || "", content: content || "",
     reactions: mapReactions(starter.reactions),
     comments: gatherComments(t),
   };

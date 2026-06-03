@@ -173,7 +173,7 @@ if(!c){
     const preview=wrap.querySelector(".lead-preview");
     const full=wrap.querySelector(".lead-full"); if(!full) return;
     if(!full.hasChildNodes()){ const s=submissionById(wrap.dataset.sid);
-      (s&&s.getThere||"").split(/\n+/).map(t=>t.trim()).filter(Boolean).forEach(t=>{ const p=document.createElement("p"); p.textContent=t; full.appendChild(p); });
+      (s&&s.content||"").split(/\n+/).map(t=>t.trim()).filter(Boolean).forEach(t=>{ const p=document.createElement("p"); p.textContent=t; full.appendChild(p); });
       const less=document.createElement("button"); less.type="button"; less.className="read-more"; less.textContent="Read less ↑"; less.style.marginLeft="0"; less.onclick=()=>toggleMore(less); full.appendChild(less); }
     const expand=full.hidden;
     full.hidden=!expand; preview.hidden=expand;
@@ -194,15 +194,14 @@ function renderSubmission(s, si, total){
     <div class="shot ${i===0?'big':''}" data-sid="${s.id}" data-i="${i}">${photoHTML(p)}
       <div class="cred">${p.caption ? p.caption : ''}${p.caption&&p.by?' — ':''}${p.by&&!p.caption?contributor(p.by).display:''}</div>
     </div>`).join("");
-  const fullText = (s.getThere||"").replace(/\s+/g," ").trim();
+  const norm = (t)=> (t||"").replace(/\s+/g," ").trim();
+  const fullText = norm(s.content);
   const preview = s.blurb || (fullText ? fullText.slice(0,300).trim()+"…" : "");
-  const hasMore = !!(fullText && fullText.length > preview.replace(/…$/,"").trim().length);
+  const hasMore = fullText.length > norm(preview).replace(/…$/,"").trim().length;
   const lead = preview ? `<div class="sub-lead" data-sid="${s.id}">
       <span class="lead-preview">${preview}${hasMore?` <button type="button" class="read-more" onclick="toggleMore(this)">Read more →</button>`:""}</span>
       ${hasMore?`<div class="lead-full" hidden></div>`:""}
     </div>` : "";
-  const things = (s.thingsToDo&&s.thingsToDo.length) ? `<div><h4>Things to do</h4>
-    <ul class="todo">${s.thingsToDo.map((t,i)=>`<li><span class="n">${String(i+1).padStart(2,'0')}</span><span>${t}</span></li>`).join("")}</ul></div>` : "";
   const comments = s.comments.length ? s.comments.map(cm=>{ const a=contributor(cm.by);
     return `<div class="cmt">${avatarHTML(a)}<div style="flex:1">
       <div class="hd"><span class="nm">${a.display}</span>${a.role?`<span class="hl">${a.role}</span>`:""}<span class="dt">${cm.date}</span></div>
@@ -219,7 +218,6 @@ function renderSubmission(s, si, total){
     </div>
     <div class="gallery">${gallery}</div>
     ${lead}
-    ${things?`<div class="sub-cols">${things}</div>`:""}
     <div class="thread">
       <div class="th-h">From the thread · ${s.comments.length} ${s.comments.length===1?'reply':'replies'}</div>
       ${comments}

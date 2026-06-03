@@ -3020,8 +3020,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Tokyo is big. There’s endless things to do. One thing I must reccommend although, is to visit the Meiji Shrine near Harajuku Station. It is an amazing park/shrine int he middle of Tokyo that gives you a perfect break from the bustling life of Tokyo. Another (hidden gem) is Yanaka Ginza at the west side of Nippori…",
-    "getThere": "Tokyo is big. There’s endless things to do. One thing I must reccommend although, is to visit the Meiji Shrine near Harajuku Station. It is an amazing park/shrine int he middle of Tokyo that gives you a perfect break from the bustling life of Tokyo. Another (hidden gem) is Yanaka Ginza at the west side of Nippori St., where you can get transported into the 70’s and 80’s of Japan, with vintage shops and vintage price points. Another amazing ward is Setagaya-ku, a local area just 30min away from Shibuya station, where you find peaceful streets and ana amazing temple. Pictures below are from Meiji Shrine, Yanaka Ginza and Gotoku-ji in Setagaya.",
-    "thingsToDo": [],
+    "content": "Tokyo, Japan.\nPopulation: 14 million in city area, 41 million in the Greater Tokyo area.\nHow to get there? Since Japan is an island nation, you’d have to fly or take a boat to get into the country. Most people landing in Tokyo either go through Narita or Haneda airport.\n\nTokyo is big. There’s endless things to do. One thing I must reccommend although, is to visit the Meiji Shrine near Harajuku Station. It is an amazing park/shrine int he middle of Tokyo that gives you a perfect break from the bustling life of Tokyo. Another (hidden gem) is Yanaka Ginza at the west side of Nippori St., where you can get transported into the 70’s and 80’s of Japan, with vintage shops and vintage price points. Another amazing ward is Setagaya-ku, a local area just 30min away from Shibuya station, where you find peaceful streets and ana amazing temple. Pictures below are from Meiji Shrine, Yanaka Ginza and Gotoku-ji in Setagaya.",
     "reactions": [
       {
         "e": "🤌",
@@ -3157,13 +3156,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Seoul, South Korea has a population of almost 9.5 million!",
-    "getThere": "",
-    "thingsToDo": [
-      "Gyeongbokgung Palace (lots to see around here). Entrace fee is 3000 Korean won (2 USD)",
-      "Right before entering you can check out the \"National Palace museum of Korea\" for free!",
-      "Bukchon Hanok Village",
-      "Changdeokgung, secret garden and Changgyeonggung Palace."
-    ],
+    "content": "Seoul, South Korea!\nSeoul, South Korea has a population of almost 9.5 million!\nBut, how do you get to Seoul? Well, from another country the main way will be by flying into the county, most likely lading at Incheon international Airport!\nYou can also take a train from other cities in Korea to Seoul! Eks the KTX train from Busan to Seoul (or vise versa)!\n\nThere is so much to see and do in Seoul, From historical sites, such as temples and museums, to amazing food and markets! Seoul has it all (kind of lol).\nIf you visit, these  are some of the places I checked out that I would recommend you also do!\n\n-  Gyeongbokgung Palace (lots to see around here). Entrace fee is 3000 Korean won (2 USD)\nSeriously this is such an amazing place! \nAlso, in the afternoon when it gets dark they have a light show thing, make sure to check this out!! \n- Right before entering you can check out the \"National Palace museum of Korea\" for free!\n\nJust a bit up north you have the The National Folk Museum of Korea, which is pretty cool! There is the temples to look at, but also a museum part you can enter, were you can learn a lot about korea! \n\n- Bukchon Hanok Village\nA really popualr, yet very cool traditional Korean hanok village!\n\n- Changdeokgung, secret garden and Changgyeonggung Palace.\nthey are both very close to each other, you can start of at Changdeokgung (3000 won), do a secret garden tour (5000), then go to Changgyeonggung (1000 if I remember correctly)! i found Changgyeonggung to be a lot more peaceful, less people (maybe becouse its a bit more open and big?).",
     "reactions": [
       {
         "e": "🤌",
@@ -3275,8 +3268,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Belize City, Belize. Population of 64,000.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Would you say it's unBELIZEable. \n\nBelize City, Belize. Population of 64,000. \n\nBelize holds the unique title of being the only country in Central America with English as their main language. Originally settled in 1638 and becoming the former capital of British Honduras in 1783, there sure is a lot of history for this relatively unassuming town. While the sights might seem plain, the people aren't. \n\nAfter a short flight from NJ to Houston to Belize, I was ready to step foot into Central America for the first time in my life.\n\nOne thing I found fascinating is the diverse group of people who walks the streets. The background and history are put on display as one walks the markets. Most inhabitants are of multiracial descent, and the ethnic groups such as the Creole, Testimony, Garifuna, Mayan and British cohabit the same space. These people represent the varied history of those who once lived here, originating from the rich Mayan ancestry to imperial Britain who established logging encampments, and the Carib Indians and Africans forced into indentured servitude. While these situations are obviously not ideal to the majority and served to enrich the few colonialists who ventured from Europe, the case for history is demonstrably present to all the locals who call Belize City their home.\n\nWhile traversing this small city, there is not much to see but Belize City is often seen as this transit hub to other parts of the country.  Given the relatively small size of Belize and Belize City's geographical position, cities like San Ignacio and Belmopan are reachable via the bus terminal. Meanwhile Caye Caulker, Ambergris Caye are reachable via ferry and water taxi.\n\nThe amount of Americans and English-speaking tourists isn't that surprising given the country's proximity to the United States. Though it should come off as no surprise that many visitors from across the world come to Belize to not only remark the beaches but the wealth of Mayan ruins in the area, with Xunantunich, Lamanai, Caracol and Cahal Pech being examples. Heck, go even a little further to the border and presumably one of the most famous can be visited in Guatemala, called Tikal.",
     "reactions": [
       {
         "e": "🤌",
@@ -3287,8 +3279,7 @@ const SUBMISSIONS = [
         "c": 1
       }
     ],
-    "comments": [],
-    "lite": true
+    "comments": []
   },
   {
     "id": "s-brasov-omega",
@@ -3297,8 +3288,7 @@ const SUBMISSIONS = [
     "date": "2025-02-01",
     "photos": [],
     "blurb": "This Romanian City lies in the Transylvanian region. With a population of over 200,000 it's an incredible city that divides itself from modern to medieval.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "This Romanian City lies in the Transylvanian region. With a population of over 200,000 it's an incredible city that divides itself from modern to medieval.\n\nEstablished in 1211AD by the Teutonic Knights, it held the original german name for Kronstadt, which translates to \"Crown City\". The City was then first recorded as the name Brasov in 1251AD and became the center of a saxon colony that traded in cloths, weapons, metalworks, and wax throughout much of then known Walachia and Moldavia. \n\nBrasov also has some history with Vlad Tepes, also known as Vlad the Impaler, by being one of Vlads Allies in the 1448 during his first Reign. However history became much darker for the city of Brasov, as during Vlads second reign (1456-1462) he ordered an attack on the Transylvanian city in early 1459, murdering thousands of men, women and children, impaling them on the top of a hill by the chapel of St Jacob. \n\nToday Brasov is known to be the 2nd biggest Tourist attracting city in Romania and there is no wonder why. This amazing city is rich with history and you can fully enjoy your travels in this classic city. The old town is the main attraction as this is a nearly untouched city with 16th century architecture and makes you feel like your walking back in time. \n\nNow how do you get to Brasov.?\n\nThere a many ways to reach Brasov that are easily accessible. You have the train system or the coaches. For example, I reached Brasov after taking a direct Flix Bus all the way from Varna in Bulgaria. I would personally recommend a coach as you can fully experience you entering Transylvania with it's incredible forest and Farmland Space. \n\nNow for the most important part. What is there to see?\n\nThere is so much to see inside the Old Town itself but also just outside the city which is all Easily accessible.",
     "reactions": [
       {
         "e": "🤌",
@@ -3373,8 +3363,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Get there by airport (MCI) or drive from St. Louis (4hrs)",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "City Pop. 508,090, Metro Area 2.19mil\nGet there by airport (MCI) or drive from St. Louis (4hrs)\n\nKansas City (KC) straddles the state line between Missouri (where the city proper is located), and Kansas state (where the metropolitan area extends - a confusing naming scheme, considering KC is not in Kansas proper!). It's often overlooked in favor of more flashy midwestern locations like Chicago or St. Louis due to its relatively remote location. But for those who want venture to a city less often traveled to, there are some unique draws to enjoy. For example...\n\n* FOOTBALL! American Football is arguably the most unique American cultural institution in the country, and if I had to pick a \"football capital of the country\" it'd be KC. The Kansas City Chiefs are the current dominant team in the country, and denizens of the city are EXTREMELY proud of it. Come here and you'll see more sports-themed celebrations and merchandise than you thought possible. Head literally anywhere on a game night to join in the festivities.\n\n* Barbeque (NOT Barbecue!) Another aspect of KC culture that they take a ton of pride in is their barbeque, an essential part of KC-culture. They maintain a fierce rivalry with Texas over the location of the better barbeque. You be the judge - while the \"classic\" best-bbq restaurant is on the KS-side of the border, meaning I'll defer to  for his companion-piece to this write-up when he covers Overland Park, KS (the largest city on the KS-side), my personal recommendation here (and favorite overall!) is Q39, a homely but somewhat upscale sit-down place. Wherever you go, get the burnt tips, the specialty dish of the area.\n\n* KC Downtown is not my idea of the best city center a downtown has to offer, but there are pockets of places worth being - the Power and Light district is such an example, with a wide assortment of restaurants, bars, and clubs. If you're looking for a nightlife scene in KC, find it here.\n\nSee you there!",
     "reactions": [
       {
         "e": "🤌",
@@ -3660,8 +3649,7 @@ const SUBMISSIONS = [
           }
         ]
       }
-    ],
-    "lite": true
+    ]
   },
   {
     "id": "s-quebec-city-spiceboy",
@@ -3686,8 +3674,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "In January I visited Old Quebec City with 2 other people. The population of the city is about 560,000 (2022 UN). You can get to the city many ways, I choose to drive. However there are buses that also can take you to and from the nearby areas, or by flight and even ferry. While everything was in French, we found it…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "In January I visited Old Quebec City with 2 other people. The population of the city is about 560,000 (2022 UN). You can get to the city many ways, I choose to drive. However there are buses that also can take you to and from the nearby areas, or by flight and even ferry. While everything was in French, we found it easy to get help in English. Based on this trip I took, here are some recommendations for Quebec City and the surrounding area.\n\nAquarium of Quebec- The polar bears were nowhere to be found, however there were plenty of other aquatic and non-aquatic animals from around the world and local to Quebec and the St. Lawrence. Some of my favorites include jellyfish and the touch tank. There was some walking outside.\n\nPromenade Jacques-Cartier- This was a natural and historic park about 30 minutes from QC. We went with a tour we found online for snowshoeing with goats! He gave us all the equipment, and we checked out some of the historical sites including the bridge (which gives the local town its name), and Maison Déry which is a museum in the summertime. We snowshoed along the edge of a river before stopping for food and drinks!\n\nHistoric Sites in Old Quebec- Some of these sights seem to be closed for winter so we really only explored Montmorency Park National Historic Site.  It was very small but neat for me!\n\nToboggan Sledding- We went sledding at Dufferin Terrace. You buy a ticket, which is good for 1 ride down. The slide itself is huge and long, and the line moved fairly quickly. \n\nQuartier Petit Champlain- A shopping area with lots of unique gifts and cafes. Be careful of falling ice! \n\nMontmorency Falls- When we went it was not frozen over, however the lake was. The waterfall had created some pretty crazy ice on the surrounding cliff which does turn into ice climbing later during the winter. However many of the walks that bring you up to the edge of the waterfall were closed. The gondola was also closed, when we went.",
     "reactions": [
       {
         "e": "🤌",
@@ -3722,19 +3709,8 @@ const SUBMISSIONS = [
         "caption": ""
       }
     ],
-    "blurb": "I stayed in Lublin for two nights on my recent trip to Poland and was surprised at how beautiful it was. It's compact, walkable, has a lovely market square and some of the best food I had in Poland. The attraction prices are also more affordable than in the larger, more tourist-oriented cities. People with good…",
-    "getThere": "",
-    "thingsToDo": [
-      "Walk around the Old Town, take lots of photos and check out the businesses",
-      "Visit the castle, which houses an extensive museum, art gallery and the 'Holy Trinity Chapel.' The castle also offers an extensive view of the city if you want to take some photos from up high.",
-      "Saxon Garden: a charming city park in all weathers. I saw it in the snow, but it looks like a fabulous place to take a stroll in the summer.",
-      "Lublin History Museum - many exhibits from the city's local history. Note: closed on Sundays and Mondays!",
-      "'Under the Clock' Museum - formerly a Gestapo detention/torture centre, now a WWII history museum and memorial. Note: closed on Mondays!",
-      "St. John the Baptist Cathedral, Church of the Holy Spirit and Dominican Abbey - all wonderful pieces of architecture. Many wonderful churches all around Poland!",
-      "Centre for the Meeting of Cultures - mostly a building for exhibitions, they may have some interesting displays on when you visit. Building also includes a cinema and theater.",
-      "John Paul II Catholic University of Lublin - thanks to e119 for letting me know about this one. Interesting because it was the only independent Catholic university in the entire Eastern Bloc, largely thanks to the strength of the Catholic Church in Poland. The campus is open to visit every day.",
-      "Vivo! shopping centre. I had good bubble tea in the food court there."
-    ],
+    "blurb": "Get there by: train from Warsaw or Krakow. Also has a small airport with Ryanair and WizzAir flights to/from London and Dublin.",
+    "content": "Population: 336,339 (2021)\nGet there by: train from Warsaw or Krakow. Also has a small airport with Ryanair and WizzAir flights to/from London and Dublin.\nVisited: January 2025\n\nIntroduction:\nI stayed in Lublin for two nights on my recent trip to Poland and was surprised at how beautiful it was. It's compact, walkable, has a lovely market square and some of the best food I had in Poland. The attraction prices are also more affordable than in the larger, more tourist-oriented cities. People with good English skills are a bit less common here, but still perfectly manageable.\n\nThings to do/see in Lublin:\n- Walk around the Old Town, take lots of photos and check out the businesses\n- Visit the castle, which houses an extensive museum, art gallery and the 'Holy Trinity Chapel.' The castle also offers an extensive view of the city if you want to take some photos from up high.\n- Saxon Garden: a charming city park in all weathers. I saw it in the snow, but it looks like a fabulous place to take a stroll in the summer.\n- Lublin History Museum - many exhibits from the city's local history. Note: closed on Sundays and Mondays!\n- 'Under the Clock' Museum - formerly a Gestapo detention/torture centre, now a WWII history museum and memorial. Note: closed on Mondays!\n- St. John the Baptist Cathedral, Church of the Holy Spirit and Dominican Abbey - all wonderful pieces of architecture. Many wonderful churches all around Poland!\n- Centre for the Meeting of Cultures - mostly a building for exhibitions, they may have some interesting displays on when you visit. Building also includes a cinema and theater.\n- John Paul II Catholic University of Lublin - thanks to e119 for letting me know about this one. Interesting because it was the only independent Catholic university in the entire Eastern Bloc, largely thanks to the strength of the Catholic Church in Poland. The campus is open to visit every day.\n- Vivo! shopping centre. I had good bubble tea in the food court there.",
     "reactions": [
       {
         "e": "🤌",
@@ -3814,8 +3790,7 @@ const SUBMISSIONS = [
     "date": "2025-02-03",
     "photos": [],
     "blurb": "It was the end of December when I had major FOMO and wanted to travel somewhere. I had 3 requirements:",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "It was the end of December when I had major FOMO and wanted to travel somewhere. I had 3 requirements:\n\n1)    A city that would be cheap to fly to from my nearest airport\n2)    A quick weekend city getaway without using more than 1 day leave from work\n3)    A city that has easy public transport modes\n\nAll options led to Budapest, Hungary. Population of about 1.7 million people. It was a Friday evening flight from my nearest airport, so I could fly straight after work and my flight back was on Monday 5pm. Sorted. \n\nMid January –boarded a Wizzair flight landing about 11pm. Getting out of the airport, I thought I’d get a taxi like I always do whenever I travel – I find public transport difficult to understand and getting a taxi is easier for me. Then I saw the taxi queue and thought there must be another option? Luckily, right outside the airport was a machine to buy city travel passes. I bought a 72-hour travel pass including 2 bus tickets from airport to city and vice versa costing about £20, the machine prints out your pass and two little slips for the airport bus that you show to the inspectors when asked to do so. Super easy and its already validated so you don’t have to worry about that.\n\nI stayed at Novotel Budapest Centrum (the hotel was stunning and they kindly upgraded me <3)  but there are many affordable apartments around. It was nearly 1am by the time I got to my hotel but the city was still pretty lively on a Friday night. I am too old to stay up that late so I went to bed.\n\nSaturday morning, I met up with a friend and we went to have brunch at New York Café. The queue was long, it took about 30 minutes to get inside and seated but the interior is stunning. Recommended if you want to take instagrammable shots, just note there will be 20 other people doing the same thing… won’t comment too much about the food, but the décor is the best part.",
     "reactions": [
       {
         "e": "🤌",
@@ -3842,8 +3817,7 @@ const SUBMISSIONS = [
     "date": "2025-02-03",
     "photos": [],
     "blurb": "Trier can be reached by way of plane, rail bus and even boat. The nearest international airport is Luxembourg Airport, roughly a 40 minutes drive away, which has connections throughout Europe and seasonal flights to Africa and the Near East. Trier itself is most easily reached by train, served by two main stations,…",
-    "getThere": "Trier can be reached by way of plane, rail bus and even boat. The nearest international airport is Luxembourg Airport, roughly a 40 minutes drive away, which has connections throughout Europe and seasonal flights to Africa and the Near East. Trier itself is most easily reached by train, served by two main stations, with direct trains to Luxembourg, if journeying from/to the Benelux or France, Kaiserslautern, for more of southern Germany, or Koblenz, where there are multiple ICE high speed train connections to many other cities in Germany including Cologne and Frankfurt.",
-    "thingsToDo": [],
+    "content": "Trier: The Roman Jewel of the Moselle\nPopulation: ~112,000\nLocated in: Germany\n\nHow to get there?\nTrier can be reached by way of plane, rail bus and even boat. The nearest international airport is Luxembourg Airport, roughly a 40 minutes drive away, which has connections throughout Europe and seasonal flights to Africa and the Near East. Trier itself is most easily reached by train, served by two main stations, with direct trains to Luxembourg, if journeying from/to the Benelux or France, Kaiserslautern, for more of southern Germany, or Koblenz, where there are multiple ICE high speed train connections to many other cities in Germany including Cologne and Frankfurt.",
     "reactions": [
       {
         "e": "🤌",
@@ -3953,13 +3927,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Wanaka is where i picture myself growing old in, people are super kind and chill, food is great, but i don’t think it needs more than 4 days if you’re visiting .",
-    "getThere": "",
-    "thingsToDo": [
-      "Outdoor Adventures: The surrounding mountains and lakes provide ample opportunities for hiking, biking, and water sports. Popular hiking trails include the Rob Roy Glacier Track and the Mount Iron Track, which offer stunning views of the landscape.",
-      "Skiing and Snowboarding: During the winter months, Wanaka is a hub for skiing and snowboarding. Nearby ski resorts, such as Treble Cone and Cardrona, offer slopes for all skill levels.",
-      "Lake Activities: Lake Wanaka is perfect for kayaking, paddleboarding, and sailing. You can rent equipment or take guided tours to explore the lake's beauty.",
-      "Wine Tasting: The Central Otago region is known for its excellent wineries, particularly Pinot Noir. Take a wine tour to sample local wines and enjoy scenic vineyard views."
-    ],
+    "content": "Wanaka is where i picture myself growing old in, people are super kind and chill, food is great, but i don’t think it needs more than 4 days if you’re visiting .\n\nAs of the latest estimates, Wanaka has a population of around 10,000 residents. The town serves as a gateway to several outdoor adventures, including skiing in winter at the nearby Cardrona and Treble Cone ski areas, hiking, biking, and water sports in the warmer months. \n\nHistorically, Wanaka was settled by European immigrants in the 19th century, with the first sheep station established in the area in the 1850s. The town developed as a service center for the surrounding farming community and began to grow in popularity as a tourist destination in the mid-20th century. \n\nWanaka offers a wide range of activities and attractions for visitors, catering to various interests and adventure levels. Here are some popular things to do in and around Wanaka:\n\n1. Outdoor Adventures: The surrounding mountains and lakes provide ample opportunities for hiking, biking, and water sports. Popular hiking trails include the Rob Roy Glacier Track and the Mount Iron Track, which offer stunning views of the landscape.\n\n2. Skiing and Snowboarding: During the winter months, Wanaka is a hub for skiing and snowboarding. Nearby ski resorts, such as Treble Cone and Cardrona, offer slopes for all skill levels.\n\n3. Lake Activities: Lake Wanaka is perfect for kayaking, paddleboarding, and sailing. You can rent equipment or take guided tours to explore the lake's beauty.\n\n4. Wine Tasting: The Central Otago region is known for its excellent wineries, particularly Pinot Noir. Take a wine tour to sample local wines and enjoy scenic vineyard views.",
     "reactions": [
       {
         "e": "🔥",
@@ -4008,13 +3976,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Probably my fav city in NZ so far, very lively, the summer vibes are immaculate.",
-    "getThere": "",
-    "thingsToDo": [
-      "Adventure Sports:Queenstown is the adventure capital of New Zealand, offering bungee jumping from the Kawarau Bridge, skydiving with stunning views, and thrilling jet boating on the Shotover River.",
-      "Skiing and Snowboarding:In winter, nearby resorts like Coronet Peak and The Remarkables provide excellent skiing and snowboarding for all skill levels.",
-      "Hiking: Trails like the Ben Lomond Track and the Routeburn Track showcase the region's natural beauty, ideal for hiking enthusiasts.",
-      "Wine Tasting: The Central Otago region is famous for its Pinot Noir. Wine tours in Gibbston Valley offer tastings with spectacular vineyard views."
-    ],
+    "content": "Probably my fav city in NZ so far, very lively, the summer vibes are immaculate.\n\nQueenstown, located on the shores of Lake Wakatipu in New Zealand's Otago region, is famous for its breathtaking landscapes and adventure sports. With a population of around 15,000, it has transformed from a gold rush settlement in the 1860s to a bustling tourist destination.\n\nBrief History\n\nOriginally inhabited by Māori, Queenstown saw European settlers arrive during the gold rush, leading to the town's establishment. Initially named \"The Camp,\" it was later renamed Queenstown, a nod to Queen Victoria. As gold mining declined, the town focused on tourism, leveraging its scenic beauty and outdoor activities.\n\nThings to Do\n\n1. Adventure Sports:Queenstown is the adventure capital of New Zealand, offering bungee jumping from the Kawarau Bridge, skydiving with stunning views, and thrilling jet boating on the Shotover River.\n\n2. Skiing and Snowboarding:In winter, nearby resorts like Coronet Peak and The Remarkables provide excellent skiing and snowboarding for all skill levels.\n\n3. Hiking: Trails like the Ben Lomond Track and the Routeburn Track showcase the region's natural beauty, ideal for hiking enthusiasts.\n\n4. Wine Tasting: The Central Otago region is famous for its Pinot Noir. Wine tours in Gibbston Valley offer tastings with spectacular vineyard views.\n\n5. Scenic Cruises: Explore Lake Wakatipu by boat, including cruises on the historic TSS Earnslaw, a vintage steamship.\n\n6. Local Cuisine: Queenstown boasts a vibrant food scene, featuring fresh local produce and international dishes, with highlights like New Zealand lamb and fresh salmon.\n\n7. Events and Festivals: The town hosts various events, such as the Queenstown Winter Festival and the Queenstown International Marathon, celebrating the community and seasonal activities.\n\n8. Day Trips: Queenstown serves as a base for exploring nearby attractions like Milford Sound and the historic town of Arrowtown.",
     "reactions": [
       {
         "e": "🤌",
@@ -4051,8 +4013,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Idk why most Kiwiis asked me to avoid auckland but i rly liked except for the fact that there are a lot of homeless people",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Idk why most Kiwiis asked me to avoid auckland but i rly liked except for the fact that there are a lot of homeless people\n\nHistorically, Auckland was established as a British colony in 1840 and became the capital of New Zealand. The city was chosen for its strategic location between the Pacific Ocean and the Tasman Sea, and over the years, it has evolved into a major economic and cultural hub. The indigenous Māori people were the original inhabitants, and their influence can still be seen in the city’s culture and place names.\n\nAuckland offers a wide range of activities and attractions. Visitors can explore the iconic Sky Tower for panoramic views, visit the Auckland War Memorial Museum for insights into New Zealand's history, or take a ferry to the picturesque Waiheke Island for wine tasting and beautiful beaches. The Auckland Zoo and Auckland Aquarium are popular family-friendly destinations, showcasing native wildlife and marine life.\n\nFor those interested in shopping and dining, the bustling Queen Street and the waterfront area provide numerous options. Additionally, the vibrant arts scene is highlighted by venues like the Auckland Art Gallery and various theaters.\n\nOutdoor enthusiasts can enjoy hiking in the Waitakere Ranges or relaxing at one of the many beautiful beaches, such as Piha and Mission Bay. With its rich history, cultural diversity, and stunning landscapes, Auckland is a captivating destination for both residents and visitors alike.",
     "reactions": [
       {
         "e": "🤌",
@@ -4132,8 +4093,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "The largest waterfall in the world divides two countries in Africa, and is considered a world wonder.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "The largest waterfall in the world divides two countries in Africa, and is considered a world wonder.\n\nVictoria Falls, or \"Vic Falls\" as the \"Zim\" locals call it, refers to the side in Zimbabwe and is part of a town of 35k people bordering the Falls.\n\nLivingstone, on the Zambia side is part of a larger city of 134k people. Unlike Vic Falls, Livingstone is a 10-15 drive after the border crossing.\n\nGetting here is not easy: Africa is a huge continent, and ground transportation is unrealistic for many distances. There are two main airports: VFA and LVI. Some people also fly into BBK, which is Kasane in Botswana. The major carrier linking these airports is Airlink and South African Airways (to Johannesburg, JNB). There's also service with Ethiopian Airlines and Kenya Airways. The only direct service to Europe is a seasonal flight on Discover Airlines of Lufthansa Group between VFA and Frankfurt, FRA.\n\nDespite VFA being the smaller town, there are many more flights and far more tourist infrastructure. It is also much more expensive as Zimbabwe uses the USD extensively.\n\nI do not have experience taking the train within Zambia and Zimbabwe, which some locals use. Or experience with overland bus services. I do NOT recommend this unless you are a very experienced traveller with ground experience in Africa.\n\nIMPORTANT: no matter which airport and country you arrive in, if you intend to cross the borders multiple times you must ask and pay for a \"KAZA\" visa which allows this. Otherwise you will be paying multiple times for single-entry single-country visas.",
     "reactions": [
       {
         "e": "🤌",
@@ -4218,16 +4178,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Reachable by train, car, bus or plane (I flew into Amsterdam Schiphol Airport)",
-    "getThere": "",
-    "thingsToDo": [
-      "visit Hortis Botanicus (not recommended in Winter, learned it the hard way)",
-      "go window shopping in some cool districts, the city has many street markets, notable mentions here are Negen Straatjes and De Pijp",
-      "Chinatown / Buddhist Temple in Zaandijk",
-      "have a night out in Amsterdam's Gay Street with plenty of funky gay bars that also welcome straight people",
-      "my fav restaurants: Cannibale Royale, The Vegan Junk Food Bar, The Breakfast Club",
-      "my fav stores: Nishi Market, Waterstones, It's a Present!",
-      "Museums and other cool places: Anne Frank House (must visit!),  Condomerie, Cha Time (great bubble tea :D), Polaberry (chocolate covered strawberries deluxe), Body Worlds"
-    ],
+    "content": "Amsterdam\nCapital of the Netherlands\n920k inhabitants\nReachable by train, car, bus or plane (I flew into Amsterdam Schiphol Airport)\n\nThings to do\n- visit Hortis Botanicus (not recommended in Winter, learned it the hard way)\n- go window shopping in some cool districts, the city has many street markets, notable mentions here are Negen Straatjes and De Pijp\n- Chinatown / Buddhist Temple in Zaandijk\n- have a night out in Amsterdam's Gay Street with plenty of funky gay bars that also welcome straight people\n- my fav restaurants: Cannibale Royale, The Vegan Junk Food Bar, The Breakfast Club\n- my fav stores: Nishi Market, Waterstones, It's a Present!\n- Museums and other cool places: Anne Frank House (must visit!),  Condomerie, Cha Time (great bubble tea :D), Polaberry (chocolate covered strawberries deluxe), Body Worlds\n\nDon't fall for the tourist traps selling you \"weed\" brownies or the coffee shops in the busy touristy streets. Amsterdam has so much more to offer than Weed and Cheese.",
     "reactions": [
       {
         "e": "🤌",
@@ -4289,32 +4240,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "I have to stop myself from writing a novel here but some things I personally enjoyed a lot:",
-    "getThere": "Things to do\nI have to stop myself from writing a novel here but some things I personally enjoyed a lot:\n\n- Visit Sky Garden \n- walk along the Themse \n- take cool pics of the City's unique skyline from the Tower Bridge\n- walk along Brick Lane and its side alleys to check out some of the world's best street art; or even better get a free guided tour\n- go to Greenwich Park for an amazing view of the City\n- go to London Night Cafe !!\n\nMuseums I would recommend:\n- Natural History Museum\n- Tate Modern (if you're into artsy stuff)\n- V&A (according to )\n - Photographer's Gallery\n\nCool Markets and places to shop:\n- Spitalfields Market (honorable mention: Humble Crumble for amazing custard crumble pies)\n- Boxpark Shoreditch (shipping containers with unique, local stores)\n- Brixton Market \n- Chinatown, Soho \n- Bubble Pop (Kawaii Nerdy Store)\n- Camden Market\n\nCool Bars and Food Places:\n- Tonight Josephine (Girly Vibes)\n- The Alchemist (fancy Laboratory vibes)\n- Katsute 100 (premium Matcha and Japanese delights)\n- Upmarket (small street food market, has a banging vegan Bengali vendor)\n\nThings that aren't worth the money imo:\n- London Eye\n- Madame Tussaud's \n- Tower of London\n\nMention for the hostel crowd:\nLook no further than Wombat's Hostel, it's easily accessible, clean and has great staff as of a few years ago 😄\n\nI might update this list going further, I've been to London so many times and probably forgot some stuff 😄",
-    "thingsToDo": [
-      "Visit Sky Garden",
-      "walk along the Themse",
-      "take cool pics of the City's unique skyline from the Tower Bridge",
-      "walk along Brick Lane and its side alleys to check out some of the world's best street art; or even better get a free guided tour",
-      "go to Greenwich Park for an amazing view of the City",
-      "go to London Night Cafe !!",
-      "Natural History Museum",
-      "Tate Modern (if you're into artsy stuff)",
-      "V&A (according to )",
-      "Photographer's Gallery",
-      "Spitalfields Market (honorable mention: Humble Crumble for amazing custard crumble pies)",
-      "Boxpark Shoreditch (shipping containers with unique, local stores)",
-      "Brixton Market",
-      "Chinatown, Soho",
-      "Bubble Pop (Kawaii Nerdy Store)",
-      "Camden Market",
-      "Tonight Josephine (Girly Vibes)",
-      "The Alchemist (fancy Laboratory vibes)",
-      "Katsute 100 (premium Matcha and Japanese delights)",
-      "Upmarket (small street food market, has a banging vegan Bengali vendor)",
-      "London Eye",
-      "Madame Tussaud's",
-      "Tower of London"
-    ],
+    "content": "London Birthday Trip with \nUK\nInhabitants: ~8,9 million\nHow to get here: best bet is flying into one of the 6 airports (I personally usually go to Stansted) or take the Eurostar Train that goes under the English Channel.\n\nThings to do\nI have to stop myself from writing a novel here but some things I personally enjoyed a lot:\n\n- Visit Sky Garden \n- walk along the Themse \n- take cool pics of the City's unique skyline from the Tower Bridge\n- walk along Brick Lane and its side alleys to check out some of the world's best street art; or even better get a free guided tour\n- go to Greenwich Park for an amazing view of the City\n- go to London Night Cafe !!\n\nMuseums I would recommend:\n- Natural History Museum\n- Tate Modern (if you're into artsy stuff)\n- V&A (according to )\n - Photographer's Gallery\n\nCool Markets and places to shop:\n- Spitalfields Market (honorable mention: Humble Crumble for amazing custard crumble pies)\n- Boxpark Shoreditch (shipping containers with unique, local stores)\n- Brixton Market \n- Chinatown, Soho \n- Bubble Pop (Kawaii Nerdy Store)\n- Camden Market\n\nCool Bars and Food Places:\n- Tonight Josephine (Girly Vibes)\n- The Alchemist (fancy Laboratory vibes)\n- Katsute 100 (premium Matcha and Japanese delights)\n- Upmarket (small street food market, has a banging vegan Bengali vendor)\n\nThings that aren't worth the money imo:\n- London Eye\n- Madame Tussaud's \n- Tower of London\n\nMention for the hostel crowd:\nLook no further than Wombat's Hostel, it's easily accessible, clean and has great staff as of a few years ago 😄\n\nI might update this list going further, I've been to London so many times and probably forgot some stuff 😄",
     "reactions": [
       {
         "e": "🔥",
@@ -4396,8 +4322,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Liberia, Costa Rica. Not to be confused with the American puppet state of Liberia.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "1/15 \n\nLiberia, Costa Rica. Not to be confused with the American puppet state of Liberia.\n\nLiberia, with its population of around 60k makes the capital city of the province of Guanacaste.\n\nIn terms of points of interests to your average traveler it's not all too much. But it serves as a great midway point for travellers making their way either up and down Costa Rica/Nicaragua or making their way to the coast as it's one of the few \"larger\" populated areas in this region and the distances large enough that one may want somewhere to relax along the journey. \n\nIn of itself it has a couple of small parks, bus stations with buses going anywhere. Which is how you can get to and from Liberia. With connections to many cities around the country. \n\nNearby you can find waterfalls and national parks, where you may find an array of animals, which is the centre selling point for anybody staying more than just a night using Liberia as a transit point. \n\nThe photos aren't plentiful as it just wasn't that much I felt inclined to take a photo of. However, I did find a bull, and yes, I did rub it's balls for good luck as people inside the restaurant was looking at me weird. \n\nI also happened to run into fellow travelers     at the local McDonalds. A welcome sight to be sure. \n\n \nCheerios",
     "reactions": [
       {
         "e": "🤌",
@@ -4616,8 +4541,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Hello m8s, it’s my first time in Sydney even though I’ve been to Australia a couple of times already. I think Sydney is a really cool city. As of 2023, it has a population of approximately 5.3 million people, making it a diverse and bustling metropolis. Founded in 1788 as a penal colony, Sydney has grown into a…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Hello m8s, it’s my first time in Sydney even though I’ve been to Australia a couple of times already. I think Sydney is a really cool city. As of 2023, it has a population of approximately 5.3 million people, making it a diverse and bustling metropolis. Founded in 1788 as a penal colony, Sydney has grown into a major global city, evolving through the gold rush, waves of immigration, and significant cultural developments, particularly in the 20th century. Visitors can explore the architectural marvel of the Sydney Opera House, climb the Sydney Harbour Bridge for breathtaking views, or relax at the famous Bondi Beach, known for its surf culture and scenic coastal walks. The Royal Botanic Garden offers a peaceful retreat with beautiful landscapes, while The Rocks showcases historic cobblestone streets, markets, and galleries. Sydney is also a culinary hotspot, featuring fresh seafood at the beach or the Sydney Fish Market, authentic Asian cuisine in Chinatown, modern Australian dishes at trendy restaurants, and a thriving coffee culture with world-class cafes. Whether exploring its rich history, enjoying outdoor activities, or indulging in diverse cuisine, Sydney has something for everyone.",
     "reactions": [
       {
         "e": "🤌",
@@ -4661,8 +4585,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Singapore, singapore, singapore. Everyone knows it to be one of the mostly expensive cities to be in, that’s simply not true if you’re only visiting. Food is cheap and tasty, public transportation is clean, affordable and also offer vast routes to every single corner of the countey. With a population of…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Singapore, singapore, singapore. Everyone knows it to be one of the mostly expensive cities to be in, that’s simply not true if you’re only visiting. Food is cheap and tasty, public transportation is clean, affordable and also offer vast routes to every single corner of the countey. With a population of approximately 5.7 million as of 2023, Singapore is a melting pot of cultures, primarily influenced by Chinese, Malay, Indian, and Arab communities. Established as a trading post by Sir Stamford Raffles in 1819, it rapidly developed into a bustling port city, gaining independence in 1965 and transforming into a global financial hub. Visitors can explore attractions like Marina Bay Sands, with its iconic rooftop infinity pool, and Gardens by the Bay, featuring futuristic Supertree structures. The historic Chinatown, Little India, and Kampong Glam offer a glimpse into the city’s rich heritage, while Sentosa Island provides a range of recreational activities. Singapore is also renowned for its diverse culinary scene, where food lovers can indulge in hawker centers serving local delights like Hainanese chicken rice, chili crab, and laksa, as well as an array of international cuisines. With its seamless blend of tradition and modernity, Singapore offers a unique experience that captivates travelers from around the world.",
     "reactions": [
       {
         "e": "🤌",
@@ -4716,8 +4639,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "With an estimated population of 2.4 million alongside the pilgrims from all over the world for pilgrimage, Mecca is the holiest site for Muslims and is known as \"a city that never sleeps.\" Mecca is in the Hejaz region of Saudi Arabia and is not too far from the Red Sea. To enter Mecca you can enter by car, rail,…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "With an estimated population of 2.4 million alongside the pilgrims from all over the world for pilgrimage, Mecca is the holiest site for Muslims and is known as \"a city that never sleeps.\" Mecca is in the Hejaz region of Saudi Arabia and is not too far from the Red Sea. To enter Mecca you can enter by car, rail, bus or to fly you will fly into Jeddah, Taif or Madinah. I flew in from LGW through MXP and then to JED.  Mecca is also accessible through public transport and connected to Jeddah and Madina through high speed rail. You must also be a Muslim to enter and have a Saudi visa.\n\nMuslims from all around the world come here to perform the Umrah or Hajj pilgrimage. Mecca is a major religious, cultural, and economic hub in the region. Every year, the number of visitors during Hajj surpasses 2 million people, making it one of the largest religious gatherings in the world. Mecca has a rich islamic history and is the site of holy Kaabah 🕋. There are also many studying facilities including the famous Umm Al Quraa University.\n\nYou can visit the Kaabah, see historic mosques and climb the Mount Thawr and Mount Nour, where the Quran was revealed. These mountains hold a huge significance in Islamic history. The city also has a lot of modern shopping malls alongside the famous clock tower. Mecca is also incredibly mountainous and was literally built by carving out mluntains. Mecca is also accessible through public transport and connected to Jeddah and Madina through high speed rail. \n\nI could go into detail on the Umrah and Hajj pilgrimages but I am not knowledgeable enough to do so. You can search online for more information as it is easily accessible.",
     "reactions": [
       {
         "e": "🤌",
@@ -4789,8 +4711,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Madinah (مدينة المنورة) is a city in the Hejaz region of Saudi Arabia with a huge significance for Muslims and an estimated population of 1.4 Million people. Madinah is particularly important because it is the city where the Prophet Muhammad (PBUH) migrated in 622 CE, an event known as the Hijrah, which marks the…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Madinah (مدينة المنورة) is a city in the Hejaz region of Saudi Arabia with a huge significance for Muslims and an estimated population of 1.4 Million people. Madinah is particularly important because it is the city where the Prophet Muhammad (PBUH) migrated in 622 CE, an event known as the Hijrah, which marks the beginning of the Islamic calendar. Unlike Mecca, Madinah is open to non Muslims too, just with the Prophets Mosque being off limits. To get here you can fly into Madinah airport or come through bus and/or high speed rail. You must also obtain a Saudi visa. \n\nMadinah is home to the final resting place of the Prophet Muhammad (PBUH) and many of his companions. It is also home to the Prophets Mosque and many other significant Mosques like the Qiblatayn Mosque and Quba Mosque. In Madinah you can also climb Mount Sela and Mount Uhud which are the sites of historic battles. Despite being a holy city Madinah is very modern. With huge Malls, business opportunities.\n\nQuba Mosque - The first mosque ever built in Islam, Masjid Quba, is located in Madinah. It was built by the Prophet Muhammad (PBUH) when he arrived in Madinah during the Hijrah. This mosque holds historical importance and is considered a significant place of worship.\n\nQiblatayn Mosque - Muslims first used to pray towards Jerusalem, but this Mosque was where the direction was changed to Mecca. \n\nMount Uhud - the site of the historic battle of Uhud and holds the resting places of its martyrs. (No pictures as I unfortunately didn't visit this time round.)",
     "reactions": [
       {
         "e": "🤌",
@@ -4871,8 +4792,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Budapest is the capital city of Hungrary in Central Europe and is split into two parts, Buda and Pest by the Danube River. Budapest has an estimated population of 1.75 million people, making it the largest city in the country. You can come here via bus, car, train or fly. The public transport is very easily…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Budapest is the capital city of Hungrary in Central Europe and is split into two parts, Buda and Pest by the Danube River. Budapest has an estimated population of 1.75 million people, making it the largest city in the country. You can come here via bus, car, train or fly. The public transport is very easily accessible and the hotels are good. I flew into Budapest Ferenc Liszt Airport from Jeddah and stayed at the Hampton hotel on the Pest side. \n\nOn this side you can walk along the Danube and take in the amazing views. See the enormous parliament building and its stunning architecture. You can also find the St Stephen's basilica and many WW2 memorials. This entire city is stunning so it is worth walking around to take in the views. I also walked past the Dohany Street Synagogue which was stunning. You will also find statues and monuments everywhere in Hungrary. The food is also amazing and as a Muslim I had no struggle in finding Halal food.",
     "reactions": [
       {
         "e": "👍",
@@ -4904,8 +4824,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Anchorage is a huge city far away from much of anything else. To get to Alaska prepare to fly in, unless you're crazy and want to drive in, which would take over 40 hours from Seattle. There are also ferry services to the city I believe from other Alaskan cities & the lower 48 as well. There is limited train and…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Anchorage is a huge city far away from much of anything else. To get to Alaska prepare to fly in, unless you're crazy and want to drive in, which would take over 40 hours from Seattle. There are also ferry services to the city I believe from other Alaskan cities & the lower 48 as well. There is limited train and bus connection to other communities in Alaska. The city has a population of 286,075 as of 2023. Below are some things I have done & recommend to do in the area. Please note some of my recommendations are pretty far away from Anchorage, however I highly recommend everything below, based on personal experience and Anchorage is the closest place with 10,000 people so I feel that it is best shared here! I have gone in summer & winter, but both times of year are different. Summer is nearly all daylight and warm, while winter is cold and dark! Sorry my pictures are all of spots listed below, but hard to find ones I took without my or my friends faces in them!",
     "reactions": [
       {
         "e": "🤌",
@@ -4980,8 +4899,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Numerous cruises stop in San Juan. You can also fly from most airports on the east coast. Luis Munoz Marin International Airport (SJU) serves 60 destinations across the Americas and the Caribbean, and is the busiest airport in the region. Once in San Juan, it is very easy to rent a car at the airport or various…",
-    "getThere": "Numerous cruises stop in San Juan. You can also fly from most airports on the east coast. Luis Munoz Marin International Airport (SJU) serves 60 destinations across the Americas and the Caribbean, and is the busiest airport in the region. Once in San Juan, it is very easy to rent a car at the airport or various locations around the city. It is also easy to rent a motorcycle or scooter to explore the city/island with.\n\nHistory:\nSan Juan, Puerto Rico, founded in 1521 by Spanish colonists, is the oldest city under United States jurisdiction. Originally named Ciudad de Puerto Rico, it became a crucial military and trade hub in the Caribbean due to its strategic location. The Spanish built massive fortifications, including El Morro and San Cristóbal, to defend against attacks from rival European powers and pirates. In 1898, during the Spanish-American War, the U.S. took control of Puerto Rico, making San Juan its capital.\n\nThings to do:\nExplore Old San Juan’s colorful colonial buildings, walk along the city walls, and tour El Morro and San Cristóbal forts. The vibrant nightlife and dining scene showcase Puerto Rican music and cuisine (try mofongo). Old San Juan and Condado are notorious for their nightlife scene. Try El Cafetin, Atica, or La Factoria on a weekend night out. The neighborhood below Old San Juan, La Perla, is dangerous at night but has cheap street food for those who dare to venture below the city walls after dark.\n\nNumerous day trips are easy from San Juan. Drive to El Yunque National Rainforest for some hiking, waterfalls, and nature. Rincon, famous for its beaches, lighthouse, and sunsets, is about a three hour drive from San Juan. Along the way you can stop in Arecibo for more stunning beaches and some impressive sea arches. Tours can be arranged to take you at night to kayak in Puerto Rico's famous bioluminescent bays.",
-    "thingsToDo": [],
+    "content": "San Juan, PR\nUnited States\n\nPopulation: \n342,000\n\nHow to get there/get around:\nNumerous cruises stop in San Juan. You can also fly from most airports on the east coast. Luis Munoz Marin International Airport (SJU) serves 60 destinations across the Americas and the Caribbean, and is the busiest airport in the region. Once in San Juan, it is very easy to rent a car at the airport or various locations around the city. It is also easy to rent a motorcycle or scooter to explore the city/island with.\n\nHistory:\nSan Juan, Puerto Rico, founded in 1521 by Spanish colonists, is the oldest city under United States jurisdiction. Originally named Ciudad de Puerto Rico, it became a crucial military and trade hub in the Caribbean due to its strategic location. The Spanish built massive fortifications, including El Morro and San Cristóbal, to defend against attacks from rival European powers and pirates. In 1898, during the Spanish-American War, the U.S. took control of Puerto Rico, making San Juan its capital.\n\nThings to do:\nExplore Old San Juan’s colorful colonial buildings, walk along the city walls, and tour El Morro and San Cristóbal forts. The vibrant nightlife and dining scene showcase Puerto Rican music and cuisine (try mofongo). Old San Juan and Condado are notorious for their nightlife scene. Try El Cafetin, Atica, or La Factoria on a weekend night out. The neighborhood below Old San Juan, La Perla, is dangerous at night but has cheap street food for those who dare to venture below the city walls after dark.\n\nNumerous day trips are easy from San Juan. Drive to El Yunque National Rainforest for some hiking, waterfalls, and nature. Rincon, famous for its beaches, lighthouse, and sunsets, is about a three hour drive from San Juan. Along the way you can stop in Arecibo for more stunning beaches and some impressive sea arches. Tours can be arranged to take you at night to kayak in Puerto Rico's famous bioluminescent bays.",
     "reactions": [
       {
         "e": "🔥",
@@ -5061,8 +4979,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "This month I went to Rome (Italy), population of about 2.7 million people. I got there on a Ryanair flight to Ciampino Airport – my flight got redirected to Fiumicino Airport instead – if you can, I would recommend travelling to and from Fiumicino instead of Ciampino as the links between airport and city centre is…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "This month I went to Rome (Italy), population of about 2.7 million people. I got there on a Ryanair flight to Ciampino Airport – my flight got redirected to Fiumicino Airport instead – if you can, I would recommend travelling to and from Fiumicino instead of Ciampino as the links between airport and city centre is quicker and more convenient. \n\nI stayed a little outside of the city centre but took the bus in, you can buy day transport passes or tap your card when in the bus. I would say the buses are very unreliable, there are metro lines but they don’t really cover all areas so a lot of the time you will have to walk or wait a long time for transport unless you are staying quite close to the main attractions. \n\nI was there for two nights but managed to see the main parts such as Colosseum (its really pretty at night!), Trevi fountain, Pantheon, we did walk outside Vatican city but if I had an extra day I would have visited inside. \n\nDay trips from Rome: you could visit Naples and Pompeii from Rome, the train is about <2 hours \n\nPlaces to Visit:\n\n🍴  Al Forno Della Soffitta https://maps.app.goo.gl/71KexXESRJnus8fx9 \n🍴  Osteria da Fortunata (hand made pasta) https://maps.app.goo.gl/9gimcgD6g1Y7za9C8\n🍴  L'Ementare (Pizza/bar place) https://maps.app.goo.gl/qwRVzWkYfScPTVp76\n🍰  Two Sizes (tiramisu) https://maps.app.goo.gl/CLoKbhvrTKsBbHMo8\n🍰  Antico Forno Roscioli (pastries, I got some kind of cheese and cherry pastry which was soo good)  https://maps.app.goo.gl/mroNJGLkCPgxjLww5\n🍹  Santa Cocktail Club (rooftop bar) https://maps.app.goo.gl/MvwS6ztgmf384kMM9",
     "reactions": [
       {
         "e": "🤌",
@@ -5247,8 +5164,7 @@ const SUBMISSIONS = [
     "date": "2025-03-02",
     "photos": [],
     "blurb": "Overview & History: New Bedford is located in the Boston Metro area in southern Massachusetts. It is the 9th largest city in Massachusetts. Known for its whaling, fishing & glass industry the city has a population of about 101,000. There is a high population of Portuguese speakers, left over from the whaling…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Overview & History: New Bedford is located in the Boston Metro area in southern Massachusetts. It is the 9th largest city in Massachusetts. Known for its whaling, fishing & glass industry the city has a population of about 101,000. There is a high population of Portuguese speakers, left over from the whaling period. Many of the world's whaling fleets stopped in New Bedford as well as Nantucket before engaging on their global journey. When the whaling industry began to decline, fishing & glass making took over. Today, fishing is still huge in the city, as it produces more money than any other fishing port in the United States. The main catch being scallops. The demographics of the city include a higher portion of Portuguese speakers. The weather in the city is typical of hot summers, with cold winters and rain & snow mixed throughout the year. The history of the town goes far back, and was settled by Native Americans prior to Europeans. From what I understand, whaling was the lifeline of the city starting in the 1700’s and once that declined, the city moved into textiles, and manufacturing. Recently many of those businesses have also declined as well. Today the city is focusing on energy production offshore, fishing & tourism.",
     "reactions": [
       {
         "e": "🤌",
@@ -5358,8 +5274,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Starting off with a beautiful drive from NJ to Philadelphia, PA. Here, you can expect to see a burning pile of rubble on your way to the city, where you can take in the immaculate sights and smells of ruin and stagnation during your 75 minute drive on the I-95.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Starting off with a beautiful drive from NJ to Philadelphia, PA. Here, you can expect to see a burning pile of rubble on your way to the city, where you can take in the immaculate sights and smells of ruin and stagnation during your 75 minute drive on the I-95. \n\nOnce you're in the magical city containing a hefty population of 1.5m brother-lovers, try to relish the opportunity by enjoying the urban life through the trash and derelicts occupying the cityscape. You can visit the Philadelphia Museum of Art where a nonexistent, fake, made-up character from a movie series ran up a bunch of stairs. Or maybe take the time to roam downtown and witness the famous Liberty Bell known for taking a beating, just like the lamp poles in its vicinity. To get there, you can take the L-train and be accosted by locals asking you for money to fuel their chemical hobbies. \n\nOn your way to City Hall, you can relive the experiences of jovial and festive sport fans with their admirable strength to knock over vehicles and light trash cans on fire. If you're in the mood for an authentic experience, equip yourself with a sock full of batteries and swing it around to make the locals aware of their \"game\". Instantly, you will earn the respect of the locals as you bleed green and scream to the top of your lungs that \"HURTS IS M.V.P.\" and \"IGGLES ALL DEY BABY\". \n\nThere are more things to do, surely. You can check out Reading Terminal Market and pay $24 for an iconic cheesesteak. Once you remove the various syringes and broken glass pipes off your sandwich, dig in and enjoy your meal alongside a refreshing $15 pint of Yuengling. \n\nSpend the late afternoon at Fishtown, where you can gamble at the casinos or go to the many bars to engage in the local ritual of drunken fistfights. When it all blows over and you get your adrenaline fix, you can return to your car to find it being towed and be tasked to pay $200 in extortion fees to have it returned so you can drive off into the sunset and get a DUI.",
     "reactions": [
       {
         "e": "🤌",
@@ -5451,25 +5366,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Fly into Nürnberg Airport directly or into Frankfurt or Munich and take the train (~2-3h) from there.",
-    "getThere": "Fly into Nürnberg Airport directly or into Frankfurt or Munich and take the train (~2-3h) from there.\n\nThings to do here:\nNürnberg has plenty of history, especially regarding WW2. \nThings worth visiting in that regard would be\n-Nazi Party Rally Grounds\n-Dokumentationszentrum (museum about the atrocities and the City's role in the war)\n- Nuremberg Trial Memorials (haven't been personally)\n\nOther great activities are\n- visiting one of the two defunct nuclear bunkers\n- Nürnberg Castle \n- Rent a paddle boat at one of the two immer City lakes Wöhrder See or Dutzendteich\n- do a guided tour of the tunnels that are situated under the old town\n- take a walk around the old town (I can map out routes if interested) \n\nMy favorite spots:\n- Cafe Wanderer, situated beneath the castle next to the house of German Painter Albrecht Dürer \n- Café Machörndl for an amazing iced latte\n- Crazy Nate's West Coast Mexican - an American/Mexican Taco restaurant \n- Café Pique Nique/Tafelzier (French Patisserie)\n- Weißgerbergasse, Nürnberg's Most Photogenic Street (also has a great ice cream parlor, Kleine Eismanufaktur)\n- Kaschemme, a vegan Szechuan restaurant\n- Cafe oi. baked goods - best matcha and cookies in town\n\nNotable events:\n- Rock im Park, South Germany's biggest music festival, first weekend of June\n- Trempelmarkt, turning the whole inner city into one giant flea market, happening in spring and fall\n- Bardenfest, Germany's biggest street music festival with bands and artists playing in every corner of the city (happening once each summer)\nNürnberg is also famous for its Christmas Market, probably one of the biggest worldwide albeit it is very touristy and as a local you either hate it (me) or love it \n\nNürnberg also has a big club scene, especially if you're into Techno/House, you will find a lot of places that cater to your music taste!",
-    "thingsToDo": [
-      "Nuremberg Trial Memorials (haven't been personally)",
-      "visiting one of the two defunct nuclear bunkers",
-      "Nürnberg Castle",
-      "Rent a paddle boat at one of the two immer City lakes Wöhrder See or Dutzendteich",
-      "do a guided tour of the tunnels that are situated under the old town",
-      "take a walk around the old town (I can map out routes if interested)",
-      "Cafe Wanderer, situated beneath the castle next to the house of German Painter Albrecht Dürer",
-      "Café Machörndl for an amazing iced latte",
-      "Crazy Nate's West Coast Mexican - an American/Mexican Taco restaurant",
-      "Café Pique Nique/Tafelzier (French Patisserie)",
-      "Weißgerbergasse, Nürnberg's Most Photogenic Street (also has a great ice cream parlor, Kleine Eismanufaktur)",
-      "Kaschemme, a vegan Szechuan restaurant",
-      "Cafe oi. baked goods - best matcha and cookies in town",
-      "Rock im Park, South Germany's biggest music festival, first weekend of June",
-      "Trempelmarkt, turning the whole inner city into one giant flea market, happening in spring and fall",
-      "Bardenfest, Germany's biggest street music festival with bands and artists playing in every corner of the city (happening once each summer)"
-    ],
+    "content": "Nürnberg, Germany\nPopulation: 544k people\nHow to get here?\nFly into Nürnberg Airport directly or into Frankfurt or Munich and take the train (~2-3h) from there.\n\nThings to do here:\nNürnberg has plenty of history, especially regarding WW2. \nThings worth visiting in that regard would be\n-Nazi Party Rally Grounds\n-Dokumentationszentrum (museum about the atrocities and the City's role in the war)\n- Nuremberg Trial Memorials (haven't been personally)\n\nOther great activities are\n- visiting one of the two defunct nuclear bunkers\n- Nürnberg Castle \n- Rent a paddle boat at one of the two immer City lakes Wöhrder See or Dutzendteich\n- do a guided tour of the tunnels that are situated under the old town\n- take a walk around the old town (I can map out routes if interested) \n\nMy favorite spots:\n- Cafe Wanderer, situated beneath the castle next to the house of German Painter Albrecht Dürer \n- Café Machörndl for an amazing iced latte\n- Crazy Nate's West Coast Mexican - an American/Mexican Taco restaurant \n- Café Pique Nique/Tafelzier (French Patisserie)\n- Weißgerbergasse, Nürnberg's Most Photogenic Street (also has a great ice cream parlor, Kleine Eismanufaktur)\n- Kaschemme, a vegan Szechuan restaurant\n- Cafe oi. baked goods - best matcha and cookies in town\n\nNotable events:\n- Rock im Park, South Germany's biggest music festival, first weekend of June\n- Trempelmarkt, turning the whole inner city into one giant flea market, happening in spring and fall\n- Bardenfest, Germany's biggest street music festival with bands and artists playing in every corner of the city (happening once each summer)\nNürnberg is also famous for its Christmas Market, probably one of the biggest worldwide albeit it is very touristy and as a local you either hate it (me) or love it \n\nNürnberg also has a big club scene, especially if you're into Techno/House, you will find a lot of places that cater to your music taste!",
     "reactions": [
       {
         "e": "🤌",
@@ -5506,8 +5403,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "The heart of Yorkshire (fuck Leeds), birthplace of the world's oldest football club, and with a rich industrial past, including the invention of Stainless steel, not to mention where the Arctic Monkeys began.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Population: 556,500 (2021)\n\nThe heart of Yorkshire (fuck Leeds), birthplace of the world's oldest football club, and with a rich industrial past, including the invention of Stainless steel, not to mention where the Arctic Monkeys began. \nYou can travel here by rail from more or less anywhere in the country, or for foreign visitors, I'd recommend flying into either Manchester or B*rmingham, and catching the train up, London is of course still doable, being 2hrs 30~ by rail.\n\nThere isn't as much to do in Sheffield as many similarly sized cities in Europe, of course, given it was a city based on industry, but it's still got plenty to offer.\n-The Crucible Theatre, home to the Snooker World Championship, despite it's small capacity, though it does of course host other performances year round.\n-Sheffield Winter Garden, a large temperate glasshouse, home to a massive variety of different plants, and from there you can walk straight into the Millennium Gallery, which is fully free to visit, with one exhibit changing quarterly on average, and a permanent (afaik) exhibit showcasing parts of the city's industrial past.\n-A variety of museums, including the National Video Game museum, and Kelham Island Museum, focusing on the history of steelmaking, with interactive galleries.\n-Sheffield Botanical Gardens, a beautiful walk around with over 5000 different species of plants, of course this one is quite seasonal. \n\n...And of course, the ACTUAL selling point, the Peak District! You can get to several places by bus from the city centre, including Eyam, a village somewhat famous for it's experience in the Great Plague of 1665, but travel aside, the PEAK District has several awesome hikes, one of my favourite being Mam Tor.\n\nFor less... uniquely Sheffield experiences, why not go to a football match, either to watch the aforementioned world's oldest club play, or to Bramall Lane, to watch the best football team in the world. Or maybe just enjoy the plethora of clubs on West Street.",
     "reactions": [
       {
         "e": "🤌",
@@ -5678,8 +5574,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Tallinn, capital of Estonia, coastal city to the Baltic Sea, a captivating blend of medieval and modern with a population of 437,980 as of 2021. I took this trip as a little winter escape in January and the city really did let me reconnect with myself and attain some peace, personally flew into Lennart Meri Tallinn…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Tallinn, capital of Estonia, coastal city to the Baltic Sea, a captivating blend of medieval and modern with a population of 437,980 as of 2021. I took this trip as a little winter escape in January and the city really did let me reconnect with myself and attain some peace, personally flew into Lennart Meri Tallinn Airport (TLL) and also returned via ferry to Port of Tallinn, you can just get there by train from the rest of Europe though. I stayed just outside Vanalinn (Old Town), a UNESCO World Heritage site. \n\nI found that most of the city was very walkable, making me hardly use public transport but the buses and trams throughout were pretty reliable.\nDaylight hours were short at the time I was there, roughly 7 hours, civil twilight starting relatively early just prior to 16:00~, night lasting around twice as much as daylight which I personally preferred.\nSurrounding Vanalinn were many shopping centres and many different places to eat. Service and people in general were all very friendly and welcoming.\nVanalinn is quite fun and enjoyable with people dressed in period clothing taking you back centuries, I found this especially in the Olde Hansa 'tavern', where they try to capture the allure taverns had back then. Me asking a woman in period clothing about the menu and being replied with \"does it look like I can read?!\" \nWithin Vanalinn there is a summit, Toompea hill which featured structures like the Nevski Cathedral, there are a few viewing platforms that let you see the city from above. I found myself going up there every morning.\nThere are many Soviet, Russian and KGB historic monuments and places dotted around the city like the Russalka just beside Kadriorg park, the park itself being a very peaceful area with a beautiful art museum in the middle as well as a Japanese garden, though I imagine this park looks especially beautiful during the summer.\nThe pirita promenade is a lovely serene walk where you can really take in the sea.\nI would definitely come back to see how the city feels during the summer.",
     "reactions": [
       {
         "e": "🤌",
@@ -5791,8 +5686,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Helsinki, capital of Finland, seaside city on the Baltic coast with a population of 656,920 as of 2021. I got here via ferry into Helsinki Port, you can otherwise fly to Helsinki-Vantaa airport (HEL). I decided to go to Helsinki on a whim as I was in Tallinn, the ferry was convenient enough to make me inclined to…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Helsinki, capital of Finland, seaside city on the Baltic coast with a population of 656,920 as of 2021. I got here via ferry into Helsinki Port, you can otherwise fly to Helsinki-Vantaa airport (HEL). I decided to go to Helsinki on a whim as I was in Tallinn, the ferry was convenient enough to make me inclined to visit the city.\n\nSnow covered much of the ground when I arrived, still I opted to walk most of where I wanted to go which let me connect with the serenity of the city. When I did use public transport however, the trams and buses were great to use throughout the city and were quite reliable. The Uspenski Cathedral had a beautiful main hall, walking from here to the Senate Square the architecture in general is captivating with structures like the City Hall, Presidential Palace, Government Palace, and most notably the Helsinki Cathedral.\nSerene walk through Esplenade Park leads into the main shopping districts of the city featuring big stores like Stockmann. Helsinki Central Station is landmark in itself with a beautiful exterior. \nKamppi Centre is a massive shopping mall that has the biggest Muji in the world with a floor of its own. The city is not cheap at all, I did end up mostly window shopping in the downtown stores though I did have to at least get Kamppi Helsinki Muji tote bag. It is generally a very nice vibe in this central area with the large number of people.\nThe Oodi Library was genuinely amazing, offering from books to 3D printers and fostering a wholesome and productive environment on top of being architecturally magnificent both exterior and interior, just makes me wish my local library could even be a fraction as good.\nMore in the outskirts, the Sibelius Park was very quiet and frozen over, I imagine this park looks much better in green over the summer, the Sibelius Monument however is quite interesting to look at, with the coast just down below allowing you to peer into the frozen Baltic Sea. \nWalked past the docks several times but unfortunately never got to go to Suomenlinna by ferry. Just south of the docks is the walk to Kaivopuisto, a large park that felt so beautiful at night in the snow, I wish for the attached video to be my entire aesthetic.\nI'd love to come back in the summer and see the greenery in the parks and gardens.",
     "reactions": [
       {
         "e": "🤌",
@@ -5815,8 +5709,7 @@ const SUBMISSIONS = [
     "date": "2025-03-10",
     "photos": [],
     "blurb": "Modes of Transportation: Car and, in some instances, by ferry.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Morehead City, North Carolina, USA\n\nPopulation: As of 2024, 9,958. Population expected to increase based on trends and the upcoming establishment of new corporate offices. (see here for details: https://worldpopulationreview.com/us-cities/north-carolina/morehead-city).\n\nModes of Transportation: Car and, in some instances, by ferry.",
     "reactions": [
       {
         "e": "🤌",
@@ -5883,8 +5776,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Last month, I visited Budapest, the capital and the largest city of Hungary. The city is divided by the danube river and it’s made up by Buda on the west bank with its historic castles and hills, and Pest, on the east, where grand boulevards and cafes dominate the scene. The city has around 1.7 million inhabitants…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Last month, I visited Budapest, the capital and the largest city of Hungary. The city is divided by the danube river and it’s made up by Buda on the west bank with its historic castles and hills, and Pest, on the east, where grand boulevards and cafes dominate the scene. The city has around 1.7 million inhabitants and to get here, you need to take a flight to Budapest’s Ferenc Liszt International Airport. There are also trains from other significant cities such as Vienna, Prague, Bratislava and other european cities. \nBudapest’s history dates back to the Roman times, when the city was known as “Aquinicum”. Later in history, it became the capital of the Kingdom of Hungary and part of the Ottoman Empire and of the Austro Hungarian Empire. The city played a significant role in WW2 and in the 1956 revolution against soviet rule. Budapest today is a city that preserves its past through its stunning buildings, bridges and magnificent architecture.\n————————\nTop things to do in the city;\nBuda side:\nBuda Castle and Hill\nFisherman’s Bastion\nMatthias Church\nMemento Park\nGellert Hill and Citadella\nPest side:\nHungarian Parliament\nSt Stephen’s Basilica \nHeroes square and city park\nDohany Street Synagogue\nSzechenyi Thermal Bath\nRuin Bars\n———————\nBudapest is known as the city of spas, with over 100 thermal springs. Besides the one we already talked about, other famous thermal baths include:\nGellert Baths\nRudas Baths\n////////\nLast thoughts. Why should you visit Budapest?\nin my opinion, from what I’ve seen in the city, Budapest is one of those cities that leaves a lasting impression. It’s grand but unpretentious, historic but always evolving. You can start your day in an ancient bathhouse, get lost in centuries-old streets, and end your night dancing in a ruin bar. it’s affordable, packed with culture and undeniably beautiful. Whether you’re a foodie or a history buff or just someone looking for an amazing city to explore, Budapest delivers.",
     "reactions": [
       {
         "e": "🤌",
@@ -5935,8 +5827,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "I visited the city of Nouakchott in February 2025",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "I visited the city of Nouakchott in February 2025\n\nNouakchott, the capital and largest city of Mauritania, has a population of over 1 million people and serves as a key political, economic, and cultural center. Established in 1958, it is a vibrant city with a blend of modern infrastructure and traditional influences. Visitors can enjoy attractions such as Nouakchott Beach, the bustling Port de Nouakchott, and the National Museum of Mauritania, which showcases the country's history and culture. The Central Market offers a lively shopping experience, while nearby artisanal villages provide a glimpse into traditional crafts like pottery and jewelry. Nouakchott is accessible by air through Nouakchott-Oumtounsy International Airport, with connections to major cities in Africa, Europe, and the Middle East. The city can also be reached by road from other parts of Mauritania, with buses and shared taxis commonly used for travel.",
     "reactions": [
       {
         "e": "🤌",
@@ -5980,8 +5871,7 @@ const SUBMISSIONS = [
         "text": "how was your time there? ive hardly researched the place but my vague sense would be that this isnt the safest/most reasonable place for a tourist to visit",
         "reactions": []
       }
-    ],
-    "lite": true
+    ]
   },
   {
     "id": "s-marrakesh-knotte",
@@ -6041,8 +5931,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "In january we flew from Warsaw to Marrakesh for our two week trip around Morocco. Marrakesh became our main base for the first week, we spent a total of 6 full days there. It is a large and very crowded city with a population of around 2,450,000. The city is very touristy and it was very easy for us to get around…",
-    "getThere": "In january we flew from Warsaw to Marrakesh for our two week trip around Morocco. Marrakesh became our main base for the first week, we spent a total of 6 full days there. It is a large and very crowded city with a population of around 2,450,000. The city is very touristy and it was very easy for us to get around it by cheap taxis and on foot, however as you get closer to the center and the medina itself it gets very crowded. Numerous  narrow alleys are used by pedestrians as well as motorcycles, scooters and even delivery tricycles, so you constantly have to look over your shoulder. The market in the medina is characterized by a huge variety of goods. Sellers call out to tourists and like to haggle with them, but most are not very pushy. However Marrakesh is not good for buying souvenirs because the prices are much higher here due to the number of tourists.\n\nTypical dishes that we should try in Morocco are taiine (slowly cooked meat e.g. chicken or beef or lamb and vegetables in a clay pot), harira soup, freshly squeezed juices, couscous, etc. Berber whisky (amazing tea with mint) is a must have for every meal.  I definitely recommend searching the internet and delving into the streets of the city centre to find often hidden or inconspicuous places, preferably family ones, where the food is not only delicious, but the people are usually very nice (I especially remember Mrs. Fatima, who with her husband and son welcomed us as if we were visiting a beloved aunt).\n\nPlaces to visit:\n- Berber Museum and Majorelle Garden - beautiful gardens and iconic blue buildings\n\n- The mosque and madrasa of Albi ibn Yusuf - a masterpiece of carved decorations in the building\n\n- Food Fatima, Dar El Bacha,  76 - delicious homemade food and sweet, amazing host! \n\n- historical medina\n\n- Bahia Palace",
-    "thingsToDo": [],
+    "content": "Country: Morocco\nCity: Marakesh\nPopulation: 2,453,000\nHow to get there: there is Marakesh-Menara Airport just 8km from city center\n\nIn january we flew from Warsaw to Marrakesh for our two week trip around Morocco. Marrakesh became our main base for the first week, we spent a total of 6 full days there. It is a large and very crowded city with a population of around 2,450,000. The city is very touristy and it was very easy for us to get around it by cheap taxis and on foot, however as you get closer to the center and the medina itself it gets very crowded. Numerous  narrow alleys are used by pedestrians as well as motorcycles, scooters and even delivery tricycles, so you constantly have to look over your shoulder. The market in the medina is characterized by a huge variety of goods. Sellers call out to tourists and like to haggle with them, but most are not very pushy. However Marrakesh is not good for buying souvenirs because the prices are much higher here due to the number of tourists.\n\nTypical dishes that we should try in Morocco are taiine (slowly cooked meat e.g. chicken or beef or lamb and vegetables in a clay pot), harira soup, freshly squeezed juices, couscous, etc. Berber whisky (amazing tea with mint) is a must have for every meal.  I definitely recommend searching the internet and delving into the streets of the city centre to find often hidden or inconspicuous places, preferably family ones, where the food is not only delicious, but the people are usually very nice (I especially remember Mrs. Fatima, who with her husband and son welcomed us as if we were visiting a beloved aunt).\n\nPlaces to visit:\n- Berber Museum and Majorelle Garden - beautiful gardens and iconic blue buildings\n\n- The mosque and madrasa of Albi ibn Yusuf - a masterpiece of carved decorations in the building\n\n- Food Fatima, Dar El Bacha,  76 - delicious homemade food and sweet, amazing host! \n\n- historical medina\n\n- Bahia Palace",
     "reactions": [
       {
         "e": "🤌",
@@ -6058,8 +5947,7 @@ const SUBMISSIONS = [
     "date": "2025-03-13",
     "photos": [],
     "blurb": "I spent 3 days here in January 2025",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Sevilla, Spain 🇪🇸 \nPopulation: 684,340 (2021)\nI spent 3 days here in January 2025",
     "reactions": [
       {
         "e": "🤌",
@@ -6091,8 +5979,7 @@ const SUBMISSIONS = [
         "text": "https://tenor.com/view/orange-wink-gif-8905768",
         "reactions": []
       }
-    ],
-    "lite": true
+    ]
   },
   {
     "id": "s-doha-duck",
@@ -6152,8 +6039,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Doha is a city of contrasts. An iconic modern skyline backdrops the souq and mosques that belong to a storied and rich history that is felt very much across the contemporary globe. Much like Istanbul, Doha's Hamad International Airport bridges a gap between western and eastern societies as millions of passengers…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Population: 350K\n---\nDoha is a city of contrasts. An iconic modern skyline backdrops the souq and mosques that belong to a storied and rich history that is felt very much across the contemporary globe. Much like Istanbul, Doha's Hamad International Airport bridges a gap between western and eastern societies as millions of passengers cross through the terminals annually to reach their final destination. Some choose to leave the confines of the airport during an extended layover and see what the small country has to offer. I personally made the choice for a long connection from my trip between JFK to Azerbaijan just so I could experience Doha.\n\nYou will see the skyline lined with modern skyscrapers and with closer scrutiny you will find the characteristics of a country possessing strong Islamic roots across its architecture, food and its people, which gives the city a pronounced sense of identity.  \n\nGiven the short time frame, I was impressed to see how much there was to see. Between admiring the skyline to getting lost for hours at the very lively Souq Wasif and at the sophisticated scene of downtown Msheireb, I still had a breadth of options to explore that would require an extended stay to earn a comprehensive understanding of Qatar. The Museum of Islamic Art and the National Museum of Qatar are highlights to Doha but there are many more museums offered, especially during Ramadan when the operating hours to these places extend past midnight.",
     "reactions": [
       {
         "e": "🤌",
@@ -6176,8 +6062,7 @@ const SUBMISSIONS = [
     "date": "2025-03-16",
     "photos": [],
     "blurb": "Modes of Transportation: Car",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Kinston, North Carolina, USA\n\nPopulation: ~18K\n\nModes of Transportation: Car",
     "reactions": [
       {
         "e": "🤌",
@@ -6197,8 +6082,7 @@ const SUBMISSIONS = [
         "text": "Highlights to Check Out: \n\nKinston Music Park: This park is a bright and colorful rendition of artwork dedicated to African American music. It is a small park, and its art pieces and information on African American music history is worth the walk.\n\nThe Flue: Also known as tobacco barn art, these tall art structures were built on the original home of a tobacco warehouse and meant to represent tobacco barn entrances.\n\nM & D Gifts: This shop holds plenty of gently used books sold for just 25¢ a book. Best of all, you can pet the resident pig while doing so!\n\n Community Council for the Arts: This place boasts of having one of the largest public collections of 2D and 3D art in the world!\n\nViv’s Fridge: North Carolina has their very own smart fridge selling local foods that reportedly taste fresh. Their home base is a restaurant called Chef & the Farmer in Kinston, NC, but this advancement has allowed for technology progression in especially more rural parts of North Carolina.\n\nNeuseway Nature Park and Campground: This spot has a pretty good range of activities, from a large planetarium to salt water touch tanks to live animal exhibits to kayak/canoeing spots to a cozy campground for the night. Great for a full day trip!",
         "reactions": []
       }
-    ],
-    "lite": true
+    ]
   },
   {
     "id": "s-raleigh-dragon-library-system",
@@ -6207,8 +6091,7 @@ const SUBMISSIONS = [
     "date": "2025-03-16",
     "photos": [],
     "blurb": "",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "-",
     "reactions": [
       {
         "e": "🤌",
@@ -6286,8 +6169,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Leicester is a city in England located in the East Midlands, it has an estimated population of 370,000 people. You can fly into East Midlands Airport, drive in or come in by public transport. I came via train and stayed at the Gresham Aparthotel",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Leicester is a city in England located in the East Midlands, it has an estimated population of 370,000 people. You can fly into East Midlands Airport, drive in or come in by public transport. I came via train and stayed at the Gresham Aparthotel\n\nLeicester is a big city with a lot of villages in the Leicestershire countryside. Leicester has nice shopping centre's like Fosse Park, Haymarket and Highcross. The food here is also amazing, my top 5 recommendations would be:\n\n- Amigo Grill\n- Hotville\n- Saffron Street \n- Uncle J's Kitchen \n- Istanbul Restaurant \n\nThe city centre is lovely and I enjoyed walking around here in the evenings, the train station has some lovely architecture, there is also the De Montfort University  here and Leicester Museum, so expect a lot of students in the town centre. I was here for 2 weeks for work so I just went shopping and walked around the city centre.  Just beware that if you go out after 9 pm you will see LOTS of homeless and beggars approach you.",
     "reactions": [
       {
         "e": "🤌",
@@ -6342,8 +6224,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "New Orleans is such a unique city in the state of Louisiana. I stayed in the French Quarter so all of my recommendations below are in that area. However the city is beautiful and amazing. To arrive, you can fly in to their airport which is 30 minutes from FQ. You can also take Amtrak, and there are streetcars, and…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "New Orleans is such a unique city in the state of Louisiana. I stayed in the French Quarter so all of my recommendations below are in that area. However the city is beautiful and amazing. To arrive, you can fly in to their airport which is 30 minutes from FQ. You can also take Amtrak, and there are streetcars, and busses though I don’t know much about them. Interstate access is also very accessible and the longest bridge in the world (according to NPS) is located nearby over Lake Pontchartrain.  Below are my recommendations, just keep in mind I’ve only spent 1 day in 1 area. \n\nJean Lafitte National Preseve & Historic Park- One of the visitors center is located in the FQ and is also shared with NO Jazz NHP. If you’re interested in the area, history, or people it is very easy to follow along and very informative.\n\nJazz Musuem- When we went there was a Jazz Festival with a bunch of bands including Yusa who was phenomenal. Overall the museum was okay, and had a coin section as it was formerly a mint.\n\nLouis Armstrong Park- A large very nice urban park that includes Congo square which has some interesting history as the only spot where slaves could sing and dance 1 day a week for a few hours.\n\nFrench Street- A lot of jazz, booze and good vibes. We enjoyed the Spotted Cat, though I am sure if you like jazz and booze that you will find many great spots.\n\nFood- in general some amazing food down there. There are so many things to try. I personally liked bingets, gumbo, jamalya, étouffée, and much more. If you like food, you’ll be happy.",
     "reactions": [
       {
         "e": "🤌",
@@ -6402,8 +6283,7 @@ const SUBMISSIONS = [
     "date": "2025-03-25",
     "photos": [],
     "blurb": "",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "-",
     "reactions": [
       {
         "e": "🤌",
@@ -6509,8 +6389,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Baku is the capital of Azerbaijan and offers a remarkable example of the seamless blending of cultures which exists in the Caucasus region, serving as a transitionary space between Eastern Europe and West Asia. Flying here involved a short layover from Doha, Qatar.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Baku, Azerbaijan. Population: 2.5M\n\nBaku is the capital of Azerbaijan and offers a remarkable example of the seamless blending of cultures which exists in the Caucasus region, serving as a transitionary space between Eastern Europe and West Asia. Flying here involved a short layover from Doha, Qatar.\n\nAt first glance, Baku looks to be a distinctively European location with its refined and eloquent architecture, but along the seams of the city background lay Baku's strong roots to its Islamic identity. Between 90 to 99 percent of the population identify as Muslim, yet you would be mistaken to assume that the average individual to be strongly secular on the basis of their fashionable attire. Azerbaijani people walk the streets of Baku in stylish clothing that rival the scenes of any hip, trendy city. \n\nMost of Baku's sights can be found along the city center. The Old City, known as Icheri Sheher, is situated in front of the Baku Promenade which overlooks the Caspian Sea. The Old City forms the inner walls of a Baku of a prior era where the Palace of the Shirvanshahs and the Maiden Tower can be found. Here you can imagine a time before the city developed similarly to its contemporary peers, as the constant reminder of Azerbaijan's present and future can be felt by the emblematic Flame Towers that scale above from every vantage point taken in the city.\n\nTowards the Caspian Sea, you can take strolls on the Baku Promenade that contains attractions like Azneft Square, Mini Venice, the Azerbaijan Carpet Museum and Dəniz Mall. Beyond the mall you will find the Baku Eye and National Square Flagpole, which once stood as the tallest flagpole at 191m before being superceded by the Cairo Flagpole in 2021.",
     "reactions": [
       {
         "e": "🤌",
@@ -6644,8 +6523,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Nakhchivan city, Nakhchivan, Autonomous Region of Azerbaijan: Population - 95K",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Nakhchivan city, Nakhchivan, Autonomous Region of Azerbaijan: Population - 95K\n\nTwo words: Holy fucking shit. Okay, that's three. Coming from Baku to Nakhchivan (city proper) is like witnessing two completely incongruous siblings living under the same roof. Despite people's surprise, the Nakhchivan Autonomous Republic of Azerbaijan, an exclave sandwiched snuggly between Armenia and Iran, is not difficult at all to visit (though the tourist infrastructure says otherwise). Interestingly, Nakhchivan is only a short 40-minute drive to the Iranian border and an hour long flight from Baku. Azerbaijan Airlines offers like 6 to 8 daily flights from Heydar Aliyev's domestic terminal to Nakhchivan Airport. So, that's how I got here.\n\nUpon my landing, I was immediately apprehended by the police demanding that I delete the picture of the Nakhchivan Airport sign that I took. I did delete the photo but you can still find it below, suckers. Afterwards, I felt the police presence everywhere, as patrols would endlessly surveil the city, making the environment feel fairly tense for a visitor like me. I got plenty of looks from the locals, as I assume who were trying to figure how I fit in their dialogue as a foreigner. Speaking of locals, the people dress much differently in Nakhchivan than they do to their Baku counterparts, as the demographic leans toward the older side and are often found wearing more conservative garbs. \n\nOne of the first things you'll notice besides the police presence is the dramatic overview of the mountains that cradle the region. In the city, you can find the Haydar Mosque, a marvelous cerulean structure that serves as a ceremonial monument and offers a bold reminder to the Islamic presence in Azerbaijan. The city is much less developed compared to Baku, yet due to the wide roads that fit the setting, an emptiness is caressed in the cityscape that makes solo traveling an awkward and intimidating endeavor.",
     "reactions": [
       {
         "e": "🤌",
@@ -6725,8 +6603,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Wanderlust's favorite forgotten child -- Tbilisi sits comfortably in a valley in where the Kura River runs. I took a short flight from Baku to Tbilisi and enjoyed an awkward ten minutes as immigration scrutinized my passport trying to figure out how and why a brown person had their hands on an American passport.…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Tbilisi, Georgia. Population - 1.2M\n\nWanderlust's favorite forgotten child -- Tbilisi sits comfortably in a valley in where the Kura River runs. I took a short flight from Baku to Tbilisi and enjoyed an awkward ten minutes as immigration scrutinized my passport trying to figure out how and why a brown person had their hands on an American passport. Afterwards, I rented a car out of the airport and made my way to the city via the George W. Bush Street. For my entire stay I asked myself \"why the fuck is this named after Dubya\" but apparently it's because he was the first American president to visit the country. My theory is that Dubs thought he was flying to Atlanta. But boy was he in for a surprise-- the two are nothing alike.\n\nMountain country is an understatement, the entire region is mountain. Driving into Tbilisi is a shitshow in many ways. The steep roads, rough roadwork, dogs and pedestrians on the street, and the batshit drivers make it very intimidating for the uninitiated. My hotel was adjacent to the Holy Trinity Cathedral of Tbilisi, so of course I made my way there first. A beautiful structure, the cathedral represents the eclectic and storied past of the Caucasuses and how the region was divided between Orthodox, Christian, and Islam. In this sense, Georgia represents the sect of Orthodox that exists northwards into Russia. \n\nWest of the Kura is baaically Tbilisi city center. You can cross from the Bridge of Peace or Metekhi Bridge into Vakhtang Gorgasali Square, where you can be greeted by the \"I Love Tbilisi\" sign as well as the Meidan Bazaar and many great restaurants. If you are hungry you will need to try the khinkali. Walking up north, you will encounter more cathedrals, a basilica and their iconic-yet-quirky clock tower that belongs to the Rezo Gabriadze Marionette Theater.",
     "reactions": [
       {
         "e": "🤌",
@@ -6800,8 +6677,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Welcome to StalinWorld, home of the Stallin' Stalins and where you can try their iconic Stolen Stalin Stallion Scallions. Not really, but their main road is actually named Stalin Avenue. If you could wager a guess -- you're correct. Indeed, Chairman Mao was born in Gori.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Gori, Georgia\nPopulation - 42.6K\n\nWelcome to StalinWorld, home of the Stallin' Stalins and where you can try their iconic Stolen Stalin Stallion Scallions. Not really, but their main road is actually named Stalin Avenue. If you could wager a guess -- you're correct. Indeed, Chairman Mao was born in Gori.\n\nOnly an hour from Tbilisi, I drove my way to this city after taking long detours to Mtsheka and Uplistsikhe (great places, recommend). Gori is an interesting destination in where a particular historical figure had his existence initialized before changing the world for the better. Beyond visiting the Chairman Mao Museum, in which you can find his preserved birth home, railway carriage and a copy of his death mask, there are a couple other attractions worth seeing. The churches are worth checking out in the city, plus Gori Fortress is fairly impressive for its preservation while belonging to a rather unassuming city. \n\nOne of my particular standout highlights was eating at the Fish House Restaurant. I found them randomly on Google but driving there will have you encounter a massive fish hatchery in where they raise various fish. One of their main draws is the large sturgeon farms that are located at the restaurant. While there, I obviously ordered the sturgeon but I also tried the sturgeon liver. I have had sturgeon before but the liver was a novelty to me. While initially extremely sweet and flavorful, the fish taste can linger for an extraordinarily long time and make subsequent bites less palatable. They have a million other things on their menu and everything I had was very good despite my remarks. Definitely check out this restaurant if you are ever in Gori.",
     "reactions": [
       {
         "e": "🤌",
@@ -6848,8 +6724,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Kutaisi is one of the oldest inhabited cities on the Eurasian subcontinent. The settlement was established back in the 13th century BC which makes Kutaisi eligible to run for US senate. I made my way here to spend the night after a long drive from Tbilisi.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Kutaisi, Georgia. Population 125.6k.\n\nKutaisi is one of the oldest inhabited cities on the Eurasian subcontinent. The settlement was established back in the 13th century BC which makes Kutaisi eligible to run for US senate. I made my way here to spend the night after a long drive from Tbilisi. \n\nAll in all, Kutaisi has a charming vibe with a center area that holds most of the attractions. Colchis Fountain sits in the middle of a traffic circle as Mekishvili Theater can be seen in the background. Stroll about Kutaisi Park and make your way to Shota Rustaveli Avenue and take a gander at the Green Bazaar. Looping your way around you will find statues casting down their gaze at you. Bagrati Cathedral can be found lying on the hill across the Rioni River. The Rioni can serve as a place to relax as there are plenty of cafes and restaurants overlooking the river in which a white bridge spans. On Galaktion Tabidze Street there are even more bars and pubs where the locals go to enjoy the night.",
     "reactions": [
       {
         "e": "🤌",
@@ -6916,8 +6791,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Yerevan is cool. I flew here from Tbilisi via a very brief 30-minute flight. Capital of Armenia, Yerevan offers it's own unique expression to a city in the Caucasus, especially as Mount Arawat overlooks a city dominated by a pink aesthetic. Eponymous to Armenia, the bricks are made of pink tuff stone, which…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Yerevan, Armenia. Population of 1.1M.\n\nYerevan is cool. I flew here from Tbilisi via a very brief 30-minute flight. Capital of Armenia, Yerevan offers it's own unique expression to a city in the Caucasus, especially as Mount Arawat overlooks a city dominated by a pink aesthetic. Eponymous to Armenia, the bricks are made of pink tuff stone, which comprises the facade of various government buildings museums and other structures. Furthermore, the unique building stone is a type of lava rock called oxidized ignimbrite, which comes from the pyroclastic flows that formed the region many millions of years ago. The oxidized ignimbrite is popular for its insular properties in such that it helps cool buildings during the summer while trapping heat inside during the winter. \n\nThere's a good degree of attractions to experience in Yerevan. The Cathedral of Saint Gregory the Illuminator is the hallmark religious monument in Armenia, representing the extensive history of the country being the first to adopt Christianity. Close to the cathedral is Vernissage Market, where handcrafted goods can be found. Further past the market is Republic Square. You will find the state government office across National Gallery and History Museum of Armenia. Nearby is the Blue Mosque which was built in the 18th century. Moreover, you will find Shahumyan Park and Northern Ave, a pedestrian street that diagonally cuts through the heart of Yerevan. If you follow down Nothern Ave, you will eventually come across the Armenian National Opera and Ballet Theatre. From then, the iconic Cascade Complex will be on full display, in where you can climb to the top after taking 572 steps. There is also a museum housed in the stairway called the Cafesjian Center for the Arts. You can gawk at statues and monuments that sprawl across this area of Yerevan, or enter the many trendy restaurants that populate the downtown streets. Mostly, you will never run out of food options as there are a glut of themed restaurants that will satisfy your fancy. I recommend the Beatles Pub if you are into pretentious beers like me. \n\nOf course, without much introduction it is worth visiting the Tsitsernakaberd Armenian Genocide Memorial Complex. This place is extraordinarily heartfelt as people frequently replenish the flowers left at the center of the eternal flame. From here, you can accept the tranquility of the memorial and reflect on the tragic and cautionary tale that was inflicted to the Armenian people from a not-so-distant past.",
     "reactions": [
       {
         "e": "🤌",
@@ -6984,8 +6858,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Warsaw, the capital of Poland, was reborn out of tragedy and necessity following the end of World War 2. You can find traces of the past based on Warsaw's commitment to restore what was lost after Nazi Germany razed the city to the ground. Beyond the replication of Old Town, many modern buildings sprawl across the…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "1.86M people live in Warsaw.\n\nWarsaw, the capital of Poland, was reborn out of tragedy and necessity following the end of World War 2. You can find traces of the past based on Warsaw's commitment to restore what was lost after Nazi Germany razed the city to the ground. Beyond the replication of Old Town, many modern buildings sprawl across the city alongside the wide roads that make Warsaw, uniquely Warsaw. \n\nI have been to Warsaw back in 2018 and this was my first time revisiting kn the form of a long layover from Yerevan back to NJ. During my first visit, I visited the Palace of Culture and Science, Muzeum Powstania Warszawskiego and the POLIN Museum of the History of Polish Jews\nPOLIN Muzeum Historii Żydów Polskich. All very good choices to spend your time in Warsaw. However, this time I wanted to do it different. \n\nI left the airport and immediately went to Łazienki Królewskie to walk the grounds in the early AM. During that time, I admired the ostriches, visited Ujazdów Castle and the Frédéric Chopin Monument. After covering ground, I went to Hala Koszyki, a food hall that offers different food stalls and restaurants to have breakfast. Afterwards, I visited the Muzeum Narodowe w Warszawie, whose art collection genuinely rivals that of many other more-famous galleries. The number of works that I found stunning and breathtaking far exceed what I expected upon entering. I am aware of Narodowe's reputation but this museum is a necessity for any art enthusiast.\n\nAfter several hours spent gawking at masterpieces, I made my way to Vistula Boulevards, which the Centrum Nauki Kopernik resides. This attraction offers many interactive exhibits and appeared to be a popular destination, especially during my sunny layover I was having. At this point, I had the overwhelming urge to stuff my facehole with pierogies, so I walked to the nearby Old Town, to which memories of my first visit returned. It seemed much more touristy this time, or maybe I was so used to never seeing tourists during my entire time spent in the Caucasus. Either way, it's all a familiar scene to me. Back to pierogies: I checked out GOŚCINIEC Polskie Pierogi and enjoyed my last meal here in Europe. I won't be back for awhile but Warsaw was like seeing an old friend.",
     "reactions": [
       {
         "e": "🤌",
@@ -7001,8 +6874,7 @@ const SUBMISSIONS = [
     "date": "2025-03-30",
     "photos": [],
     "blurb": "",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "-",
     "reactions": [
       {
         "e": "🤌",
@@ -7093,16 +6965,14 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Modes of Transportation: Car, plane, train, bus, etc.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Greenville, North Carolina, USA\n\nPopulation: ~90K\n\nModes of Transportation: Car, plane, train, bus, etc.\n\nOverview\n\nThis city holds pride in its coastal history of pirates and it shows! From their annual Pirate Fest to the home of ECU’s football team to random statues of pirates found across the city to a radio station taking pride as the “Voice of the Pirate Nation” (their words, not mine), you’re sure to enjoy this place if you’re a pirate enthusiast! I was surprised they don’t advertise this too much, because it’s basically a pirate-themed city with other fun things to do along the way.\n\nHighlights: Things to Do\n* Pirate Festival (every year in April at Town Commons)\n* Mellow Mushroom Pizza (for the artistic scenery and unique styling; plus a cool photo with a pirate statue)\n* Captain Jack’s Mini-Golf (need I say more?)\n* Greenville Community Garden\n* Wildwood Park (Beach fun, kayaking, mountain bike trail, etc.)\n* Pirates Popcorn\n* Pirates Pointe Shopping Center\n* East Carolina Village and Farm Museum\n* North Carolina Museum of Natural Sciences\n* Native Fine Diner (the burgers were absolutely amazing)\n\nMost Memorable Moment(s)\n\nDefinitely the Pirate Fest for me. I wasn’t expecting there to be so many vendors to choose from, free boat rides, a mini “village” of pirate history and living, and pirate-themed foods.\n\nHonorary mention is Native Fine Diner. Most burgers taste the same to me. Their burgers were genuinely amazing, and I would rate it among my top 3 (still debating if it takes 1st place or 2nd place).",
     "reactions": [
       {
         "e": "🤌",
         "c": 1
       }
     ],
-    "comments": [],
-    "lite": true
+    "comments": []
   },
   {
     "id": "s-durham-dragon-library-system",
@@ -7111,8 +6981,7 @@ const SUBMISSIONS = [
     "date": "2025-04-09",
     "photos": [],
     "blurb": "Modes of Transportation: Car, plane, train, bus, etc.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Durham, North Carolina, USA\n\nPopulation: ~300K\n\nModes of Transportation: Car, plane, train, bus, etc.\n\nOverview\n\nDurham is one of the major cities located within the Research Triangle, and is also known as “Bull City” because of its tobacco history. It’s also the location where the final surrender of the Confederates occurred that ended the Civil War (the location is Bennett Place, if anyone is interested). It is also the site of Black Wall Street, of which the history is still preserved and acknowledged to this day.\n\nIn modern day, Durham is known as the “City of Medicine”. Duke University claims this place as home, and Durham is also the headquarters of the American Dance Festival (one of the most significant dance festivals in the country). It is also the site of Research Triangle Park, the world’s largest university-related research park.\n\nAlso, as a quick addendum… Durham, while often lumped together with Raleigh due to its being a part of the Research Triangle, is considered a separate metropolitan area and is located in a different county altogether. It is a metropolitan that also includes Chapel Hill, which is the third part of the Research Triangle. Feel free to check out this link for further details: https://www.newsobserver.com/news/business/article287342095.html",
     "reactions": [
       {
         "e": "🤌",
@@ -7126,8 +6995,7 @@ const SUBMISSIONS = [
         "text": "Highlights\n• Research Triangle Park: World’s largest university-owned research park\n• Duke Lemur Center\n• Black Wall Street: I feel this place would’ve been very engaging for me if I had purchased a tour of the area\n• Night School Bar: Such a cool idea imo. Drinks and humanities studies? Sounds good to me!\n• Museum of Life and Science: There’s so much to do here, such as a petting/feeding zoo, a wild animals exhibit, a geology-based interactive exhibit, a dinosaur trail with a fossil digging site, and a lot more. Even though it’s primarily for kids, there are things to do for adults, including adult nights and drinking… 🍺 \n• American Tobacco Campus: A place that sounded underwhelming to me at first and turned out to be so worth seeing; it’s a positive example of “history repeats itself” from the way it’s structured\n• Hayti Heritage Center: I just love how they beautifully merged preservation of Durham history and modern day\n\nAddendum: Chapel Hill\n\nChapel Hill is part of the same metropolitan as Durham. There’s a lot to do in Chapel Hill, but I wanted to list a few main highlights I personally enjoyed or found interesting:\n• Epilogue Books Chocolate Brews: Reading plus breakfast and coffee.\n• Caffé Dríade: Hidden café with a beautiful garden\n• North Carolina Botanical Garden\n• Morehead Planetarium and Science Center: I never got to step in, but have heard really good things about it!\n• Cat Tales Cat Café\n\nMost Memorable Moment(s)\n\nPersonally (not biased, not at all… lol), Epilogue Books Chocolate Brews. They blended Hispanic culture with breakfast, coffee & hot teas, and a wide range of books. Couldn’t have asked for any better! Will definitely be popping back in when I go back to the area.\n\nHonorary mention is American Tobacco Campus. Again, definitely not biased because there’s a Boricua restaurant (lol)…. But it was really cool to traverse this “city within a city” where people work, rest, play, shop, and enjoy a sports game in the evenings.",
         "reactions": []
       }
-    ],
-    "lite": true
+    ]
   },
   {
     "id": "s-myrtle-beach-dragon-library-system",
@@ -7172,8 +7040,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Modes of Transportation: Car, plane, train, bus, possibly boat, etc.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Myrtle Beach , South Carolina, USA\n\nPopulation: ~60K (for main city areas, not including entire metro population)\n\nModes of Transportation: Car, plane, train, bus, possibly boat, etc.\n\nOverview\nMyrtle Beach is what I would consider the appetizer city of entertainment cities. They host a wide range of activities, from amusement parks to a wide range of activities to dinner & a show to the nation’s smallest escape room. While not Anaheim nor Orlando, this city offers a less populated area with lots to do!\n\nHighlights\nThere’s a ton to do here, but here are some of the highlights:\n• Ripley’s in Myrtle Beach: Plenty to do with Ripley’s! They have a huge aquarium, Believe It Or Not!, haunted adventure, illusion lab, and so much more.\n• Claustrophobia Extreme Escape: The nation’s smallest escape room.\n• Dinner & Show events: Some big ones include Medieval Times Dinner & Tournament and Pirates Voyage Dinner & Show.\n• Alligator Adventure: If you’re up for the challenge… 🐊 \n• The Gay Dolphin: Nation’s largest gift shop. Also, the name… 🏳️‍🌈 🐬 \n• DinoLand Cafe: There’s a dragon bar here, too!!\n• Skywheel Myrtle Beach: Beautiful views of the beach from this ferris wheel.\n• Broadway at the Beach: they have cute catfish in the water there!! There are also places like WonderWorks, Paula Deen’s Family Kitchen (which has a really neat set-up), and more.\n• $25 helicopter rides of the ocean view.\n\nMost Memorable Moment(s)\nI really liked just seeing the tons of catfish bobbing in and out at Broadway at the Beach. They were so cute! I didn’t realize there were so many in this area either. There were fish food vending machines, too… 😏 \n\nHonorary mentions are Myrtle Beach State Park and the Grand Strip. The Grand Strip was filled with so many attractions (including Ripley’s) which I really enjoyed and marked some for later. Myrtle Beach State Park had more quiet from the hustle and bustle, so the beach was far less crowded. That, plus hiking!",
     "reactions": [
       {
         "e": "🤌",
@@ -7210,8 +7077,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Pittsburgh is located in south western Pennsylvania, a state in the United States of America. It is the 2nd most populous city in PA (302,971). Located 370 miles from NYC (the center of the universe), it would take 6.5h to drive there. I didn't want to drive that far, so instead I flew to Pittsburgh International…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Pittsburgh is located in south western Pennsylvania, a state in the United States of America. It is the 2nd most populous city in PA (302,971). Located 370 miles from NYC (the center of the universe), it would take 6.5h to drive there. I didn't want to drive that far, so instead I flew to Pittsburgh International Airport (PIT). It was a quick flight, scheduled to take 1.5h, but it really ended up being more like 1h. Just long enough for the flight attendants to run down the aisle so I could get my free stroopwafel and a coke zero.\n\nPittsburg has 90 neighborhoods. I was only there for 2 days so I only visited one of them, Oakland. This is where the University of Pittsburgh (\"Pitt\") and Carnegie Mellon University (\"CMU\") are located.\n\nPitt has a really cool building named the Cathedral of Learning (https://en.wikipedia.org/wiki/Cathedral_of_Learning). It's the tallest educational building in the western hemisphere, a 42 story skyscraper in the late gothic revival architectural style.",
     "reactions": [
       {
         "e": "🔥",
@@ -7272,8 +7138,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "The capital of Hungary and a classic eurotrip-destination, Budapest, known for it's thermal baths and delicious chimney cakes. The name is actually a merger of Buda, Obuda & Pest, three cities on either side of the Danube river, the former being a hilly and more residential part and the latter being more of a city…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "The capital of Hungary and a classic eurotrip-destination, Budapest, known for it's thermal baths and delicious chimney cakes. The name is actually a merger of Buda, Obuda & Pest, three cities on either side of the Danube river, the former being a hilly and more residential part and the latter being more of a city center, with shops, night clubs and restaurants. The city itself is home to over 1.5 million but the metropolitan area is housing almost 3 million people.\n\nAccessible in almost every way imaginable, be it plane, train, car or even boat, it's a very popular destination for people visiting central Europe and has easy train connections to Vienna, Prague, Bucharest and even Munich, furthermore it's location allows you to take river cruises to pretty much any big city along the Danube. \n\nBudapest may be most commonly recognized by its massive parliament building, Országház, opened in the early 1900s and inspired by Vienna's City Hall, sitting right next to the river and standing almost 100m tall, it's virtually impossible to miss as you're passing through the city.\n\nFor the best views, taking a short hike up Gellért-hegy nature preserve/hill is your best bet, also allowing you to visit the ruins of the citadel, but if that wasn't enough the Budavári Palota or \"Buda Castle\" offers similar views while simultaneously also being a massive 14th century Castle home to the national library, Budapest history museum and a bunch of fancy sculptures and what have you. \n\nWhen it comes to food, you cannot visit Budapest without trying Lángos or Goulasch - Lángos is a typical street food easily enjoyable on the go whereas Goulasch is more typically enjoyed in a restaurant. Granted I haven't tried that many restaurants in Budapest, two of them really stood out in their own ways and so I'm happy to recommend either one based on what fits you better:\n* Ruben Etterem (https://maps.app.goo.gl/zm2jBKyGadDvdnHD6) - Cheap but tasty traditional Hungarian food\n* TATI (https://maps.app.goo.gl/zfG1bcEEFqRrDNu36) - Upscale and modern Hungarian food, sourced locally\n\nLast but not least, a few places worth checking out on your way through the city:\n* Shoes on the Danube Bank (https://maps.app.goo.gl/k6HjWfTeDDQXRMCe7) - WW2 memorial\n* St. Stephen's Basilica (https://maps.app.goo.gl/qskqFGVeauDjn2Ls6) - Big ol' church\n* The Church of Our Lady of Buda Castle (https://maps.app.goo.gl/RB87xdGvwd1XuUJN9) - Another church, time time with a spectacular view as well\n* Memorial to the 1956 Revolution (https://maps.app.goo.gl/ApJ5xrfDbKF2UpWA7) - Modern memorial in the middle of a unique sloped museum building\n* Vajdahunyad Castle (https://maps.app.goo.gl/FQHvgQZXUStR34oY6) - Magical 19th century castle laying next to a lake\n* The Wanderlust sticker - If you can find it! 😉",
     "reactions": [
       {
         "e": "🤌",
@@ -7407,8 +7272,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "¡Ciudad de México! Esta ciudad tiene una enorme población de 9.2 millones de personas. Con una población tan grande, la Ciudad de México es uno de los lugares más poblados del mundo. Viajé en avión. Para ser una ciudad tan grande, no es de extrañar que parezca una fiesta interminable.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "¡Ciudad de México! Esta ciudad tiene una enorme población de 9.2 millones de personas. Con una población tan grande, la Ciudad de México es uno de los lugares más poblados del mundo. Viajé en avión. Para ser una ciudad tan grande, no es de extrañar que parezca una fiesta interminable.\n. . .\n\nBlanketing the lively capitol, colorful buildings and plenty of trees make up the signature look of Mexico City as you try to hide away from the unadorning sun, especially during this time of year as the Jacandara trees showcase their violet-blue flowers. It's a big, colorful, loud city and there's a fuckload to see. No matter where you'll go, a medley of music mosaics the motley of motivated Mexicans meddling about and of whom are mostly on the move. Sprawling markets meet you at every corner, offering sale of goods of all things imaginable. You can get lost, which, if anything could possibly be the most ideal and authentic way to experience Mexico City. But for me, I chose an itinerary that initially took me away from El Ángel de la Independencia into the primary avenue strutting through the heart of the city and all the way to El Bosque de Chapultepec. From the entrance of the park you will come across runners and all people enjoying the day with various forms of entertainment and exercise. El Monumento a los Niños Héroes greets you as you can visit El Castillo de Chapultepec and view La Avenida Paseo de la Reforma from an excellent vantage point. Chapultepec is rich in activities from the numerous museums highlighting the grounds, specifically El Museo de Arte Moderno and El Museo Nacional de Antropología being my primary recommendations. In front of El Museo Nacional de Antropología, you can find a performance for la Danza de los Voladores, where performers swing round-and-round in accordance to the beat played by the musician at the very top. Following this, I chose to walk the way to El Museo Soumaya and Museo Jumex where more art can be viewed. \n\nGo further east and you can be met with the hectic scene towards El Centro Histórico, where a shitton of people congregate and spend their free time. El Monumento a la Revolución is dedicated to the Mexico Revolution and also offers a view at the top where you can spend a moment taking a brief respite away from the frantic streets. Go more east and Alameda Central will be absolutely packed with families, couples and a random guy shitting in the bushes (es verdad) Adjacent is El Palacio de Bellas Artes and Mirador Torre Latino, which happens to be the tallest building in Latin America. \n\nOf course the highlight of El Centro de Histórico would be La Plaza de la,  Constitución, the enormous Catedral Metropolitana, and El Museo del Templo Mayor. Withiut introduction, El Museo del Templo has to be the most notable due to being the remains of an ancient Mesoamerican temple. All parts of Mexico City can be energetic and lively, but Plaza de la Constitución was probably the most insane scene to witness. Vendors, performance artists and everyone and anyone would fill up the space and make it quite challenging to navigate.\n\nIf you go a little more north, La Plaza de Tres Culturas serves as a resting spot away from the frenzy of the city center. This location exists as a symbol to the multifaceted history that persists into Mexico's identity. Further north is the iconic, Basílica de Santa María de Guadalupe and La Plaza Mariana where thousands gather for mass. By the way, I stayed at a hotel in Cuauhtémoc and Jesus H. Christ that neighborhood is BUSTLING at night. The clubs, the restaurants, and the overall scene are so alive, so if you are into nightlife, this is probably the place to stumble into the early AM. \n\nOverall, you will never have a dull moment in Mexico City. Because of this, I could have included more information but I ran out of synonyms for the word \"energetic\" while writing this entry.",
     "reactions": [
       {
         "e": "🤌",
@@ -7448,8 +7312,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Munich is the captial and most populous city of Bavaria, Germany. Munich has a rich cultural history leading back to its founding in the 12th century. It has played an important cultural and political role in Germany and is known for the founding of the Nazi party historically. Today it is known for its rich…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Munich is the captial and most populous city of Bavaria, Germany. Munich has a rich cultural history leading back to its founding in the 12th century. It has played an important cultural and political role in Germany and is known for the founding of the Nazi party historically. Today it is known for its rich cultural scene with many world-renowned museums, galleries, theaters, and clubs. Munich is well connected to the rest of Germany, the EU, and the world via flights, trains, buses, and roads. Guests in the city can benefit from the availability of the Munich Card and City Pass, both of which have options that include free use of public transport throughout the city area. The Card offers significant discounts on entrance fees to museums, exhibitions, sights, tours, and attractions for up to 5 per card while the City Pass includes free admission and in some cases priority admissions that can significantly shorten wait times for individuals. \n\nThis was my first visit to Germany and I found Munich to be a great city for a first time visit. The airport has lots of signs that made it easy to find my way to the station and from there to the right track. The ticket machines even helpfully offered up options to purchase either transport from the airport to city center, or various passes for all public transport in zones from the city center all the way to the airport. There was even a large zone map nearby.",
     "reactions": [
       {
         "e": "🤌",
@@ -7633,8 +7496,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Vienna, capital of Austria, a hot destination in Central Europe with a population of around 2 million people. I flew into Flughafen Wien (VIE) and later returned via train as is easily possible from surrounding countries, you can also get here by boat via Danube river.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Vienna, capital of Austria, a hot destination in Central Europe with a population of around 2 million people. I flew into Flughafen Wien (VIE) and later returned via train as is easily possible from surrounding countries, you can also get here by boat via Danube river.\n\nThe architecture in this city was so beautiful it was very pleasant walking around without a clear goal. Stephansplatz is the centre of the inner city, named after the cathedral, St. Stephens, which is pretty unmissable, especially given its the only landmark labelled on the U-bahn map with its own icon - the cathedral being amazing to look at both outside and inside. Great place to start and visit all the other historic landmarks in the city.\nHofburg palace is lovely to see from Michaelerplatz, theres an abundance of museums in the surrounding areas that are worth going to. I did enjoy the Albertina and Albertina Modern art galleries. \nBelvedere palace has a very nice garden and great art gallery within. I didn't manage to go inside Schönbrunn palace but it was nice to visit regardless.\nKarlskirche is beautifully carved from the outside, this was of particular interest since its where Gustav Mahler got married (his tomb is also in a lovely part of town), Votivkirche is also worth seeing, it is magical.\nDonauturm allows you to see the whole of Vienna from 150m up, its a beautiful sight in good weather, also the park the tower is in has a very cute 15 inch gauge rail, Donauparkbahn, which also has a line in Prater park as Liliputbahn.\nAs for food, most memorable place was Meissl & Schadn with its Wiener Schnitznel and Apfelstrudel which I adored, it unsurprisingly is pricey though, at least for a uni student like myself.\nIt is overall a really beautiful city and a must return for me.",
     "reactions": [
       {
         "e": "🤌",
@@ -7732,8 +7594,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "I hopped down to Quito, rocking its  million population there are a few things one can find themselves doing in Quito. Surprisingly to outsiders, Quito is not the biggest city in the country albeit still the capital.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "4/15\n\nI hopped down to Quito, rocking its  million population there are a few things one can find themselves doing in Quito. Surprisingly to outsiders, Quito is not the biggest city in the country albeit still the capital. \n\nMe myself and I flew down here, however as most capitals are very connected with public transport going to and from all over the country. With two main bus stations depending on which direction you want to go to. \n\nQuito sits up on 2800 metres, so taking a couple days to relax, eat light food, avoid caffeine and alcohol to acclimate may be beneficial. It's surrounded by mountains and therefore has a lot of hiking options or just some nice viewpoints over the city. \n\nOne of my favourite attractions by far was the view over the Basilica (see photo) with its towering appearance, you can see it from any rooftop. \n\nThere are many day trips one can do from Quito if one were to feel so inclined. One of which I did was \"the centre of the world\" (see photo) where it... You got it, it is the centre of the world. It's the middle divide between north and south. Where one can take a tour through their museum.\n\nThanks to a holler from  I got to hit up my first ever Libertadores game. Quito vs Flamengo, nothing is better than getting drunk in the pissing rain, watching the away team die from the altitude in a toothless 0-0 game. (See photo before the pissing rain) \n\nAfter the game I had a quick stop by Bandido brewery (see photo) where you could try their various craft beers in a chapel. You heard that right. This is why Swesus died for our sins. \n\nOf course, as is customary, on my way out I had to quickly rub the bull (see photo) for good luck. Nobody to help me take a photo this time, so you're lucky to once again get a close up. \n\nAll in all I gotta say I enjoyed my time in Quito it's a great drop-off point to explore before one runs off to see rest of what Ecuador has to offer!\n\nCheers!",
     "reactions": [
       {
         "e": "🤌",
@@ -7882,11 +7743,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Sibiu is a medium-sized city located in central Romania (population of ~134k people and 15th largest in the country) with lots to offer, despite its smaller size than, let’s say, Bucharest or Cluj-Napoca! It’s been considered a city of culture, it even got the European Capital of Culture in 2007, along with…",
-    "getThere": "",
-    "thingsToDo": [
-      "Taste the food",
-      "Enjoy the picturesque architecture"
-    ],
+    "content": "Introduction\nSibiu is a medium-sized city located in central Romania (population of ~134k people and 15th largest in the country) with lots to offer, despite its smaller size than, let’s say, Bucharest or Cluj-Napoca! It’s been considered a city of culture, it even got the European Capital of Culture in 2007, along with Luxembourg City. It was also the European Region of Gastronomy in 2019, which means they have great food as well. It holds the nickname of “The City with Eyes”, “The City Where Houses Don’t Sleep”, the one pun name (or well… let’s call it a portmanteau) in English called “Seebiu”. The old town can be seen as a town in two parts: the “Piața Mare” (Grand Square) and “Piața Mică” (Small Square). It also has the widely-known “Podul Minciunilor” (The Bridge of Lies), which I’ll talk about later on. Sibiu used to be colonised by the Transylvanian Saxons from the 12th century and was the most important cultural and administrative centre at that time for them.\n\nHow do I get there?\nYou could take a train from the following big cities of Romania: Bucharest, Cluj, Brasov and Craiova). Beware that the only direct train from Cluj to Sibiu is from a private company, which apparently doesn’t have their site in English! The others have the state-owned railway company. You could also take a coach bus (from a third-party company) from many cities, but I suppose that’s a bit difficult to do, since many bus drivers speak Romanian and could barely speak English. You can also drive to Sibiu, either through ridesharing/carpooling services or by yourself. Sibiu’s airport doesn’t have any connections from other Romanian cities, although it has plenty of destinations to fly from/to in Western Europe.\n\nWhat can I do/see in Sibiu?\nThere’s plenty of places to see and/or do in Sibiu. Some would say it’s not a lot, others would say it has plenty of things to do. I consider that it has lots of cultural events, places to see, and, most importantly, fun things to do! Here’s what you could do in Sibiu:\n        1. Taste the food\n    A LOT of Sibiu has restaurants, cafes etc., especially in the city centre. I tried “Faust Cafe” in Sibiu, although a bit expensive, the food tasted great! I can also recommend “La Turn”, “Pivnita de vinuri Weinkeller” for wine tasting (although I don’t drink, but heard it’s also amazing), and Luca for pastry on-the-go (even if it’s in many Romanian cities).\n2. Enjoy the picturesque architecture\n    I think Sibiu has the perfect architecture blend, I’ve been amazed by how it could blend. Visiting the Council Tower, as well as the Bridge of Lies are the highlights of Sibiu. Generally speaking, the architecture in Sibiu is nice and lovely. I noticed that they’re focusing on renovating buildings and cleaning the streets of Sibiu, which I think is a huge plus here for maintaining the city’s buildings and such.\n    The Council Tower is situated between the two central squares of the old town, hence why I also think it’s iconic. Throughout its history, it’s had multiple roles as to how the tower should be used.\n    The Bridge of Lies, the first iron cast bridge built in Romania, has many legends you could hear from. It was initially called the “Lying Bridge” in German (“Liegenbrücke”), which sounds extremely similar to “Lügenbrücke”, which means, you guessed it, the “Bridge of Lies”. Because of the legends, the latter name has spread across the city and its people... (1/2)",
     "reactions": [
       {
         "e": "🤌",
@@ -7950,8 +7807,7 @@ const SUBMISSIONS = [
     "date": "2025-04-28",
     "photos": [],
     "blurb": "Philadelphia is the largest city in the state of Pennsylvania, United States. It has a population of 1,573,916 as 2024 according to wikipedia. The city can be easily navigated via regional transit, such as SEPTA. To reach the city there are numerous trains, buses, interstate, boat, and of course an airport. The…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Philadelphia is the largest city in the state of Pennsylvania, United States. It has a population of 1,573,916 as 2024 according to wikipedia. The city can be easily navigated via regional transit, such as SEPTA. To reach the city there are numerous trains, buses, interstate, boat, and of course an airport. The city is located inland but has a large port on the Delaware river. The city is known for it’s history as it was once the capital of The United States, as well as industry and much more! The city is huge, but simple to navigate. The metro area is right up t NYC however it is very different. It is also much cheaper than NYC or Boston. \n\nWissahickon Valley Park: A large urban park that feels much more remote than it is. Beautiful for hiking.\n\nArt Museum: It is huge but really beautiful.  Lot of paintings from Europe and Asia. When I went the American stuff was closed. Also, you can do the Rocky thing, from the movie, but I've never seen it so...\n\nIndependence Hall: Part of the larger National Park site, this is a UNESCO World Heritage Site, and if you are interested in early US history it is neat. Just skip Liberty Bell. \n\nValley Forge: Really amazing suburban park with hiking, biking, and scenic driving. There is also so much history and the park does a great job explaining it all. It is located outside of the actual city, but is in the metro area and a very short drive or even public transportation. \n\nMuseum of the Revolution: If you are interested in the American Revolution this museum is the best I have seen. Much better than any other museum in the city.\n\nCity Hall: We did a tour of city hall. It is a really impressive huge building. According to our guide it is the largest municipal building in the world. Very interesting to see all the symbolism, although it does feel weird as the city is not really as important as it used to be.",
     "reactions": [
       {
         "e": "🤌",
@@ -8008,8 +7864,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "New York, is the largest city in the state of New York. It is also the largest city in the United States. With a current population of 8,478,072. NYC is such a huge city that getting there is really possible anyway. There are 3 airports, numerous interstate and other roads, ferry access, lots of bus and train…",
-    "getThere": "St. Paul's Church National Historic Site: The site I actually recently did. Very quiet and nice historic site if you like early American History. Located just north of the offical city limits in Mount Vernon. \n\nMuseum of Sex: To this day, I will never be happier than when I found a braille Playboy magazine. I was able to read some of it, though not sure how the images are translated for the blind.\n\nGuggenheim: Part of a UNESCO site, this is one of my favorite art museums ever. Very worthwhile if you can check it out!\n\nStatue of Liberty: It is so iconic you just have to check it out for yourself! Also see if you can explore the Ellis Island museum as well. Both are just so symbolic of the USA. \n\nRobin Art Museum: Showcases Himalayan art which I did not know much about. While perhaps not the most beautiful art I have seen, it is certainly cool to see more unique art form a region under represented. \n\nGovernor's Island:  A suburban park that is only accessible by ferry. I met Michael Cera there but I did not know him at the time.",
-    "thingsToDo": [],
+    "content": "New York, is the largest city in the state of New York. It is also the largest city in the United States. With a current population of 8,478,072. NYC is such a huge city that getting there is really possible anyway. There are 3 airports, numerous interstate and other roads, ferry access, lots of bus and train connection and you can bike in as well. The city is well known for its finances and much more.  NYC is made of 5 boros, Manhattan, Staten Island, Queens,  The Bronx, and Brooklyn. There are so many smaller neighborhoods as well! Just to be clear, not all of my pictures are not from NYC proper, as I only stopped in Mount Vernon which was a 5 minute walk to NYC. However it has more than 10,000 and is in the metro so I’m counting it!  To get around NYC take the famous train, or see if Spiderman can rescue you. \n\nSt. Paul's Church National Historic Site: The site I actually recently did. Very quiet and nice historic site if you like early American History. Located just north of the offical city limits in Mount Vernon. \n\nMuseum of Sex: To this day, I will never be happier than when I found a braille Playboy magazine. I was able to read some of it, though not sure how the images are translated for the blind.\n\nGuggenheim: Part of a UNESCO site, this is one of my favorite art museums ever. Very worthwhile if you can check it out!\n\nStatue of Liberty: It is so iconic you just have to check it out for yourself! Also see if you can explore the Ellis Island museum as well. Both are just so symbolic of the USA. \n\nRobin Art Museum: Showcases Himalayan art which I did not know much about. While perhaps not the most beautiful art I have seen, it is certainly cool to see more unique art form a region under represented. \n\nGovernor's Island:  A suburban park that is only accessible by ferry. I met Michael Cera there but I did not know him at the time.",
     "reactions": [
       {
         "e": "🤌",
@@ -8076,8 +7931,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Bethlehem is a city located in Pennsylvania. It has a population of     75,781 as of 2020. It is part of the Lehigh Valley near Allentown. The city was named on Christmas eve, after the biblical city where Jesus was born. The city has the best main street in the USA in 2025!! The city is known for its Christmas…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Bethlehem is a city located in Pennsylvania. It has a population of     75,781 as of 2020. It is part of the Lehigh Valley near Allentown. The city was named on Christmas eve, after the biblical city where Jesus was born. The city has the best main street in the USA in 2025!! The city is known for its Christmas celebrations! You can reach it via interstate and other roads, nearby Lehigh Valley International Airport, and bus connections. There is no current rail connection at this time. It is home to a large population of Moravains, a unique group of Christians from Czechoslovakia (according to the member of the church I asked). They also have 2 colleges in the town that are both well regarded, Moravian University and Lehigh University. \n\nMoravian Historic District: One of the newest UNESCO sites in the world at this time. Added to the Moravian Settlements alongside other sites in Denmark, Germany & Northern Island. The UNESCO site includes the main church which does offer tours. Known for their music traditions, coffee and rolls. \n\nKemerer Museum of Decorative Arts: An art museum dedicated to the American Victorian art collection. When I went they were focused on hospitality. They also have a huge doll house collection as well\n\nColonial Industrial Quarter: They have a bunch of ruins and blacksmith shops that still use traditional old time blacksmithing to make metal products. In one of the buildings they also had an art installation where you could view and also purchase beautiful paintings from local painters. \n\nSand Island Park: A small waterfront park that had a lot of local people fishing. There was a large encampment nearby but I never felt unsafe.",
     "reactions": [
       {
         "e": "🤌",
@@ -8124,8 +7978,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Vibe: https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8?si=RfZat7EKR0Wm1JsFT2dtRw",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Ubud\nVibe: https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8?si=RfZat7EKR0Wm1JsFT2dtRw\n\nUbud is an entity on the island of Bali. I don't know whether to call it a town, city or landmass, so I went with entity here.\nThe center has ~11k inhabitants, the \"metropolitan area\" ~75k. I learned that in Bali there's no clear line where one town begins and the other ends, so I will include sights outside Central Ubud as well.\nBest way to get here is flying into Denpasar Airport and having a driver to Ubud prebooked, the Taxis seem scammy here.\n\nThere's a lot of greenery, jungle and spiritual vibes in Ubud, it smells like incense and exhaust fumes (traffic is insane, don't even think of attempting to drive here by yourself)\n\nMy fav favorite spots were \n- our hotel The Runik (super central but still quiet and chill and the nicest staff!)\n- Tegallalang Rice Terraces \n- Pura Tirta Empul (Holy Water Temple)\n- TGlow Spa Jalan Bisma (you can get massages everywhere in Ubud here for as little as 5-10$)\n- Why Not Bar/Restaurant (Touristy af but good vibes albeit a bit loud)\n- Legong Dance at Ubud Palace 10/10 experience \n- ino.oz Coffeeshop, best one in Ubud imo,\n5* Ratings only speak for themselves \n\nA bit further from Ubud:\n- Tanah Lot Temple\n\nIt is very affordable to hire a driver who will take you to places around the island.",
     "reactions": [
       {
         "e": "🤌",
@@ -8192,8 +8045,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Dover is the capital city of the best state in the USA , Delaware. With a current population of 39,403. The city is very small and quaint located near the coast. To reach the city, there is no interstate access, however there are highways and toll roads that do lead to the city. Additionally bus connections do…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Dover is the capital city of the best state in the USA , Delaware. With a current population of 39,403. The city is very small and quaint located near the coast. To reach the city, there is no interstate access, however there are highways and toll roads that do lead to the city. Additionally bus connections do connect the city. There is no rail connection in the city. Additionally there are no airports for the city itself but there are airports in other nearby towns such as Philadelphia, Maryland, and Wilmington DE. The state of Delaware was the first to sign the constitution making it the first official state. They also were not originally a separate colony, and were part of Pennsylvania. They were originally settled by Swedes however were taken over by the British before the revolution.\n\nJohnson Victrola Museum: This is a museum dedicated to gramophones. Basically old timey record players. The inventor of the Victrola is from Dover so they have a small museum with a lot of records. The staff were amazing, though I did not know when to stop. Really cool old time vibes.  \n\nBiggs Museum of American Art: Very small art museum dedicated to American art. It is free and has some interesting showcases.\n\nOld State House: The old state house is just across from the new one, where they still meet. If you are into early American history as I am, this is a cool site that you can see for yourself.\n\nJohnson Dickerson Plantation: Not the best site I have seen, but they do explain his role in the American revolution and his role in slavery quite well. WHile the site is not really too much, if you are interested in early American politics and find yourself nearby I would take the time to see it.",
     "reactions": [
       {
         "e": "🤌",
@@ -8230,8 +8082,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Largest city in Franconia, second-largest in Bavaria, it sits on the Pegnitz River which eventually connects to the North Sea. It is unofficially considered the capital of the Franconia cultural region. The city is surrounded on three sides by the Nurnberger Reichswald [Imperial forest] with the north side bounded…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Largest city in Franconia, second-largest in Bavaria, it sits on the Pegnitz River which eventually connects to the North Sea. It is unofficially considered the capital of the Franconia cultural region. The city is surrounded on three sides by the Nurnberger Reichswald [Imperial forest] with the north side bounded by a vegetable growing area and cultural landscape. The city's airport is the second-busiest in Bavaria after Munich and the tenth-busiest in the entire country.\n\nI stayed at the Karl August Hotel https://maps.app.goo.gl/mdYqxk5AjnJK31yS7\n\nFavorite Sites: Handwerkerhof, Kaiserburg, Germanisches Nationalmuseum, Historische Felsengange\n\nEat, Drink: Crazy Nate's West Coast Mexican, Lo3 Lorenzer Eiswekstatt ice cream, Pockets Cafe for coffee, tea, and pastries, Hauptmarkt & Kaspar Schmauser Nürnberg vegan, Brasserie Nitz, Café PIQUE NIQUE, Casa del Caffe",
     "reactions": [
       {
         "e": "🤌",
@@ -8295,8 +8146,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "In April I visited Stockholm in Sweden, population of approximately 980,000 people.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "In April I visited Stockholm in Sweden, population of approximately 980,000 people. \n\nI took a flight to Stockholm Arlanda and landed after 1am. I usually get the Arlanda Express (18 minutes train into centre) but the last train was just after 1, with the next at 5am. I took Flygbussarna instead (just to be mindful, there are works going on in some terminals so you may need to walk to the next terminal to find the bus stop – I did get lost). The bus took about 50 minutes and dropped you right off at Stockholm Central station. \n\nAs this was my third visit to the city and have already explored it before, I mainly wanted to walk a lot (I did 48k steps in 2 days), eat a gluten free cinnamon roll and visit an ethnic community/neighbourhood. \n\nI met up with  and spouse, had a mini fika, visited a bangladeshi store, cooked at theirs, walked through Rinkeby I believe, visited the Swedish History Museum, played with some ropes, and ate meatballs 😋 \n\nOne of my favourite places ever, I feel safe walking around alone and at night.\n\n10/10 would visit again.\n\nPlaces to Visit:\n\n🍰  Happy Atelier (Gluten Free) https://maps.app.goo.gl/R9EEoRphsqkNpynp8\n📍 Swedish History Museum https://maps.app.goo.gl/kERnTkbfe8XF2XJG9\n🍴 Meatballs for the People https://maps.app.goo.gl/d5sFYhQvJhRjCP4H6",
     "reactions": [
       {
         "e": "🇸🇪",
@@ -8331,8 +8181,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "York is described as city with Roman roots and a Viking past. It currently has a population of 206,000 people.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "York is described as city with Roman roots and a Viking past. It currently has a population of 206,000 people.\n\nTo get there, I drove and parked near the train station but you could catch a train there easily. \n\nI visited here with  and we walked around through the city walls which I would highly recommend. It's definitely a picturesque city. The day I visited, it was raining so I would recommend to visit when it is sunnier, especially if you want to visit the museum gardens.\n\nPlaces of interest:\n\n🍺  Valhalla York (haven't been personally but it is very popular) https://maps.app.goo.gl/c3mdhZ63gPzZK75c9 \n🛍️  Shambles Market (you'll see some older streets around here) https://maps.app.goo.gl/cLFQQLgE9S2iXeRm9\n📍 JORVIK Viking Centre https://maps.app.goo.gl/uq23EYwGrFc2N8JF6\n📍 Clifford's Tower https://maps.app.goo.gl/ukELaH3EN7fHH4yE6\n📍 York Minster https://maps.app.goo.gl/ficCcwisoyPdpREE8",
     "reactions": [
       {
         "e": "🤌",
@@ -8394,11 +8243,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Vibe: https://open.spotify.com/track/5G96L3iGpeudwQbsZZ2A8H?si=MZlO-oJ4SjCURkBKjvqH6Q",
-    "getThere": "",
-    "thingsToDo": [
-      "Gardens by the Bay, especially Cloud Forest and the evening Lightshow at Supertree Grove",
-      "Chinatown"
-    ],
+    "content": "Singapore\n\nVibe: https://open.spotify.com/track/5G96L3iGpeudwQbsZZ2A8H?si=MZlO-oJ4SjCURkBKjvqH6Q\n\n6 million inhabitants\nThe best way to get here is probably flying into Changi Airport.\nThere's lots to see and do here despite it being a relatively small landmass.\nYou can get food absolutely everywhere here. Singapore is famous for its Hawker Centers which are essentially giant food courts with dozens of different stalls and shops.\n\nMy favorite spots so far (limited due to me only being here for 2 days and being sick)\n- Gardens by the Bay, especially Cloud Forest and the evening Lightshow at Supertree Grove\n- Chinatown",
     "reactions": [
       {
         "e": "🤌",
@@ -8460,8 +8305,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Man todeh wi inna di charming island of Antigua of Antigua & Barbuda fame wid ongle 22,219 people dis likkle capital shows a distilled encapsulation of the Caribbean life. There may not be a whole lot to see in the largest city in Antigua but I hopped checked it out before leaving for a flight at V.C. Bird Airport.…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Man todeh wi inna di charming island of Antigua of Antigua & Barbuda fame wid ongle 22,219 people dis likkle capital shows a distilled encapsulation of the Caribbean life. There may not be a whole lot to see in the largest city in Antigua but I hopped checked it out before leaving for a flight at V.C. Bird Airport. Fi mi short time here di clouds sure did like fi rain like a mofukka while mi did walking bout an dat did mek it haad fi get round suh instead mi did often hiding beneath building facades tuh kip miself from di weatha, with Deepwater Harbour serving as the backdrop to where cruiseships wud dock an let tourists scour di island. I noticed ow interesting dat many shops did close due tuh di cruiseship season being towards the end as hurricane season draws closer.\n\nAnyways, Heritage Quay Complex would be the place to start for many cruise-goers, with vibrant storefronts at your reach as you step off the ship to lure you into buying cute little trinkets for your grandkids. There are stores for anything and even casinos to have octegenarians forfeit their retirement money. Yuh wi si many locals selling produce towards di VC Bird Monument an while mostly disinterested in offering to tourists, are always willing to strike a conversation as it is the default nature for anyone living on a pristine little island. \n\nI think besides gawking at storefronts and walking past places blasting reggaeton and dancehall music, you can check out St. John's Cathedral which was built back in the 19th century. The Museum of Antigua & Barbuda is adjacent and can be checked out to learn more about the history of the island. Also with a further jaunt from the city is Fort James, which sits at the entrance into the harbor. This fortress was built in di 18th century and serves as a reminder to the British presence here with cannons pointing towards both the ocean and harbor.\n\nOverall, St. John's is a chill little city to draw you away from the tourists but it's a bit eye opening to see how much the Caribbean's economy is strongly connected to the arrival of cruiseships docking in their ports. You can get a sense of how locals go about their daily lives This will be a constant factor during the rest of my travel while I'm here.",
     "reactions": [
       {
         "e": "🔥",
@@ -8528,8 +8372,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Antigua & Barbuda might be tiny but Saint Kitts & Nevis is tinier. This little island country is the smallest sovereign state on the west hemisphere and no surprise the capital of Basseterre only holds a population of about 16.7K. With a small capitol there is quite a bit of history to unravel while going about the…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Antigua & Barbuda might be tiny but Saint Kitts & Nevis is tinier. This little island country is the smallest sovereign state on the west hemisphere and no surprise the capital of Basseterre only holds a population of about 16.7K. With a small capitol there is quite a bit of history to unravel while going about the city. Interestingly, Basseterre was founded in 1627 as a French colony as Saint-Cristophe before being handed to the British. For instance, both the Catholic Co-Cathedral of Immaculate Conception and St. George's Anglican Church were rebuilt numerous times over a period of centuries due to the various disasters, wars and fires that came across the small island nation since the erection of the two churches in the early 1700s. \nMuch like St. John's, Basseterre was basically all shut down regarding any tourist-related functions since they received their last cruiseship right before I stopped by to check around. The Pelican Shopping Mall is technically where cruise rats would be first introduced to Saint Kitts with a sign welcoming you to the island in Port Zante but alas, everything was closed. From there are the Berkeley Memorial situated in the center of The Circus, Independence Square, and the National Museum of Saint Kitts. Overlooking the city is Mount Liamuiga, a dormant volcano which last erupted 1,800 years ago. It's possible to hike the volcano which involves two difficult hours of scrambling steep rocks and roots but the view at the top of the volcano crater is incredible.",
     "reactions": [
       {
         "e": "🤌",
@@ -8615,8 +8458,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Birthplace of Barbados' Riri, Bridgetown boasts a population of 110K, representing almost half of Barbados' total population of 280K. The capital was founded almost 400 years ago under British rule and has seen tremendous change over the eras to become the major transit hub among all the Caribbean islands, boasting…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Birthplace of Barbados' Riri, Bridgetown boasts a population of 110K, representing almost half of Barbados' total population of 280K. The capital was founded almost 400 years ago under British rule and has seen tremendous change over the eras to become the major transit hub among all the Caribbean islands, boasting the largest airport that receives direct flights between the United Kingdom on a daily basis. \n\nAt Bridgetown, you will find a colorful city, of which was mostly quiet and empty due to my arrival being met at the end of cruiseship season. Meanwhile, all the locals were at the beaches nearby smoking hella weed. Walking from my accomodation at Christchurch, I walked all through miles of photogenic beaches to reach Bridgetown. The first thing you will see when entering Bridgetown is the Independence Arch welcoming you into the vibrant space. Nearby is the wharf where many boats are docked, and Golden Square Freedom Park. At the park is a monument dedicated to the entire history of Barbados, with names listed from the present to the pre-colonial times of those who lived and died to make Barbados what it stands for today. Walking across the bridge towards central Bridgetown, you will come across National Heroes Square. Formerly this location used to be Trafalgar Square where the statue of Lord Nelson was erected for over 200 years until it was taken down recently in 2020 and replaced with a proper memorial to commemorate notable contemporary Bajans.  \n\nAcross the square is where the Parliament Building stands, serving as the seat to Barbados since 1874. Further down, Broad Street offers a semblance of a very modern city with architecture scattered throughout the city center that are evident of the colonial past. Walking towards the Bridgetown Harbor, I encountered an empty pier, to which the city reciprocates with a rather unusual silence as the tourism industry had slowed into a quiet lull. Because of this, I did not spend much time in Bridgetown since everything was shuttered. Nearby is Kensington Oval, where cricket is played. \n\nRather small, Bridgetown still is considerably greater in size compared to the other capitals I visited in the Caribbean. And it would be a lie to say I didn't attend my pilgrimage to the capitol to marvel at Barbados' baby, Rihanna and her childhood home which is located in the city. The street where she lived has been renamed, surprisingly, to Rihanna Drive and her home is gated off but embellished with a plaque remarking her early life in Bridgetown. Across the street is the aptly named Rihanna Drive Community & Tourist Shop Eatery, where I presume life-size statues of Rihanna are for sale. Despite my frantic efforts, they would not let me into her old home. Now, she has a ginormous-ass mansion a little north of Bridgetown but no way I'm getting into that.",
     "reactions": [
       {
         "e": "🤌",
@@ -8696,8 +8538,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Coming from the flatlands of the island of Barbados and entering the luscious paradise of Dominica was a surprising but welcomed culture shock. Roseau, the capital and largest city of Dominica only has a population of about 15K. It requires a 70-minute drive from the airport of Douglas-Charles Airport in Marigot to…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Coming from the flatlands of the island of Barbados and entering the luscious paradise of Dominica was a surprising but welcomed culture shock. Roseau, the capital and largest city of Dominica only has a population of about 15K. It requires a 70-minute drive from the airport of Douglas-Charles Airport in Marigot to arrive in Roseau. Overall, Dominica is much less developed than it's contemporaries, especially that of Barbados and Grenada, but the island compensates tremendously with its dense jungles and eleven volcanos that dominate the landscape. Overall, I really don't have much to say about Roseau but I still could make the case that Dominica was easily the most memorable island on my trip.\n\nThe second you step off the tarmac and exit through immigration, you are immediately made aware of the pristine lusciousness that is the Nature Island, which is a title that Dominica holds very well and with pride. There is no wonder why the Kalinago survived and still make Dominica their home. The Kalinago are the native island dwellers that lived on most of the islands in the Caribbean for millenia before colonialists took over and extirpated them and other indigenous groups in the subsequent centuries. You can find Kalinago people hoisting their reservation deep in the mountains nearby Marigot Bay. Additionally, many of the Kalinago have integrated themselves into the local population as you will find their distinctive features stand out amongst the primarily African population. With the Kalinago only have a remaining 3000 people each existing in Dominica and Saint Vincent & the Grenadines, I find their settling on Dominica to be extraordinarily fascinating and, for a lack of better words, quite \"rare\" given the circumstances pitted to their existence.\n\nRoseau in itself isn't a remarkable city but serves as the primary docking port for large ships to bring goods in and out of the island. Taking the drive here was stunning, as mountains spire from the ground and flood you with the endless tropical serenity that captivate and overwhelm your senses. \n\nIn Roseau, you can take a short stroll to the harbor where the cruiseships would dock (again May-- cruises are mostly gone so all the relevant stores were closed). There are good angles available here for photographs. Moreover, you will find few restaurants that particularly cater for travelers as most of the food served is buffet-style for ths locals going who go about their daily motions. There is the Lacou Melrose House which has incredible dishes that are worth trying. The Dominica Botanical Garden is a nice location for locals to lounge and play sports. You can go about and remark on these massively sprawling trees scattered across the park. Better yet, there is a short little hike inside the park that takes you up to Morne Bruce Point. A quick climb up will have you encounter various lizards skirting pass you in the thicket of bamboo and Sansevieria. At the top, you can see Roseau in full, as the overlook invites the view of the endless ocean and thick jungles that surround the city. And by then, you can easily make out features such as the Windsor Park Sports Stadium (which is for cricket, of course). \n\nMostly, Roseau serves as the perfect launching hub to explore other parts of the island, especially the hike to the Valley of Desolation and Boiling Lake with the starting trail found nearby in Trafalgar. In Trafalgar, you can experience Titou Gorge and the Middleham Falls, all these places which I would absolutely recommend seeing if you ever find yourself in Dominica. Plus, many locations all throughout Dominica were used during the filming of the Pirates of the Caribbean franchise. Good choice.",
     "reactions": [
       {
         "e": "🤌",
@@ -8744,8 +8585,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Seattle is the largest city in Washington. The city proper has a population of 737,015, with the metro region having a population greater than 4 million. The city is known for its corporate history being the home of Amazon, and Starbucks as well as having major offices from other major corporations. The city is…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Seattle is the largest city in Washington. The city proper has a population of 737,015, with the metro region having a population greater than 4 million. The city is known for its corporate history being the home of Amazon, and Starbucks as well as having major offices from other major corporations. The city is located on the west coast of the USA. It is protected by the Puget Sound which helps make it a valuable city. In order to reach the city, you can fly into SeaTac Airport, drive in via interstates such as I5, state and local roads, ferries across the Puget Sound, as well as local bus and train connections, and regional connections such as Amtrak. The city is dominated by mountains and volcanoes nearby some of which, such as Mt. St. Helens do have the potential to erupt. \n\nSpace Needle: Probably the most iconic building in the city, this was designed as an observation tower during the Space Race, but does not unfortunately reach space. There is a floating bar upstairs, and beautiful views of the city landscape below!\n\nPike’s Market: The local market that sells all kinds of items and cool little shops. They have men throwing fish, as well as a used bubble gum wall (Gross). \n\nChihuly Garden and Glass: Some of the most beautiful glass sculptures I have ever seen are here. I would highly recommend it as it truly is beautiful. \n\nSeattle Aquarium: While perhaps a fish prison leaves much to be desired, this aquarium could be well worth a day visit for young children or big fish lovers.\n\nNorth Cascades National Park: While not located in the metro region, this is such an underrated area of nature in northern Washington. If you have the chance to avoid the crowds around Ross Lake, take the time to hike a mountain",
     "reactions": [
       {
         "e": "🤌",
@@ -8822,14 +8662,7 @@ const SUBMISSIONS = [
     "date": "2025-05-13",
     "photos": [],
     "blurb": "Note: (Most of this is ripped straight from my Savannah travel guide script lol)",
-    "getThere": "Airports: \n- Savannah/Hilton Head Island International is just a few miles outside of downtown\n- Jacksonville International Airport is about an 1 & 1/2 hour drive south of Savannah. \n\nBy Car: \n- Via Interstate 16 \n- Via Interstate 95\n\nHow to get around the city:\nThere are various public transportation methods in downtown including the popular Savannah Trolly Tours, a great comprehensive way to explore the city, as well as the free bus system called \"Connect the DOT\". There are plenty of ferry systems along the Savannah River, which can take you across the river or to other sections of the river such as dropping you off at the Plant Riverside District or taking you over to the Savannah Convention Center from the riverwalk area. \n\nThings to do/See in the city (Check youtube video for more detail) \n\nWormsloe State Historic Site (1st Photo) \n- Protecting portions of the wormsloe plantation estate, it was established by noble jones in 1736. Using the land to create a fortified house overlooking a portion of the intracoastal waterway it was as part of a network of defensive structures created by the founder of Georgia James Oglethorpe, to protect the colonists from any possible spanish invasion. \n\n- The main area of interest consists of a 1 and a half mile long avenue consisting of a beautiful line of oak trees covered in spanish moss, making for a gorgeous photo op. \n\nCathedral Basilica of St John the Baptist (2nd Photo):\n- Fully rebuilt in 1899, this historic structure is a roman catholic cathedral renowned for its gorgeous high victorian gothic style architecture. \n\n- It was the first building in Georgia to be constructed out of brick, featuring 81 stained glass windows, 16 gargoyles, and a roof of 96 feet above your head. It is the tallest church in georgia, standing at a whopping 214ft tall. In January of 2020, Pope francis granted this cathedral the title of minor basilica, making it the first basilica in savannah. Across the US, there are only 18 other cathedrals that carry this same title. Sadly, last month Pope francis passed away at the age of 88 on april 21st, a dedication to him was displayed in the church when we were there. \n\nJW Mariott Hotel at the Plant Riverside District (3rd Photo & 1st video) \n- A massive hotel built inside of an abandoned Fossil Fuel Plant from 1912. This interesting hotel has a very special lobby, with massive gemstones and fossils dotting the lobby. It purposely fits the theme of fossils based off what the plant used to operate for. This hotel is part of a new district added to the Savannah Riverwalk area in Summer 2020. \n\nHope you enjoy this reccomendation!",
-    "thingsToDo": [
-      "Protecting portions of the wormsloe plantation estate, it was established by noble jones in 1736. Using the land to create a fortified house overlooking a portion of the intracoastal waterway it was as part of a network of defensive structures created by the founder of Georgia James Oglethorpe, to protect the colonists from any possible spanish invasion.",
-      "The main area of interest consists of a 1 and a half mile long avenue consisting of a beautiful line of oak trees covered in spanish moss, making for a gorgeous photo op.",
-      "Fully rebuilt in 1899, this historic structure is a roman catholic cathedral renowned for its gorgeous high victorian gothic style architecture.",
-      "It was the first building in Georgia to be constructed out of brick, featuring 81 stained glass windows, 16 gargoyles, and a roof of 96 feet above your head. It is the tallest church in georgia, standing at a whopping 214ft tall. In January of 2020, Pope francis granted this cathedral the title of minor basilica, making it the first basilica in savannah. Across the US, there are only 18 other cathedrals that carry this same title. Sadly, last month Pope francis passed away at the age of 88 on april 21st, a dedication to him was displayed in the church when we were there.",
-      "A massive hotel built inside of an abandoned Fossil Fuel Plant from 1912. This interesting hotel has a very special lobby, with massive gemstones and fossils dotting the lobby. It purposely fits the theme of fossils based off what the plant used to operate for. This hotel is part of a new district added to the Savannah Riverwalk area in Summer 2020."
-    ],
+    "content": "Note: (Most of this is ripped straight from my Savannah travel guide script lol)\n\nSavannah is a historic city located in Southeast Georgia just a few miles from the Altantic Coast. it has a population of roughly 147,000 people and is known for its beautiful Southern Antebellum age architecture and history. As well as being a hot tourist spot for its riverwalk area and nearby Tybee Island. Historically this city was an important defensive spot for any potential Spanish Invasion due to the conflicts with Spain's nearby colony of Florida at the time of Colonial America. \n\nHow to get there; \nAirports: \n- Savannah/Hilton Head Island International is just a few miles outside of downtown\n- Jacksonville International Airport is about an 1 & 1/2 hour drive south of Savannah. \n\nBy Car: \n- Via Interstate 16 \n- Via Interstate 95\n\nHow to get around the city:\nThere are various public transportation methods in downtown including the popular Savannah Trolly Tours, a great comprehensive way to explore the city, as well as the free bus system called \"Connect the DOT\". There are plenty of ferry systems along the Savannah River, which can take you across the river or to other sections of the river such as dropping you off at the Plant Riverside District or taking you over to the Savannah Convention Center from the riverwalk area. \n\nThings to do/See in the city (Check youtube video for more detail) \n\nWormsloe State Historic Site (1st Photo) \n- Protecting portions of the wormsloe plantation estate, it was established by noble jones in 1736. Using the land to create a fortified house overlooking a portion of the intracoastal waterway it was as part of a network of defensive structures created by the founder of Georgia James Oglethorpe, to protect the colonists from any possible spanish invasion. \n\n- The main area of interest consists of a 1 and a half mile long avenue consisting of a beautiful line of oak trees covered in spanish moss, making for a gorgeous photo op. \n\nCathedral Basilica of St John the Baptist (2nd Photo):\n- Fully rebuilt in 1899, this historic structure is a roman catholic cathedral renowned for its gorgeous high victorian gothic style architecture. \n\n- It was the first building in Georgia to be constructed out of brick, featuring 81 stained glass windows, 16 gargoyles, and a roof of 96 feet above your head. It is the tallest church in georgia, standing at a whopping 214ft tall. In January of 2020, Pope francis granted this cathedral the title of minor basilica, making it the first basilica in savannah. Across the US, there are only 18 other cathedrals that carry this same title. Sadly, last month Pope francis passed away at the age of 88 on april 21st, a dedication to him was displayed in the church when we were there. \n\nJW Mariott Hotel at the Plant Riverside District (3rd Photo & 1st video) \n- A massive hotel built inside of an abandoned Fossil Fuel Plant from 1912. This interesting hotel has a very special lobby, with massive gemstones and fossils dotting the lobby. It purposely fits the theme of fossils based off what the plant used to operate for. This hotel is part of a new district added to the Savannah Riverwalk area in Summer 2020. \n\nHope you enjoy this reccomendation!",
     "reactions": [
       {
         "e": "🤌",
@@ -8909,8 +8742,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Arriving at Castries, you'll be greeted with a quaint little airport in which the check-in counters are situated outside. To further establish the vibes, you find out that right across the street to George F.L. Charles Airport is literally Vigie Beach, a picturesque strip where sand meets sea and is often the go-to…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Arriving at Castries, you'll be greeted with a quaint little airport in which the check-in counters are situated outside. To further establish the vibes, you find out that right across the street to George F.L. Charles Airport is literally Vigie Beach, a picturesque strip where sand meets sea and is often the go-to lounging destination for the 20,000-some people that live in the capital city of Saint Lucia. Vigie Peninsula harbors the deep-sea ports that holds Saint Lucia in where history illustrates itself as the Meadows Battery was built in 1898 to protect the British territory from the French. Since the battery lost its purpose over the century, the peninsula was reclaimed to hold Saint Lucia's tiny airport, instead. \n\nCastries in itself does not offer a lot to see, as most tourists will land at the capital and take a 90-minute drive to Soufrière, where the iconic and picturesque Pitons belong. In fact, the best feature of Castries is not really inside the city but at the outskirts, where the start of the drive towards Soufriere will introduce you to Castries City Viewpoint. Up here, the vantage point of the city is the best and you can make the outline of the harbor. Still, Castries has some interesting features that make it worth exploring for a few hours. The city offers views across Castries Harbour in where you can see the find where the cruiseships dock. Of course, the Pointe Séraphine cruise port was closed due to my arrival being at the end of cruise season, much as most stores in the city since the number of expected tourists are so few at this time of the year. \n\n In the early morning, I made my way into Castries Market where some vendors were setting up, offering souvenirs for tourists and produce for locals. Walk down Peynier Street some more and you will encounter Constitution Park, and the City Hall of Saint Lucia. Further down is Derek Walcott Square and the Minor Basilica of Immaculate Conception. While I believe the cathedral only dates from the late 19th century, the building offers the interesting fact that it is the largest church built in the Caribbean.",
     "reactions": [
       {
         "e": "🤌",
@@ -8977,8 +8809,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "This cute little city really showcases its history as older French architecture sprinkle the streets of this historical capital. Founded in 1650, St. George's is the capital of Grenada and holds a population north of 34K people. The French and British have staked claims here as a pivotal trading post during the…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "This cute little city really showcases its history as older French architecture sprinkle the streets of this historical capital. Founded in 1650, St. George's is the capital of Grenada and holds a population north of 34K people. The French and British have staked claims here as a pivotal trading post during the Colonial Era. In 1843, merchants introduced the nutmeg tree to Grenada. Since then, nutmeg is responsible of representing 40 percent of Grenada's agricultural export and providing the country the title of \"The Spice Island\". Grenada's identity to the nutmeg has become so prominent that the country has decided to include the plant on the national flag.\n\nThe harbor to St. George's has become the focal point of the capital's brand. Called the Carenage, this road follows the outline of the harbor and offers a place for large ships and yachts to dock. A statue called Christ of the Deep stands at the center of the harbor. Walking around the Carenage, you will find colorful buildings dotting the mountainside as well as many boats stacked side-by-side. Over at the end of the harbor sits Fort George, which was built by the French in the 18th century. Currently the fortress is closed due to renovations but walking towards there offers a fantastic glimpse to the Carenage and the St. George's Harbor.\n\nEntering into the city you will walk past the Grenada National Museum and St. George's Market. Without fail, everything was closed when I was walking through St. George. A little further down is the cruise ship terminal and a shopping mall for tourists to venture through-- also closed. Interestingly, St. John's Street provide an excellent photography opportunity as the slope of this road leads to a view of the Cathedral of the Immaculate Conception (no relation to Castries, probably). Overall, a nice few hours could be enjoyed at St. George's but with everything closed in the city there was not much for me to do during my time in the city.",
     "reactions": [
       {
         "e": "🤌",
@@ -9042,8 +8873,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Though the city was founded in 1722, Kingston does not offer many features that would make the capital an interesting place for sightseeing. Yet with the bustling atmophere, people-watching offers a purposeful alternative. While every capital city I visited on my trip seemed practically dead or empty due to the end…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Though the city was founded in 1722, Kingston does not offer many features that would make the capital an interesting place for sightseeing. Yet with the bustling atmophere, people-watching offers a purposeful alternative. While every capital city I visited on my trip seemed practically dead or empty due to the end of cruiseship season, Kingstown was easily the liveliest. Saint Vincent and the Grenadines isthe least-visited and less-impacted island nation on the Caribbean when it comes to boasting tourist numbers and cruiseships. Because of this (as I hypothesize), Kingstown has not been relegated to being a tourist spot and more of a hub for locals to do their day-to-day. At every corner, you feel the presence of the 13,000 people who call this city their home. There is a lot of action going about. Vendors and buyers are haggling over prices of produce and various wares of all kinds. Meanwhile there are many locals who were spending their afternoon smoking, drinking, eating and playing games. \n\nWalking down Bay Street will meet you with many people going through the daily motions. There are some interesting features in Kingstown that can be photographed. I think the highlight of the city would be Assumption Cathedral, adorned with a Gothic facade that looks extraordinarily out-of-place in Kingstown. It is a very beautiful building that demonstrates the wealth of history that Saint Vincent holds, and is often overlooked by many who seek the Caribbean as a respite for vacation. The church was first erected in 1823 yet truly snapshots the significance of a bygone era. Moreover, farther away from the city center is Saint Vincent's Botanical Garden. These gardens actually carry the title for being the oldest botanical garden in the western hemisphere, being dated to 1765.",
     "reactions": [
       {
         "e": "🤌",
@@ -9100,8 +8930,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Singapore Changi Int'l Airport has flights to almost anywhere in the world - 154 destinations in 48 countries. Most of the longest flights in the world are to/from Singapore. Crusie ships also stop here. Additionally, you can cross from Malaysia via bus. Once in Singapore, the metro and bus system will get you…",
-    "getThere": "Singapore Changi Int'l Airport has flights to almost anywhere in the world - 154 destinations in 48 countries. Most of the longest flights in the world are to/from Singapore. Crusie ships also stop here. Additionally, you can cross from Malaysia via bus. Once in Singapore, the metro and bus system will get you anywhere you need to be - just tap your credit card when you get on, and again when you get off. Grab is the popular rideshare app in the city. Tipping is not expected, but will be appreciated. \n\nHistory:\n(Gonna just do colonialism-present for this, tons of shit you can read about Singapore before the British online tho) Singapore was established as a British trading post by Sir Stamford Raffles in 1819 and quickly grew into a key port in Southeast Asia. From 1942 to 1945, it was occupied by Japan during WWII. After the war, Singapore gained independence as decolonization swept the world. Singapore briefly joined Malaysia in 1963 but became fully independent in 1965. Since then, it has developed into a prosperous, globally connected city-state, and one of the (if not the) biggest financial hubs in Asia. \n\nThings to do: \nGamble at Marina Bay Sands (MBS, no not Mohammed bin Salman), go to the Gardens By The Bay at MBS, MBS Observation desk, Singapore Aquarium, Universal Studios, Sentosa Island, Sultan Mosque, Chinatown. Hawker centers are popular for having tons of options for good, cheap food. Fort Canning Park is excellent, and there are tons of great museums in that area where you can learn about local history (eg National Museum).\n\nWhere to stay:\nSingapore is expensive, so if you are on a budget, you will be in a hostel. I stayed in KINN Capsule Hostel for around 50usd/night, and thought it was pretty good. Hotels will be much more expensive, but will also offer a nicer experience. Airbnb is limited to very expensive penthouses in SG. Chinatown to Rochor road is a good area to be in.",
-    "thingsToDo": [],
+    "content": "Singapore, SG\nSingapore\n\nPopulation: \n5.918m\n\nHow to get there/get around:\nSingapore Changi Int'l Airport has flights to almost anywhere in the world - 154 destinations in 48 countries. Most of the longest flights in the world are to/from Singapore. Crusie ships also stop here. Additionally, you can cross from Malaysia via bus. Once in Singapore, the metro and bus system will get you anywhere you need to be - just tap your credit card when you get on, and again when you get off. Grab is the popular rideshare app in the city. Tipping is not expected, but will be appreciated. \n\nHistory:\n(Gonna just do colonialism-present for this, tons of shit you can read about Singapore before the British online tho) Singapore was established as a British trading post by Sir Stamford Raffles in 1819 and quickly grew into a key port in Southeast Asia. From 1942 to 1945, it was occupied by Japan during WWII. After the war, Singapore gained independence as decolonization swept the world. Singapore briefly joined Malaysia in 1963 but became fully independent in 1965. Since then, it has developed into a prosperous, globally connected city-state, and one of the (if not the) biggest financial hubs in Asia. \n\nThings to do: \nGamble at Marina Bay Sands (MBS, no not Mohammed bin Salman), go to the Gardens By The Bay at MBS, MBS Observation desk, Singapore Aquarium, Universal Studios, Sentosa Island, Sultan Mosque, Chinatown. Hawker centers are popular for having tons of options for good, cheap food. Fort Canning Park is excellent, and there are tons of great museums in that area where you can learn about local history (eg National Museum).\n\nWhere to stay:\nSingapore is expensive, so if you are on a budget, you will be in a hostel. I stayed in KINN Capsule Hostel for around 50usd/night, and thought it was pretty good. Hotels will be much more expensive, but will also offer a nicer experience. Airbnb is limited to very expensive penthouses in SG. Chinatown to Rochor road is a good area to be in.",
     "reactions": [
       {
         "e": "🤌",
@@ -9163,8 +8992,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Kuala Lumpur Int'l Airport serves 136 destinatins in 39 countries. It is also possible (as I did) to cross from Singapore via bus, then rent a car in Johor Bahru and drive straight up AH2 direct to KL. Once in KL, there is a metro system that can get you around the main areas. We had a car, so we just used that.…",
-    "getThere": "Kuala Lumpur Int'l Airport serves 136 destinatins in 39 countries. It is also possible (as I did) to cross from Singapore via bus, then rent a car in Johor Bahru and drive straight up AH2 direct to KL. Once in KL, there is a metro system that can get you around the main areas. We had a car, so we just used that. Driving there is insane, google maps is hardly useful, and you will need a full-time navigator. Also, they drive on the wrong side of the road. \n\nHistory: \nKuala Lumpur was established in the 1850s as a tin mining settlement at the Gombak-Klang confluence. It grew rapidly under British colonial rule and became the capital of the Federated Malay States in 1896. The city was occupied by Japan during World War II, then returned to British control. Kuala Lumpur became the capital of independent Malaya in 1957 and later of Malaysia in 1963. Today, it is a bustling metropolis and the cultural, financial, and political center of the country.\n\nThings to do: \nBatu caves is a nearby Hindu temple/shrine, pretty cool to check out (lots of stairs). KLCC is where the main activity is, and where the Petronas Towers are - former tallest buildings in the world, and still the tallest twin towers in the world. The Islamic Arts Museum as well as the National Mosque are cool to check out (particularly the museum; I highly recommend it). Independence Square and Jamek Mosque are also nice. Tons of great malay, thai, chinese, etc food here - basically any Asian cuisine, they have + it is very good. \n\nWhere to stay:\nIf you ain't in KLCC, where you even at? Airbnbs are DIRT CHEAP here, we stayed in one that had a direct view of the Petronas Towers and massive bedrooms (slept like 8 ppl iirc) for like 120usd for the night. I'm sure theres hostels too but why even bother. Hotels are also pretty inexpensive if you are a westerner.",
-    "thingsToDo": [],
+    "content": "Kuala Lumpur, Malaysia\nMalaysia\n\nPopulation:\nApprox. 2.1m\n\nHow to get there/get around: \nKuala Lumpur Int'l Airport serves 136 destinatins in 39 countries. It is also possible (as I did) to cross from Singapore via bus, then rent a car in Johor Bahru and drive straight up AH2 direct to KL. Once in KL, there is a metro system that can get you around the main areas. We had a car, so we just used that. Driving there is insane, google maps is hardly useful, and you will need a full-time navigator. Also, they drive on the wrong side of the road. \n\nHistory: \nKuala Lumpur was established in the 1850s as a tin mining settlement at the Gombak-Klang confluence. It grew rapidly under British colonial rule and became the capital of the Federated Malay States in 1896. The city was occupied by Japan during World War II, then returned to British control. Kuala Lumpur became the capital of independent Malaya in 1957 and later of Malaysia in 1963. Today, it is a bustling metropolis and the cultural, financial, and political center of the country.\n\nThings to do: \nBatu caves is a nearby Hindu temple/shrine, pretty cool to check out (lots of stairs). KLCC is where the main activity is, and where the Petronas Towers are - former tallest buildings in the world, and still the tallest twin towers in the world. The Islamic Arts Museum as well as the National Mosque are cool to check out (particularly the museum; I highly recommend it). Independence Square and Jamek Mosque are also nice. Tons of great malay, thai, chinese, etc food here - basically any Asian cuisine, they have + it is very good. \n\nWhere to stay:\nIf you ain't in KLCC, where you even at? Airbnbs are DIRT CHEAP here, we stayed in one that had a direct view of the Petronas Towers and massive bedrooms (slept like 8 ppl iirc) for like 120usd for the night. I'm sure theres hostels too but why even bother. Hotels are also pretty inexpensive if you are a westerner.",
     "reactions": [
       {
         "e": "🤌",
@@ -9226,8 +9054,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Daily flights from Singapore via Scoot. They are also (slowly) building a cruise terminal. Otherwise, you have to drive. We drove from KL, pretty easy and nice drive. Once there, they have taxis and trishaws. You can also use your legs.",
-    "getThere": "Daily flights from Singapore via Scoot. They are also (slowly) building a cruise terminal. Otherwise, you have to drive. We drove from KL, pretty easy and nice drive. Once there, they have taxis and trishaws. You can also use your legs.\n\nHistory:\nMalacca was colonized by the Portuguese in 1511, followed by the Dutch in 1641 and then the British in 1824. Under British rule, it became part of the Straits Settlements alongside Penang and Singapore. During World War II, Malacca was occupied by the Japanese from 1942 to 1945. It became part of independent Malaya in 1957 and remains a historic city known for its colonial architecture and multicultural heritage.\n\nThings to do:\nTbh I fucking hated it when we first got in, the historic mosque lowkey sucks and we stayed in this weird area that they are still building up so there isn't anything to do there (the Doubletree). However, the next day we went into downtown Malacca along the river and I thought it was super cute. Jonker street, the museums, the fort, the river, the street art - lovely. Also the Selat Mosque was nice. Not tons to \"do\" here but would be a chill place to hang out for a week or two and do nothing but rest and recharge. Otherwise it's a day trip. \n\nWhere to stay:\nThe Doubletree was nice, but the location kinda sucked. It will be a good location circa 2035 when they finish developing. I would recommend finding an airbnb or a hotel in the old town, so you are in the heart of the city.",
-    "thingsToDo": [],
+    "content": "Malacca, Malaysia\nMalaysia\n\nPopulation:\n579,000\n\nHow to get there:\nDaily flights from Singapore via Scoot. They are also (slowly) building a cruise terminal. Otherwise, you have to drive. We drove from KL, pretty easy and nice drive. Once there, they have taxis and trishaws. You can also use your legs.\n\nHistory:\nMalacca was colonized by the Portuguese in 1511, followed by the Dutch in 1641 and then the British in 1824. Under British rule, it became part of the Straits Settlements alongside Penang and Singapore. During World War II, Malacca was occupied by the Japanese from 1942 to 1945. It became part of independent Malaya in 1957 and remains a historic city known for its colonial architecture and multicultural heritage.\n\nThings to do:\nTbh I fucking hated it when we first got in, the historic mosque lowkey sucks and we stayed in this weird area that they are still building up so there isn't anything to do there (the Doubletree). However, the next day we went into downtown Malacca along the river and I thought it was super cute. Jonker street, the museums, the fort, the river, the street art - lovely. Also the Selat Mosque was nice. Not tons to \"do\" here but would be a chill place to hang out for a week or two and do nothing but rest and recharge. Otherwise it's a day trip. \n\nWhere to stay:\nThe Doubletree was nice, but the location kinda sucked. It will be a good location circa 2035 when they finish developing. I would recommend finding an airbnb or a hotel in the old town, so you are in the heart of the city.",
     "reactions": [
       {
         "e": "🤌",
@@ -9289,8 +9116,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Hong Kong Int'l Airport has flights to 153 destinations in 44 countries. You can get from the airport via the metro, but it is expensive, and can be slow depending where you are staying. If you are staying in Mong Kok, for example, it is faster to take the bus. Google maps works well here. In the city, you can…",
-    "getThere": "Hong Kong Int'l Airport has flights to 153 destinations in 44 countries. You can get from the airport via the metro, but it is expensive, and can be slow depending where you are staying. If you are staying in Mong Kok, for example, it is faster to take the bus. Google maps works well here. In the city, you can walk, take the metro (cheap, fast, efficient for most things), use busses, take taxis, or use uber. \n\nHistory: \nHong Kong became a British colony in 1842 after the First Opium War, under the Treaty of Nanking. It developed into a major trading port and later a global financial hub. The territory was occupied by Japan from 1941 to 1945 during WWII, then returned to British rule. In 1997, it was handed back to China under the \"one country, two systems\" framework. Since then, it has maintained a distinct legal and economic system while facing increasing political challenges.\n\nThings to do:\nTake the tram up to Victoria peak and hike around, go to museums (Coastal Defence Museum, History Museum, Palace Museum), Kowloon Cultural District, Sky101, Kowloon Park, night markets,  day trip to Shenzhen or Macau, take the ferry, visit the temples. Tons of amazing food options. Food is pretty cheap too. Tons of great cocktail bars.\n\nWhere to stay:\nAirbnb is not really a thing here due to local law. So stay at hotels or hostels. The hostels are kinda shit but you get what you pay for. Hotels can be nice. Me and my friend stayed at a 5 star hotel in Mong Kok for 200usd/night, which was a bit of a splurge but it was only for 5 days and was at the end of our trip.",
-    "thingsToDo": [],
+    "content": "Hong Kong, HK\nChina\n\nPopulation: \n7.536m\n\nHow to get there/get around:\nHong Kong Int'l Airport has flights to 153 destinations in 44 countries. You can get from the airport via the metro, but it is expensive, and can be slow depending where you are staying. If you are staying in Mong Kok, for example, it is faster to take the bus. Google maps works well here. In the city, you can walk, take the metro (cheap, fast, efficient for most things), use busses, take taxis, or use uber. \n\nHistory: \nHong Kong became a British colony in 1842 after the First Opium War, under the Treaty of Nanking. It developed into a major trading port and later a global financial hub. The territory was occupied by Japan from 1941 to 1945 during WWII, then returned to British rule. In 1997, it was handed back to China under the \"one country, two systems\" framework. Since then, it has maintained a distinct legal and economic system while facing increasing political challenges.\n\nThings to do:\nTake the tram up to Victoria peak and hike around, go to museums (Coastal Defence Museum, History Museum, Palace Museum), Kowloon Cultural District, Sky101, Kowloon Park, night markets,  day trip to Shenzhen or Macau, take the ferry, visit the temples. Tons of amazing food options. Food is pretty cheap too. Tons of great cocktail bars.\n\nWhere to stay:\nAirbnb is not really a thing here due to local law. So stay at hotels or hostels. The hostels are kinda shit but you get what you pay for. Hotels can be nice. Me and my friend stayed at a 5 star hotel in Mong Kok for 200usd/night, which was a bit of a splurge but it was only for 5 days and was at the end of our trip.",
     "reactions": [
       {
         "e": "🤌",
@@ -9337,8 +9163,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "There are a lot of things to do in this beautiful city, from the Museo del Oro to the famous “gay district” of Colombia to the Salt Cathedral and so much more.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Population: 7.93 million\n\nThere are a lot of things to do in this beautiful city, from the Museo del Oro to the famous “gay district” of Colombia to the Salt Cathedral and so much more.\n\nI had a 16 hour layover, but it was in the afternoon and all the way to the next day, and I wasn’t able to finally explore any of the city until around 4:30 PM… when many places were either closed or about to close. I visited Centro Comercial Avenida, a large, popular mall with many shops and restaurants. I also got to take photos from the airport to the place and back, and I got a chance to practice my Spanish as well. So, overall, I enjoyed it as much as I could for a lengthy layover that had unfortunate timing.\n\nThe city was far prettier than I had expected, and a lot safer than I had read in U.S. travel advisory reports. Overall, I’d say as long as you take precautions, as you should in any place you visit, you will most likely be okay. I definitely hope to return and have far more time to explore the city and, hopefully, the outskirts of the city as well.",
     "reactions": [
       {
         "e": "🤌",
@@ -9444,8 +9269,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Hey everyone! I’m thrilled to share my recent trip to El Nido, Palawan, Philippines, for the 2025 Globetrotter Challenge! This gorgeous town has a population of about 50,000, and it’s a place that’s close to my heart.",
-    "getThere": "Things to Do/See: I explored on Tours A and C, and they were incredible. The Big Lagoon on Tour A was a highlight—kayaking through its crystal-clear waters with towering limestone cliffs felt surreal. On Tour C, I snorkeled at Seven Commando Beach, marveling at the colorful fish and soft sands. The Small Lagoon was a hidden gem I paddled into, and the sunsets over the water were breathtaking. Growing up, my family told me stories about Palawan’s beauty, and being there, chatting with warm locals, made it feel personal and alive.",
-    "thingsToDo": [],
+    "content": "Hey everyone! I’m thrilled to share my recent trip to El Nido, Palawan, Philippines, for the 2025 Globetrotter Challenge! This gorgeous town has a population of about 50,000, and it’s a place that’s close to my heart.\n\nHow to Get There: I flew from Manila to Puerto Princesa (a quick 1.5-hour flight), then took a scenic 5-hour van ride to El Nido. The drive was full of stunning ocean views! You can also opt for a bus, rent a car, or even arrive by boat from nearby islands.\n\nThings to Do/See: I explored on Tours A and C, and they were incredible. The Big Lagoon on Tour A was a highlight—kayaking through its crystal-clear waters with towering limestone cliffs felt surreal. On Tour C, I snorkeled at Seven Commando Beach, marveling at the colorful fish and soft sands. The Small Lagoon was a hidden gem I paddled into, and the sunsets over the water were breathtaking. Growing up, my family told me stories about Palawan’s beauty, and being there, chatting with warm locals, made it feel personal and alive.",
     "reactions": [
       {
         "e": "🤌",
@@ -9503,8 +9327,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Hey everyone! I’m excited to share my recent adventure in Puerto Princesa, Palawan, Philippines, for the 2025 Globetrotter Challenge! This vibrant city, with a population of about 300,000, is a gateway to some of the country’s most stunning natural wonders.",
-    "getThere": "Things to Do/See: My trip was unforgettable, starting with my stay at Astoria Palawan Resort, located about 62 km north of the city on the North National Highway in Barangay San Rafael. This gorgeous resort sits on an eight-hectare property along the Sulu Sea, with a private beach, a massive 115-foot infinity pool, and a waterpark that my family loved. The rooms are bright and tropical, and the staff—especially folks like Aljohn by the pool—made us feel so welcome. The buffet breakfast was a highlight, with fresh local flavors.\n\nFrom there, I ventured to the Puerto Princesa Subterranean River National Park, about an hour’s drive from the resort. This UNESCO World Heritage Site and New 7 Wonder of Nature blew me away. The underground river stretches 8.2 km, flowing right into the sea, with massive caves filled with stalactites and stalagmites. I took a guided boat tour through the dark, mystical tunnels, spotting bats and marveling at the natural beauty. The short rainforest walk to the entrance, where I saw monitor lizards, added to the adventure.",
-    "thingsToDo": [],
+    "content": "Hey everyone! I’m excited to share my recent adventure in Puerto Princesa, Palawan, Philippines, for the 2025 Globetrotter Challenge! This vibrant city, with a population of about 300,000, is a gateway to some of the country’s most stunning natural wonders.\n\nHow to Get There: I flew from Manila to Puerto Princesa International Airport (a 1.5-hour flight), then took a private van for the roughly 1-hour drive to Astoria Palawan Resort. You can also grab a bus, rent a car, or arrange a shuttle from the airport.\n\nThings to Do/See: My trip was unforgettable, starting with my stay at Astoria Palawan Resort, located about 62 km north of the city on the North National Highway in Barangay San Rafael. This gorgeous resort sits on an eight-hectare property along the Sulu Sea, with a private beach, a massive 115-foot infinity pool, and a waterpark that my family loved. The rooms are bright and tropical, and the staff—especially folks like Aljohn by the pool—made us feel so welcome. The buffet breakfast was a highlight, with fresh local flavors.\n\nFrom there, I ventured to the Puerto Princesa Subterranean River National Park, about an hour’s drive from the resort. This UNESCO World Heritage Site and New 7 Wonder of Nature blew me away. The underground river stretches 8.2 km, flowing right into the sea, with massive caves filled with stalactites and stalagmites. I took a guided boat tour through the dark, mystical tunnels, spotting bats and marveling at the natural beauty. The short rainforest walk to the entrance, where I saw monitor lizards, added to the adventure.",
     "reactions": [
       {
         "e": "🤌",
@@ -9599,8 +9422,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "This lively island, with a population of about 82,000, is a tropical paradise that stole my heart.",
-    "getThere": "Things to Do/See: Boracay was a blast! I spent most of my time on White Beach, with its powdery sand and turquoise waters—perfect for swimming and chilling with a coconut drink. I tried island hopping to spots like Crystal Cove and Puka Beach, where the quieter vibe and stunning views felt like my own secret escape. The sunset at D’Mall was magical, with live music and a warm glow over the sea. Growing up, my cousins raved about Boracay’s beaches, and being there, feeling the sand between my toes and the local energy, made it so personal.",
-    "thingsToDo": [],
+    "content": "This lively island, with a population of about 82,000, is a tropical paradise that stole my heart.\n\nHow to Get There: I flew from Manila to Caticlan Airport (a 1-hour flight), then took a short 15-minute van ride and a 10-minute boat to Boracay. You can also fly to Kalibo (1.5 hours) and take a 2-hour bus or van, or arrive by ferry from nearby islands.\n\nThings to Do/See: Boracay was a blast! I spent most of my time on White Beach, with its powdery sand and turquoise waters—perfect for swimming and chilling with a coconut drink. I tried island hopping to spots like Crystal Cove and Puka Beach, where the quieter vibe and stunning views felt like my own secret escape. The sunset at D’Mall was magical, with live music and a warm glow over the sea. Growing up, my cousins raved about Boracay’s beaches, and being there, feeling the sand between my toes and the local energy, made it so personal.",
     "reactions": [
       {
         "e": "🤌",
@@ -9654,8 +9476,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "This peaceful town, with a population of around 45,000, is surrounded by breathtaking landscapes that made my adventure truly special.",
-    "getThere": "Things to Do/See: Vang Vieng was a dream! I swam in the turquoise waters of Blue Lagoon 1, relaxing under the trees—it felt like paradise. Hiking to Nam Xay Viewpoint gave me incredible sunset views of the karst mountains that I’ll never forget. Tubing down the Nam Song River was so much fun, drifting past limestone cliffs and greenery. This trip meant a lot to me because a friend had always talked about Laos’ serene beauty, and experiencing it firsthand with the warm locals made it feel like home.",
-    "thingsToDo": [],
+    "content": "This peaceful town, with a population of around 45,000, is surrounded by breathtaking landscapes that made my adventure truly special.\n\nHow to Get There: I flew from Bangkok to Luang Prabang (a 1-hour flight), then took the Laos-China high-speed train to Vang Vieng, which was a smooth 1-hour ride with stunning views of the countryside. You can also take a bus from Luang Prabang (5-6 hours) or Vientiane (3-4 hours), or rent a motorbike for a more adventurous journey.\n\nThings to Do/See: Vang Vieng was a dream! I swam in the turquoise waters of Blue Lagoon 1, relaxing under the trees—it felt like paradise. Hiking to Nam Xay Viewpoint gave me incredible sunset views of the karst mountains that I’ll never forget. Tubing down the Nam Song River was so much fun, drifting past limestone cliffs and greenery. This trip meant a lot to me because a friend had always talked about Laos’ serene beauty, and experiencing it firsthand with the warm locals made it feel like home.",
     "reactions": [
       {
         "e": "🤌",
@@ -9741,8 +9562,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "The city has a population of around 250,000, and it’s the jumping-off point for exploring Angkor Wat, the largest religious monument in the world—this place is massive, over 160 hectares.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "The city has a population of around 250,000, and it’s the jumping-off point for exploring Angkor Wat, the largest religious monument in the world—this place is massive, over 160 hectares.\n\nI rented a bike for two days to get around the Angkor complex, which turned out to be a great decision because the area is huge and packed with temples. I got the 1-day pass for $35 USD. Pro tip: if you buy the pass in the late afternoon (around 3 or 4 PM), you can enter the park the same day to catch the sunset for free, then use the pass for the full next day.\n\nI explored a bunch of temples including Angkor Wat, Bayon, Ta Prohm (the Tomb Raider temple), Neak Pean (the water temple), Sunset Temple and a few others nearby. \n\nStayed at a nice place with a pool and had a super chill time. After the long days of biking and exploring, it was the perfect way to relax. I got to Siem Reap by bus from Phnom Penh, continuing my backpacking trip around Southeast Asia.",
     "reactions": [
       {
         "e": "🤌",
@@ -9977,8 +9797,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Düsseldorf is a city in the very east of Germany,  around 620k people call it their home.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Düsseldorf is a city in the very east of Germany,  around 620k people call it their home.\nI took the train to get here but you can also fly into Düsseldorf Airport.\n\nIf you're an Anime/Japan Nerd like myself, sou you're gonna enjoy parts of Düsseldorf. It holds the biggest community of Japanese people in the country, which gives parts of the city a Japanese feeling.\n\nI only went here to go to Japantag Düsseldorf, Europe's largest Japan convention. Besides that there's Immermannstraße/Little Tokyo where you have plenty of Japanese restaurants, Asian supermarkets and nerdy stores to visit.\n\nIf you're not a fan of anything like that, I honestly can't really advise you to come here. I don't particularly like the city itself, it feels very sketchy in some parts and isn't really pretty either.  I explored some other parts of town and I can't say I loved it...\n\nThings that stood out:\n- Immermannstraße (Little Tokyo)\n-> Sakura Bar\n- Market at Carlsplatz",
     "reactions": [
       {
         "e": "🤌",
@@ -10033,8 +9852,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Yo yo yo, review time. Rather short one as I didn't spend too long and didn't do a whole lot outside working and some other everyday shenanigans and it's a massive city with its 10 million inhabitants which make up close to one third of its entire population, it's well connected with buses and flights as are most…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "5/15  big disclaimer. I have a photo of the bull, I did rub it's balls, I stepped over it's little fence as people looked at me dumbfounded at the stupid gringo stepping on the plants to molest a statue. But the photo even do I hit press, it didn't take it. This has happened before. I know I should've double checked but I didn't know until now, on the bus on the way out as this is when I normally write these. Please, don't take this away from me, just let me have it    can confirm this happens sometimes, she saw it happen in costa Rica but there I had time to go back to the bull. With the disclaimer out of the way. Here's a short review. \n\nYo yo yo, review time. Rather short one as I didn't spend too long and didn't do a whole lot outside working and some other everyday shenanigans and it's a massive city with its 10 million inhabitants which make up close to one third of its entire population, it's well connected with buses and flights as are most capitals, and that's how I got here and it's how I'll leave, with the bus. \n\nIt may not be the most exciting city, but i did take note that it has a lot of museums, loads of parks and a long promenade in Miraflores which if you're into walking or running, offers a long path with loads of options for other sports along a coastal well patched walk and bike path. \n\nLima can be quite double edged in terms of aesthetics, it can be decently nice, clean, lots of amenities on one side and on the other side look like a caricature of Afghanistan. (See photos) \n\nBut it's most important attribute of them all however is the multitudes of bulls that can be rubbed for good luck. I picked this one (see photo) but unfortunately as the disclaimer states, my phone didn't actually snap up when I did the actual rubbing, but rest assured that I'm blessed by its lucky charm until next time I come across a bull. \n\nSo yea, that's it, nothing more to report. Just did not do as much as one normally does here probably. But I did do the essentials\n\nCheers",
     "reactions": [
       {
         "e": "🤌",
@@ -10147,8 +9965,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "East Rutherford (pop 10,022) is located in Bergen County, New Jersey. It is the location of MetLife Stadium which is the home of both NYC American Football Teams, the Jets and the Giants. Super Bowl XLVIII was played there, making East Rutherford the smallest city ever to host Super Bowl. The final 2026 FIFA World…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "East Rutherford (pop 10,022) is located in Bergen County, New Jersey. It is the location of MetLife Stadium which is the home of both NYC American Football Teams, the Jets and the Giants. Super Bowl XLVIII was played there, making East Rutherford the smallest city ever to host Super Bowl. The final 2026 FIFA World Cup match will be played at MetLife Stadium.\n\nEast Rutherford is also the location of the American Dream shopping mall. It is the 2nd largest mall in the US (behind the Mall of America in Minnesota). This mall was first proposed in 2003 and finally opened in late 2019, just in time for the start of the COIVD-19 pandemic. Several corporations attempted to build the mall, eventually the people who run Mall of America took over and were able to actually open the facility.\n\nThe mall contains stores, of course, but due to the “Bergen County Blue Laws”, most stores are prohibited from being open on Sundays (however, recently most stores have been open on Sunday anyway). In addition, e-commerce has changed the dynamics of ‘in person’ shopping, so contemporary malls generally include expanded dining and entertainment, compared to late 20th century malls. American Dream is 55% entertainment  and 45% retail.",
     "reactions": [
       {
         "e": "🤌",
@@ -10240,8 +10057,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "North Adams is the smallest city by population in Massachusetts with a population of 12,961 according to the 2020 census. While part of the Pittsfield Metro area, I am including a separate entry as it is located more than 30 minutes outside of Pittsfield. Getting to the town is not easy, as there are very limited…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "North Adams is the smallest city by population in Massachusetts with a population of 12,961 according to the 2020 census. While part of the Pittsfield Metro area, I am including a separate entry as it is located more than 30 minutes outside of Pittsfield. Getting to the town is not easy, as there are very limited options. There is no airport within an hour drive, with the closest being Albany New York. There is also no interstate or US highway access either. You can drive in of course using state routes, Route 2, & 8. Additionally for those who are brave enough, the Appalachian trail passes through the town, so trail connection from Maine to Georgia is possible! The city is part of the Berkshire Mountains, with stunning fall foliage if you can make it.\n\nClarksburg State Park: Most of the nature pictures are from here. This state park offers many nature based activities and is really not too busy which makes it feel more remote and less managed.\n\nNatural Bridge State Park: If you are interested in geology, this may be worth your time, as it is the largest natural marble bridge in North America. The actual bridge is not accessible, which kinda feels bad.\n\nMass MoCa: One of the largest contemporary art museums in the United States. This is an old mill and factory converted into an art museum with many unique and cool exhibits.\n\nThe Clark: Located next door in Williamstown, the Clark offers another art museum with a lot more European themed art. It is based on a private collection, and much smaller than Mass MoCa.\n\nMount Greylock State Reservation: The tallest mountain in the state. This mountain is relatively accessible with many trails open year round. At the summit there is a Veterans War Memorial Tower, open in the summer. I personally hiked to the summit in February and was able to make it to the top despite ice, snow and a wild coyote encounter. Additionally smaller cars can drive to the summit.",
     "reactions": [
       {
         "e": "🤌",
@@ -11288,8 +11104,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "The largest city in Berkshire County, Pittsfield is a very underrated city in western Massachusetts. It is the heart of the Pittsfield Metro area.  At the time of the 2020 census it had a population of 43,927. The city can be reached via Amtrak which runs between Chicago & Boston. Additionally, bus connections from…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "The largest city in Berkshire County, Pittsfield is a very underrated city in western Massachusetts. It is the heart of the Pittsfield Metro area.  At the time of the 2020 census it had a population of 43,927. The city can be reached via Amtrak which runs between Chicago & Boston. Additionally, bus connections from local routes to cities such as Boston, Springfield, Worcester, and NYC also exist. There are no airports in Berkshire county which you can buy tickets into, so getting here by plane will need to connect via Hartford CT, Albany NY, or Worcester MA. Pittsfield itself has no interstate access, but 2 US highways, route 20 which is the longest, and 7 both enter the city. It has a lot of niche history to it, and I would highly recommend visiting in summer when the weather is nice, or fall with the foliage. In winter, there are many snowboarding and ski resorts open as well nearby!  It has some really unique history to it, including some former shaker communities, being home to Moby Dick’s author, and much more! Fun fact, the first Secret Service Agent killed in Action was here!\n\nBalance Rock State Park: This is named after a rock that is balancing and looks very precarious, yet has been this way for thousands of years.\n\nTanglewood: A large and beautiful outdoor venue, located in Lenox. They host the Boston Symphony and POPs in the summer.\n\nWahconah State Falls Park: A very accessible waterfall park nearby in Dalton, with picnic spots as well!\n\nPontoosuc Lake: A large glacial lake that offers spots for swimming, boating and fishing!\n\nOctober Mountain State Forest: A large open forest for hiking and exploring.",
     "reactions": [
       {
         "e": "🤌",
@@ -11360,8 +11175,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Woa woa woah, it's me again and this time from Ica. Or well, on my way out of Ica.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "6/15\n \nWoa woa woah, it's me again and this time from Ica. Or well, on my way out of Ica. \n\nWhat is an Ica you may wonder. Fear not, I'm here to show you. Ica is a city with around 1 million inhabitants situated in Peru, between Paracas and Nazca, two other popular tourist destinations. \n\nI got here by bus and this is probably the most common way, no matter which direction you're going. \n\nWhat is there to do in Ica? Well Ica itself isn't all too exciting. However, I did find a bull which had to be rubbed for good luck. (See video)  But the real interest in Ica lays with its surroundings. Here you can see the nice Andes from my hostel window (see photo) It's also a wine region, nice for wine tours, there are canyons nearby, mountains, Nazca lines and Paracas nearby. So tons to do, and most importantly. The highlight and the main aim of coming here for me... Huacachina, desert oasis with massive sand dunes. A spectacular sight.(See rest of photos) \n\nGreat time, it's been one of the highlights of Peru thus far. However with some luck, I have another bull looming soon and one last Peru submission. \n\nHighly recommended, cheers and adios ✌️",
     "reactions": [
       {
         "e": "🔥",
@@ -11474,8 +11288,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Woah woah, eyh eyh, can I get a heyo? (Heyoo)",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "7/15 \n \nWoah woah, eyh eyh, can I get a heyo? (Heyoo)\nGay people say what? \nWHAT?! \n\nMe again, this time on my way out of the lovely city of Arequipa. What is an Arequipa you may say? Well, it's a city just shy of a mili, up in the Peruvian mountains. Often used as a stop along the way on the way to Cusco and ultimately Machu Picchu. Coincidentally what I'm doing. I'm taking the bus, but most cities this size in Peru got fairly easy enough national flights. \n\nSo what is there to in Arequipa? \nOutside just enjoying it's beauty. The lovely plaza del armas (ser photo) your gaze will also meet two pretty big mountains, almost no matter where you are in the city. Arequipa is early 2k alltitude, while the tallest of its surrounding mountains I think reach 5 000. (See next two photos) It also have a few different areas in town worth checking out. \n\nHowever there's also plenty of other potential activities surrounding the city. Famous canyon treks, mountain climbing, hikes, lots of options. \n\nI was also lucky enough to stumble upon two bulls for double the rubbing luck whammy. (See rest of photos) \nAll rubbed and taken care of. \n\nWas an enjoyable few days. I didn't go to crazy, just enjoyed the city at a slow and casual pace. Climate was nice for my stay and it's not impossible I will return to explore some more. \n\nCheerios",
     "reactions": [
       {
         "e": "🤌",
@@ -11704,8 +11517,7 @@ const SUBMISSIONS = [
         "text": "Ohh, that sounds like good timing too! And then we can plan a location and time when we’re both back from Machu Picchu",
         "reactions": []
       }
-    ],
-    "lite": true
+    ]
   },
   {
     "id": "s-mexico-city-bun-thit-nuong",
@@ -11765,15 +11577,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Mezko!! For better or for worse, this is where I live. Along with 9,000,000 others (25,000,000 if you count the whole valley).",
-    "getThere": "---\n\nThings to do:\n\nDo you like Architecture and Museums!? You'll never leave. There are over 150 museums here. Always in a beautiful old building. There's food too. But it's mostly \"imported\" from other states. El Habanerito is an awesome little restaurant in Roma Norte for example, serving authentic comida Yucateca. But even though most of the staff is from Yucatan, the cochinita never hits like it would in Merida. \n\nHere is what tourists typically do here: \n\n1. Plan only two or three days in CDMX\n2. Regret not making it a week\n3. Spend most of those couple days in an Uber \n\nHere is the \"day 1 walk\" I take people on: \n\n1. We start in Roma Norte. A hellish place full of french bakeries and hipster candleshops. But there are many beautiful historic buildings there. The Guillermo Tovar de Teresa Museum is a lovely one, and its free. Go inside! \n\n2. From that house, its a few blocks to Reforma, the main business district avenue. That's the safest way to get to the historic center on foot. \n\n3. historic center: The police are there for a reason - the surrounding neighborhoods. Don't loose sight of them. \n\nWalk Through:\n\nCasa de los Azulejos\nTemplo de San Francisco\nPlaza de la Constitución\nPalacio Postal\n\nMuseums: \n\nMuseo Nacional De Arte (MUNAL)\nColegio de San Ildefonso\nMuseo del Templo Mayor\n\n---\n\nWorthwhile extras: Chapultapec Castle, Anthropology Museum, Xochimilco",
-    "thingsToDo": [
-      "Plan only two or three days in CDMX",
-      "Regret not making it a week",
-      "Spend most of those couple days in an Uber",
-      "We start in Roma Norte. A hellish place full of french bakeries and hipster candleshops. But there are many beautiful historic buildings there. The Guillermo Tovar de Teresa Museum is a lovely one, and its free. Go inside!",
-      "From that house, its a few blocks to Reforma, the main business district avenue. That's the safest way to get to the historic center on foot.",
-      "historic center: The police are there for a reason - the surrounding neighborhoods. Don't loose sight of them."
-    ],
+    "content": "Mezko!! For better or for worse, this is where I live. Along with 9,000,000 others (25,000,000 if you count the whole valley). \n\nHow to get here? You should take a plane. And after that, an Uber. Like seriously. You can play local taxi games at the airport if you want, but that area is wild, and the first time I landed there I heard a quick shootout across the street. Which is different from an \"ajuste de cuentas\" when someone just shoots into your front door a few times for not paying a debt or whatever. This was more shots than that. Multiple firearms. So yeah. I like to take Ubers from the Airport.\n\n---\n\nThings to do:\n\nDo you like Architecture and Museums!? You'll never leave. There are over 150 museums here. Always in a beautiful old building. There's food too. But it's mostly \"imported\" from other states. El Habanerito is an awesome little restaurant in Roma Norte for example, serving authentic comida Yucateca. But even though most of the staff is from Yucatan, the cochinita never hits like it would in Merida. \n\nHere is what tourists typically do here: \n\n1. Plan only two or three days in CDMX\n2. Regret not making it a week\n3. Spend most of those couple days in an Uber \n\nHere is the \"day 1 walk\" I take people on: \n\n1. We start in Roma Norte. A hellish place full of french bakeries and hipster candleshops. But there are many beautiful historic buildings there. The Guillermo Tovar de Teresa Museum is a lovely one, and its free. Go inside! \n\n2. From that house, its a few blocks to Reforma, the main business district avenue. That's the safest way to get to the historic center on foot. \n\n3. historic center: The police are there for a reason - the surrounding neighborhoods. Don't loose sight of them. \n\nWalk Through:\n\nCasa de los Azulejos\nTemplo de San Francisco\nPlaza de la Constitución\nPalacio Postal\n\nMuseums: \n\nMuseo Nacional De Arte (MUNAL)\nColegio de San Ildefonso\nMuseo del Templo Mayor\n\n---\n\nWorthwhile extras: Chapultapec Castle, Anthropology Museum, Xochimilco",
     "reactions": [
       {
         "e": "🤌",
@@ -11824,9 +11628,8 @@ const SUBMISSIONS = [
         "caption": ""
       }
     ],
-    "blurb": "Did this one with The Crew (Cat, Jesus, & Jesus’ partner) as part of a larger trip and think we were all pleasantly surprised! To give a super brief summary: Panama City is Miami if Miami didn’t suck.",
-    "getThere": "",
-    "thingsToDo": [],
+    "blurb": "Vibe of the trip: https://open.spotify.com/track/6aLJnupvPpT9HLv3xaUhe1?si=426a7c890fc84ab7",
+    "content": "Submission Number: 2\nLocation: Panama City\nPopulation: 1.1M+\nTime of trip: February\nVibe of the trip: https://open.spotify.com/track/6aLJnupvPpT9HLv3xaUhe1?si=426a7c890fc84ab7\n\nWriteup:\nDid this one with The Crew (Cat, Jesus, & Jesus’ partner) as part of a larger trip and think we were all pleasantly surprised! To give a super brief summary: Panama City is Miami if Miami didn’t suck.\n\nWhile there are a couple rougher patches, walking through the city it just oozes money, which is unsurprising given its extreme relevance in global trade. This has also caused it to become a hotspot for banking and trade-related firms and it holds the HQ of many of their LATAM offices.\n\nCulturally, it is a surprising mix. Of course you can see the typical Latino culture, but more in a mix of Central meets South America, which is reflected in the food, the accent, and more. On top of that, the part I found most interesting is the strong Afro Caribbean presence. Unless you plan on travelling the Caribbean looking for it, would encourage you to hop on the chance to eat traditional Afro Caribbean food here.\n\nRestaurants I enjoyed: Salispuedes (Afro Caribbean, must try this place), El Trapiche (traditional Panamanian food), Julian Rooftop (Amazing views over the city at night).\n\nAs for things to do, the one people always think of is the canal. Frankly, I found that underwhelming. It’s a canal, so… yeah… nothing particularly exciting there unless a ship is going through. What I really did enjoy is the beautiful walking path they have right along the ocean that can take you throughout the city. The old town is also worth visiting, although be warned it’s quite touristy and I don’t think it has the same vibrance as the main city.",
     "reactions": [
       {
         "e": "🤌",
@@ -11872,9 +11675,8 @@ const SUBMISSIONS = [
         "caption": ""
       }
     ],
-    "blurb": "This one surprised me and I wish I had more time to spend there, only went for four or so days. Was also my first steps and first impression of South America.",
-    "getThere": "",
-    "thingsToDo": [],
+    "blurb": "Vibe of the trip: https://open.spotify.com/track/2oJk6tsIeEMC0O8Upp1QO2?si=2b6e35da1cb74a7e",
+    "content": "Submission Number: 3\nLocation: Cartagena\nPopulation: 1.1M+\nTime of trip: March\nVibe of the trip: https://open.spotify.com/track/2oJk6tsIeEMC0O8Upp1QO2?si=2b6e35da1cb74a7e\n\nWriteup:\nThis one surprised me and I wish I had more time to spend there, only went for four or so days. Was also my first steps and first impression of South America.\n\nLet me start with a disclaimer. The airport fucking SUCKS. Both going in and going out was super annoying, but more so going in. The reason, you may ask? While you wait in the endless immigration line, they allow families to cut the line. What does that mean for you? It means if there are enough families coming in, it could add quite literally hours to the time it takes you to get through immigration, as happened to me.\n\nWith that aside, I found it to be a lovely city. The whole walled portion is protected as a UNESCO world heritage site, so the colonial architecture is quite well preserved. My favorite thing to do in the city was just to wander the streets and take it in. You have all sorts of restaurants and coffee shops tucked away within the alleys, and while a little pricey for LATAM, you can definitely find cheaper options which are well-prepared and quite filling.\n\nFound the locals to be quite friendly and chatty if you try to speak a bit of Spanish to them, and while you do occasionally get hustled, I never had any issue telling them I wasn’t interested and getting them to leave me alone. In terms of things to do, I found myself spending a lot of time walking the walls of the old town, relaxing in coffee shops, browsing art galleries, and people watching in the main squares of the city. Didn’t spend enough time to scope out the restaurant scene unfortunately but found most of the breakfast places you find around to be quite good with large portion sizes.",
     "reactions": [
       {
         "e": "🤌",
@@ -11956,9 +11758,8 @@ const SUBMISSIONS = [
         "caption": ""
       }
     ],
-    "blurb": "Ohhhhhhhhhhh boyyyyyyyyyyyyyyyyyyy where do I start with this one. I know travelers have a disposition for saying everywhere they went is the greatest place on earth, but you all know that just ain’t me. Instead of giving recs and tips, I’m going to tell this one as a story and you can come to your own conclusion…",
-    "getThere": "",
-    "thingsToDo": [],
+    "blurb": "Vibe of the trip: https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3?si=d52cf1a986414818",
+    "content": "Submission Number: 4\nLocation: Tulum\nPopulation: 46.7K+\nTime of trip: March\nVibe of the trip: https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3?si=d52cf1a986414818\n\nWriteup:\nOhhhhhhhhhhh boyyyyyyyyyyyyyyyyyyy where do I start with this one. I know travelers have a disposition for saying everywhere they went is the greatest place on earth, but you all know that just ain’t me. Instead of giving recs and tips, I’m going to tell this one as a story and you can come to your own conclusion…\n\nHave you ever been to a place you hated absolutely everything about? Be honest for a second, drop the traveler’s optimism and reflect on that thought. Tulum was that place for me. There were only TWO things that saved my misery, the first being going there with the Nord for a bit of company, and the second being a legendary abuelita, which I’ll get to later.\n\nSo, I fly into Cancun and make my way down to Tulum from there. Had a gigantic suitcase with me at the time and didn’t want to take the bus with it. Also didn’t want to get shook down by the taxi cab mafia (yes, that is a thing in that part of Mexico), so opted instead for getting shook down by a private shuttle service. Got in later in the day, got tucked away in the Airbnb, then went to get dinner.\n\nFirst thought of getting dinner is “wow the venue is nice!” and the second thought was “wait, why does this cost more than the US?” I figured since it was just some hotel restaurant across the street it would be a one-off. I was wrong, that was a theme throughout the whole trip, including us seeing multiple places selling a singular taco for over $5, and one place selling a singular taco for $7. Quite literally, the whole trip, we were fighting for our lives to find anywhere with food that doesn’t just outright rob you on the price. We were quite lucky to find an abuelita who ran a restaurant in the non-touristy areas with some absolutely amazing food, so naturally we ate there as much as humanly possible. We also found a pretty good torta shop that was reasonably priced, so essentially whenever we ate out it was one of those two restaurants lol.\n\nThe other thing that sucks about Tulum is the city’s infrastructure. Multiple times over our stay the water went out. We also lost 2/3 of a day’s worth of work because the electricity went out for reasons outside the Airbnb’s control.\n\nSo, what do people do in Tulum? Well, of course there’s the music and party scene. We aren’t those kinds of people, so we figured we would rent bikes and go to the beach. We had to bring the bikes back 3-4 times because the tires wouldn’t hold air and start over lol. Once we actually made it to the beach, we were disappointed to see it was just resort central. We were even more disappointed to see that unlike other resort places with fat stacks of cash, nobody here gets the seaweed off the beach. We were EVEN MORE disappointed to be robbed blind not once, but TWICE by having to pay entry for a road to access the old ruins, and then pay entry AGAIN for the ruins themselves, only for them to be kinda mid in my opinion.\n\nMark my words, I will never return to Tulum again and anyone who says that place is worth going is objectively wrong. I don’t care if you had a nice time getting scammed on your honeymoon, you can literally go to a nice beach in the US or anywhere else for cheaper and with less bullshit than I saw in Tulum.",
     "reactions": [
       {
         "e": "🤌",
@@ -12031,9 +11832,8 @@ const SUBMISSIONS = [
         "caption": ""
       }
     ],
-    "blurb": "This was a really fun one for me. Was heading over to visit the gf so keep in mind I may or may not have rose colored glasses on typing this haha. I hate flying, but decided to splurge on this and fly United Polaris from SF to SG since I got a great discount on the ticket (still cost an arm, just not a leg). First…",
-    "getThere": "",
-    "thingsToDo": [],
+    "blurb": "Vibe of the trip: https://open.spotify.com/track/4j3iq13kHs5PB94jdTp3Y3?si=7c2d63642da6492e",
+    "content": "Submission Number: 5\nLocation: Singapore\nPopulation: 5.9M+\nTime of trip: April\nVibe of the trip: https://open.spotify.com/track/4j3iq13kHs5PB94jdTp3Y3?si=7c2d63642da6492e\n\nWriteup:\nThis was a really fun one for me. Was heading over to visit the gf so keep in mind I may or may not have rose colored glasses on typing this haha. I hate flying, but decided to splurge on this and fly United Polaris from SF to SG since I got a great discount on the ticket (still cost an arm, just not a leg). First time flying like that and it was quite a nice experience. Drank way too much wine on the flight and mostly worked, but hey, it’s free so of course I’m going to drink it.\n\nAs for the city itself, it’s clean, super modern, everything runs on time, no garbage anywhere, what you would expect of Singapore. I’ll say compared to many places, it lacks a bit of soul; the point can be made that a country can only be so authoritarian before it sacrifices the things that give a place its soul. However, it was still a nice time.\n\nOutside of spending time with the gf, also got visits from Ragnar & co. along with Blue! All three of them were fun and we did the typical “eat, drink, and be merry” shit around the city. Went to Lau Pa Sat to chow down, drank on rooftop bars, went through the history museum, walked around town and up their hill, etc.\n\nOutside of that, they’ve got a great zoo which I quite enjoyed other than getting caught in a thunderstorm. Universal Studios is cool for how compact it is. Gardens by the bay is also quite cool and worth the time. And then there’s Marina Bay Sands. While a bit confusing to navigate, get yourself up on the roof, trust me. There’s two options if you don’t want to book a reservation for the hotel: get a dinner reservation at LAVO, or buy a ticket for the observation deck. Try to time it for around sunset on either case, it’s totally worth it.\n\nThe food scene in the city is great, as one can expect. Two restaurants I’ve got a lot of love for and would recommend to anyone: Kappou for Japanese fine dining in a small and intimate venue with direct access to the chef along with excellent wine lists and dishes in general. Second is BBQ Box in Bugis, a skewers restaurant that really kills it and is more affordable. But really you can’t go wrong, the hawker centers are a great way to eat a little bit of everything and try all the local cuisine which I’d describe as taking influences from all around SEA, China, India, and more.\n\nPlanning on heading back in August and will update this post if anything new to recommend.",
     "reactions": [
       {
         "e": "🤌",
@@ -12117,9 +11917,8 @@ const SUBMISSIONS = [
         "caption": ""
       }
     ],
-    "blurb": "What’s a city you love? No, I don’t mean a city you like, I mean a city that wraps around your heart. I mean a city that made you who you are, a city you gave your soul to, and it handed it back patched, mended, better. Chicago is that place for me. I first went here right out of university as a bright-eyed kid…",
-    "getThere": "",
-    "thingsToDo": [],
+    "blurb": "Vibe of the trip: https://open.spotify.com/track/5DBmXF7QO43Cuy9yqva116?si=6559947185de4e82",
+    "content": "Submission Number: 6\nLocation: Chicago\nPopulation: 2.6M+\nTime of trip: April\nVibe of the trip: https://open.spotify.com/track/5DBmXF7QO43Cuy9yqva116?si=6559947185de4e82\n\nWriteup:\nWhat’s a city you love? No, I don’t mean a city you like, I mean a city that wraps around your heart. I mean a city that made you who you are, a city you gave your soul to, and it handed it back patched, mended, better. Chicago is that place for me. I first went here right out of university as a bright-eyed kid with something to prove. A promise to work hard, a firm handshake, and a warm smile later, Chicago gave me everything I have.\n\nWhat makes this place special to me? It’s a lot, but it’s mostly the culture. You’ve all heard me say this before, but in architecture, accent, culture, way of living, and yes, the mafia too, Chicago is frozen in the Roaring 20s. You’ll walk into a building and find it to have a huge gilded art deco lobby or a dark wood-paneled space that feels like under the counter deals happen. The people are reserved for the heartlands but friendly from the perspective of most other places in the country, but there’s a reason the Windy City frequently ranks among the highest as “Best places to make friends in the US.”\n\nSo, what is there to do? To list some, the Chicago Art Institute is arguably the best art museum in the heartlands. They have an incredible aquarium along the lake and the same with the zoo up in Lincoln Park. Speaking of the lake, the entire thing is one giant walking path that you can take all the way to city limit in either direction. Outside of that, the bar scene is really top notch and has something for everyone. Secret underground places you need a code to enter? Got them. Rooftop bars with views over the city and lake? Got plenty. Blue collar dive bars you can get in a fistfight over the Cubs vs. Cardinals game? No shortage.\n\nAs far as food goes, like any big US city, it’s plenty multicultural but don’t go to Chicago without having a steak. Chicago Cut is my personal favorite for that, especially if you can get a table with a view over the river. Siena Tavern, Cindy’s Rooftop, and Lou’s are other favorites in the city. Get the pizza at Lou’s, that’s the best one in my opinion among the most popular ones; don’t particularly care for Uno’s or Giordano’s. \n\nUnfortunately don’t got many pics from the recent visits to this one, is a place I’ve been so much I’ve just stopped taking pics haha.",
     "reactions": [
       {
         "e": "🤌",
@@ -12160,9 +11959,8 @@ const SUBMISSIONS = [
         "caption": ""
       }
     ],
-    "blurb": "I’m gunna keep it real with you guys, in recent years I mostly go to SF to drink with the boys, take an occasional client meeting, and fly out the next day. That said, plenty to be said about it.",
-    "getThere": "",
-    "thingsToDo": [],
+    "blurb": "Vibe of the trip: https://open.spotify.com/track/6uQGJNXAkVsAl8DI6vCtrH?si=bb3c96f47a5b4880",
+    "content": "Submission Number: 7\nLocation: San Francisco & Surrounds\nPopulation: 8008.9K+\nTime of trip: January & April\nVibe of the trip: https://open.spotify.com/track/6uQGJNXAkVsAl8DI6vCtrH?si=bb3c96f47a5b4880\n\nWriteup:\nI’m gunna keep it real with you guys, in recent years I mostly go to SF to drink with the boys, take an occasional client meeting, and fly out the next day. That said, plenty to be said about it.\n\nLet’s skip the part about it being the big tech hub, everybody knows that and nobody cares. Some of the things I’ve enjoyed doing in SF over the hears… #1 is walking through random neighborhoods, and there’s no shortage of them on the peninsula. Russian Hill will always be a favorite for this because the views are hard to beat out over Coit tower and downtown. Outer Richmond is also a favorite just because of how low-key it is. Lafayette Square is a pain in the ass to walk to since it’s a 45 degree angle uphill the whole time but it’s a great place to chill and work outside.\n\nLand’s End is a park in the city I don’t hear enough about, possibly because everyone focuses on the Golden Gate Bridge. The park is beautifully planted including redwoods and has a steep view out over the bay and Pacific at large. Other things to do, definitely take a daytrip to Sausalito if you want to see some old money vibes. If you can drive, get yourself out of the city and into wine country, that’s worth doing and some of the best wine I’ve drank comes from up there.\n\nAs far as food goes, get some Japanese food if you’re on the peninsula. I’ve never gone anywhere bad for that and it’s some of the best you’re going to get in the US. Also honorable mention that my favorite pizza shop in the US is in SF (sorry New Yorkers, cope and seethe) at Za Pizza – ran by an old dude from Brooklyn who came out because he wanted access to fresher ingredients from the valley.\n\nHonestly it’s such a huge city and area I don’t quite feel qualified to talk about it so I invite the locals to chime in with any gems I missed.",
     "reactions": [
       {
         "e": "🤌",
@@ -12229,8 +12027,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Worcester (wost-er) is the 2nd largest city in New England located in central Massachusetts. It is known as the “heart of the commonwealth” although nobody outside of Worcester will ever say that. The city is not really known for being a touristy spot, because it is so easily overshadowed by Boston, Providence, and…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Worcester (wost-er) is the 2nd largest city in New England located in central Massachusetts. It is known as the “heart of the commonwealth” although nobody outside of Worcester will ever say that. The city is not really known for being a touristy spot, because it is so easily overshadowed by Boston, Providence, and even Springfield. However given its easy access to these cities a day trip into Worcester is well worth the while! The city can be easily reached with Amtrak, and train connection to Boston, as well as bus connection, interstate access, state routes and highway access and even a small airport. Regional buses are free, and other buses operate to other major cities such as Boston, New York and Providence. The city is home to about 207,000 people, with the metro area being home to 862,000 people.\n\nDCU Center: Concert venue located in the heart of the city with yearly shows such as Trans-Siberian Orchestra during the Christmas holiday season.\n\nOld Sturbridge Village: A living history museum dedicated to early New England history. This site is located in the town of Sturbridge about 30 min away. \n\nWachusett Mountain: A smaller easily accessible mountain to climb for those who don’t want anything technical. There is also skiing as well.\n\nBroad Meadow: A local hiking spot in the actual city, but that feels more remote. \n\nBlackstone Valley: A lot of National, and state parks dedicated to this region's role in early industrial America. Many of these parks are operated on the Blackstone Canal, and are part of the Blackstone Valley National Heritage Area. There are sites from Worcester all the way to Providence Rhode Island. \n\nRoyalston Falls: The end of The New England Scenic Trail, located in Royalston MA, which is part of the Worcester metro, though over an hour away. The trail leads to a waterfall, and connects to major trails in New Hampshire, or can be hiked south to Connecticut.",
     "reactions": [
       {
         "e": "🤌",
@@ -12343,8 +12140,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Gloucester is a small fishing town about 45 minutes north of Boston, Massachusetts. While it is considered part of the Boston metro area, because it is located more than 30 minutes without traffic, I am including a separate entry. The city is home to about 29,959 people, though is a huge summer tourist spot.…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Gloucester is a small fishing town about 45 minutes north of Boston, Massachusetts. While it is considered part of the Boston metro area, because it is located more than 30 minutes without traffic, I am including a separate entry. The city is home to about 29,959 people, though is a huge summer tourist spot. Located in the North Shore area of Massachusetts, the town is known for its beaches, seafood and fishing, and boating. To reach the city, you can take the commuter train from Boston, and there are bus connections which are run by Cape Ann Transportation Authority. There is no interstate access, though state route 128 connects to the town. I am also sure you can boat in, though not familiar with boating. \n\nDogtown: An abandoned town, with strange rocks with “inspiring messages” in the forest.\n\nHalibut Point State Park: Located in nearby Rockport, this state park offers great star gazing and views of the ocean. \n\nGood Harbor Beach: A local beach. It fills up early and requires a reservation to visit in the summer season. \n\nPeabody Essex Museum: Located in Salem, it shows the history of the north shore area of Massachusetts.\n\nSalem: I have not been this year, so no pictures or entry yet, but this is where witches live so be warned not to visit on All Hallow’s Eve…",
     "reactions": [
       {
         "e": "🤌",
@@ -12381,8 +12177,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "The city of Dakhla in the disputed region of Western Sahara, which is currently administered by Morocco (Disclaimer: This is what the UN and most countries agree upon)",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "The city of Dakhla in the disputed region of Western Sahara, which is currently administered by Morocco (Disclaimer: This is what the UN and most countries agree upon)\n\nLocated on the Rio de Oro Peninsula, Dakhla is the 2nd biggest city in the region after Laayoune. It is known for its turquoise waters and the vast desert dunes of the Sahara, which goes into the Atlantic Ocean\n\nIt is a world class destination for water sports such as surfing, windsurfing and kitesurfing. As the weather is warm all year round it is a great spot to relax in\n\nA must to try is the local Sahrawi Tea, which is a more concentrated version of the Famous North African mint tea (Atay). It is colloquially known as Sahrawi Whiskey due to the local population not drinking Alcohol\n\nSadly I only spent a day here as I had a flight to catch but it is a spot I would like to revisit to learn some kitesurfing. It is a fascinating region to explore due to it's historical, geographical and cultural quirks",
     "reactions": [
       {
         "e": "🤌",
@@ -12624,8 +12419,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "I lived about a month in Cusco (I’ve lived less in a place before, so I definitely count this) and I absolutely wouldn’t trade it for the world. I saw amazing places I don’t think I’d have seen if I hadn’t stayed this long.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Cusco, Peru\n\nPopulation: 313,000\n\nTransportation: Plane and bus\n\nI lived about a month in Cusco (I’ve lived less in a place before, so I definitely count this) and I absolutely wouldn’t trade it for the world. I saw amazing places I don’t think I’d have seen if I hadn’t stayed this long.\n\nDuring my time here, I was able to ride ATVs to places like Moray, Rainbow Mountain, and Red Valley. I was able to visit some amazing museums, including Museo Machu Picchu. I was able to visit Machu Picchu, Sacred Valley, and many other ruins, including Incan ruins, pre-Incan ruins, and post-Incan ruins. I got to feed and hold macaws, pet alpaca, and witness condors in flight in an incredible animal sanctuary. I was able to visit a Quechua village, where I learned about what they did and I partook in their amazing meals. I visited the stunning Salt Mines and the small replica of the Christ the Redeemer statue (Cristo Blanco). I tried new foods like alpaca burgers and chicha morada. I made chocolate straight from the bean, and I took salsa dancing classes. I went to ancient churches, I visited museums with the most amazing woven artistry you could ever see, I got to practice haggling at San Pedro Market and other markets. I got to see both a Peruvian made-movie at the cinema and attend an early fan event of How to Train Your Dragon. I did so many amazing things that left me in awe and in love with this place. It’s an amazing place for hiking (reminds me a lot of Oregon) and truly worth visiting.\n\nThere were some places I really wanted to go to (Ausangate, Abode of the Gods, the rope bridge, etc.) and some things I really wanted to do (make a panpipe experience; painting workshop, etc). But I am still so incredibly grateful for what I got to do. I am sad to be leaving, but hopeful because of what this trip brought out in me. I was able to meet amazing people at the school I attended, and whom I sincerely hope to meet with again in the future.",
     "reactions": [
       {
         "e": "🔥",
@@ -12716,8 +12510,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Welcome to Genoa in Italy on the Mediterranean coastline. A bustling port city with many cargo ferry and cruise terminals.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Welcome to Genoa in Italy on the Mediterranean coastline. A bustling port city with many cargo ferry and cruise terminals.\n\nPopulation: 810k metropolitan area.\nCan get here via planes ferry's trains very well connected city.\n\nHas a long standing maritime background with being the birth place of Christopher colombus many years ago. \n\nThe historical city center is as busy as ever with tourists and locals looking around it or working. \n\nIt has a lot of museums to explore including a maritime one. Is home to Italy only submarine you can go on that's still in the water. \n\nHas very good transportation all-round the city in a metro and bus routes. Ferries going all over the Mediterranean sea. \n\nNow pictures. Mostly of the city and a couple from the local aquarium.",
     "reactions": [
       {
         "e": "🤌",
@@ -12774,8 +12567,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "The little city of Amberg (Population: 42k) is situated ~45min East of Nürnberg.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "The little city of Amberg (Population: 42k) is situated ~45min East of Nürnberg.\nIt's best reached by train or car.\n\nThings you can do here:\n- visit or even stay in the world's smallest hotel\n(Red house in the pictures, https://ehehaeusl.de/en/)\n- visit the world's only Air Museum\n- take an old traditional boat along the Vils River\n- take part in the annual rubber duck race where you buy a rubber duck and have it race thousands of others in the river. If you're lucky, you win a prize \n\nCool places I like:\n- Bar.o.co for great coffee \n- Beanery for summer vibes and nice drinks and snacks\n- Schloderer Bräu for great Bavarian food\n- The church on the hill (Mariahilfberg) for a great view over the city \n\nI lived here for 2 years and did enjoy the city a lot for it's relaxed but still lively vibes",
     "reactions": [
       {
         "e": "🤌",
@@ -12855,8 +12647,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "In the capital of Argentina, there is quite an abundance of things to do in terms of soaking up the vibes. Many streets go on for miles with endless shops, restaurants and performers vying for your attention. While central downtown tends to adopt the atitude of a traditional European identity, there remains a…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "3.1M people live in Buenos Aires. The distance to get here was quite steep, with my taking an 11-hour flight to arrive at EZE from JFK. It's easy to forget, but Buenos Aires does lay approximate in latitude as Capetown, South Africa. So, this duck bitch do be flying south for (their!) winter. It was a bit chilly for the start of my trip.\n\nIn the capital of Argentina, there is quite an abundance of things to do in terms of soaking up the vibes. Many streets go on for miles with endless shops, restaurants and performers vying for your attention. While central downtown tends to adopt the atitude of a traditional European identity, there remains a glimpse to the unique identity that Argentineans have crafted in their own slice of Latin America. The hallmark icon that identifies Buenos Aires would have to be the Obelisk, which sits neatly at the Plaza de la Republica on Avenida 9 de Julio, which is named on the date that Argentina declared its independence. I started there before making my way to visit Café Tortoni to try out their famous churros. The churros were good but everything else felt rather uninspired. This location is more for people to gawk at the paintings and statues adorned throughout the café, rather than the food itself. Down the street from the café is Plaza de Mayo, where monuments such as La Casa Rosada, Palacio Libertad and the Museo with the long-ass name can be found. There lays on Plaza de Mayo is a tall flagstaff hoisting the flag of Argentina, as well as many small rocks surrounding a statue. Upon closer inspection, all the rocks were dated to 2019 to 2021, presumably commemorating the 100,000+ Argentineans that were lost due to the COVID pandemic. That moment was rather touching in shedding light to the sheer consequential effect that affected the globe at the time. \n\nAfter spending some time around that area, I hitched an uber to El Ateneo Grand Splendid, a bookstore which was converted out of an old theater. Each floor is full of books (in Spanish -- which I can't read wtf Argentina) wtih the stage being repurposed as its own restaurant and café. Neat. PS, if you're looking for the hentai section it's on the second floor mezzanine towards the left of the stage. You're welcome. Next, I decided to walk to El Cementario de la Recoleta, which might be the coolest thing I got to see while in Buenos Aires. Essentially, la Recolata is a large-scale mausoleum for the dead, adorn in magnificent sculptures and gothic art pieces that showcases the burial of the Argentinean elite. Many presidents, celebrities and other significant figures make la Recoleta their final resting place, and it's very easy (and very recommended) to get lost and explore the cemetery for as long as possible-- the vibes are immaculate.",
     "reactions": [
       {
         "e": "🤌",
@@ -12941,8 +12732,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "The capital of Uruguay, Montevideo has a total population of 1.38M. After taking a ferry from Buenos Aires to the town of Colonial del Sacramento, I took a 2-hour bus to get here. I decided to spend a short detour in Uruguay before heading back to Argentina. It's right next door, why not?",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "The capital of Uruguay, Montevideo has a total population of 1.38M. After taking a ferry from Buenos Aires to the town of Colonial del Sacramento, I took a 2-hour bus to get here. I decided to spend a short detour in Uruguay before heading back to Argentina. It's right next door, why not?\n\nInterestingly, I manage to find a booking directly in Palacio Salvo, the maybe one-identifiable monument that defines Montevideo. Even then, the building was showing its age with a crumbling interior and a probably-higher biomass of cockroaches than human residents.\n\nI spent the majority of my visit within Ciudad Vieja and most stores were shuttered on the weekends. I did not do much besides trying to explore what was available. Past the Gateway of the Citadel and through Constitution Plaza and Zabala Square, the only feature worth remarking might have been the Solie Theater. Even the pedestrian street Destino Sarandi did not offer a fraction of attractions that nearby Buenos Aires. The Port Market might be the most visually-striking, with a bustling vintage market crammed with restaurants and stores. The ambiance here was quite nice and I wanted to stay longer to have dinner, but I noticed most fronts were closing soon so I decided to leave.\n\nMaybe the most notable function that was going on at the time was the number of people at Escollera pier. Hundreds of people were at the waterfront casting their lines into the ocean, taking the best of a beautiful day and really engaging in the leisure of fishing. I walked around taking pictures of the relaxed vibes that were taking place. I guess besides the fishing and beaches, Montevideo waterfront was not designed to dazzle, because just off the shore are many platforms designated for freight boats and cargo ships, with a clear indication of industry being done right at the harbor. I considered visiting other parts of Montevideo during my visit, especially El Mercado Agricola and Palacio Legislativo but at this point my duration here felt rather uninspired. \n\nBesides maybe a few attractions here and there, Montevideo doesn't really offer a compelling reason to fall in love with the area. Despite Uruguay having the highest GDP out of LATAM, Montevideo was surprisingly the dirtiest out of every city I've visited on this trip. Plenty of rubbish can be found everywhere in downtown, especially the more historic neighborhoods, as well as grafitti and overall vandalism that portends to a rather unfriendly welcoming to a visitor like me. I may be interested in checking out Punta del Este in the future but I'm not thoroughly enthused to come back to Uruguay until I explore more of Latin America.",
     "reactions": [
       {
         "e": "🤌",
@@ -12999,8 +12789,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "After taking a flight and hopping over from Paraguay, I returned to Argentina to the small city hosting a population of 83K people. Puerto Iguazú in itself is not a city with any outstanding flair of the architectural variety beyond a few hotel complexes and restaurants, but the true beauty lies in the nature of…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "After taking a flight and hopping over from Paraguay, I returned to Argentina to the small city hosting a population of 83K people. Puerto Iguazú in itself is not a city with any outstanding flair of the architectural variety beyond a few hotel complexes and restaurants, but the true beauty lies in the nature of Iguazú National Park. So, this post will only highlight the Argentine side of the falls.\n\nFirst, the park is huge. I did not come to realize how large Iguazú National Park is until I got there. You're mostly required to take the train that is offered right at the Visitor's Center unless you were hell-bent on hiking across park for the entire day. There are three main trails that you are allowed to hike. All three trails consist of sturdy elevated platforms that take you to vantage points of Iguazú Falls. First is Circuito Inferior, which takes you towards the lower portions of Rio Iguazú. You can find good views of the river as well as minor falls. The second is Circuito Superior, which is a slightly-longer trail that takes you closer to the falls that you can see from Circuito Inferior. The views here are also excellent but nothing competes to the grandest spectacle: the trail to Garganta del Diablo, or the Devil's Throat. You will need to take the 20-minute train ride from Estación Cataratas to start this 1-km long trail. You could also walk there and assby the million coatimundis but that option can add another three hours to your visit. \n\nThe walk to Devil's Throat is extraordinarily tranquil, especially at this time of year as fall approaches. The low water level yields to many visible plecostamus and cichlids that take residence in Rio Iguazú Superior. The relaxing stroll through the elevated metal walkways over the river will eventually lead you to the rushing waters that belong to the main sight of Iguazú Falls. Many picturesque views can be seen here but what is felt and heard are the spritzles of water, drenching your face and clothes as you feel the reality of the impressive strength that comes from the waters. You feel the insignificance of your body as you experience something grander than you that curtails your own understanding of physics and nature as belonging to an infinitesimally complex and stochastic chain of events that lead you to this very moment. As you intimately stand directly above the waterfalls and into the mouth of the devil, you make the connection that these falls were here long before you existed and will continue to output the same intensity long after you die. \n\nYou gaze below as the waters crescendo into a hypnotic blitz of repeating geometric cascades. The grandeur of the display teaches you that you really are nothing, and a serenity fills you with an intensity rarely felt with the hubris of society. You could easily climb up the rails and succumb to the waters, immediately returning to the blood, earth and ground that birthed your being, but you don't. You can't. Walking back from the platforms from earlier, the quietness seeps in and you learn something that day but you do not know what. Yet, it's profound. Erm-- anyway, cool falls. Go see them. You might come across a toucan or two.",
     "reactions": [
       {
         "e": "🤌",
@@ -13242,8 +13031,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "On the other side of the falls resides Foz de Iguaçu, which boasts a larger population of 285K people. I took a taxi to cross from Argentina side to make it over, requiring a quick stop at border control for them to check my visa and stamp my passport. Initially, I anticipated Foz to lack less but upon visiting I'd…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "On the other side of the falls resides Foz de Iguaçu, which boasts a larger population of 285K people. I took a taxi to cross from Argentina side to make it over, requiring a quick stop at border control for them to check my visa and stamp my passport. Initially, I anticipated Foz to lack less but upon visiting I'd say by most measures the Brazilian side offers more compared to Puerto Iguazú. \n\nOne instance I'd say is immediately felt is the lack of inflation that is found all over Argentina. The cost of visiting Argentina is incongruously higher than its neighboring countries, especially regarding food and price of entry to many attractions. As of late, Argentina's inflation is definitely felt even as I, an American with an American wage, find it worrying how the average Argentinean could afford the cost of living, especially with the prices being comparable to that in the United States and parts of Europe. Iguazu Falls at the Argentine side costs 45USD and at the Brazil side, maybe 20USD. The price of other entry fees in Argentina will be addressed later because there will be plenty of time to bring up all that bullshit.\n\nOkay, enough about Argentina-- I'm in Brazil, baby. What's there to do in Foz de Iguaçu? There's some restaurants and malls here and there but of course, we're here for the falls. I personally don't think Foz de Iguaçu is all that remarkable besides allowing you to hop over to Ciudad del Este for a day (I'll cover that later), Iguazú Falls is so monumental that the best experience is to see them from both sides, in both countrie, unlike Niagara between the US and Canada. We know the US side is all boof, meanwhile Iguazú Falls desire to be seen from as many angles as possible. \n\nAt the Brazilian national park, things run a little bit differently. Instead of a train taking you from the entrance, you embark a bus for about 15-minutes. Brazil's trails are substantially less than Argentina's but you really get the best views. While the day before was spent overlooking The Devil's Throat, you can spend the next day looking the falls head-on. Brazil's side provides a platform at the base of Devil's Throat so panoramic angles provide a surreal experience as the roars of the falling water flank you from all sides. While down there, you have the chance to combat other influencers as who gets to control the best vantage point to take photos. They paid entry so they earned those pictures, you know. You can instead ignore them and stand their captivated by the falls and absorb the beauty of thousands of birds soaring overhead. Those birds lead their lives and you lead yours. There's an intrinsic poignancy regarding your surroundings, that maybe life is better experienced in first-person than behind a screen. The falls are getting me deeply philosophical and head-up-in-my-ass again, sorry. \n\nI don't need to say anymore, just look at my photos.",
     "reactions": [
       {
         "e": "🤌",
@@ -13317,8 +13105,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Welcome to Tórshavn, the capital and largest city in Faroe Islands, but that doesn't mean much. The population is only 14,000. Faroe Islands is still a part of Denmark, but it's an autonomous territory with its own laws, it is also not part of the EU.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Welcome to Tórshavn, the capital and largest city in Faroe Islands, but that doesn't mean much. The population is only 14,000. Faroe Islands is still a part of Denmark, but it's an autonomous territory with its own laws, it is also not part of the EU.\n\nTórshavn is named after the Norse God Thor, and it's coat of arms is of a hand holding Thor's hammer. Pretty badass. The parliament here was founded on Tinganes in 825, one of the oldest in the world, and the local government buildings, such as the prime minister's office, are still located there today.\n\nIn the summer, you can fly here from quite a few European locations. I flew directly from Edinburgh, and I know you can also fly from Paris, Copenhagen and a few other cities. You can also get here by ferry.\n\nThe language of Faroe Islands is Faroese, a language that is thriving on the islands, it is the preferred language by far and the language purism is strong. The language looks similar to Icelandic, but its pronunciation is vastly different. Most people also speak Danish and English.\n\nThe Faroe Islands are extremely religious, even abortion is illegal here. Tórshavn isn't as religious as other towns in the country, but Sunday mass is still going very strong.\n\nThe weather isn't fantastic. Even in June, it's an average 12 degrees celsius and cloudy most of the time with various degrees of wind and rain. The nature is absolutely stunning though, and there are wonderful hikes all over the country.\n\nTórshavn is a small town and you can easily walk if you'd like, but the town buses are all free! You just step on the back and don't worry about a thing.\n\nThere are plenty of bars, restaurants where you can try Faroese food or international food. You might have heard about the infamous whale hunt here, which is very much a strong part of the culture. The whales are spotted off the coast, driven into a bay and the locals cooporate in killing them. The meat is divided between the people who helped or the locals of the town. I have seen newspaper notices about \"whale hund in neighbouring town, feel free to pick up meat after 5pm, bring your own containers\", and I have seen locals carrying whale meat around. Most Faroese people have grown up with this and aren't shocked by it the same way many foreigners are, but not everyone chooses to take part either.\n\nTórshavn has a fantastic art museum (Listasavn Føroya) that is definitely worth a visit. Throughout the summer, there are also several opportunities to see live music from Faroese and international artists.\n\nI'm studying Faroese language here for a month, so feel free to ask any questions.",
     "reactions": [
       {
         "e": "🤌",
@@ -13383,8 +13170,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Ciudad del Este is such a shitshow. Connotatively, shitshows can be a good thing. Shitshows can be exciting, and most especially shitshows can be fun. Be a shitshow whenever possible.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Ciudad del Este is such a shitshow. Connotatively, shitshows can be a good thing. Shitshows can be exciting, and most especially shitshows can be fun. Be a shitshow whenever possible.\n\nOne of my favorite things to do while traveling is to drive deep into the moist, dank, sweaty groin of a bustling cityscape. It's of life's best opportunities to be that fly on the wall, where I can watch locals mill about their daily lives without a single glance at my being or having any wherewithal or shit to give about my existence. Being an impartial observer can reveal so much about another's culture, and even the implicit biases I could bare. Often putting yourself in these uncomfortable situations allow you to push outside your bubble, and sometimes that's an experience worth it's own endeavor.\nSo where do I begin? Ciudad del Este is Paraguay's second most populous city, containing a population of 326K people. While its neighboring cities located in the Triple Frontier may be known for their falls, Ciudad del Este has a few in store as well. Saltos del Monday is adjacent to Iguazu but feeds into Rio Paraná instead. Meanwhile, Itaipu Dam also sits on Rio Paraná and is distinctively the third largest hydroelectric dam in the world. All alone, these two features already make Ciudad del Este a worthwhile visit but do you know the reason this city gets so many visitors? The shops, baby.\n\nCiudad del Este is predominanrly a commercial hub CRAMMED with thouuuuuusands of stores and vendors in dozens of buildings and sprawling across the entire city. People from neighboring areas come here to shop for the best prices. Okay, when I first heard about that, I thought the prices would be insanely cheap but they are often on-par with the USA. So, I was rather underwhelmed when going about the endless commercial expanse. However, contextually-speaking, it's wise to remember Brazil operates a gray market when it comes to many products and imports, especially electronics, video games, automotive parts, perfume, cosmetics and clothing. While not exactly illegal, these sources of goods often arrive in Paraguay through unscrupulously-questionable means. \n\nThat's because Ciudad del Este is a hub for a metric fuckton of smuggled contraband, whether that's cargo stolen off shipping containers, freights, trucks, or other what-the-shits. Moreover, the presence of Chinese corporations is strongly felt in some places here, where most of the employees originate from China. With some intuition, you can imagine the presence of massive Chinese corporations imprinting themselves into this rather unassuming city. And let me tell you, the government is complicit in these endeavors as the process to cross into Paraguay is rather a show of formality than anything serious. Buses, trucks, motorcycles and people flow across the International Friendship Bridge in droves with barely any interference by government officials. Similarly, that's how I went into Paraguay --  I crossed from Foz de Iguaçu with no border stop, no passport checks, but just a simple nod to an officer and on I went to shopping central.",
     "reactions": [
       {
         "e": "🤌",
@@ -13437,9 +13223,8 @@ const SUBMISSIONS = [
         "caption": ""
       }
     ],
-    "blurb": "So this is an unexpected inclusion on my end. I thought I’d have practically zero time in Lima.",
-    "getThere": "",
-    "thingsToDo": [],
+    "blurb": "Transportation: Plane, bus, train, car, boat, etc.",
+    "content": "Lima, Peru\n\nPopulation: 11.5 million people in Lima; 100K people specifically in Miraflores district\n\nTransportation: Plane, bus, train, car, boat, etc.\n\nSo this is an unexpected inclusion on my end. I thought I’d have practically zero time in Lima.\n\nThe last few days of my stay in Lima, I had been completely, horrendously sick and finally on the last day I had been able to venture out a little into the city of Lima, particularly in the Miraflores district.\n\nI noticed there’s a lot to see in the area, I hadn’t seen much to do. Which worked perfectly for me, since I was very much in recovery from whatever tf was going on in my body. I was able to walk through the Central Park of Miraflores and see both the Palacio de Artes and Iglesia Virgen Milagrosa. The church had an outdoor exhibit of when Pope Francis visited Peru in 2018, as well as a large photo of the new Pope too.\n\nMiraflores is generally a beautiful place to walk through and see things. Even though I had seen very little in this area (if you don’t count the hospitals and pharmacies — saw a lot of those in Miraflores lol), I’m glad I at least had the chance to browse a little and check out some of the local shops, the park, and do a little sightseeing.",
     "reactions": [
       {
         "e": "🤌",
@@ -13491,8 +13276,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Fukuoka, Japan, is situated on one of the Four Main Islands of Japan, Kyushu.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Fukuoka, Japan, is situated on one of the Four Main Islands of Japan, Kyushu.\nwith a population of 1.6 million, it is currently the most populous city in Kyushu.\n\nfortunately, it's also where the International Airport for Kyushu is located, which is extremely near the city center. I primarily used the metro/trains for transportation via the JR All West or Suica Card. \n\naccommodations-wise, I prefer to stay somewhere accessible and affordable, as this trip involves traveling to multiple cities. Unfortunately, due to this, I did not reside in Fukuoka, but in Kita-Kyushu instead (Live Max Kokura Ekimae). However, due to my All West Pass, it was fast and free transport via the Shinkansen. \n\ni started my Fukuoka travels with a pleasant chill visit to Canal City (a mall), and walked around its vicinity while munching on convenience store food. (I travel for scenery more than for food.) i visited Fukuoka Castle Ruins, Fukuoka Tower, and Momochi Seaside Park, and concluded my day with dinner at Tonkotsu Akari. These were completed using Buses 6-1, 13, 312, and 3, respectively.\n\non another occasion, I got lost trying to find Uminonakamichi Seaside Park (my sole original plan), so I decided to visit the Marine World as well, just for the fun of it.\n\nall in all, I would say the highlight was Uminonakamichi Seaside Park, its not the most convenient of places but worth a shot!\n\nAlways Wandering, \n~bunbun\n\n#XRS2025\n#bunbun",
     "reactions": [
       {
         "e": "🤌",
@@ -13566,8 +13350,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Kitakyushu, Japan, like Fukuoka (mentioned in my earlier post), is also situated on Kyushu. It is both the second-largest and most populous, behind Fukuoka, when compared within the same Fukuoka Prefecture and Kyushu.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Kitakyushu, Japan, like Fukuoka (mentioned in my earlier post), is also situated on Kyushu. It is both the second-largest and most populous, behind Fukuoka, when compared within the same Fukuoka Prefecture and Kyushu. \n\nIt has a population of approximately a million, and also serves as a gateway to the south of Honshu. The main transportation would be by train, especially the bullet train aka Shinkansen. It connects all the way to Tokyo.\n\nI was unable to allocate as much time as I had planned, as Fukuoka took longer than expected.\n\nMy main attractions were Yasaka Shrine, Kokura Castle, and Katsuyama Park (all three are located nearby), and I ended the night off at Mount Sarakura. \n\nUnfortunately, I was unable to visit the Kitakyushu Manga Museum and the Shofukuji, the oldest Zen temple in Japan. \n\nThe Kokura Castle area was nicer compared to the previous Fukuoka Castle Ruins, which had a construction site vibe. It also features mini-activities or interactive stations inside like palaquin ride, horse archery and even wearing some japanese clothes.\n\nMount Sarakura gave me some issues as I tried using DIDI to save time (something I was lacking) and ended up on the wrong side. I had to DIDI again, but there was a road block at some point, which I ran for, but still missed the sunset D:\n\nStill, I enjoyed the night city line and the cable car down the mountain, which provided a free bus shuttle.\n\nI definitely wish I had more time to explore Kyushu and Kiyakyushu in general. Hoping to have a dedicated Kyushu trip at some point~\n\nAlways Wandering, \n~bunbun\n\n#XRS2025\n#bunbun",
     "reactions": [
       {
         "e": "🤌",
@@ -13636,8 +13419,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Iwakuni wasn’t part of my original travel plan. I had intended to transit directly from Kitakyushu to Miyajima Island, with no stops in between due to time constraints. I departed Kitakyushu around 7am, fully expecting a smooth transfer.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Iwakuni wasn’t part of my original travel plan. I had intended to transit directly from Kitakyushu to Miyajima Island, with no stops in between due to time constraints. I departed Kitakyushu around 7am, fully expecting a smooth transfer.\n\nHowever, mid-transit, I decided to make a spontaneous stop. Though Iwakuni is lesser-known and its central train station appeared quite ordinary, something about it piqued my interest. I’m glad I followed that instinct.\n\nLocated in Yamaguchi Prefecture, Iwakuni City has a population of approximately 120,000 and marks my first visit to the southern part of Honshu—Japan’s main island, home to major cities like Tokyo, Osaka, and Kyoto.\n\nI took the Shinkansen from Kitakyushu to Iwakuni. Since I had luggage with me, I opted for a taxi (approx. ¥2,000) upon arrival, as the coin locker availability at Iwakuni Station was extremely limited. Fortunately, I found a locker near the Kintaikyo Bridge, which made exploring much easier.\n\nAfter storing my bags, I returned to the station via a tiny local bus to catch the San-yo Line towards Miyajimaguchi Station.\n\nThe city is best known for the Kintaikyo Bridge, a historical wooden arch bridge that requires a small entrance fee. You can purchase a combo ticket that includes the bridge and other nearby attractions.\n\nA scenic castle on the mountain, which also features art exhibits and displays of Japanese castles, charming floral scenery along walking paths, and a peaceful, unhurried atmosphere is perfect for a leisurely morning walk.\n\nIwakuni is mainly a scenic walk-based attraction, ideal for slow exploration under the morning sun.\n\nSince this stop wasn’t planned, I didn’t allocate much time for deeper exploration. However, Iwakuni deserves more attention, and I fully intend to revisit during a future South Honshu itinerary. A half-day to a full day is sufficient for most visitors.\n\nAlways Wandering, \n~bunbun\n\n#XRS2025\n#bunbun",
     "reactions": [
       {
         "e": "🤌",
@@ -13713,15 +13495,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "There is a lot to do in Busan, now i have sadly only spent 2 full days here (pluss 2 half days), so i didnt get to do to much, but i have quite a few recommendations!",
-    "getThere": "What to do?\nThere is a lot to do in Busan, now i have sadly only spent 2 full days here (pluss 2 half days), so i didnt get to do to much, but i have quite a few recommendations!\n\n- Gamcheon Culture Village - very touristy, but still worth it and a pretty cool place to explore!\n- Jagalchi fish/sea food market - this is the biggest seafood market in Busan, with lots of differnet things to try! If you like sea food, defintly check this out this place! You can also try the \"alive\"/moving octopus thingy. - dear god dont try using chopsticks on these lol.\n- Busan tower - a pretty cool tower/place to visit. It has a very nice view of Busan, and lots to look at!\n- Songdo Cloud Trail - a nice view of parts of Busan, and in general a nice place to have a small walk.\n- Songdo Bay Station/Songdo Cable Car - a nice ride outside Busan to another park/area. A pretty nice view from this cart!\n- Haedong Yonggungsa Temple - Really awesome temple - be here BEFORE 10 AM!! - At 10am the tour buses starts flooding in, seriously - before 10 am there are barley anyone here, then BOOM! The whole place is flooded with people.\n\nMORE TO DO UNDER IN THE CHAT DUE TO TEXT LIMIT HERE:",
-    "thingsToDo": [
-      "Gamcheon Culture Village - very touristy, but still worth it and a pretty cool place to explore!",
-      "Jagalchi fish/sea food market - this is the biggest seafood market in Busan, with lots of differnet things to try! If you like sea food, defintly check this out this place! You can also try the \"alive\"/moving octopus thingy. - dear god dont try using chopsticks on these lol.",
-      "Busan tower - a pretty cool tower/place to visit. It has a very nice view of Busan, and lots to look at!",
-      "Songdo Cloud Trail - a nice view of parts of Busan, and in general a nice place to have a small walk.",
-      "Songdo Bay Station/Songdo Cable Car - a nice ride outside Busan to another park/area. A pretty nice view from this cart!",
-      "Haedong Yonggungsa Temple - Really awesome temple - be here BEFORE 10 AM!! - At 10am the tour buses starts flooding in, seriously - before 10 am there are barley anyone here, then BOOM! The whole place is flooded with people."
-    ],
+    "content": "Name of city: Busan.\nCountry: South Korea.\nPopulation of Busan: Busan is the second biggest city with a population of ca 3.4 million people. Fun fact here, Busan's population peaked in 1995 with 3.88 million people! - Source: https://www.macrotrends.net/global-metrics/cities/21757/busan/population#google_vignette \nHow to get to Busan: Busan has an international airport, so you can fly in! You can also take a boat to Busan (different countries and cities you can travel to and from using the ferry: https://www.directferries.com/ferry_to_busan.htm), or a train from neighboring cities! \n\nWhat to do?\nThere is a lot to do in Busan, now i have sadly only spent 2 full days here (pluss 2 half days), so i didnt get to do to much, but i have quite a few recommendations!\n\n- Gamcheon Culture Village - very touristy, but still worth it and a pretty cool place to explore!\n- Jagalchi fish/sea food market - this is the biggest seafood market in Busan, with lots of differnet things to try! If you like sea food, defintly check this out this place! You can also try the \"alive\"/moving octopus thingy. - dear god dont try using chopsticks on these lol.\n- Busan tower - a pretty cool tower/place to visit. It has a very nice view of Busan, and lots to look at!\n- Songdo Cloud Trail - a nice view of parts of Busan, and in general a nice place to have a small walk.\n- Songdo Bay Station/Songdo Cable Car - a nice ride outside Busan to another park/area. A pretty nice view from this cart!\n- Haedong Yonggungsa Temple - Really awesome temple - be here BEFORE 10 AM!! - At 10am the tour buses starts flooding in, seriously - before 10 am there are barley anyone here, then BOOM! The whole place is flooded with people.\n\nMORE TO DO UNDER IN THE CHAT DUE TO TEXT LIMIT HERE:",
     "reactions": [
       {
         "e": "🤌",
@@ -13869,8 +13643,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "I will be including Itsukushima (aka Miyajima) \"island\" here as it only has 2,000 people compared to Hiroshima's 1.2 mil.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "I will be including Itsukushima (aka Miyajima) \"island\" here as it only has 2,000 people compared to Hiroshima's 1.2 mil.\n\nFrom the Kyushu region, or Tokyo / Osaka / Kyoto, you can reach Hiroshima via Shinkansen. \n\nAs for me, I first departed Iwakuni to visit Miyajima. As there were limited coin lockers, I utilised the manned baggage storage directly beside the station. And because of this, I decided not to depart for Hiroshima using Hiroden beside the Ferry Terminal, since my baggage was at the train station some ways away. \n\nMiyajima is typically a day trip from Hiroshima (where I was staying that night), and should not require more than a day. There are two viable ferry services: one operated by JR and the other by a local company, although there is not much difference between them. JR West Pass does cover the ferry cost, but requires a 100 Yen visitor tax. \n\nThe ferry ride is reasonably short and spacious, as it does accommodate vehicles on the first-floor deck. Miyajima was fairly crowded during my visit, but primarily manageable, except for the queue at the shrine temple, which extended for a very long time, causing me to give up (it was partially under construction anyway). \n\nI was able to see the Torii gate both with high and low tides, which was unexpected and remarkable. I also wanted to visit the aquarium and Mount Misen, but it was very deep in and I was running out of time.\n\nAfter heading to Hiroshima, where I resided in the Trust Hotel, within walking distance of the central station. I walked towards Shukkeien Garden, which is also within walking distance of the central station. It was a fairly large garden in the middle of the city, where the skyscrapers kinda ruin the picturesque views.\n\nAfterwards, I took Bus 30-6 (waiting foreverrrr in the drizzle) to Peace Memorial Park and the Hypocenter to witness the monuments wishing for continual peace after WW2. I finished the walk at Hondori Street for dinner and to relax the night.\n\nI was sadden for not visiting the Hiroshima Castle D: the only thing im missing from Hiroshima honestly.\n\nAlways Wandering, \n~bunbun\n\n#XRS2025\n#bunbun",
     "reactions": [
       {
         "e": "🤌",
@@ -13953,8 +13726,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Copenhagen is the capital city of Denmark. Located on an island close to Sweden, the city has a rich history. To access the city, there are numerous flights, buses, trains, and even boat connections. You can easily navigate the city using bus connections, as well as regional rail that connects it to places such as…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Copenhagen is the capital city of Denmark. Located on an island close to Sweden, the city has a rich history. To access the city, there are numerous flights, buses, trains, and even boat connections. You can easily navigate the city using bus connections, as well as regional rail that connects it to places such as Malmo in Sweden. The city is also incredibly biker friendly, one of the best in the world. When navigating in Denmark, just be aware, that Denmark uses a different currency. So buying a ticket to Sweden from Denmark will cost DKK, and the reversal will occur (Sweden does not take cash). There are around 1.4 million people in Copenhagen area!\n\nDragor: This is the harbor area just outside the official city limits. This area was where many Jewish residents fled to, before escaping to Sweden, allowing most Danish jewish citizen to survive the Holocaust. \n\nDragor Fort: A pre WW1 fort that had some open channels that you could explore the inside of.\n\nThe Workers Museum: Dedicated to socialism, even if you are not a dedicated communist or socialist this site is interesting. Danes have some great workers rights, and this site explores how Danish workers got many of their rights, such as higher pay without even having an official livable minimum wage. \n\nKastrupgård: A free art museum. Nothing there is in English so idk what else to share, but I did like the cartoon people stuff. It was also free!\n\nAmalienborg Palace Museum: Dedicated to the history of the Danish Royal Family. If you are interested in European history, this site is well worth the visit to learn how interconnected all the royal families were, such as Greek, Russian, British, etc. The official royal palace is not open however at this time. They also do royal guard changings as well\n\nDen Blå Planet: This is an aquarium very close to the airport and has space for large luggage so if you have a longer layover, I would recommend it. The aquarium itself is nothing too special, but I did enjoy it!",
     "reactions": [
       {
         "e": "🤌",
@@ -14088,8 +13860,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Nuuk is the capital and largest city in Greenland. It’s current population is 20,113. It is the only city with more than 10,000 people. Greenland is part of Denmark, however with home rule. The Danish presence is still felt, as they speak Danish, use Danish currency, and have Danish style food and buildings. The…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Nuuk is the capital and largest city in Greenland. It’s current population is 20,113. It is the only city with more than 10,000 people. Greenland is part of Denmark, however with home rule. The Danish presence is still felt, as they speak Danish, use Danish currency, and have Danish style food and buildings. The city can be navigated by bus. There are no roads connecting any settlements in Greenland. This means getting to Nuuk you can take the water taxi, fly into the airport, hike, snowmobile or dog sled. In the summertime, you cannot use a dog or snowmobiles. If you’re buying anything, be sure that many items are not allowed in foreign nations. For example, many items here are made from seals. Seal products are illegal in the USA.\n\nNuuk Local Museum: Dedicated to the history of Nuuk. Very interesting to learn about Blok P. \n\nNuuk Art Museum: The only art museum in the city. While small, it still has some beautiful art from the past and present.\n\nGreenland National Museum: This provides a great overview of the history of the country. They also have mummies! It goes over all the different people who have settled in Greenland (There have been many cultures that came and either left or died) such as Independence, Thule, and Norse. \n\nMother of the Sea: A cool statue symbolically placed below the Hans Egedes statue in a submissive position. \n\nHiking: Greenland is known for nature so enjoy it! Just be aware that the weather changes fast, and even in summer it is cold! Search and rescue is not the same as other areas, so you need to be prepared and make good decisions!",
     "reactions": [
       {
         "e": "🤌",
@@ -14210,8 +13981,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "This time I went to Puno with its 140k people it is very close to the Bolivian border. Hence why I went, took the bus to and from. However, full disclosure , I was feeling pretty under the weather. But not enough to keep me from this fellah (see photo) to give it a lil rub (see second photo)",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Ey Ey Ey, it's me again. 8/15 \n\nThis time I went to Puno with its 140k people it is very close to the Bolivian border. Hence why I went, took the bus to and from. However, full disclosure , I was feeling pretty under the weather. But not enough to keep me from this fellah (see photo) to give it a lil rub (see second photo) \n\nI also took a stroll around town and down by the huge Titicaca lake, very beautiful lake, tho I'd say it's more interesting from other places than Puno (see last photos)",
     "reactions": [
       {
         "e": "🤌",
@@ -14302,8 +14072,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Reykjavik is the largest city and capital of Iceland. It is the northernmost capital of any UN nation. The capital region contains about 65% of the population, with the city itself holding 138,772 people, while the metro region boasts 249,054. Reykjavik is an expensive city. The city can be reached by air, mostly…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Reykjavik is the largest city and capital of Iceland. It is the northernmost capital of any UN nation. The capital region contains about 65% of the population, with the city itself holding 138,772 people, while the metro region boasts 249,054. Reykjavik is an expensive city. The city can be reached by air, mostly from Keflavik Airport which is located about 1 hour by car away. There are buses, but they are expensive. There are no train or light rail connections in the country. The city proper does have its own airport which provides mostly internal connections (1 flight to Greenland). There are 2 ports as well which provide connections for cruises. Navigating the city can be done on foot, bike, car or using buses. \n\nDillon Whiskey Bar: Contains over 170 different types of whiskey. Also on weekends has the oldest and shortest Icelandic DJ!\n\nThingvellir National Park: One of 3 national parks in the country. This is where the Icelandic parliament used to meet and is a UNESCO site.\n\nRing Road: This is a road around the whole island. Many iconic sites are located around the country. However it is a long road and takes a week or more to fully explore. \n\nPenis Museum: You just have to experience it",
     "reactions": [
       {
         "e": "🤌",
@@ -14364,8 +14133,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "EYOOO, today I had a little trip to Warnes, not the most exciting town, but it was cozy and just what I like with so many places I've been in Bolivia, it's green. It offers nice parks and walk paths. Cozy. It has about 80k inhabitants. I took an uber, but with a convoluted bus route you too can take buses.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "9/15 \n\nEYOOO, today I had a little trip to Warnes, not the most exciting town, but it was cozy and just what I like with so many places I've been in Bolivia, it's green. It offers nice parks and walk paths. Cozy. It has about 80k inhabitants. I took an uber, but with a convoluted bus route you too can take buses. \n\nI didn't do a ton, walked around, saw a bull, rubbed it for good luck. \n\nHere's a bunch of photos. \n\nBye",
     "reactions": [
       {
         "e": "🤌",
@@ -14437,8 +14205,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Look at that, look at that. Silver already?",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "10/15 \n\nLook at that, look at that. Silver already? \nThis time the trip took us to Santa Cruz for a few chill days. It has 2 mil and I took the bus too and from. It's quite well connected. \n\nLovely city, a mix between cute classic Spanish downtown and outer rims with new and modern development. Lots of parks and greens all around.  \n\nAnd yes, when you find a bull, you gotta rub a bull. \n\nHere's a bunch of photos\n\nBye",
     "reactions": [
       {
         "e": "🤌",
@@ -14458,8 +14225,7 @@ const SUBMISSIONS = [
         "text": "are you sure you rubbed the right lock",
         "reactions": []
       }
-    ],
-    "lite": true
+    ]
   },
   {
     "id": "s-durbuy-spookyxjenn",
@@ -14499,8 +14265,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Around 11k residents are scattered across multiple smaller villages which all belong to the City of Durbuy. The \"Centre-Ville\" aka the main village has around 400 residents.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Around 11k residents are scattered across multiple smaller villages which all belong to the City of Durbuy. The \"Centre-Ville\" aka the main village has around 400 residents.\n\nYou can pretty much only get here by Car since it's situated in the Belgian Ardennes. \n\nDue to its location there's a lot of hikes you can go on and plenty of Nature to explore.\nDurbuy has a big topiary park where you can find lots of bushes that are shaped like animals, humans and even a replica of the Manneken Piss.\n\nWe visited one of the many Grottos of the area, Grotte de Hotton, where we took a guided tour.\nThere are dozens of other grottos you can explore in the area. Durbuy also hosts an adventure park with activities like climbing, bowling, kayaking and much more.\n\nYou can also sit down at one of the many restaurants and bars and enjoy a drink or snack with a picturesque background.",
     "reactions": [
       {
         "e": "🤌",
@@ -14552,8 +14317,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Dinant, home to 13k people can be reached by train or car. The next airport would probably be Charleroi which is about an hour away.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Dinant, home to 13k people can be reached by train or car. The next airport would probably be Charleroi which is about an hour away.\n\nI learned that Dinant was the home of Adolphe Sax, inventor of the Saxophone, which is the reason for dozens of Saxophone statues being scattered across the town. \nWe took a boat tour on the Meuse/Maas River as is tradition.\nIf you're not scared of heights, you can take a cable car from the town center up to the Citadel or take the 400+ steps that lead you uphill for a more sporty experience. Due to it being super hot, I passed this time xD\n\nThere's also a lot of cute little alleyways and really picturesque houses in the town center.\nYou can't go wrong with a little snack at one of Dinant's boulangeries either.\n\nI added another sight, the WL sticker with a backdrop of the Cathedral and river 🙂",
     "reactions": [
       {
         "e": "🤌",
@@ -14620,15 +14384,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "The capital of Scotland is home to 527k people. It is best reached by plane.",
-    "getThere": "",
-    "thingsToDo": [
-      "National Museum of Scotland, an architectural and diverse highlight",
-      "Calton Hill with a beautiful view of the city (same goes for Arthur's Seat)",
-      "Café meh. - everything that its name is not, best matcha I had in a long time!",
-      "Knoops for amazing hot chocolate (thanks to  for taking me here!)",
-      "Lighthouse, a queer feminist bookstore",
-      "La Barantine Victoria, great French patisserie, try their Flan!"
-    ],
+    "content": "The capital of Scotland is home to 527k people. It is best reached by plane.\n\nThere's lots of fun things to do here and every corner looks so picturesque. It has been my second time visiting and I would always come back!\n\nSome of my favorite spots are:\n- National Museum of Scotland, an architectural and diverse highlight \n- Calton Hill with a beautiful view of the city (same goes for Arthur's Seat)\n- Café meh. - everything that its name is not, best matcha I had in a long time!\n- Knoops for amazing hot chocolate (thanks to  for taking me here!)\n - Lighthouse, a queer feminist bookstore \n- La Barantine Victoria, great French patisserie, try their Flan!\n\nYou can't really go wrong with just walking around the city and immersing yourself in the vibes and just see where the wind takes you.\n\nLast but not least, shout-out to the lovely  for being a great host and making this trip even more fun and memorable 🩷",
     "reactions": [
       {
         "e": "❤️",
@@ -14676,8 +14432,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Around 116k people call Erlangen their home, with a whooping 26% of that being university students.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Around 116k people call Erlangen their home, with a whooping 26% of that being university students. \nThe city is often overlooked since Nürnberg is its direct neighbour - the two cities are extremely close to each other and I would  recommend a daytrip if you're in the area.\nThere's an ongoing joke among locals that, to live in Erlangen, you must either be a student, work at one of their many clinics or at Siemens (whose biggest site worldwide is located in Erlangen)\nErlangen can be best reached by train, the next airport is Nürnberg Airport which is a ~20 min drive from the city.\n\nDue to it being a student city, Erlangen has a lively Café/Bar/Nightclub Scene.\nSome of my favorite spots are \n\n- Cafe Lorlebäck\n- Botanical Garden Erlangen\n- E-Werk, a cultural center that hosts concerts, parties, flea markets and more\n- Siemens Healthineers Museum where you can discover the history of medical technology \n\nThe weather was quite bad the day I went there so I didn't take too many good pictures. Since I visit Erlangen somewhat frequently, I'll follow up with nicer pictures later on!",
     "reactions": [
       {
         "e": "🤌",
@@ -14739,8 +14494,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Yada yada it has almost 16 million people, you can get there by boat, plane and bus. So on so on",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "11/15\n\nYada yada it has almost 16 million people, you can get there by boat, plane and bus. So on so on\n\nWith that out of the way, Buenos aires was a very beautiful city, very big, lots to do, lots of art, culture, interesting architecture, lots of football teams and beautiful streets and parks. But most importantly, a bull, a bull rubbed for good luck. \n\nI also met  who's a solid dude.\nHere's a bunch of photos. \n\nMicheal Falk out",
     "reactions": [
       {
         "e": "🔥",
@@ -14815,9 +14569,8 @@ const SUBMISSIONS = [
         "caption": ""
       }
     ],
-    "blurb": "There’s quite a bit to see here in this fairly quiet city! I mostly came because I’ve wanted to visit Moominworld in Naantali",
-    "getThere": "",
-    "thingsToDo": [],
+    "blurb": "Transportation: boat, plane, train, car, etc.",
+    "content": "Population: 207,000\n\nTransportation: boat, plane, train, car, etc.\n\nThere’s quite a bit to see here in this fairly quiet city! I mostly came because I’ve wanted to visit Moominworld in Naantali\n(part of the metropolitan) for years and I finally got a chance too. But in the process I was also able to spot and do several other things. I got to see the outside of the president’s house (Moominworld actually has a designated spot for viewing it), got to visit Moominworld (of course), and there are lots of nice hiking spots with great views. There’s also a beautiful Market Hall, some museums, and beautiful churches. It’s worth coming at least once — definitely not for Moominworld not at all… 🤫",
     "reactions": [
       {
         "e": "🤌",
@@ -14884,8 +14637,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Something I quickly picked up in Finland when I first arrived was how quiet it is. As an American and a Latino, I am used to hearing a lot of noise and so hearing the quiet was startling… but not in a bad way of course! Definitely gave me a different perspective, though.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Population: 690,000\n\nTransportation: boat, plane, car, etc.\n\nSomething I quickly picked up in Finland when I first arrived was how quiet it is. As an American and a Latino, I am used to hearing a lot of noise and so hearing the quiet was startling… but not in a bad way of course! Definitely gave me a different perspective, though.\n\nHelsinki has a lot to see and try. You can tour the archipelagos, visit their public library (which is on the top of their tourist lists in some places, and I can see why!), and see some of the beautiful architecture of their city. It feels like a very calm and quiet city, even at their loudest volumes. It felt very, very safe too, which I really liked as well.\n\nIf you have a chance, try taking a ferry there. Did it as part of a Nordics road trip and I think it was worth it to see the beautiful archipelagos prior to arrival.",
     "reactions": [
       {
         "e": "🤌",
@@ -14952,8 +14704,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Barcelona has a lot of party-ish vibes, with a lot to do at almost every corner. Sadly I had to miss out on many of these things (like the ice bar, for example) because I ended up needing immediate surgery here. Still in recovery, but was finally cleared for consuming certain foods/beverages in time to try a few…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Population: 5.7 million\n\nTransportation: plane, train, car, etc.\n\nBarcelona has a lot of party-ish vibes, with a lot to do at almost every corner. Sadly I had to miss out on many of these things (like the ice bar, for example) because I ended up needing immediate surgery here. Still in recovery, but was finally cleared for consuming certain foods/beverages in time to try a few different cuisines.\n\nAnyways, so I bought the Barcelona card, which I highly recommend if you’re like me and tend to breeze through places pretty quickly. It includes both a bunch of free museums and a public transport card, which was super handy for me. I got to visit interesting museums I probably wouldn’t have known about otherwise, such as the Banksy Museum, their World Cultures Museums, and their Egyptian museum. They also have discounts for additional places, such as the Ice Bar and the Barcelona Aquarium.\n\nI got to try Venezuelan food, Argentinian food, and Spanish food during my last 2-3 days in Barcelona. I had meant to try much more, such as Catalan cuisine and scouting out some good Basque cuisine among others, but my options were very limited for a good while post-surgery. I still think this was a pretty good variety, given my early limitations where I was eating bland yogurt, bread, and soup for a while haha\n\nAlso wanna highlight that La Sagrada Familia is stunning! I haven’t been inside, but it was amazing to view from the outside nonetheless. I also want to recommend checking out the Chocolate Museum at least once because your entry ticket is a chocolate bar… 🍫 \n\nAnyways, hope others get inspired to check out Spain with this one!",
     "reactions": [
       {
         "e": "🤌",
@@ -15010,8 +14761,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Nördlingen, a kind of small german town of around 20k people, is about 2 hours (by bus or car) northwest of Munich. I originally heard of this town because of well known resemblance to the towns/walls in the anime, Attack on Titan. This is really shown by the drawings from fans on multiple places on the walls and…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Nördlingen, a kind of small german town of around 20k people, is about 2 hours (by bus or car) northwest of Munich. I originally heard of this town because of well known resemblance to the towns/walls in the anime, Attack on Titan. This is really shown by the drawings from fans on multiple places on the walls and on the way up to the top of the church tower.  Although, even if your not an anime fan this town still has much history and is worth a day trip! In 1215, the Holy Roman Empire declared it an imperial city and the first city wall was built. However, the circular walls there today were built in 1327. Along with the town Rothenburg ob der Tauber, it is one of the few towns in Germany with its walls still completely intact! In the center of the town there is a church, named \"Daniel\", with a tall tower where you can climb up 326 steps to get to the top and see a view of the town below. The most interesting thing for me though that from the top you'll look around and see that you are actually in the center of a meteor crater, small hills forming a circle all the way around the town in the distance! The church itself constructed with the rocks and diamonds formed from the impact of the meteor. There is also a museum where you can take a closer look at some of the meteorites and rock and learn a little more about the impact. All and all, a very nice town I am glad to have stopped by on my to Rothenburg.",
     "reactions": [
       {
         "e": "🤌",
@@ -15112,8 +14862,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Woah woah woah, hey hey hey, leeets goooo.... To Montevideo this time. With a population of 1.3 million which coincidentally is 37% of their entire population. You can get here by flight, bus or boat. Last one of which I did to get here and tell you a little story, best told in three pictures. The three next…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "12/15\n \nWoah woah woah, hey hey hey, leeets goooo.... To Montevideo this time. With a population of 1.3 million which coincidentally is 37% of their entire population. You can get here by flight, bus or boat. Last one of which I did to get here and tell you a little story, best told in three pictures. The three next pictures in fact. \n\nI came, I saw, I conquered... What it doesn't show however is what would've been the 4th photo of where I got chewed out for touching the statue. But with the power of the rub I shall have luck for the foreseeable future. \n\nMontevideo wasn't all that bad, it was definitely pricier than most of south America, but it was a nice place to chill, go for long walks, it has nice parks. Little peninsula to enjoy, not overcrowded. Very spacious and not too bustling considering its size. It may not be the most exciting place from a tourist perspective. But if you're looking for a lil break in your travels going through South America and a change of pace, I'd say it's worth a chill visit. \n\nHere's a couple random photos from Montevideo.\n\nUntil next time hoes",
     "reactions": [
       {
         "e": "🤌",
@@ -15155,8 +14904,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Cologne (Köln) is a 2000 year old city in North Rhine-Westphalia with a population of around 1 million. You can get here by plane/bus/car, I flew in from Munich. This city is stunning and you can find its history everywhere. The public transport is amazing and easy to use but beware of the crazies outside the…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Cologne (Köln) is a 2000 year old city in North Rhine-Westphalia with a population of around 1 million. You can get here by plane/bus/car, I flew in from Munich. This city is stunning and you can find its history everywhere. The public transport is amazing and easy to use but beware of the crazies outside the Hauptbahnof 😭\n\nCologne was founded by the Romans and became a key city for them along the Rhine. The famous Cathedral began construction in 1248 and took over 600 years to complete and is now a UNESCO world heritage site!\n\nWhat I recommend - \n- Köln Cathedral \n- Ulrepfort\n- Catch the sunset on the Rhine \n- Search for ruins of the old city wall\n- Neumarkt (they had some markets on when I went, don't know if this is frequent)",
     "reactions": [
       {
         "e": "🤌",
@@ -15198,8 +14946,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "HEY GUYS, TOM HERE BACK AT YOU WITH ANOTHER BALL RUB, IF YOU LIKE THE CONTENT AND WANNA SUPPORT REMEMBER TO SMASH, SMASH, SMUAAASH THAT LIKE AND SUBSCRIBE BUTTON, AND GIVE ME YOUR INHERITANCE.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "13/15\nHEY GUYS, TOM HERE BACK AT YOU WITH ANOTHER BALL RUB, IF YOU LIKE THE CONTENT AND WANNA SUPPORT REMEMBER TO SMASH, SMASH, SMUAAASH THAT LIKE AND SUBSCRIBE BUTTON, AND GIVE ME YOUR INHERITANCE. \n\nANYWAYS GUYS, THIS TIME OUR JOURNEY, AND IT'S BEEN A CRAZY JOURNEY ALRIGHT, TO PUNTA DEL ESTE, QUIET RESORT TOWN IN URUGUAY, ILL HAVE TO SAY GUYS, YES GUYS THIS IS WHAT IVE ALWAYS PICTURED WHEN I IMAGINED URUGUAY, PRICEY, LOTS OF NEW APARTMENT BUILDINGS AND VERY QUIET, BUT ALSO VERY GREEN, OH MY GOD IF YOU KNEW HOW GREEN IT WAS, BY THE WAY GUYS THIS VIDEO IS SPONSORED BY NOOOOORDVPN, AND YOU CAN GET 10% YOUR FIRST ORDER IF YOU USE PROMO CODE BALLRUBBER10 ANYWAYS BACK TO THE POST. \n\nEVEN THOUGH ITS ONLY 18K PERMANENT RESIDENTS, AND QUIET, IT REALLY FIRES UP IN THE SUMMER, WHERE IT HITS UP TO 450K PEOPLE, QUITE THE CONTRAST. BUT NOT QUITE THE SAME CONTRAST YOU WILL FEEL BEFORE AND AFTER YOU START WEARING MY BALLRUBBER SHIRT, YES THATS RIGHT GUYS, WE HAVE NEW MERCH IN STORE GUYS, LIMITED EDITION SO MAKE SURE TO ORDER NOW DON'T MISS OUT, ONCE ITS GONE, ITS GONE FOREVER GUYS!\n\nSPEAKING OF BALLRUBING, YES I KNOW. ITS THE MOMENT YOUVE ALL BEEN WAITING FOR GUYS, HERE IT IS, FIRST PHOTO! THERE I AM, RUB RUB RUBBING AWAY! \n\nIF YOU'RE FEELING LUCKY, YOU CAN HEAD TOWARDS THE HARBOUR AND SEE IF YOU CAN SPOT A HAREM OF SEA LIONS, NOW THAT WAS A TRULY MAGICAL EXPERIENCE GUYS, GUYS, GUYS, MAKE SURE YOU DONT EVER EVER MISS OUT GUYS, SEE VIDEO!\n\nNEXT PHOTO IS URUGUAYS MOST SOUTHERN POINT, AND OFC WE CAN'T FORGET THE HAND, WOW WOW, WOW. GO INTO YOUR MOMS PURSE AND SEND ME A PHOTO TAKEN OF THE BACK OF HER CARD!\nAND OH MY GOD GUYS, IS THE NEXT PHOTO A PALM TREE?!! DO YOU GET IT? PAAAAALM?!!! 😳 \n\nFROM A TOURIST PERSPECTIVE IT DEFINITELY ISNT CRAZY, BUT IT WAS A NICE, CHILL, TIME BY THE COAST, PLOTTING MY NEXT BALLRUBBING ADVENTURES, SO MAKE SURE YOUVE HIT THE BELL AND SIGNED UP FOR OUR E-MAIL LIST, THAT WILL BE ALL FOR NOW GUYS, REMEMBER TO STAAAAAAY RUBBEN, CHO CHOOO",
     "reactions": [
       {
         "e": "⭐",
@@ -15312,8 +15059,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "So, let me tell you a story of how I rubbed a bull in downtown Asuncion 🎵🎶🎶",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "14/15  \nSo, let me tell you a story of how I rubbed a bull in downtown Asuncion 🎵🎶🎶 \n\nWith a population of 460k and buses going around the country and across borders, on our way to Brazil we found ourselves chilling a few days in Asuncion. With some nice parks, churches and domes, I can be seen here fulfilling my real purpose of rubbing this bull. \n\nOutside that it's not crazy crazy go go town, although it has some museums we found ourselves just chilling, walking around town, went to some nice cafes and that's about it really. \n\nHere's just a photo dump from what we saw I guess. Doesn't have much more than that. \n\nWoop woop",
     "reactions": [
       {
         "e": "🤌",
@@ -15362,9 +15108,8 @@ const SUBMISSIONS = [
         "caption": ""
       }
     ],
-    "blurb": "I kicked off 2025 with one of the wildest adventures I’ve ever signed up for.",
-    "getThere": "What to do: Honestly, it’s a small rural town in northern Serbia—there’s not much going on unless you’ve got a very specific reason to come.\n\nMy reason to get there:\n\nI kicked off 2025 with one of the wildest adventures I’ve ever signed up for.\n\nWhen I was nine, I discovered this quirky Spanish game called fútbolchapas. Think of it as miniature football (or soccer), where your “players” are bottle caps.\n\nI started out in Madrid, back when there were maybe 50 of us. That was it. Fast forward a few years, and suddenly there are over 2,000 players in Spain—and the game has started spreading abroad too.\n\nLate in 2024, I got an email from a Hungarian friend: an invite to the first-ever European Championship. Date: January 26th, 2025. Location: a tiny town in northern Serbia called Bečej.\n\nFor me, it was a no-brainer. I’m kinda semi-retired from the competitive scene, but unlike most of my Spanish buddies, I’ve got that itch to travel. I figured I’d be the only seasoned player showing up—and maybe even the favorite to grab the first European title.\n\nOf course, my trip to Bečej got off to a nightmare start. I was supposed to fly out of Santander to Otopeni (via Dublin), but I missed my flight. So I had to rebook a last-minute flight from Madrid the next day, which meant tighter schedules and an even tighter budget.\n\nEventually, I made it to Bucharest—stayed just one day (loved it, by the way, but it doesn’t make the cut for Globetrotter since I didn’t manage to snap three decent photos). From there, I headed to Cluj-Napoca, where I linked up with a friend-of-a-friend who was also on their way to Bečej.\n\nThe competition couldn’t have gone any better. I became European Champion—in both the individual and team categories—and I got to enjoy Balkan food again. I’d been craving burek for ages, and finally got my fix.",
-    "thingsToDo": [],
+    "blurb": "What to do: Honestly, it’s a small rural town in northern Serbia—there’s not much going on unless you’ve got a very specific reason to come.",
+    "content": "City: Bečej, Serbia 🇷🇸 \nPopulation: Around 19,000\nHow to get there: There are regular direct buses from Novi Sad, but we just drove.\nWhat to do: Honestly, it’s a small rural town in northern Serbia—there’s not much going on unless you’ve got a very specific reason to come.\n\nMy reason to get there:\n\nI kicked off 2025 with one of the wildest adventures I’ve ever signed up for.\n\nWhen I was nine, I discovered this quirky Spanish game called fútbolchapas. Think of it as miniature football (or soccer), where your “players” are bottle caps.\n\nI started out in Madrid, back when there were maybe 50 of us. That was it. Fast forward a few years, and suddenly there are over 2,000 players in Spain—and the game has started spreading abroad too.\n\nLate in 2024, I got an email from a Hungarian friend: an invite to the first-ever European Championship. Date: January 26th, 2025. Location: a tiny town in northern Serbia called Bečej.\n\nFor me, it was a no-brainer. I’m kinda semi-retired from the competitive scene, but unlike most of my Spanish buddies, I’ve got that itch to travel. I figured I’d be the only seasoned player showing up—and maybe even the favorite to grab the first European title.\n\nOf course, my trip to Bečej got off to a nightmare start. I was supposed to fly out of Santander to Otopeni (via Dublin), but I missed my flight. So I had to rebook a last-minute flight from Madrid the next day, which meant tighter schedules and an even tighter budget.\n\nEventually, I made it to Bucharest—stayed just one day (loved it, by the way, but it doesn’t make the cut for Globetrotter since I didn’t manage to snap three decent photos). From there, I headed to Cluj-Napoca, where I linked up with a friend-of-a-friend who was also on their way to Bečej.\n\nThe competition couldn’t have gone any better. I became European Champion—in both the individual and team categories—and I got to enjoy Balkan food again. I’d been craving burek for ages, and finally got my fix.",
     "reactions": [
       {
         "e": "🤌",
@@ -15419,8 +15164,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Dusseldorf is a major city in West Germany located along the Rhine River, you can get here by plane, car, bus train, I got here from a train from Cologne. The population is around 600,000. Dusseldorf is a vibrant and multicultural city and this can be seen when walking around the city. There is a large Japanese and…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Dusseldorf, Germany \n\nDusseldorf is a major city in West Germany located along the Rhine River, you can get here by plane, car, bus train, I got here from a train from Cologne. The population is around 600,000. Dusseldorf is a vibrant and multicultural city and this can be seen when walking around the city. There is a large Japanese and Turkish diaspora here too. This city isn't the most \"touristy\" so I would recommend no more than a day here. \n\nMain spots:\n-Japanese Gardens\n-EKO Haus Japanese exhibition (no picture policy but its amazing) \n-Little Tokyo \n-Königsalle\n\nThe food here is amazing though, and you can find many different cuisines. The streets are pretty too. \n\n7/10",
     "reactions": [
       {
         "e": "🤌",
@@ -15482,8 +15226,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Berlin Berlin Berlin, what an amazing city, apart from crazies in Alexanderplatz I loved my time here. Berlin is the capital of Germany and it is a major city in the past 100 years of European history too. The population is around 3.7 million. I got here from Cologne by ICE Train. You can also fly here, bus and…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Berlin, Germany \n\nBerlin Berlin Berlin, what an amazing city, apart from crazies in Alexanderplatz I loved my time here. Berlin is the capital of Germany and it is a major city in the past 100 years of European history too. The population is around 3.7 million. I got here from Cologne by ICE Train. You can also fly here, bus and drive. This city has a rich history, founded in the 13th century, the modern capital of Germany was once divided, once the capital of the German Empire, the Weimar Republic and more... \n\nThis city has an amazing nightlife and social scene. The museums here and art exhibitions are amazing. I would highly recommend checking out the art exhibitions on Museum island as some are free!  \n\nThings to do: \n-Berlin Wall \n-Deutsche Technical Museum\n-Museum Island (Museums, Exhibitions and the Cathedral) \n-Clubbing (not my thing but if it's yours I hear it's good here) \n-Brandenburg gate \nMany more too. \n\nI would recommend spending at least 3 days here, I spent 2 and still didn't see everything I wanted. I will definitely come back here in the future.\n\n9/10",
     "reactions": [
       {
         "e": "🤌",
@@ -15533,8 +15276,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Sitting on the banks of the Garonne, Toulouse is famous for its red-brick architecture, winding streets (I especially fell in love with Rue Jean Suau and Rue Léon Gambetta), and a seriously heavy-hitting gastronomy, with cassoulet as the star dish.",
-    "getThere": "What to do:\n\nSitting on the banks of the Garonne, Toulouse is famous for its red-brick architecture, winding streets (I especially fell in love with Rue Jean Suau and Rue Léon Gambetta), and a seriously heavy-hitting gastronomy, with cassoulet as the star dish. \n\nAs one of the biggest and liveliest cities in France, there’s always plenty going on. But if you’re only around for a couple of days, make sure you explore the Capitole area properly—it’s the heart of the city and a perfect starting point.\n\nMy reason to get there:\n\nI actually visited Toulouse on the very same trip that took me to Bečej. The reason was simple: I was on a tight schedule and needed to find a flight from either Belgrade or Budapest to somewhere close to Bilbao.\n\nNow, Bilbao airport has a bit of a reputation. Because it’s tucked into a valley, landings can be tricky, and delays or cancellations aren’t rare. I didn’t want to take any chances, so I looked into nearby airports.\n\nThere weren’t any good connections to northern Spain, so I ended up flying from Budapest to Toulouse, then taking a seven-hour bus ride back home.\n\nToulouse wasn’t part of the original plan—it was just a stopover between Bečej and Bilbao—but I ended up really enjoying it. I got to dust off my French, discover a brand-new city, and even try my first ever Vietnamese bánh mì. And yes, I know Toulouse is famous for its amazing gastronomy, but that sandwich was an absolute win.",
-    "thingsToDo": [],
+    "content": "City: Toulouse, France 🇫🇷\nPopulation: Around 450,000 people call Toulouse home.\nHow to get there: Super easy. Toulouse has its own international airport (Blagnac), well connected to the rest of Europe. You can also catch trains from Paris and other major French cities, or hop on a bus from northern Spain. And of course, driving is always an option.\n\nWhat to do:\n\nSitting on the banks of the Garonne, Toulouse is famous for its red-brick architecture, winding streets (I especially fell in love with Rue Jean Suau and Rue Léon Gambetta), and a seriously heavy-hitting gastronomy, with cassoulet as the star dish. \n\nAs one of the biggest and liveliest cities in France, there’s always plenty going on. But if you’re only around for a couple of days, make sure you explore the Capitole area properly—it’s the heart of the city and a perfect starting point.\n\nMy reason to get there:\n\nI actually visited Toulouse on the very same trip that took me to Bečej. The reason was simple: I was on a tight schedule and needed to find a flight from either Belgrade or Budapest to somewhere close to Bilbao.\n\nNow, Bilbao airport has a bit of a reputation. Because it’s tucked into a valley, landings can be tricky, and delays or cancellations aren’t rare. I didn’t want to take any chances, so I looked into nearby airports.\n\nThere weren’t any good connections to northern Spain, so I ended up flying from Budapest to Toulouse, then taking a seven-hour bus ride back home.\n\nToulouse wasn’t part of the original plan—it was just a stopover between Bečej and Bilbao—but I ended up really enjoying it. I got to dust off my French, discover a brand-new city, and even try my first ever Vietnamese bánh mì. And yes, I know Toulouse is famous for its amazing gastronomy, but that sandwich was an absolute win.",
     "reactions": [
       {
         "e": "🤌",
@@ -15579,8 +15321,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "🎶  Well, we're living here in Allentown,",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "[Entry #3]\n\n🎶  Well, we're living here in Allentown,\n        And they're closing all the factories down 🎶\n\nhttps://youtu.be/BHnJp0oyOxs?si=MiNGQB6B4tnc1udg\n\n[feel free to listen to the Billy Joel song, while reading this entry]\n\nAllentown, Pennsylvania, is a city in eastern PA. It is the 3rd most populous city in the state, with a population of 125,845. It was once a thriving city, a powerhouse of the industrial revolution. But later it suffered economic decline (as illustrated in the well known song by Billy Joel)  Recently there has been some revitalization.\n\nI came to the area to visit Dorney Park & Wildwater Kingdom, an amusement park. We skipped the water park side, and focused on the dry rides. Some of my favorite rides include Talon, Steel Force, and their newest coaster, Iron Menace (themed to the steel industry).\n\nAfter our visit to the amusement park, we went to my favorite hotel in the area, the Allentown Renaissance. Since the city center has been gentrified a bit, and is no longer a scary pit of despair, there some fun restaurants and brewpubs in the area. Don't venture too far out though, as there are some more rough neighborhoods as you go further out.\n\nAllentown is about 100 miles west of the center of the universe (New York City). You can get there by taking Interstate 78.",
     "reactions": [
       {
         "e": "🤌",
@@ -15624,8 +15365,7 @@ const SUBMISSIONS = [
         "text": "Easton PA?",
         "reactions": []
       }
-    ],
-    "lite": true
+    ]
   },
   {
     "id": "s-frankfurt-rox",
@@ -15685,8 +15425,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "There’s a few things I found intresting to do. Like the dialogue museum. Where you can’t see shit. It’s a museum where you experience to be blind and it opened up a whole new perspective for me. You went to different rooms. Like a park or a bar and the city centre where there was a market.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Country Frankfurt lies on the west side of germany in the state of Hesse and has a population of approximately 773.000 people. There’s and airport so you can get there by plane, but I got there by train. \n\nThere’s a few things I found intresting to do. Like the dialogue museum. Where you can’t see shit. It’s a museum where you experience to be blind and it opened up a whole new perspective for me. You went to different rooms. Like a park or a bar and the city centre where there was a market.\nIt’s also fun to walk around jacobiwheiler. Which I thought was a lake. It’s was pretty to walk there. It was close to the airport though so you could hear planes every now and then.\nI went there back in July so I also went to a pride festival. I never been to pride before so it was fun. And another thing you can do is go to the main tower and see a view of the city. I haven’t done that cuz I was short of time. There’s some sightseeing spots I went to though. Like the paulplatz and römerberg\n\nI really went to Frankfurt for 1 main reason and that was the mother mother concert. They also played in the Netherlands but I couldn’t get free from work that day.",
     "reactions": [
       {
         "e": "🤌",
@@ -15766,8 +15505,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "I saw there was already a Copenhagen but here’s mine anyway.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "I saw there was already a Copenhagen but here’s mine anyway.\n\nCopenhagen is the capital city of Denmark located on the coastal island of Zealand and Amager. It has a population of approximately 667.000. You can get there by train, plane, boat or car. Walk if you must.\n\nThere’s a LOT to do. One of the more touristy things are visiting the little mermaid then go have lunch with an overpriced danish pastry as you watch tourist being ridiculously funny about how they try to take pictures of each other.\n\nVisit christianburg palace. And enter the ruins and the building. The ruins have some interesting history. Also did you know Christianburg was burned twice? The palace is beautiful on the inside. Definitely worth checking.\n\nYou also have the Tivoli gardens, Rosenberg castle, which is a little meh if you been to christianburg first, the national museum of history and many more. You can also make a day trip to Roskilde or malmo. Got to nyhavn or free Christian town, reskellet and  there’s a lot more.",
     "reactions": [
       {
         "e": "🤌",
@@ -15853,8 +15591,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Roskilde is a 30 minute train ride from Copenhagen. So it’s in Denmark obviously. There’s a population of 53,354 people you can also get there by car from Copenhagen which will actually take you longer.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Roskilde is a 30 minute train ride from Copenhagen. So it’s in Denmark obviously. There’s a population of 53,354 people you can also get there by car from Copenhagen which will actually take you longer. \n\nThere’s a cathedral where a lot of the royal family members are buried. There's a pole with red lines marking the height of the king, you know the thing they do for kids as they grow up but for kings, you could see the height of a king from Thailand. Also Denmark wouldn’t be Denmark if they didn’t bud the cathedral in LEGO scale.\n\nThere’s a Viking Ship museum. To me the museum, was a bit dissapointing. It focused more on how fast the boats could go, the types of wood they used, and why some boats were wider than others. Still, it was interesting to learn that Roskilde used to be one of the most important Viking cities back in the day and was often attacked. They built barriers in the water with sunken ships to slow the enemies down.\n\nThere’s also the Ragnarock Museum, or something like that. It was actually pretty fun. Lots of interactive stuff and headphones to listen to music and stuff. It was a museum about music/roxk and how it evaluated in the last years. It was pretty cool\n\nRoskilde isn’t pretty big but it’s fun to visit once. Close to the cathedral you also have the Roskilde museum.",
     "reactions": [
       {
         "e": "🤌",
@@ -15901,8 +15638,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "There’s coming many more cities  every few days lol. Stockholm is the capital city of Sweden with a population of nearly 1 million.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "There’s coming many more cities  every few days lol. Stockholm is the capital city of Sweden with a population of nearly 1 million.\nYou can get here multiple ways. Plane, car, also a boat from Finland. Or a train of course\n\nTo be fair not a favourite city of mine. It gives the same vibes as Amsterdam which is meh. \n\nThere is the abba museum though which is pretty fun to go to, and a little bit overpriced but it is what it is. There was lots of interactive stuff and even a silent disco.\n\nClose to there is Skansen which is an open air museum. Lots to see there and pretty peaceful to walk around and get out of that big city vibe. Obviously dont forgot to check out some of the underground arts, there’s a lot of them I only visited a few. \n\nAnd of course just walk around to see the architecture",
     "reactions": [
       {
         "e": "🤌",
@@ -15973,8 +15709,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Yo yo, whaaazaaaaaap aligooppaaaaa. Y’all doing fine? Yea? YEAAA? I can’t heaaaar you, that’s great. But not as great as I felt down in Curitiba, now let me tell you about it. Choo choooo here we go.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Yo yo, whaaazaaaaaap aligooppaaaaa. Y’all doing fine? Yea? YEAAA? I can’t heaaaar you, that’s great. But not as great as I felt down in Curitiba, now let me tell you about it. Choo choooo here we go.\n\nSo Curitiba is a fabulous city rocking 1,8m people and stunning architecture around the city. Our days there may not have been many but it was an interesting time nonetheless. It also was riddled with nice and big parks. Great for spending a relaxing Sunday. \nFound a rocking bougie supermarket with all the stuff one could possibly need and more, luxury wouldn’t you say?\n\nWe got there by bus but it’s also very well connected with flights going all around the country, so if you’re in the neighborhood I’d definitely recommend you to make the journey.\n\nHere’s a photo dump from my days there, woop woop!\n\nAnywho that’s me for this time and keep on rocking in the free world, yaaaaaaaaz and goodbye👋🏿",
     "reactions": [
       {
         "e": "🤌",
@@ -16039,14 +15774,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Oslo is populated by 720.000 people located in Norway. I would recommend a train if you’re gonna take public transport. Even if there is an airport it’s a while to get from the airport to the city. So either train or car.",
-    "getThere": "",
-    "thingsToDo": [
-      "the Vineland park. It has many statues to represent every aspect of human life",
-      "if you like food markets there is Mathallen where nearby is Damstradet. The food hall was price imo",
-      "Akershus fortress",
-      "walk by the water and accidentally find the city hall",
-      "if you have a public transport card you can visit the island like Hødedøya"
-    ],
+    "content": "Oslo is populated by 720.000 people located in Norway. I would recommend a train if you’re gonna take public transport. Even if there is an airport it’s a while to get from the airport to the city. So either train or car.\n\nI find that there aren’t many things to do in Oslo but here are a few anyway\n\n-Go take the metro to Sognsvanm, there is a beautiful place to hike. It’s loved being in nature again.\n- the Vineland park. It has many statues to represent every aspect of human life\n- if you like food markets there is Mathallen where nearby is Damstradet. The food hall was price imo\n- Akershus fortress\n- walk by the water and accidentally find the city hall\n- if you have a public transport card you can visit the island like Hødedøya\nAnd last but not least the Norwegian Museum of cultural history. Haven’t been there yet so can’t say much about it",
     "reactions": [
       {
         "e": "🤌",
@@ -16110,8 +15838,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Fun city with plenty of hiking trails and amazing views of the Atlantic. It’s got several bedrock formations of granite which create famous landmarks such as the Sugarloaf Mountain, Corcovado, Tijuca Massif. Rio has a long stretch of beaches along its coastline, spanning through neighborhoods such as Ipanema,…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Population: 6.7 million \nFun city with plenty of hiking trails and amazing views of the Atlantic. It’s got several bedrock formations of granite which create famous landmarks such as the Sugarloaf Mountain, Corcovado, Tijuca Massif. Rio has a long stretch of beaches along its coastline, spanning through neighborhoods such as Ipanema, Copacabana, Leblon, etc. Here you can find one of the Seven Wonders of the modern world, Christ the Redeemer, which can be reached by foot, van or railway car. Locals are laid-back and very friendly. Make sure to catch a soccer/football game while you’re there.",
     "reactions": [
       {
         "e": "🔥",
@@ -16182,8 +15909,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Cool city surrounded by turquoise lakes, canyons and mountains. It’s located in the south east of the country, is the most populated city of KZ and was the capital until 1997. Like the rest of Kazakhstan, the city experiences scorching summers and cold winters.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Population: 2.3m\nCool city surrounded by turquoise lakes, canyons and mountains. It’s located in the south east of the country, is the most populated city of KZ and was the capital until 1997. Like the rest of Kazakhstan, the city experiences scorching summers and cold winters.",
     "reactions": [
       {
         "e": "🤌",
@@ -16238,19 +15964,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Home to a massive 15 Million people, Istanbul spans across two continents - Europe and Asia.",
-    "getThere": "",
-    "thingsToDo": [
-      "Binbirdirek Cistern, great alternative to the more famous one, we had the whole place to ourselves",
-      "U2 Irish Pub, where i made friends from all over, the host Leo is the nicest guy ever",
-      "Kadiköy/Moda for its alt-hipstery vibes",
-      "Ayasofya Mosque, we Just saw it from the outside but it's a sight to behold, ginormous",
-      "Restaurant Himalayan (Nepalese Cuisine)",
-      "Bosphorus Sunset Tour",
-      "Restaurant Galaktion (Georgian)",
-      "Café Fluffy (Japanese Dessert)",
-      "Ryo Matcha Café",
-      "so many Cats!"
-    ],
+    "content": "Home to a massive 15 Million people, Istanbul spans across two continents - Europe and Asia. \nYou can fly here via two airports, one on each Continental Side.\n\nThere is an insane amount of Things to do and places to see here so I'm just going to list some of my personal highlights\n\n- Binbirdirek Cistern, great alternative to the more famous one, we had the whole place to ourselves\n- U2 Irish Pub, where i made friends from all over, the host Leo is the nicest guy ever\n- Kadiköy/Moda for its alt-hipstery vibes\n- Ayasofya Mosque, we Just saw it from the outside but it's a sight to behold, ginormous \n- Restaurant Himalayan (Nepalese Cuisine)\n- Bosphorus Sunset Tour\n- Restaurant Galaktion (Georgian)\n- Café Fluffy (Japanese Dessert)\n- Ryo Matcha Café \n\n- so many Cats!",
     "reactions": [
       {
         "e": "🤌",
@@ -16320,16 +16034,14 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Welcome to Pittsburgh, Pennsylvania, USA!",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Welcome to Pittsburgh, Pennsylvania, USA!\n\nHome to 307,668 People, Pittsburgh is accessible within the US by road, train and boat, and through the rest of the world through Pittsburgh International Airport only 10 Miles (16.1 km) away from the city. \n\nPittsburgh is sometimes referred to as “Steel City”, “The City of Bridges” and “The Paris of Appalachia”, among other nicknames. The city is known for the over 400 bridges that span the city through the three rivers that make up it, along with being the home of the US Steel industry. Pittsburgh is also home to a few famous people, including artist Andy Warhol, television star Mister Fred Rogers, and founder of the Heinz Condiment Company Henry Heinz.\n\nDown below are a few of the sites to see it Pittsburgh! In order they are:\n\nThe Duquesne Incline\nHeinz History Center\nFort Pitt Block House\nPoint State Parm\nThe Bridges of Pittsburgh\nFred Rogers Memorial\nand the USS Requin Submarine",
     "reactions": [
       {
         "e": "🤌",
         "c": 2
       }
     ],
-    "comments": [],
-    "lite": true
+    "comments": []
   },
   {
     "id": "s-kankakee-joe-spades-the-tombstone-tourist",
@@ -16369,8 +16081,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Kankakee is the County Seat and Largest City in Kankakee County, sitting directly on the Kankakee River. With a population of 24,052 People, it’s a city with a mixed reputation, but in my humble opinion, is a lovely place with a bad reputation.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Welcome to Kankakee, Illinois, USA!\n\nKankakee is the County Seat and Largest City in Kankakee County, sitting directly on the Kankakee River. With a population of 24,052 People, it’s a city with a mixed reputation, but in my humble opinion, is a lovely place with a bad reputation.\n\nKankakee sits 45 Miles (72.5 km) of Chicago, and is directly accessible by Bus or Car from Chicago. And even has a small airport called Kankakee Greater Airport.\n\nKankakee is sometimes referred by a couple of nicknames. Locals tend to call it “K3”, though it’s also referred to the City of Twin Gazebos and the Key City. And sometimes called “Prison City” due to the higher crime rate and connection to correctional facilities.\n\nKankakee has a few sites to visit, including the Kankakee County Courthouse, Frank Lloyd Wright’s B Harley Bradley House and the Kankakee Train Station\n\nSome well known sites in Kankakee include",
     "reactions": [
       {
         "e": "🤌",
@@ -16422,8 +16133,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Located in Northern Indiana in the United States, South Bene boasts a population of 103,453 people, and is accessible by Train, Car and Airplane through South Bend International Airport.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Welcome to South Bend, Indiana, USA!\n\nLocated in Northern Indiana in the United States, South Bene boasts a population of 103,453 people, and is accessible by Train, Car and Airplane through South Bend International Airport.\n\n South Bend is the 4th largest city in the state of Indiana, and is a major hub for industry and transportation, along with being a connection point to both the states of Illinois and Michigan. A new nicknames given to the city are “Wagon City” and “Metropolis of Northern Indiana”.\n\nThere are a few sites to see in South Bend, including the Studebaker National Museum, The History Museum and the University of Notre Dame. Also on my personal trip there, is the grave of US Vice President Schuyler Colfax.",
     "reactions": [
       {
         "e": "🤌",
@@ -16490,8 +16200,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "College Station is a city in the State of Texas in the United States. It has a population of 120,511 and is accessible by Bus, Car and Plane by their local airport called Easterwood Airport.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Welcome to College Station, Texas, USA\n\nCollege Station is a city in the State of Texas in the United States. It has a population of 120,511 and is accessible by Bus, Car and Plane by their local airport called Easterwood Airport.\n\nCollege Station is primarily known for one thing: Texas A&M University. TAMU has enrolled the largest student body in the USA since 2021, and is well known for being one of the top schools in the country. And that is especially so if you are looking to get into Engineering or Aeronautics, since it is close to Houston, where NASA is headquartered.\n\nCollege Station is also home to the George H.W. Bush Presidential Library and Museum, which serves as the archive for Bush’s records, a public museum for people to see exhibits on the former president, and the burial site of the 41st President, his First Lady Barbara Bush, and his young child Robin. \n\nAlso on campus included a a Clocktower, many domed buildings, many sports facilities and even a giant class ring!",
     "reactions": [
       {
         "e": "🤌",
@@ -16546,8 +16255,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Fürth is nestled right next to the bigger city of Nürnberg, making it a \"city triangle\" with Erlangen (mentioned in another post)",
-    "getThere": "Fürth is nestled right next to the bigger city of Nürnberg, making it a \"city triangle\" with Erlangen (mentioned in another post)\nIt's super accessible with public transport by trains, buses and subways.\n\nThe city hosts a beautiful medieval christmas market every year. \nThere's plenty of really cozy Cafés and Restos around Grüner Markt.\nFürth used to be home to many Jewish people before WW2 resulting in a rich history. One of the biggest Jewish Cemetery's of the country is located here (can only be visited with a booked tour) or you can visit the Jewish Museum Fürth.\n\nThe city has a beautiful, big park with attached herbal gardens.\n\nThere's many big musical festivals happening in Fürth, e.g. a Klezmer Festival and the annual New Orleans Festival. \n\nA fun fact is that the stadium of the local Football team is located directly in a residential area 😄\n\nAll in all, Fürth is a nice Daytrip from Nürnberg if you ever find yourself there!",
-    "thingsToDo": [],
+    "content": "Population: ~132k people\nHow to get here: Train, Fly into Nürnberg Airport and take the subway for ~30-40 mins\n\nFürth is nestled right next to the bigger city of Nürnberg, making it a \"city triangle\" with Erlangen (mentioned in another post)\nIt's super accessible with public transport by trains, buses and subways.\n\nThe city hosts a beautiful medieval christmas market every year. \nThere's plenty of really cozy Cafés and Restos around Grüner Markt.\nFürth used to be home to many Jewish people before WW2 resulting in a rich history. One of the biggest Jewish Cemetery's of the country is located here (can only be visited with a booked tour) or you can visit the Jewish Museum Fürth.\n\nThe city has a beautiful, big park with attached herbal gardens.\n\nThere's many big musical festivals happening in Fürth, e.g. a Klezmer Festival and the annual New Orleans Festival. \n\nA fun fact is that the stadium of the local Football team is located directly in a residential area 😄\n\nAll in all, Fürth is a nice Daytrip from Nürnberg if you ever find yourself there!",
     "reactions": [
       {
         "e": "🤌",
@@ -16614,8 +16322,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "On the southwestern part of Iceland, Keflavik is usually the first place someone will go to once they reach the island nation. Hosting a population of 15,390 people, Keflavik is the home to Keflavik International Airport, which is accessible internationally, and is usually a layover point when traveling from…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Welcome to Keflavik, Iceland!\n\nOn the southwestern part of Iceland, Keflavik is usually the first place someone will go to once they reach the island nation. Hosting a population of 15,390 people, Keflavik is the home to Keflavik International Airport, which is accessible internationally, and is usually a layover point when traveling from America to Europe and vice versa. It is also accessible by Car and Boat.\n\nKeflavik sits in the coast of the Atlantic Ocean, and is also known as the municipality of Reykjanesbaer, which also has the towns of Njaròvik and Hafnir. A well known nickname for Keflavik is “The Beatle Town”, because of the large influx of musicians who call the town home.\n\nWhen visiting Keflavik, walking along the coast is a must, due to the lighthouses, sculptures, beached ships and great views of the large bay and the capital city of Reykjavik from across the water.",
     "reactions": [
       {
         "e": "🤌",
@@ -16662,8 +16369,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "So the obvious thing to do in Hamburg is eat a hamburger. I was here for a week so you don’t eat it once or twice. I think I ate like 4 burgers? Anyway",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "So the obvious thing to do in Hamburg is eat a hamburger. I was here for a week so you don’t eat it once or twice. I think I ate like 4 burgers? Anyway\n\nHamburg is located in northern Germany and has now the 3th biggest harbor in Europe.  The population of Hamburg is around 1.7 million. Wauw I did not know that. You can get here by boat, train, car or plane. \n\nFor me Hamburg isn’t that intresting but there’s a few popular things here like. Miniature wonderland, the harbor or the WWII memorial. Did you know that when  hamburger got bombed 90% of the harbor was destroyed and 60% of the city. One of the buildings that still is standing they made a memorial out of it. So when you walk around in Hamburg you won’t see a lot of old buildings anymore. At least not as old as 1600s or something cuz it’s all gone. If you look at the memorial closely you can also see the new bricks they placed to hold it up \n\nThere’s also chocoversum where they have a guided tour of the process of chocolate which is pretty cool. You also eat that process so from the fruit to the actual bar. And you can also decorate ur own chocolate bar.\n\nI’ll just list a few more things here:\n- visit planten und bomen, it’s a cool garden \n- visit the elbphilharmonie and wonder why they built that\n- visit the town hall\n- if you like going out there’s the Reeperbahn where there is also the red light district\n- walk around on Saturday and find a sad flea market because it’s raining\n- alster lakes because I don’t know people say you need to see it. It’s a lake?\n\nThat was about it thank you for your time, more pictures might follow",
     "reactions": [
       {
         "e": "🤌",
@@ -16766,8 +16472,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "This one is located in POLANDD. With a population of 570.000 and counting. I like the architecture here. Even though I didn’t make a lot of pics. The castle looks like something I would build in Minecraft when I was 11, ehm anyway.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Yay another one\n\nThis one is located in POLANDD. With a population of 570.000 and counting. I like the architecture here. Even though I didn’t make a lot of pics. The castle looks like something I would build in Minecraft when I was 11, ehm anyway. \n\nYou can get here by car or train or air travel. I saw that there were quite a few of airports nearby. Lowkey I thought they didn’t had one.\n\nStuff to do:\n- crossaint museum, DO NOT do the interactive thingy just go to the museum itself since for me it was quite dissapointing. I thought we were gonna bake crossaint we did not nor we got one. So kinda sad\n\nThen walk a  little and find another museum where you got in for €0.25 cents because the lady thought you were a student. It was a military museums very cool to see but if you can’t speak polish all you do I look around since not a lot is in english\n\nYou can walk around the old town square and watch the goats at 12:00 or 15:00 (I think it was called that) it’s the town hall area\n\nJust walk around a lot in general they have murals like Spider-Man and a ton more. Sadly I haven’t found them yet\n\nYou can also go to\n- citadel park \n-wilczy (no idea why recommendation from polish friend, nature area)\n- stary browar. A mall with art inside \n- eat pierogi and zapiekanki (polish food?)\n- get half a litre of beer for €2.79\n\nEh I think that’s all the stuff I can come up with. Thank you for your time and see yall at the next one in around 5 workdays\n\n(Also if there are no country requirements why can you only post up to 12 cities?)",
     "reactions": [
       {
         "e": "🤌",
@@ -16829,17 +16534,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Prague! (Or Praha ig) The capital of Czechia / Czech Republic. Whether you consider it Central or Eastern Europe is up to you. Population is around 1.4million and you can arrive here by land or fly into Prague airport. I came here by flixbus from Berlin. I went here in the start of September for 2 nights, and I…",
-    "getThere": "",
-    "thingsToDo": [
-      "St Vitus Cathedral",
-      "Charles Bridge (catch the sunset here its pretty nice)",
-      "Old Town",
-      "Petrin Tower (I walked down from here and it was lovely)",
-      "Prague Castle",
-      "Jewish Quarter",
-      "Dancing Tower",
-      "The Astronomical Clock."
-    ],
+    "content": "Prague! (Or Praha ig) The capital of Czechia / Czech Republic. Whether you consider it Central or Eastern Europe is up to you. Population is around 1.4million and you can arrive here by land or fly into Prague airport. I came here by flixbus from Berlin. I went here in the start of September for 2 nights, and I think it was honestly enough to see everything I wanted to. I stayed in the Vinohrady area honestly its a well connected area and accommodation is decently priced so I would recommend. This city is so stunning, every street is picturesque (unless there's a British stag do party, God there was so many.) \nThings to do/see (non drinking wise sorry:)\n- St Vitus Cathedral\n- Charles Bridge (catch the sunset here its pretty nice) \n- Old Town \n- Petrin Tower (I walked down from here and it was lovely) \n- Prague Castle \n- Jewish Quarter\n- Dancing Tower\n- The Astronomical Clock.\nI hear the bars are good but I dont drink so cant say personally.",
     "reactions": [
       {
         "e": "🤌",
@@ -16906,8 +16601,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Ello we are here once again this time in krakow, where you can go by train bus car bike, plane, I dunno probably rollerskate too?",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Ello we are here once again this time in krakow, where you can go by train bus car bike, plane, I dunno probably rollerskate too?\n\nIt’s populated by 804.000+ people and located in the south of Poland. \n\nOne of the more popular things to do is book a tour to auschwitzs. Which was something. I found it very impressive. I can tell some about it but I kinda don’t want to cuz it’s pretty depressing ehm anyway.\n\nYou can just do a lot of walking around here. Most things are on walk distance and I have no idea why I bought a public transport cart but oh well.\n\nYou have the Oscar schindler’s enamel factory, the wawel cathedral/ castle, the market square , st Mary’s basilica, a few parks. I wandered around and found something called the happy museum (where you should go with someone else cuz that would be more fun.\n\nThere are pub crawls every night too and in one of the hostels is a boob wall, so you should put yours on there. Get way too fucked up with the free drinks and don’t remember shit.  And I don’t know what else to tell. I geuss you can do a wodka tasting too. I didn’t do most of these because my plans always changed on the day. \n\nThanks for you time see you in 2-3 business days",
     "reactions": [
       {
         "e": "🤌",
@@ -16949,8 +16643,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "If you like beer, you'll love it here - 14 breweries call Bamberg their home. You can go to the busy Sandstraße and have a beer standing on the street enjoying the weather.",
-    "getThere": "If you like beer, you'll love it here - 14 breweries call Bamberg their home. You can go to the busy Sandstraße and have a beer standing on the street enjoying the weather. \nIf you don't drink, there's plenty of cute Cafés to chose from, my favs being the Portuguese Café Zuckerstück and the 100% Vegan Café Zeit&Wunder.\n\nTake a stroll through the old town and you'll see the city hall, which Bamberg's most famous landmark.\nOther things to see are the Cathedral, take a walk up one of the city's many hills to see the city from a different viewpoint.\nLittle Venice is a nice chill spot by the river. \n\nBamberg has a lot of small specialty shops for all kinds of things, be it fine food, jewellry or fashion. \n\nI love the city's compact but lively vibes and recommend a day trip if you're in the area!",
-    "thingsToDo": [],
+    "content": "~50k inhabitants\nHow to get here? The next airport is Nuremberg Airport, take a train/car ride ~1h and you'll reach Bamberg.\n\nIf you like beer, you'll love it here - 14 breweries call Bamberg their home. You can go to the busy Sandstraße and have a beer standing on the street enjoying the weather. \nIf you don't drink, there's plenty of cute Cafés to chose from, my favs being the Portuguese Café Zuckerstück and the 100% Vegan Café Zeit&Wunder.\n\nTake a stroll through the old town and you'll see the city hall, which Bamberg's most famous landmark.\nOther things to see are the Cathedral, take a walk up one of the city's many hills to see the city from a different viewpoint.\nLittle Venice is a nice chill spot by the river. \n\nBamberg has a lot of small specialty shops for all kinds of things, be it fine food, jewellry or fashion. \n\nI love the city's compact but lively vibes and recommend a day trip if you're in the area!",
     "reactions": [
       {
         "e": "🤌",
@@ -16982,8 +16675,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "So, my goal with Paris was to mainly visit 3 things: Notre Dame Cathedral, see the Eiffel Tower, and go to Disneyland Paris. I accomplished those goals and saw Arc de Triomphe.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Population: 2.05 million\n\nTransportation: plane, train, bus, etc.\n\nSo, my goal with Paris was to mainly visit 3 things: Notre Dame Cathedral, see the Eiffel Tower, and go to Disneyland Paris. I accomplished those goals and saw Arc de Triomphe. \n\nI accidentally saw the place where Princess Diana died, too, which I thought was pretty sad, rest in peace 😔 \n\nI really liked the inside of Notre Dame, seeing the Eiffel Tower at night, and I really enjoyed Disneyland Paris. I was able to get the disability priority card, so my maximum waiting time for any ride was 15 minutes — definitely a plus! It’s definitely different from US Disneyland and US Disney World, but in my opinion it was still worth going to. A lot of variety of rides still, and two nice parks. My biggest regret is not going on the Ratatouille ride, but it was because it was closed.",
     "reactions": [
       {
         "e": "🤌",
@@ -17057,8 +16749,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Bratislava, the capital of Slovakia. For a capital city it’s pretty quiet and calm. It’s not that big so you can see most of it in 1 not more than 2 days. It had a population of  479.000 people and you get there by train, car, plane whatever.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Bratislava, the capital of Slovakia. For a capital city it’s pretty quiet and calm. It’s not that big so you can see most of it in 1 not more than 2 days. It had a population of  479.000 people and you get there by train, car, plane whatever.\n\nYou can visit the blue church, Bratislava castle,  Micheal’s gate, old town hall, slavin (WWII memorial), the ufo thing and just wander around.\n\nI’m gonna put my hostel recommendation though, I went to the wild elephant and they have pubcrawl every night but I don’t care for that. They also have river parties where yall just go drink by a campfire and it was fun. You also have unlimited alcohol (jungle juice) which is basicly a shit ton of stuff mixed together. But it was such a vibe. So if you don’t like pubcrawl but do like drinking. Go there. It’s worth it. And they also have daily activities and other shit the whole day through so if you don’t know what to do or want to socialise it’s perfect.",
     "reactions": [
       {
         "e": "🤌",
@@ -17095,8 +16786,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Nestled in the Pyrenees mountain range is the city of Andorra La Valle, the capital (and largest city) of Andorra. It is a very small country landlocked between France and Spain, and a beautiful little country at that!",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Population: 22,000\n\nTransportation: Plane, bus, train, car\n\nNestled in the Pyrenees mountain range is the city of Andorra La Valle, the capital (and largest city) of Andorra. It is a very small country landlocked between France and Spain, and a beautiful little country at that!\n\nThere are some things to do in the city, including seeing an original Salvador Dali statue, hiking in the mountain nearby, and trying some themed restaurants like La Petite Forêt. They also have local art galleries and museums, if that falls within your realm of interests. Not too far are some reportedly super nice, more lengthy hiking spots as well. It’s a beautiful little city that’s definitely worth sightseeing for a day trip!",
     "reactions": [
       {
         "e": "🤌",
@@ -17171,8 +16861,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "So here it is. My last submission from no other than Bogota. With its 8 million, I fly here ofc but it got bus connections around the country.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "15/15 \n\nSo here it is. My last submission from no other than Bogota. With its 8 million, I fly here ofc but it got bus connections around the country. \n\nPersonally I gotta say I don't really care for this city. It's just an extended layover for me at this time. But I did however happen to stumble upon the last bull for this year. And yes, we rubbed it for good fortune. (See the two first photos) \n\nSo in that regard, I'd just like to extend thanks to my family, who always supported me through this journey, as well as my wife Shauna, who's always been my biggest champion. I'd also like to thank Carl who put me on to this ridiculous, dumb challenge. Which at times have seen me take detours and spend silly amounts of money just to rub plastic and iron. Not least of all, I'd like to thank the world order that makes it possible to do this in the first place. \n\nOutside that, Bogota is a city above 2k meters, chronically shitty weather, and inferior arepas. It's also arguably the party capital of South America. So perfect if you're into those kinda things. It's become a lot safer than when I was mugged here 4 years ago. So shout-out to that. \n\nI couldn't be arsed to take any additional photos this time around while I've been in Bogota, so here's a photo of the dorm window in order to comply with the submission rules. \n\nAnyway, that's it for me, Tom signing off and I'll see you all for the next year's challenge! \n\nCheers!",
     "reactions": [
       {
         "e": "🤌",
@@ -17214,8 +16903,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "I couldn’t register the last place I’ve been since it was so small it didn’t meet the requirements so here we are in Kosice, a small town located in Slovakia. Where again I’m surprised this one has an airport. I got here by train but car is also possible.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "I couldn’t register the last place I’ve been since it was so small it didn’t meet the requirements so here we are in Kosice, a small town located in Slovakia. Where again I’m surprised this one has an airport. I got here by train but car is also possible.\n\nThere are living approximately 235.000 people and to be honest if you don’t have anything to do here it’s not that worth it.\n\nThere’s an alpaca cafe, and they have tons of different beers so you can do a beer tasting if ur interested in beer.\n\nThere’s a nice park aswell but if you just wander around it’s kinda sad. Oh they do have an abandoned pool which I didn’t had time for to visit anymore (in daylight)\n\nThat’s about it i think. Okay thank you and see ya At the next one.",
     "reactions": [
       {
         "e": "🤌",
@@ -17282,8 +16970,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Miskolc is kinda the same as kosice. It’s a small city with not a lot to do. But it’s fun bc for a day. Its located in Hungary btw",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Okay hello welcome by the next one.\nMiskolc is kinda the same as kosice. It’s a small city with not a lot to do. But it’s fun bc for a day. Its located in Hungary btw\n\nIf you have some more time than me you should visit lilafüred which is an hour away with public transport.\n\nWhich is one of the ways to get here like the train or car. There’s also an airport here apperently.  Do we really need so many airports? For a city with only 143.000 people you think there wouldn’t be one\n\nThey have lots of burger places so if you like burgers you can definitely find one.\n\nYou can also walk around and find a place that is a busy area compared to google maps only to find it’s an apartment building.\n\nThere’s also a zoo, the pan-sea museum, diosgyor castle to visit (according to google)\n\nOkay see Yall in two days again.\nTbf I am curious? Who reads these?",
     "reactions": [
       {
         "e": "🤌",
@@ -17340,8 +17027,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "I can actually write some more since I had energy to do stuff again. Oradea is located on the border of Romania. It has a population of 183.000 people in 2021 (latest I could find)",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "I can actually write some more since I had energy to do stuff again. Oradea is located on the border of Romania. It has a population of 183.000 people in 2021 (latest I could find)\n\nMost people come here by car since it’s a town where people don’t spend much time and just for a quick stop through their travel. You can also come here by train. For Romanians this is a touristy city but for tourists it’s not a touristy city.\n\nYou can do pretty much all sightseeing in a day though, there’s the Romanian tower/town hall. You can go up there and have a view of the city. Its very close to the black eagle palace (although I’m not sure what the palace was on that square)\n\nFrom there you can walk to the king Ferdinand square, which is close to the aural lazar statue. And you have the Oradea fortress. Which I didn’t go to cuz I couldn’t bother tbh.\n\nThere’s an aqua park so that’s cool. I’ve only spent a couple of hours there but it was fun. You should go there in summer if ur there since they also have lots of outdoor slides. \nThey also have a buffet INSIDE the pool. A buffet. Crazy \n\nAlso some hostels like the one I stayed in are part of some program if you stay 2 nights or longer you get free access to some attractions like the tower and 24h free public transport (with a 2 night stay not sure how it works if you stay longer) the hostel I stayed in is Hostel Partener",
     "reactions": [
       {
         "e": "🤌",
@@ -17585,8 +17271,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Texas is the state capital of Texas, and everything is certainly bigger in Texas. In the actual city limits there are 961,855 people, with a metro area of 1,809,888. The \"official\" city limits also don’t really capture the city as well as other city limits might. To reach Texas, you can take local, state and…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Texas is the state capital of Texas, and everything is certainly bigger in Texas. In the actual city limits there are 961,855 people, with a metro area of 1,809,888. The \"official\" city limits also don’t really capture the city as well as other city limits might. To reach Texas, you can take local, state and interstate highways, fly into their airport, Amtrak and local train & bus connections also exist. Additionally, there are robo taxis with no driver that can be ordered via Uber. The city is part of El Camino Real de los Tejas National Historic Trail, which is not meant for hiking per say. \n\nBats: There are so many places nearby to see bats in the summer. Try Congress Street or a local cave\n\nBullock State History Museum: Really cool museum about the state history of Texas for those interested. .\n\nLady Bird Wildflower Center: Really hot, but cute botanical garden that would be perfect for a date!\n\n6th Street: If you enjoy drinking alcohol, live music, mechanical bull riding this is the place for you!\n\nMs. Pearl: It is the largest statue of a squirrel nuts. Absolutely worth it!\n\nTexas Capital: If you are interested in state politics, this spot is free and worth the visit. It is surprisingly huge, and beautiful!\n\nBlandford Art Museum: Smaller art museum which has some really cool abstract art, though was a bit small for my personal taste. \n\nBBQ: If you really like bbq, there was some great food in Austin. The brisket from Buckie's I think was probably some of the best I had all trip!\n\nBalcones Canyonlands National Wildlife Refuge:  Great spot for desert/ scrub land hiking not too far from the city. There was a nice view of the sunset nearby as well.",
     "reactions": [
       {
         "e": "🤌",
@@ -17623,8 +17308,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "San Antonio is another large city in Texas with a population of 1,434,625, and a metro population of 1,992,689. It can be easily reached via other nearby metros such as Austin. It has state, local, and interstate highway connections, trains, busses and of course an airport to reach the city. Additionally it is also…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "San Antonio is another large city in Texas with a population of 1,434,625, and a metro population of 1,992,689. It can be easily reached via other nearby metros such as Austin. It has state, local, and interstate highway connections, trains, busses and of course an airport to reach the city. Additionally it is also part of the the old El Camino Real de los Tejas National Historic Trail, which is not a hiking trail, but rather a bunch of historic spots following the old route when Texas and Mexico were part of Spain. The city additionally contains a UNESCO site, the San Antonio Missions Sites\n\nNatural Bridge Caverns: This is one of the largest caves in all of Texas and is huge. Tours can lead you into any of the spots open for tours, and there are additional spelunking opportunities as well for the brave. \n\nBuckee’s: This is the gas station famous for it’s huge store. They have food, snacks, decorations and more. While not as big as I imagined it to be personally, you can definitely make it worthwhile\n\nBBQ: Similar to Austin, there was some great food in San Antonio that I would highly recommend. We stopped at Black’s and I had the best food there overall. It was cheap, delicious and worth it!.",
     "reactions": [
       {
         "e": "🤌",
@@ -17656,8 +17340,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "This is a German town in Texas known for hosting a large World War 2 museum, (closed when we went). The town can be reached by state highway or by Greyhound Bus. The closest airport is Austin, which is still over 1.5 hours away. The local population is 10,875, and it is considered part of the Fredericksburg…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "This is a German town in Texas known for hosting a large World War 2 museum, (closed when we went). The town can be reached by state highway or by Greyhound Bus. The closest airport is Austin, which is still over 1.5 hours away. The local population is 10,875, and it is considered part of the Fredericksburg Micropolatan area (Basically a smaller metro), with a population of 26,725. The town gets its name after Frederick the Great of Prussia due to the large German migration into the town, who refused to learn English. However today English is spoken by most, followed by Spanish with Texan German coming in 3rd place with around 12% of all residents. \n\nOld Tunnel State Park: Home to around 3 million bats in the summer. Watching them come out of the old train tunnel was so cool!\n\nWineries: If you like wine, there are so many wineries nearby. We did Fatass and while I personally don’t like wine, it was much less “snoby” and did not take themselves too seriously. \n\nEnchanted Rock State Natural Area: This is a large area open to the public for hiking, rock climbing etc. We went and were able to see the Milky Way Galaxy despite being relatively close to the town. For any star gazers, I would highly recommend.\n\nFort Martin Scott State Historic Site: Dedicated to preserving an old military fort made to protect the German settlement and used additionally by the Confederate States during the civil war, this site is small, but provides some insight into local history, and the conflicts between settlers from Germany, and America against the local indigenous peoples who were pushed away from their ancestral lands, or killed defending it.",
     "reactions": [
       {
         "e": "🤌",
@@ -17724,14 +17407,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Located along the Vistula River, Toruń is one of Poland’s prettiest medieval towns — full of Gothic red-brick buildings and home to the famous gingerbread (pierniki). It’s about 2.5h from Warsaw by train you can book your tickets from PKP from just about every major cities",
-    "getThere": "",
-    "thingsToDo": [
-      "Muzeum Toruńskiego Piernika (Gingerbread Museum) – easily the most fun spot in the city. You learn how traditional gingerbread was made, see the old molds, and even bake your own (highly recommend). The smell alone is worth visiting.",
-      "Old Town & Market Square – UNESCO-listed, super walkable, and packed with cafés and souvenir stalls. The Copernicus Monument and Old Town Hall are right in the middle.",
-      "Copernicus House – the astronomer’s birthplace turned museum. Small but interesting.",
-      "Vistula Boulevard – perfect for an evening walk or some golden-hour shots of the old city walls.",
-      "Planetarium & Old Churches – if you like architecture and astronomy, this city hits both at once."
-    ],
+    "content": "1/15\n\nToruń, Poland 🇵🇱\n📍 Population: ~195,000\n\nLocated along the Vistula River, Toruń is one of Poland’s prettiest medieval towns — full of Gothic red-brick buildings and home to the famous gingerbread (pierniki). It’s about 2.5h from Warsaw by train you can book your tickets from PKP from just about every major cities \n\nThings to do:\n\n• Muzeum Toruńskiego Piernika (Gingerbread Museum) – easily the most fun spot in the city. You learn how traditional gingerbread was made, see the old molds, and even bake your own (highly recommend). The smell alone is worth visiting.\n\n• Old Town & Market Square – UNESCO-listed, super walkable, and packed with cafés and souvenir stalls. The Copernicus Monument and Old Town Hall are right in the middle.\n\n• Copernicus House – the astronomer’s birthplace turned museum. Small but interesting.\n\n• Vistula Boulevard – perfect for an evening walk or some golden-hour shots of the old city walls.\n\n• Planetarium & Old Churches – if you like architecture and astronomy, this city hits both at once.\n\nTyy for reading  \nXoxo",
     "reactions": [
       {
         "e": "🤌",
@@ -17763,14 +17439,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Cologne is a beautiful city with a lot of history and beautiful sights to see. The Cathedral is an absolutely beautiful sight to see at least once in your lifetime, with stunning architecture and details. There are a few great museums right next to it, including Museum Ludwig, which I absolutely enjoyed. The…",
-    "getThere": "",
-    "thingsToDo": [
-      "Touring the Rhein",
-      "Königswinter",
-      "The Cologne TimeRide",
-      "Phantasia Land",
-      "Several beautiful castles"
-    ],
+    "content": "Population: 1.1 million\n\nTransportation: Plane, bus, train, car\n\nCologne is a beautiful city with a lot of history and beautiful sights to see. The Cathedral is an absolutely beautiful sight to see at least once in your lifetime, with stunning architecture and details. There are a few great museums right next to it, including Museum Ludwig, which I absolutely enjoyed. The artwork was fascinating and in-depth, which is what I always love to find in art museums.\n\nI also tried Miss Pepper, which gave me good memories of cute, old American diners, with the food having a lot of the same taste as how American food used to taste like. Really, really good!!\n\nThey also have a great number of other things to do, including (but not limited to):\n\n* Touring the Rhein\n* Königswinter \n* The Cologne TimeRide\n* Phantasia Land\n* Several beautiful castles",
     "reactions": [
       {
         "e": "🤌",
@@ -17807,8 +17476,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Brussels has a lot of fun things to do and try out. From visiting castles to eating Belgian chocolates to seeing unique architecture pieces, there’s plenty to see!",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Population: 1.25 million\n\nTransportation: Plane, bus, train, car\n\nBrussels has a lot of fun things to do and try out. From visiting castles to eating Belgian chocolates to seeing unique architecture pieces, there’s plenty to see!\n\nI was able to enjoy walking around with a friend as well as visiting the Comic Arts Museum, which had a library with the largest comics collection in the world. I also got to see Palais de Justice, La Grand-Place, and Atomium (a stunning structure in the shape of an atom) all from the outside, which were really pretty to see. \n\nAdditionally, there were a lot of cool sights I missed out on unfortunately, all due to timing and weather. For example, Brussels has some really cool interactive exhibits, such as one on Jules Verne and one on Pompeii, but I missed out on them when I went. There was also Groot-Bijgaarden Castle, which was having a very autumn-themed event, but I wasn’t able to go due to the weather.\n\nOverall, I really liked Brussels a lot. There’s a ton of variety for every person’s tastes, and it was really pretty there too. I hope to return and try some Belgian chocolates there, among many other activities on my radar.",
     "reactions": [
       {
         "e": "🤌",
@@ -17872,9 +17540,8 @@ const SUBMISSIONS = [
         "caption": ""
       }
     ],
-    "blurb": "This place was a really pretty location to visit. The Netherlands in general has some really stunning architecture, and Rotterdam was no different.",
-    "getThere": "",
-    "thingsToDo": [],
+    "blurb": "Transportation: Plane, bus, train, car, boat",
+    "content": "Population: 655,000\n\nTransportation: Plane, bus, train, car, boat\n\nThis place was a really pretty location to visit. The Netherlands in general has some really stunning architecture, and Rotterdam was no different.\n\nI got to visit the pier and ride the Ferris wheel, eat at the diverse markets in Markthal, witness some of Rotterdam’s stunning architecture, check out the public library, ride a ferry through part of the harbor, see the Noah’s Ark boat made by some rich guy, and visit the beautiful windmills of Kinderdijk. If you like architecture, trying new foods, and taking in little pieces of history (and maybe, just maybe, seeing what rich people create when they’re bored lol), this is a sweet spot.\n\nOverall, I liked the chill vibe a lot, which was nice to experience after visiting the bustling, exciting city of Brussels.",
     "reactions": [
       {
         "e": "🤌",
@@ -17906,8 +17573,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Greenfield Massachusetts, is a small town located in Franklin County in central Massachusetts. It is part of its own micropolitan area. The town has a population of 17,768 with the surrounding area having a total population of 70,836. To get to the town, the nearest commercial airport is located over an hour away…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Greenfield Massachusetts, is a small town located in Franklin County in central Massachusetts. It is part of its own micropolitan area. The town has a population of 17,768 with the surrounding area having a total population of 70,836. To get to the town, the nearest commercial airport is located over an hour away in Hartford CT. Amtrak does service the town alongside bus connections, and interstate and state highways. It is located at the terminus of the Mohawk Trail, a scenic drive from the New York border, to Greenfield which started as a trading path connecting Native communities from the ocean, through the Berkshires to modern day New York State. \n\nPoet's Seat Tower: A Small tower with some great views overlooking the town.\n\nGarlic and Arts Festival: A small fun farm festival celebrating garlic and local produce!\n\nShelbourne Falls: Site of famous glacier pot holes next to a water fall. Nearby is also the Flower Bridge which is very pretty\n\nWhite Water Rafting: Deerfield has some great white water rafting for those who are adventurous but still new to the activity!\n\nSatan’s Kingdom: While I personally have not yet been, I can’t help but say that this village has a great name, considering the state's religious past!",
     "reactions": [
       {
         "e": "🤌",
@@ -17934,8 +17600,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Located in western-Massachusetts, Springfield is a large city that is quite far and separate from the Boston metro. The surrounding Berkshire Mountains are well worth the visit for a more natural area. The city has no airports to buy tickets to get too, though the closest would be either Worcester or Hartford CT.…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Located in western-Massachusetts, Springfield is a large city that is quite far and separate from the Boston metro. The surrounding Berkshire Mountains are well worth the visit for a more natural area. The city has no airports to buy tickets to get too, though the closest would be either Worcester or Hartford CT. I-90 does pass very close by, and I-91 also is accessible alongside CT rail & Amtrak. Lastly the New England Scenic Trail passes through the area for anyone looking to backpack, though I don’t believe this is too common. Most of the activities below are in the greater Springfield area. There are more things to do in Springfield such as the Basketball Hall of Fame, but I have yet to visit it. As of 2020, Springfield has a population of 155,929 making it the 3rd largest in MA and 4th largest in New England.\n\n6 Flags- If you are interested in amusement parks this is one of the largest ones in the New England area.\nThe Big E- Hosted in the fall, in West Springfield it is a carnival meant to show off the farming products of New England, but it is just quite fun to see. Lots of weird food to buy, and carnival rides.\n\nSpringfield Armory- Springfield has produced many guns for the United States Army. If you are interested in military history or guns this would be cool, otherwise it is just a collection of guns. \n\nBrimfield Flea Market: One of the largest flea markets in the USA. It is so big, and happens several times a year. Great if you love antiques or weird items!",
     "reactions": [
       {
         "e": "🤌",
@@ -18023,8 +17688,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Meeting Herman was cool",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Population idk\nMeeting Herman was cool",
     "reactions": [
       {
         "e": "🤌",
@@ -18188,8 +17852,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Country Spain",
     "reactions": [
       {
         "e": "🤌",
@@ -18300,8 +17963,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Salzburg is a city of 157.25k it’s a city I’ve wanted to visit for a really long time.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Salzburg is a city of 157.25k it’s a city I’ve wanted to visit for a really long time.\nIt is in Austria \n\nIt felt more like a little town but it was very nice. I went for a festival and it was great\n\nThings to eat go eat what I ate I had a dumpling meat soup and pork with mashed potato dumpling I also found a nicotine pouch refrigerator which was tuff asf\nI got to Salzburg from Munich on train from the airport \nI liked walking around Salzburg’s old city center and the last pic is a fire pretzel I had",
     "reactions": [
       {
         "e": "🤌",
@@ -18348,8 +18010,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Zurich is dope it’s so pretty, it’s probably the prettiest city I’ve been to.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "I liked Zurich its population is 436k.\n\nZurich is dope it’s so pretty, it’s probably the prettiest city I’ve been to. \n\nThings to do:\nGet matcha. Zurich has 11 dollar matcha which honestly was probably some of the best matcha I’ve ever had\n\nEat poor people food  from the Alida grocery store because even that is expensive\n\nWalk around the old center because holy shit is it beautiful.\n\nI was only in Zurich for a day, and it was rainy so I had to rush my sightseeing because the rain was pretty bad.",
     "reactions": [
       {
         "e": "🤌",
@@ -18459,9 +18120,8 @@ const SUBMISSIONS = [
         "caption": ""
       }
     ],
-    "blurb": "This was quite a surprising trip for me. The gf was out in Seattle for a bit so of course I had to get the boys together and pay a visit. I had a very different vision of the city in mind from what I got when I went there. The last time I visited Seattle I absolutely hated it, partially because the tweaker…",
-    "getThere": "",
-    "thingsToDo": [],
+    "blurb": "Vibe of the trip: https://open.spotify.com/track/3mg2GWeQoe9QnXizWvyAr2?si=4fd5352a86104140",
+    "content": "Submission Number: 8\nLocation: Seattle & surrounding area\nPopulation: ~816 thousand (~4.1 million in metro area)\nTime of trip: June\nVibe of the trip: https://open.spotify.com/track/3mg2GWeQoe9QnXizWvyAr2?si=4fd5352a86104140\n\nWriteup: \nThis was quite a surprising trip for me. The gf was out in Seattle for a bit so of course I had to get the boys together and pay a visit. I had a very different vision of the city in mind from what I got when I went there. The last time I visited Seattle I absolutely hated it, partially because the tweaker situation was out of control. This time I was pleasantly surprised to see far fewer tweakers on the street, assumingly because the city actually started doing something about it.\n\nOnto some actual details about the trip. Flew into Seattle, got to watch   perform her concert down in Tacoma, then came back up to the city. In the city we linked up with   and . We hung around Seattle for a bit, then rented a car and headed out to Olympic peninsula. That was an awesome drive with plenty of mountains, nature, waterfalls, and the like. We tried (and failed) to hike a trail up a mountain because two of us are used to flat land lol. Ended up driving up Hurricane Ridge which rewarded us with an absolutely stunning view. Also stopped by and saw Kurt Cobain’s childhood home somewhere in there. Once all that was done, we made the car ferry back to the city (would not have made it if Ragnar wasn’t driving).\n\nAs for things to do in the city itself, I didn’t go up the Space Needle the last time I was here, so it was cool to finally cross that off the list and it does not disappoint on the view. Also went to the aquarium which was pretty cool, rare for an aquarium in the US to have displays designed for you to touch the animals (this was allowed and encouraged in the aquarium). Ate a couple times at a favorite of mine and an absolute institution for Seattle, Biscuit Bitch. Also went to the Museum of Pop Culture which was pretty neat. If you’re a Nirvana fan, like half of Cobain’s belongings are in the museum lol. Also took a walk through the market which, while touristy, isn't too bad if you go on a weekday morning and has a fair amount of food spots worth hitting.",
     "reactions": [],
     "comments": []
   },
@@ -18502,9 +18162,8 @@ const SUBMISSIONS = [
         "caption": ""
       }
     ],
-    "blurb": "Got summoned down to Rome for a few days for work in the middle of summer while trying to make my way home from London lol. Peak “Americans in Italy” season. That said, my countrymen may be onto something because it rocked if you discount the giant crowds of tourists.",
-    "getThere": "",
-    "thingsToDo": [],
+    "blurb": "Vibe of the trip: https://open.spotify.com/track/6FIVCGnJFPUs5OvBjGueLQ?si=1a4de1af750e4d5e",
+    "content": "Submission Number: 9\nLocation: Rome\nPopulation: ~2.8 million (~4.2 million in metro area)\nTime of trip: July\nVibe of the trip: https://open.spotify.com/track/6FIVCGnJFPUs5OvBjGueLQ?si=1a4de1af750e4d5e\n\nWriteup: \nGot summoned down to Rome for a few days for work in the middle of summer while trying to make my way home from London lol. Peak “Americans in Italy” season. That said, my countrymen may be onto something because it rocked if you discount the giant crowds of tourists.\n\nMost of my time in the city was spent working and taking a few quick walks around just to see what’s up, so unfortunately I don’t have any deep lore or recommendations to share lol.\n\nThat said, I quite appreciated the hospitality of the city, which based on what my client said, applies to the country as a whole. Moreso than learning about the city, history, etc., I spent the three days eating, working, meeting people, and learning about the culture.\n\nCulture shock #1 was going out to dinner with the client and seeing they brought a ton of quite impressive people I’ve never met to the meal. The reason? Just for fun and to make connections. Americans would never, but I loved it. Culture shock #2 was the client telling the woman who ran the restaurant to just start bringing stuff out. Out comes tons of wine, tons of small plates, tons of big plates, and they just would NOT STOP bringing stuff out until we all couldn’t eat anymore. Extremely memorable meal for me. Naturally, everything was delicious, so I don’t think that needs mentioning. Wish I had pics of it but alas, hard to do when at a client meal.\n\nMy only dig on the city is that I don’t know why that stupid fountain is so impressive in the minds of tourists. Maybe I’m uncultured but in my mind it’s just a fountain, nothing more. Anyway, it was a quick trip, cool city I would love to spend some more time in, and quite cool having an inside connection with the locals there and not seeing the city from a purely touristic perspective.",
     "reactions": [],
     "comments": [
       {
@@ -18590,9 +18249,8 @@ const SUBMISSIONS = [
         "caption": ""
       }
     ],
-    "blurb": "This was such a cool trip for me. It has been a long, long, time since I’ve been anywhere that felt “exotic” to me, so it was nice to feel that again along with a spark of energy that got me really charged up while we were there.",
-    "getThere": "",
-    "thingsToDo": [],
+    "blurb": "Vibe of the trip: https://open.spotify.com/track/2bmM9FCWjDgynYnKwzzM04?si=316ad76cdad9491a",
+    "content": "Submission Number: 10\nLocation: Beijing & surrounding area\nPopulation: ~22 million\nTime of trip: August\nVibe of the trip: https://open.spotify.com/track/2bmM9FCWjDgynYnKwzzM04?si=316ad76cdad9491a\n\nWriteup: \nThis was such a cool trip for me. It has been a long, long, time since I’ve been anywhere that felt “exotic” to me, so it was nice to feel that again along with a spark of energy that got me really charged up while we were there.\n\nWent on this one with , which ended up being extremely useful because they do NOT be speakin English in Beijing. It also gave a lot of perspective and resulted in one of my favorite conversations I’ve had on the road, which I’m going to outline before telling you ANYTHING about the city.\n\nWe were in a cab and the cab driver and I were using my gf as a translator to talk to each other. Talked about a number of things, but at some point I asked him if he hears about the US on the news here and what they say about us. He pauses for a bit and then says something along the lines of “Well, we hear about the US on the news. I assume much of what we hear isn’t true. Do you hear about China on the news in the US?” this comment really did something to me, I can’t quite explain it. I thought about his response for a while and said “We hear a lot about China on the news, but I assume much of it isn’t true.”\n\nANYWAY, onto the actual city. Don’t be deceived, just because Beijing isn’t as techy as Chongqing or Shanghai doesn’t mean there isn’t a lot do there. We stayed in zone 3 in Chaoyang, which ended up being a nice choice because there was stuff to do and it’s an easy city to get around. We visited a few of the parks in the city, did a bunch of shopping, a lot of eating. So much good food in Beijing from all around China. A highlight for us was eating at a Uyghur restaurant tucked away on some little backstreet in a random neighborhood. From the looks we were getting, it’s possible I was the first white person they’ve seen in a while lol. That was a common theme on the trip funny enough, it seems the overwhelming majority of tourists going to Beijing are Chinese.\n\nThe Forbidden City was so cool but be warned that thing is absolutely PACKED with tourists in the summer, possibly the most crowded place I’ve ever been in my life. That said, the Emperor’s Summer Palace was the highlight of the city for me. It’s way less crowded, and in my opinion, way cooler. We also did the Great Wall on this trip, which is pretty easy and most hotels seem to be able to arrange tickets and transit for a modest price. The Great Wall totally lives up to the hype, it was an amazing experience to be up there looking out and watching it stretch across the mountains.\n\nA couple things I’d raise just as a word of caution. Do your research and come prepared with a couple VPNs if you intend to have full internet access in the country. Also behave yourself in the presence of the government – while the average person on the street is cheery and happy to talk with you, that was less true both flying in and flying out. Also be sure to download your apps, primarily Alipay and WeChat. You’ll be using Alipay literally everywhere. Last thing, if you want to play it safe (as an American), just apply for and get the 10-year visa instead of doing the transit scheme. On the transit scheme, none of the hotels we stayed at understood what it was and wondered why I didn’t have a visa. We also had issues caused by that when trying to fly out from Xi’an, although I’m not sure if those issues would be present in a larger airport like Beijing.",
     "reactions": [],
     "comments": []
   },
@@ -18633,9 +18291,8 @@ const SUBMISSIONS = [
         "caption": ""
       }
     ],
-    "blurb": "This may be a controversial one lol. Diving right into it, when I compare HK to the couple cities on the mainland I visited, I much prefer mainland China. Not to say HK is terrible, there’s still neat stuff to do. Walking along the waterfront is cool, lots of nice shops, you can get out and do some hiking if you…",
-    "getThere": "",
-    "thingsToDo": [],
+    "blurb": "Vibe of the trip: https://open.spotify.com/track/4uBiaXLct2GHM2Z90zu4yc?si=909826320f794e01",
+    "content": "Submission Number: 11\nLocation: Hong Kong\nPopulation: ~7.5 million\nTime of trip: September\nVibe of the trip: https://open.spotify.com/track/4uBiaXLct2GHM2Z90zu4yc?si=909826320f794e01\n\nWriteup: \nThis may be a controversial one lol. Diving right into it, when I compare HK to the couple cities on the mainland I visited, I much prefer mainland China. Not to say HK is terrible, there’s still neat stuff to do. Walking along the waterfront is cool, lots of nice shops, you can get out and do some hiking if you intend to leave the city, Victoria Peak remains a stunning view, etc.\n\nAll of that said, my impression walking around HK is that it felt tired compared to the larger cities on the mainland. I couldn’t help but feel that the best days are behind this place, and the future is uncertain, particularly as global investors continue to be somewhat skittish about investing in HK when options such as SG exist.\n\nNow, it’s not all bad and HK did a couple things for me. I initially went there to get a suit made by my tailor (no, not THAT tailor for those of you who know). That was a great experience and had great results for far cheaper than I could get in the US. I was also at a point of missing western food after being in China and Singapore for a bit. HK is great for western food and there’s no shortage of that. That said, in the local cooking there has a distinct lack of spices and flavoring that makes a man know this place was once British. Kowloon is also quite cool if you want to feel a bit of the grungy parts of the city, compared to crossing to HK Island which is much more new and modern feeling, albiet still behind the mainland in my opinion.\n\nThe big thing though, and I think a fair point to the city’s advantage, is it’s probably the easiest place for westerners who want to dip their toes into China to try. English levels are decent, you don’t have the firewall, most of your western apps work, etc. You also don’t need a visa as an American, which was nice.",
     "reactions": [],
     "comments": []
   },
@@ -18686,9 +18343,8 @@ const SUBMISSIONS = [
         "caption": ""
       }
     ],
-    "blurb": "Don’t hate me for being bougie, this was a work trip LOL. Now, I don’t know what other people do in Cannes, but here’s what I did in Cannes:",
-    "getThere": "",
-    "thingsToDo": [],
+    "blurb": "Vibe of the trip: https://open.spotify.com/track/5oRl4vsiT00kl4fDfxGeEt?si=f56b742aad454a4a",
+    "content": "Submission Number: 12\nLocation: Cannes & surrounding area\nPopulation: ~75 thousand\nTime of trip: September\nVibe of the trip: https://open.spotify.com/track/5oRl4vsiT00kl4fDfxGeEt?si=f56b742aad454a4a\n\nWriteup: \nDon’t hate me for being bougie, this was a work trip LOL. Now, I don’t know what other people do in Cannes, but here’s what I did in Cannes:\n\n1)    Walk around the city. I didn’t find much in terms of like “Go to the city to visit X museum Y cathedral and Z historic site,” instead it was just a consistently pretty city full of little streets with restaurants, shopping, and such. Walking on the path that opens up to the Med is also beautiful, especially during sunrise and sunset.\n\n2)    Drank way too much wine, including a very unique white wine from around Bordeaux which was the butteriest wine I’ve ever drank in my life. France don’t play when it comes to the wine.\n\n3)    Ate at a bunch of nice restaurants. Not a single bad meal in the city but Lord knows if I was paying for them I’d be bankrupt. Restaurant La Palme d'Or was one of the best meals I’ve had in Europe to-date, and they even made room for us when we missed our reservation – very classy for a Michelin starred restaurant that totally could have turned us away for that.\n\nOverall, nice place, chill vibes, clearly a ton of money there, extremely pricey, but worth it if you can have someone else pay your way there lol.",
     "reactions": [],
     "comments": []
   },
@@ -18744,9 +18400,8 @@ const SUBMISSIONS = [
         "caption": ""
       }
     ],
-    "blurb": "What can a man be expected to say about London that hasn’t already been said a million times? If a man is tired of London, he is tired of life. Over the years this place has become a second home to me, and is arguably the city that gave me the most in terms of building my career. The most love, the most chances,…",
-    "getThere": "",
-    "thingsToDo": [],
+    "blurb": "Vibe of the trip: https://open.spotify.com/track/382DQ7mbgeSFOkVvbR8tnp?si=ddfad69c5bd64adb",
+    "content": "Submission Number: 13\nLocation: London & surrounding area\nPopulation: ~9.1 million (~14.9 million in metro area)\nTime of trip: October\nVibe of the trip: https://open.spotify.com/track/382DQ7mbgeSFOkVvbR8tnp?si=ddfad69c5bd64adb\n\nWriteup: \nWhat can a man be expected to say about London that hasn’t already been said a million times? If a man is tired of London, he is tired of life. Over the years this place has become a second home to me, and is arguably the city that gave me the most in terms of building my career. The most love, the most chances, the most understanding, and the most challenging mandates to solve.\n\nI go here at least once a year, although I went twice this year, and it just never gets old. Forget Big Ben and Buckingham Palace, the heart of the city lies outside Westminster. Richmond for the posh old English soul, Whitechapel to Stratford for the story of London’s global history, Hackney for its hipster cultural undercurrent, so many others. It’s a city of stories woven together from all corners of the globe into a beautiful tapestry that knows it sits at the center of the universe.\n\nPoetics aside, what’s there to do in London? Eat your heart out, best food scene in Europe and I’m dying on this hill. A million museums of every subject for anyone who’s keen to know more – of course hit the British Museum when you first come, that just isn’t optional. No shortage of wonderful parks for a bit of quiet and tranquility. Go into the places you’re second guessing; go see the ethnic neighborhoods, the places that aren’t brimming with old English money, the places that still have soot on the smokestacks and where people fresh to the city are still trying to make their way, see it all.\n\nThis time I was lucky enough to be joined by nearly 20 people from the server. Won’t tag you all but grateful for your time and grateful that whenever I make my way to London, one or some of you always seem to be around.",
     "reactions": [
       {
         "e": "❤️",
@@ -18821,9 +18476,8 @@ const SUBMISSIONS = [
         "caption": ""
       }
     ],
-    "blurb": "Really enjoyed my time in Baku, it’s quite the unique place that blends a fair amount of ancient history with some new money to form a very interesting city.",
-    "getThere": "",
-    "thingsToDo": [],
+    "blurb": "Vibe of the trip: https://open.spotify.com/track/4opW8gwt2u07CLC3vb6Nw9?si=26e59e4da5b04b8d",
+    "content": "Submission Number: 14\nLocation: Baku\nPopulation: ~2.5 million (~4.0 million in metro area)\nTime of trip: October\nVibe of the trip: https://open.spotify.com/track/4opW8gwt2u07CLC3vb6Nw9?si=26e59e4da5b04b8d\n\nWriteup: \nReally enjoyed my time in Baku, it’s quite the unique place that blends a fair amount of ancient history with some new money to form a very interesting city.\n\nThe first thing you’ll notice walking around the city is the giant promenade right against the Caspian Sea. I wish more cities with a waterfront would do something like this, where the promenade is this giant thing and isn’t just some little walking trail they’ve butted up against the road. This has multiple walking paths, gardens, a theme park, restaurants, coffee shops, etc., and you can barely hear the main road while walking along it.\n\nSecond thing you’ll notice is that the city has an AMAZING and completely underhyped food scene. Think a mix of Turkish, Persian, Soviet, and Central Asian influences on the food. On that note, I discovered on this trip just how damn good plov is and it rocketed up to one of my top 5 dishes I’ve had anywhere. But there’s so much more than just plov too! You have some very unique dolma, lahmajun, gurze, qutab, the list goes on. The food was always perfectly spiced, huge portion, affordable, and quite unique compared to what I’ve had in other countries.\n\nAnd third is that mix of old and new I started with. You’ll see the new buildings like the fire building which look like something out of Dubai but with more character, and they’ll bump right up to the ancient walled city that still has the old sandstone bricks, old emperors palace complexes, ancient mosques, burial sites, and the like. Walking around the old city is awesome and deserves a day just to get lost on all the side streets.\n\nThen there’s the people. From what I could tell, it’s an extremely warm, communal, and helpful culture. A fair number of people speak English, but whenever I spoke to one that didn’t they would run off and get someone who did so that we didn’t have to talk via Translate. The people are proud to share their culture with you, want you there, want you to experience it, are eager to explain the history and reason behind dishes/things they do, will shake your hand at the end of giving you a ride, will hold the door, will tell you good morning, it makes for a very pleasant experience that I can imagine one would quickly feel at home in if staying for longer.\n\nThe unfortunate part is that the city rocks but the country is so morally questionable/objectively evil in how they treat Armenia. That bit always sat at the back of my mind walking around and I’m not sure exactly what to do with it, but I could totally understand if folks are put off from visiting for that reason.",
     "reactions": [
       {
         "e": "🤌",
@@ -18889,9 +18543,8 @@ const SUBMISSIONS = [
         "caption": ""
       }
     ],
-    "blurb": "And now we’re seemingly at the final submission from me for the year. Istanbul! I need to go back and spend some more time in this one, as a fucky work schedule at the time made it hard to get out and see as much as I should have.",
-    "getThere": "",
-    "thingsToDo": [],
+    "blurb": "Vibe of the trip: https://open.spotify.com/track/6GAySd6p4Jofhf4b7De9y1?si=2da6270340274407",
+    "content": "Submission Number: 15\nLocation: Istanbul\nPopulation: ~16.0 million\nTime of trip: October\nVibe of the trip: https://open.spotify.com/track/6GAySd6p4Jofhf4b7De9y1?si=2da6270340274407\n\nWriteup: \nAnd now we’re seemingly at the final submission from me for the year. Istanbul! I need to go back and spend some more time in this one, as a fucky work schedule at the time made it hard to get out and see as much as I should have.\n\nThat said, it’s a place that over the week or so I was there went from wildly annoying me to being quite charming in my eyes. I’ll start with the bad lol. Flying into the airport, I had an emergency passport on me at the time. Immigration tries to tell me I need a visa and tries to turn me away until I challenge the agent and a manager of types gets involved. Then I try to get some lira in the airport (yeah yeah, bad exchange rate, I know) and the guy refuses to serve me. Then since I have a comically large suitcase on this trip I intend to get a cab to the hotel, mfs are trying to charge like $100 for that ride which just is not gunna fly lol. Call an Uber, he also tries and fails to scam me. Finally get to the hotel only to realize I need my Chinese VPN because discord is blocked in the country, then get hit with not being able to drink the tap water in certain parts of the city.\n\nNow, whining aside, this place 100% grew on me after the annoyance above. First of all, I enjoy that people want to talk to you on the street, at restaurants, etc. I think it’s important to be able to discern between who’s trying to hustle you and who wants to talk to you, but if you can do that it becomes a very enjoyable experience. Whenever Marcell and I had a meal or drinks the staff would always hang around, talk, crack jokes with us, etc. which often resulted in them bringing out food for us to try that we didn’t get charged with, drink tea with us, very pleasant stuff.\n\nThe food and coffee in this country is absolutely BOMB. I cannot name you a single dish I ate but the portions are giant, it’s all well-spiced, very filling, and they clearly have a lot of pride about the food they serve here. I could go back purely for the food and there’s so much I missed on that front.\n\nCity itself is pretty easy to get around between walking and the metro, it’s also got a great blend of old and new which is pretty easy to see, although you’ll often need to wait in lines to go inside of these places. A very special experience for me was standing between the Blue Mosque and the Hagia Sofia while they were doing the call to prayer. You’d hear the person in the Blue Mosque say something, then the person in the Hagia Sofia would respond, like the call to prayer was a conversation. I’ve never seen it done like that before but it was awesome.\n\nAnd I think the last thing I’d say about the city, I’ve only felt this way a couple times before, but standing on the water front looking across the Bosporus at Asia from Europe is a very cool experience, standing on the line between two worlds. There aren’t a ton of places on Earth where you can stand on a line between two worlds, and that makes those places so special when you get the chance to visit one of them.",
     "reactions": [
       {
         "e": "🤌",
@@ -18942,8 +18595,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Submission number  7",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Submission number  7",
     "reactions": [
       {
         "e": "🤌",
@@ -19036,8 +18688,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "",
     "reactions": [
       {
         "e": "🤌",
@@ -19113,8 +18764,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Kazakhstans best city (I’ll die on this hill), and the original capital city. Very vibrant and modern city. Gets the extremes of all seasons with summers 40°+ and winters at -20°. Best things to do is visit Shymbulak and hike/ski in the mountains, explore the old Soviet architecture of the city, visit big Almaty…",
-    "getThere": "Kazakhstans best city (I’ll die on this hill), and the original capital city. Very vibrant and modern city. Gets the extremes of all seasons with summers 40°+ and winters at -20°. Best things to do is visit Shymbulak and hike/ski in the mountains, explore the old Soviet architecture of the city, visit big Almaty lake and do a day (or multi day) trip to the nearby canyons and lakes, Kolsai and Kaindy Lake and Charyon canyon\n\nThe city is easy to get around, plenty of public transport options + a self explanatory metro. The ‘city centre’ is walkable during summer months. Yandex is the local uber which is also cheap and easy to get around with. Traffic can be an issue with peak hours lasting late into the night sometimes. During winter, air pollution can be bad which is probably the biggest downside of the city but I still love it nonetheless",
-    "thingsToDo": [],
+    "content": "Submission 1\n\nCity: Almaty\nCountry: Kazakhstan 🇰🇿\nPopulation: 2,332,400\nHow to get there: flight connections from Dubai, China, Russia, Thailand, Malaysia, London. Overland transport from neighbouring countries\n\nKazakhstans best city (I’ll die on this hill), and the original capital city. Very vibrant and modern city. Gets the extremes of all seasons with summers 40°+ and winters at -20°. Best things to do is visit Shymbulak and hike/ski in the mountains, explore the old Soviet architecture of the city, visit big Almaty lake and do a day (or multi day) trip to the nearby canyons and lakes, Kolsai and Kaindy Lake and Charyon canyon\n\nThe city is easy to get around, plenty of public transport options + a self explanatory metro. The ‘city centre’ is walkable during summer months. Yandex is the local uber which is also cheap and easy to get around with. Traffic can be an issue with peak hours lasting late into the night sometimes. During winter, air pollution can be bad which is probably the biggest downside of the city but I still love it nonetheless",
     "reactions": [
       {
         "e": "🇰🇿",
@@ -19150,8 +18800,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "South Koreas capital, busy, modern city. I visited during the coldest part of the year with extreme weather warnings so I didn’t do very much but I had fun visiting DMZ, eating Kbbq every day and visiting the palaces. Many public transport options to get around",
-    "getThere": "South Koreas capital, busy, modern city. I visited during the coldest part of the year with extreme weather warnings so I didn’t do very much but I had fun visiting DMZ, eating Kbbq every day and visiting the palaces. Many public transport options to get around",
-    "thingsToDo": [],
+    "content": "Submission 2\n\nCity: Seoul\nCountry: South Korea 🇰🇷\nPopulation: 9,602,826\nHow to get there: definitely don’t cross from North Korea, flight connections from many other countries though\n\nSouth Koreas capital, busy, modern city. I visited during the coldest part of the year with extreme weather warnings so I didn’t do very much but I had fun visiting DMZ, eating Kbbq every day and visiting the palaces. Many public transport options to get around",
     "reactions": [
       {
         "e": "🤌",
@@ -19187,8 +18836,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "The ‘centre’ of the Philippines and one of Philippines biggest cities, it’s a hub for a large range of adventure activities around Cebu island like canyoning, scuba diving, ATV riding. I spent almost my entire time here scuba diving and got to see a huge variety of marine life. But don’t go and see the whale sharks…",
-    "getThere": "The ‘centre’ of the Philippines and one of Philippines biggest cities, it’s a hub for a large range of adventure activities around Cebu island like canyoning, scuba diving, ATV riding. I spent almost my entire time here scuba diving and got to see a huge variety of marine life. But don’t go and see the whale sharks in Oslob, it was a super sad experience witnessing them being fed and used for mass tourism. The sharks are injured and don’t migrate naturally anymore so don’t contribute to the problem (learn from my mistake). \n\nVery cool thing to do is either scuba or snorkel inside a sardine ball which is a huge school of sardines that circle around you. You can go to Cebu tops which has incredible views of the city at sunset, and there’s a cool Portuguese fort. You can also visit the grave of Magellan who was the Portuguese guy who first found the Philippines (looking for Indonesia) and died to a local tribe battle\n\nI took motorbike taxis everywhere, felt safe but got mega sunburnt and I probably care for my life slightly less than others, but you can use grab cars as well",
-    "thingsToDo": [],
+    "content": "Submission 3\n\nCity: Cebu City\nCountry: Philippines 🇵🇭\nPopulation: 965,332\nHow to get there: flight from Manila or Singapore\n\nThe ‘centre’ of the Philippines and one of Philippines biggest cities, it’s a hub for a large range of adventure activities around Cebu island like canyoning, scuba diving, ATV riding. I spent almost my entire time here scuba diving and got to see a huge variety of marine life. But don’t go and see the whale sharks in Oslob, it was a super sad experience witnessing them being fed and used for mass tourism. The sharks are injured and don’t migrate naturally anymore so don’t contribute to the problem (learn from my mistake). \n\nVery cool thing to do is either scuba or snorkel inside a sardine ball which is a huge school of sardines that circle around you. You can go to Cebu tops which has incredible views of the city at sunset, and there’s a cool Portuguese fort. You can also visit the grave of Magellan who was the Portuguese guy who first found the Philippines (looking for Indonesia) and died to a local tribe battle\n\nI took motorbike taxis everywhere, felt safe but got mega sunburnt and I probably care for my life slightly less than others, but you can use grab cars as well",
     "reactions": [
       {
         "e": "🇵🇭",
@@ -19230,8 +18878,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Capital city of Brunei, the little sultan state in Borneo. Fun little city for a few days, much quieter than its neighbouring SE Asian cities. Also not as cheap as neighbour countries but definitely affordable. The city centre is very walkable, make sure you check out temborong rainforest cause it’s a fun day trip.…",
-    "getThere": "Capital city of Brunei, the little sultan state in Borneo. Fun little city for a few days, much quieter than its neighbouring SE Asian cities. Also not as cheap as neighbour countries but definitely affordable. The city centre is very walkable, make sure you check out temborong rainforest cause it’s a fun day trip. If you scuba dive you can also see some ship wrecks from ww2 and if you’re lucky you can scuba dive oil rigs. The mosque looks cool at night time and you can also walk around the biggest ‘floating’ village which is a large portion of the city that sits on stilts in the river. Watch out for crocodiles too",
-    "thingsToDo": [],
+    "content": "Submission 4\n\nCity: Bandar Seri Begawan\nCountry: Brunei 🇧🇳\nPopulation: 100,700\nHow to get there: fly or overland from Malaysia Borneo \n\nCapital city of Brunei, the little sultan state in Borneo. Fun little city for a few days, much quieter than its neighbouring SE Asian cities. Also not as cheap as neighbour countries but definitely affordable. The city centre is very walkable, make sure you check out temborong rainforest cause it’s a fun day trip. If you scuba dive you can also see some ship wrecks from ww2 and if you’re lucky you can scuba dive oil rigs. The mosque looks cool at night time and you can also walk around the biggest ‘floating’ village which is a large portion of the city that sits on stilts in the river. Watch out for crocodiles too",
     "reactions": [
       {
         "e": "🇧🇳",
@@ -19268,8 +18915,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Up in the mountains in the north of Luzon and the only place in the country with tolerable weather. People mainly come here as the gateway to Buscalan and I absolutely did not go for Filipino baddies. Grab is banned in the city which is in no way related to corruption, so you must take official taxis, meaning…",
-    "getThere": "Up in the mountains in the north of Luzon and the only place in the country with tolerable weather. People mainly come here as the gateway to Buscalan and I absolutely did not go for Filipino baddies. Grab is banned in the city which is in no way related to corruption, so you must take official taxis, meaning traffic and prices are crazy. You can walk most of the city but some of the hills are a challenge",
-    "thingsToDo": [],
+    "content": "Submission 5\n\nCity: Baguio\nCountry: Philippines 🇵🇭\nPopulation: 368,426\nHow to get there: bus from Manila (airport is not operational), about 6 hours give or take \n\nUp in the mountains in the north of Luzon and the only place in the country with tolerable weather. People mainly come here as the gateway to Buscalan and I absolutely did not go for Filipino baddies. Grab is banned in the city which is in no way related to corruption, so you must take official taxis, meaning traffic and prices are crazy. You can walk most of the city but some of the hills are a challenge",
     "reactions": [
       {
         "e": "🇵🇭",
@@ -19325,8 +18971,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Mistaken as the capital of Myanmar, it is the countries biggest city and the cultural hub. Another crazy, action packed southeast Asian city which anything and everything happening. The country suffers from electrical shortages due to the current military coup, and the recent earthquake only made matters worse.…",
-    "getThere": "Mistaken as the capital of Myanmar, it is the countries biggest city and the cultural hub. Another crazy, action packed southeast Asian city which anything and everything happening. The country suffers from electrical shortages due to the current military coup, and the recent earthquake only made matters worse. Don’t expect more than 4-6 hours of electricity per day unless you pay for a fancy hotel with generator (still not guaranteed). You’ll need a VPN for most internet activities within the city and country, if you can find a working wifi connection. The city can be walked if you can cope with the weather, otherwise use grab taxis to get around. Best thing to do in the city is Shwedagon pagoda, but the other pagodas are nice too. There are many markets and bazaars too. You can also find some nice modern cafes and restaurants, but also plenty of local ‘tea house’ style restaurants too. The locals are some of the most friendly I’ve met around the world, incredibly happy to see tourists/foreigners back in the country. English level were unexpectedly high with almost everybody having even a basic level",
-    "thingsToDo": [],
+    "content": "Submission 6\n\nCity: Yangon\nCountry: Myanmar 🇲🇲\nPopulation: 5,813,000\nHow to get there: typically fly from Bangkok\n\nMistaken as the capital of Myanmar, it is the countries biggest city and the cultural hub. Another crazy, action packed southeast Asian city which anything and everything happening. The country suffers from electrical shortages due to the current military coup, and the recent earthquake only made matters worse. Don’t expect more than 4-6 hours of electricity per day unless you pay for a fancy hotel with generator (still not guaranteed). You’ll need a VPN for most internet activities within the city and country, if you can find a working wifi connection. The city can be walked if you can cope with the weather, otherwise use grab taxis to get around. Best thing to do in the city is Shwedagon pagoda, but the other pagodas are nice too. There are many markets and bazaars too. You can also find some nice modern cafes and restaurants, but also plenty of local ‘tea house’ style restaurants too. The locals are some of the most friendly I’ve met around the world, incredibly happy to see tourists/foreigners back in the country. English level were unexpectedly high with almost everybody having even a basic level",
     "reactions": [
       {
         "e": "🇲🇲",
@@ -19358,8 +19003,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "One of the best places I’ve visited in the world, very chill and relaxing. Pagodas are beautiful, locals are friendly. Hire a scooter or tuk tuk to get around. Hot  air ballooning is ‘the thing’ to do, but it only runs during the right season so I’ll return one day to try it. Otherwise just spend the days enjoying…",
-    "getThere": "One of the best places I’ve visited in the world, very chill and relaxing. Pagodas are beautiful, locals are friendly. Hire a scooter or tuk tuk to get around. Hot  air ballooning is ‘the thing’ to do, but it only runs during the right season so I’ll return one day to try it. Otherwise just spend the days enjoying pagodas and chilling out. Currently similar or even less electricity access than major cities but honestly you don’t need it. I suppose it’s good to note that on the other side of the river is active warfare 🙃 but that’s just life innit",
-    "thingsToDo": [],
+    "content": "Submission 7\n\nCity: Bagan\nCountry: Myanmar 🇲🇲\nPopulation: 22,000\nHow to get there: bus from major cities, small airport with infrequent domestic flights\n\nOne of the best places I’ve visited in the world, very chill and relaxing. Pagodas are beautiful, locals are friendly. Hire a scooter or tuk tuk to get around. Hot  air ballooning is ‘the thing’ to do, but it only runs during the right season so I’ll return one day to try it. Otherwise just spend the days enjoying pagodas and chilling out. Currently similar or even less electricity access than major cities but honestly you don’t need it. I suppose it’s good to note that on the other side of the river is active warfare 🙃 but that’s just life innit",
     "reactions": [
       {
         "e": "🇲🇲",
@@ -19396,8 +19040,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Thai capital, big city, the hangover sums it up perfectly. There’s nothing you can’t do in Bangkok, for better or for worse. I spent most of my time asleep or intoxicated so I can’t comment on much other than it’s a cool city and seven 11 is a life saver",
-    "getThere": "Thai capital, big city, the hangover sums it up perfectly. There’s nothing you can’t do in Bangkok, for better or for worse. I spent most of my time asleep or intoxicated so I can’t comment on much other than it’s a cool city and seven 11 is a life saver",
-    "thingsToDo": [],
+    "content": "Submission 8\n\nCity: Bangkok\nCountry: Thailand 🇹🇭\nPopulation: 10,700,000\nHow to get there: hundreds of daily flights, overland from neighbouring countries, idk probably a boat too\n\nThai capital, big city, the hangover sums it up perfectly. There’s nothing you can’t do in Bangkok, for better or for worse. I spent most of my time asleep or intoxicated so I can’t comment on much other than it’s a cool city and seven 11 is a life saver",
     "reactions": [
       {
         "e": "🇹🇭",
@@ -19434,8 +19077,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Adventure and party capital of Laos, canyoning, motorbiking, hot air balloons, paramotoring, hiking. Don’t drink cocktails there, stick to sealed beverages. You’ll find many young backpackers partying almost permanently so if that’s not your vibe, find a private hotel, but overall a cool and chill place",
-    "getThere": "Adventure and party capital of Laos, canyoning, motorbiking, hot air balloons, paramotoring, hiking. Don’t drink cocktails there, stick to sealed beverages. You’ll find many young backpackers partying almost permanently so if that’s not your vibe, find a private hotel, but overall a cool and chill place",
-    "thingsToDo": [],
+    "content": "Submission 9\n\nCity: Vang Vieng\nCountry: Laos 🇱🇦\nPopulation: 25,000\nHow to get there: high speed train from Vientiane/Luang Prabang, bus from city (do not take bus from Luang Prabang that’s like one of the worst travel days I’ve had), fly\n\nAdventure and party capital of Laos, canyoning, motorbiking, hot air balloons, paramotoring, hiking. Don’t drink cocktails there, stick to sealed beverages. You’ll find many young backpackers partying almost permanently so if that’s not your vibe, find a private hotel, but overall a cool and chill place",
     "reactions": [
       {
         "e": "🇱🇦",
@@ -19472,8 +19114,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Ancient city, its name translates to ‘defeat of Siem (old name of Thailand)’ which I think is very funny. Known mainly for the temples of Angkor Wat, which I found to be just as amazing as I was hoping them to be after many years of wanting to visit. Has some cool food culture too, and a party scene for backpackers",
-    "getThere": "Ancient city, its name translates to ‘defeat of Siem (old name of Thailand)’ which I think is very funny. Known mainly for the temples of Angkor Wat, which I found to be just as amazing as I was hoping them to be after many years of wanting to visit. Has some cool food culture too, and a party scene for backpackers",
-    "thingsToDo": [],
+    "content": "Submission 10\n\nCity: Siem Reap\nCountry: Cambodia 🇰🇭\nPopulation: 139,458(?)\nHow to get there: fly, bus from Phnom Penh, bus from Laos (land border with Thailand closed due to conflict)\n\nAncient city, its name translates to ‘defeat of Siem (old name of Thailand)’ which I think is very funny. Known mainly for the temples of Angkor Wat, which I found to be just as amazing as I was hoping them to be after many years of wanting to visit. Has some cool food culture too, and a party scene for backpackers",
     "reactions": [
       {
         "e": "🇰🇭",
@@ -19529,8 +19170,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Arguably the best city in Uzbekistan, ancient Silk Road relics, delicious food (plov, manti, samsa) madrassas are cool, Silk Road architecture. Used to be the capital but it was moved to Tashkent to protect its northern borders from invaders (yeah that didn’t work). Bit of a gateway to Central Asia, you can walk…",
-    "getThere": "Arguably the best city in Uzbekistan, ancient Silk Road relics, delicious food (plov, manti, samsa) madrassas are cool, Silk Road architecture. Used to be the capital but it was moved to Tashkent to protect its northern borders from invaders (yeah that didn’t work). Bit of a gateway to Central Asia, you can walk between all the sites of interest or you can take Yandex. Registan square is great, catch the light show in the evening",
-    "thingsToDo": [],
+    "content": "Submission 11\n\nCity: Samarkand\nCountry: Uzbekistan 🇺🇿\nPopulation: 635,000\nHow to get there: train from Tashkent (or other uzbek cities), bus from Punjakent 🇹🇯, has an international airport too\n\nArguably the best city in Uzbekistan, ancient Silk Road relics, delicious food (plov, manti, samsa) madrassas are cool, Silk Road architecture. Used to be the capital but it was moved to Tashkent to protect its northern borders from invaders (yeah that didn’t work). Bit of a gateway to Central Asia, you can walk between all the sites of interest or you can take Yandex. Registan square is great, catch the light show in the evening",
     "reactions": [
       {
         "e": "🇺🇿",
@@ -19562,8 +19202,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "City in the north of Afghanistan, bustling and busy. Lots of history, cool mosques, was apart of the Silk Road. Its name translates to ‘tomb of the noble’ referring to some guy named Ali. The blue mosque is its highlight for sure, and the city has had slightly more stability than other parts of the country over the…",
-    "getThere": "City in the north of Afghanistan, bustling and busy. Lots of history, cool mosques, was apart of the Silk Road. Its name translates to ‘tomb of the noble’ referring to some guy named Ali. The blue mosque is its highlight for sure, and the city has had slightly more stability than other parts of the country over the years. Whilst it’s an Afghani city, there’s a mix of Uzbek and Tajik culture present too",
-    "thingsToDo": [],
+    "content": "Submission 12\n\nCity: Mazar-e Sharif\nCountry: Afghanistan 🇦🇫\nPopulation: 682,000\nHow to get there: land crossing from Termez, Uzbekistan, or fly from Kabul/Herat\n\nCity in the north of Afghanistan, bustling and busy. Lots of history, cool mosques, was apart of the Silk Road. Its name translates to ‘tomb of the noble’ referring to some guy named Ali. The blue mosque is its highlight for sure, and the city has had slightly more stability than other parts of the country over the years. Whilst it’s an Afghani city, there’s a mix of Uzbek and Tajik culture present too",
     "reactions": [
       {
         "e": "🇦🇫",
@@ -19600,8 +19239,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Capital of Afghanistan and a city many have heard in headlines probably most of our lives. But incredible to explore, sometimes overwhelming with how much is happening. The streets are lined with bomb and explosion walls and my hotel was a literal armed fortress to enter. Highlights are Ali’s shrine, the flag on…",
-    "getThere": "Capital of Afghanistan and a city many have heard in headlines probably most of our lives. But incredible to explore, sometimes overwhelming with how much is happening. The streets are lined with bomb and explosion walls and my hotel was a literal armed fortress to enter. Highlights are Ali’s shrine, the flag on the hill, and the bazaars. Also Afghani food is incredible. People are as kind as ever",
-    "thingsToDo": [],
+    "content": "Submission 13\n\nCity: Kabul\nCountry: Afghanistan 🇦🇫\nPopulation: 4,877,000\nHow to get there: some international flights, overland from Pakistan \n\nCapital of Afghanistan and a city many have heard in headlines probably most of our lives. But incredible to explore, sometimes overwhelming with how much is happening. The streets are lined with bomb and explosion walls and my hotel was a literal armed fortress to enter. Highlights are Ali’s shrine, the flag on the hill, and the bazaars. Also Afghani food is incredible. People are as kind as ever",
     "reactions": [
       {
         "e": "🇦🇫",
@@ -19637,8 +19275,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Second weirdest city I’ve been to (behind Naypyidaw, and probably Pyongyang too). Everything is made of marble (spoiler, it’s tiny plating overlayed on old shitty buildings), all cars must be white or grey and can’t be dirty, the city is way too spread out and you’re not allowed to explore without a tour guide. But…",
-    "getThere": "Second weirdest city I’ve been to (behind Naypyidaw, and probably Pyongyang too). Everything is made of marble (spoiler, it’s tiny plating overlayed on old shitty buildings), all cars must be white or grey and can’t be dirty, the city is way too spread out and you’re not allowed to explore without a tour guide. But it’s fun checking out all the architecture, the city has the most Guinness world records in the world. One of the coolest is the biggest indoor Ferris wheel, but the wedding palace hotel is cool too. They think they have the biggest flagpole in the world but it’s actually 11th. Don’t tell them that, they don’t like it",
-    "thingsToDo": [],
+    "content": "Submission 14\n\nCity: Ashgabat\nCountry: Turkmenistan 🇹🇲\nPopulation: 941,130\nHow to get there: fly from Dubai, overland from Uzbekistan, Afghanistan or Iran\n\nSecond weirdest city I’ve been to (behind Naypyidaw, and probably Pyongyang too). Everything is made of marble (spoiler, it’s tiny plating overlayed on old shitty buildings), all cars must be white or grey and can’t be dirty, the city is way too spread out and you’re not allowed to explore without a tour guide. But it’s fun checking out all the architecture, the city has the most Guinness world records in the world. One of the coolest is the biggest indoor Ferris wheel, but the wedding palace hotel is cool too. They think they have the biggest flagpole in the world but it’s actually 11th. Don’t tell them that, they don’t like it",
     "reactions": [
       {
         "e": "🇹🇲",
@@ -19675,8 +19312,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Kazakh capital city, second coldest capital city behind Ulaanbaatar 🇲🇳 Winters are often -30 or colder. Interesting city as it was designed by nomads who had no concept of cities, therefore it’s not a very walkable city and lacks a bit of soul. But still  cool place, interesting looking buildings, very modern…",
-    "getThere": "Kazakh capital city, second coldest capital city behind Ulaanbaatar 🇲🇳 Winters are often -30 or colder. Interesting city as it was designed by nomads who had no concept of cities, therefore it’s not a very walkable city and lacks a bit of soul. But still  cool place, interesting looking buildings, very modern places. Highlights is probably baiterek and the grand mosque, central asias biggest mosque and one of the biggest in the world",
-    "thingsToDo": [],
+    "content": "Submission 15\n\nCity: Astana\nCountry: Kazakhstan 🇰🇿\nPopulation: 1,612,512\nHow to get there: fly either domestic or international, air Astana is amazing and I’m definitely not sponsored to say that. Or take train overland but they’re old and slow\n\nKazakh capital city, second coldest capital city behind Ulaanbaatar 🇲🇳 Winters are often -30 or colder. Interesting city as it was designed by nomads who had no concept of cities, therefore it’s not a very walkable city and lacks a bit of soul. But still  cool place, interesting looking buildings, very modern places. Highlights is probably baiterek and the grand mosque, central asias biggest mosque and one of the biggest in the world",
     "reactions": [
       {
         "e": "🇰🇿",
@@ -19718,8 +19354,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Fly into SeaTac airport from most cities in the US, and numerous destinations across Asia, Western Europe, and Canada/Mexico. It is the main home base and hub for Alaska Airlines, and also a hub for Delta Air Lines. Once there, you can take the 1 line (green) for $3 to downtown. Seattle has a very good light rail /…",
-    "getThere": "Fly into SeaTac airport from most cities in the US, and numerous destinations across Asia, Western Europe, and Canada/Mexico. It is the main home base and hub for Alaska Airlines, and also a hub for Delta Air Lines. Once there, you can take the 1 line (green) for $3 to downtown. Seattle has a very good light rail / bus system which makes it easy to navigate. \n\nThings to do:\nSpace Needle is an obvious classic, I think it's worth going up once on a clear day if you happen to be there during one (rare). Pikes Market is neat for like an hour but is pretty overrated imo. Catch a Mariners game at T-Mobile park, or a Seahawks game or Kraken game if football or hockey are more your thing, respectively. The Museum of Flight at Boeing Field is worth the time (they have a Concorde!!) and 10 dollars or whatever it costs - you can take the bus there from downtown. Seattle also has a great food scene, with a lot of Asian cuisines represented, as well as tons of seafood and good high-end Italian. Seattle is also a great base from which to launch a larger trip out to the Olympic Peninsula. For this, you will want to rent a car and take, ideally, two or three days at least to explore Olympic National Park. This can also be done in one very ambitious day, as me,  and co did in June. Starting from Seattle you can drive southwest over to Aberdeen, then up the coast to the top, over to Port Angeles (get dinner here), then west and catch the ferry from Kingston to Edmonds back to Seattle. \n\nWhere to stay:\nPick any hotel downtown, really. You will want to be centrally located within Seattle for most activities, and downtown is pretty safe these days.",
-    "thingsToDo": [],
+    "content": "Seattle, WA\nUnited States of America\n\nPopulation: \n816k city/4.15m metro\n\nHow to get there/get around:\nFly into SeaTac airport from most cities in the US, and numerous destinations across Asia, Western Europe, and Canada/Mexico. It is the main home base and hub for Alaska Airlines, and also a hub for Delta Air Lines. Once there, you can take the 1 line (green) for $3 to downtown. Seattle has a very good light rail / bus system which makes it easy to navigate. \n\nThings to do:\nSpace Needle is an obvious classic, I think it's worth going up once on a clear day if you happen to be there during one (rare). Pikes Market is neat for like an hour but is pretty overrated imo. Catch a Mariners game at T-Mobile park, or a Seahawks game or Kraken game if football or hockey are more your thing, respectively. The Museum of Flight at Boeing Field is worth the time (they have a Concorde!!) and 10 dollars or whatever it costs - you can take the bus there from downtown. Seattle also has a great food scene, with a lot of Asian cuisines represented, as well as tons of seafood and good high-end Italian. Seattle is also a great base from which to launch a larger trip out to the Olympic Peninsula. For this, you will want to rent a car and take, ideally, two or three days at least to explore Olympic National Park. This can also be done in one very ambitious day, as me,  and co did in June. Starting from Seattle you can drive southwest over to Aberdeen, then up the coast to the top, over to Port Angeles (get dinner here), then west and catch the ferry from Kingston to Edmonds back to Seattle. \n\nWhere to stay:\nPick any hotel downtown, really. You will want to be centrally located within Seattle for most activities, and downtown is pretty safe these days.",
     "reactions": [
       {
         "e": "🤌",
@@ -19756,8 +19391,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Fly into Boston Logan airport from most major cities in the US, North America, the Caribbean, and Europe. There are a handful of South American, Middle Eastern, and East Asian destinations. Once there, the Boston MBTA system is super easy and affordable to use and will get you most of where you need to go. It is…",
-    "getThere": "Fly into Boston Logan airport from most major cities in the US, North America, the Caribbean, and Europe. There are a handful of South American, Middle Eastern, and East Asian destinations. Once there, the Boston MBTA system is super easy and affordable to use and will get you most of where you need to go. It is also possible to take Amtrak to other cities (I took the night train from Boston to Portland, ME).\n\nThings to do: \nTo be quite honest,  and I flew in for a Red Sox/Yankees game which is about the best thing you can do in Boston. Get in, hit some bars around the stadium (Bleacher Bar is a good one), then enjoy the game. \n\nHaving said that, the USS Constitution, Bunker Hill, Boston Commons, and Boston Public Market are great things to hit if you're in the city for more than literally 10 hours (as I was this time around).",
-    "thingsToDo": [],
+    "content": "Boston, MA\nUnited States of America\n\nPopulation: 675k city4.9m metro\n\nHow to get there/get around:\nFly into Boston Logan airport from most major cities in the US, North America, the Caribbean, and Europe. There are a handful of South American, Middle Eastern, and East Asian destinations. Once there, the Boston MBTA system is super easy and affordable to use and will get you most of where you need to go. It is also possible to take Amtrak to other cities (I took the night train from Boston to Portland, ME).\n\nThings to do: \nTo be quite honest,  and I flew in for a Red Sox/Yankees game which is about the best thing you can do in Boston. Get in, hit some bars around the stadium (Bleacher Bar is a good one), then enjoy the game. \n\nHaving said that, the USS Constitution, Bunker Hill, Boston Commons, and Boston Public Market are great things to hit if you're in the city for more than literally 10 hours (as I was this time around).",
     "reactions": [],
     "comments": [
       {
@@ -19833,8 +19467,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Portland Interntional Jetport is international only in name, and only has direct flights serving the eastern half of the US (furthest flight is to Denver). Amtrak connects the city to Boston, at the very least. There is a bus system, but it is probably more efficient to Uber around, if you can afford it.",
-    "getThere": "Portland Interntional Jetport is international only in name, and only has direct flights serving the eastern half of the US (furthest flight is to Denver). Amtrak connects the city to Boston, at the very least. There is a bus system, but it is probably more efficient to Uber around, if you can afford it. \n\nThings to do:\nI immediately set out to acquire a lobster roll, which I did at Becky's Diner. The downtown is very cute and nice to walk around, there are a lot of shops and restaurants to check out. Catch a Portland Sea Dogs game if it's the baseball season. I would imagine as well that Portland could serve as a nice base from which to further explore Maine and the New England region - particularly Acadia National Park, which is a three hour drive from the city. \n\nWhere to stay:\n 's house",
-    "thingsToDo": [],
+    "content": "Portland, ME\nUnited States of America\n\nPopulation:\n69k city/550k metro\n\nHow to get there/get around:\nPortland Interntional Jetport is international only in name, and only has direct flights serving the eastern half of the US (furthest flight is to Denver). Amtrak connects the city to Boston, at the very least. There is a bus system, but it is probably more efficient to Uber around, if you can afford it. \n\nThings to do:\nI immediately set out to acquire a lobster roll, which I did at Becky's Diner. The downtown is very cute and nice to walk around, there are a lot of shops and restaurants to check out. Catch a Portland Sea Dogs game if it's the baseball season. I would imagine as well that Portland could serve as a nice base from which to further explore Maine and the New England region - particularly Acadia National Park, which is a three hour drive from the city. \n\nWhere to stay:\n 's house",
     "reactions": [],
     "comments": []
   },
@@ -19881,8 +19514,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Fly into Pittsbugh International Airport, which serves most major US cities. There is limited international service to Punta Cana, Cancun, London, and Reykjavik. The city is situation between US Interstate Highways I-80 and I-70, and so could easily be incorportated into a US road trip. The 28X Bus runs from the…",
-    "getThere": "Fly into Pittsbugh International Airport, which serves most major US cities. There is limited international service to Punta Cana, Cancun, London, and Reykjavik. The city is situation between US Interstate Highways I-80 and I-70, and so could easily be incorportated into a US road trip. The 28X Bus runs from the Airport into downtown, and there is a bus + light rail system that connects the city. \n\nThings to do:\nAnother baseball blitz for me and Teddy as we caught a Pirates/A's game with  . PNC park is an absolute gem and definitely worth going to a sunset game on a fireworks night if you can - sit upper level third base side. Acrisure Stadium is right next door and is home to the Steelers (NFL). PPG Arena hosts the Pittsburgh Penguins (NHL). Downtown Pittsburgh turned out to be quite the treat after the game! We hit a fun bar downtown that served sushi and cheap beer (The Warren). \nWorth checking out is the Duquense Incline across the river from downtown - this funicular used to be how steel workers got to the mills back in the day. Walk along the rivers on the Three Rivers Heritage Trail, and check out the Fort Pitt Museum for a history of the city, as well as the nearby Fort Duquense ruins. Market Square is in the heart of downtown and has tons of food options - this is where you should get a Primanti's sandwich, as this is one of the OG locations with the open counter and food is still served on paper, no tray. \n\nWhere to stay:\nAny hotel downtown should do fine.",
-    "thingsToDo": [],
+    "content": "Pittsburgh, PA\nUnited States of America\n\nPopulation:\n307k city/2.4m metro\n\nHow to get there/get around:\nFly into Pittsbugh International Airport, which serves most major US cities. There is limited international service to Punta Cana, Cancun, London, and Reykjavik. The city is situation between US Interstate Highways I-80 and I-70, and so could easily be incorportated into a US road trip. The 28X Bus runs from the Airport into downtown, and there is a bus + light rail system that connects the city. \n\nThings to do:\nAnother baseball blitz for me and Teddy as we caught a Pirates/A's game with  . PNC park is an absolute gem and definitely worth going to a sunset game on a fireworks night if you can - sit upper level third base side. Acrisure Stadium is right next door and is home to the Steelers (NFL). PPG Arena hosts the Pittsburgh Penguins (NHL). Downtown Pittsburgh turned out to be quite the treat after the game! We hit a fun bar downtown that served sushi and cheap beer (The Warren). \nWorth checking out is the Duquense Incline across the river from downtown - this funicular used to be how steel workers got to the mills back in the day. Walk along the rivers on the Three Rivers Heritage Trail, and check out the Fort Pitt Museum for a history of the city, as well as the nearby Fort Duquense ruins. Market Square is in the heart of downtown and has tons of food options - this is where you should get a Primanti's sandwich, as this is one of the OG locations with the open counter and food is still served on paper, no tray. \n\nWhere to stay:\nAny hotel downtown should do fine.",
     "reactions": [
       {
         "e": "🔥",
@@ -19924,8 +19556,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "YYZ, baby - Canada's biggest airport. Fly from anywhere across the US, Canada, North America, and the Caribbean. Europe and Asia (both East and West) are comprehensively covered. South America and Africa enjoy decent representation as well, particularly for a North American airport. Once there, you can take the…",
-    "getThere": "YYZ, baby - Canada's biggest airport. Fly from anywhere across the US, Canada, North America, and the Caribbean. Europe and Asia (both East and West) are comprehensively covered. South America and Africa enjoy decent representation as well, particularly for a North American airport. Once there, you can take the train directly into downtown. Toronto is linked with light rail and metro systems, and is very easy to get around. Uber is common too. \n\nThings to do:\nGo to a Blue Jays game at Rogers Centre, go up the CN tower, St. Lawrence Market, get stabbed by a brampton yute. The nightlife in Toronto was pretty enjoyable, Teddy and  and I went out bar hopping at got pretty fucked up and hit like four different bars until we got pizza at 3am and stumbled back to the hostel. Kensington Market is a cool trendy neighborhood that is right next to downtown but doesn't have \"big\" brands so it's all indie shops/boutiques/etc. It's also possible to go over to Niagara Falls as a day trip. \n\nWhere to stay:\nWe stayed at a hostel in Kensington Market, which I thought was a pretty decent location. Downtown is more connected with the metro system but also a bit pricier.",
-    "thingsToDo": [],
+    "content": "Toronto, Ontario\nCanada\n\nPopulation:\n3m city/7m metro\n\nHow to get there/get around:\nYYZ, baby - Canada's biggest airport. Fly from anywhere across the US, Canada, North America, and the Caribbean. Europe and Asia (both East and West) are comprehensively covered. South America and Africa enjoy decent representation as well, particularly for a North American airport. Once there, you can take the train directly into downtown. Toronto is linked with light rail and metro systems, and is very easy to get around. Uber is common too. \n\nThings to do:\nGo to a Blue Jays game at Rogers Centre, go up the CN tower, St. Lawrence Market, get stabbed by a brampton yute. The nightlife in Toronto was pretty enjoyable, Teddy and  and I went out bar hopping at got pretty fucked up and hit like four different bars until we got pizza at 3am and stumbled back to the hostel. Kensington Market is a cool trendy neighborhood that is right next to downtown but doesn't have \"big\" brands so it's all indie shops/boutiques/etc. It's also possible to go over to Niagara Falls as a day trip. \n\nWhere to stay:\nWe stayed at a hostel in Kensington Market, which I thought was a pretty decent location. Downtown is more connected with the metro system but also a bit pricier.",
     "reactions": [
       {
         "e": "🔥",
@@ -19967,11 +19598,9 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "population 4.3m its pretty cool u got old shit in the old city then theres los tres ojos and the Christopher Columbus monument very nearby. beach is pretty cool vibes but a lot of trash theres a Mercado that has insanely aggressive vendors in a dilapidated building. if youre looking for souvenirs there theyre ass just go to the airport they actually have good stuff there unlike the actual capital city",
     "reactions": [],
-    "comments": [],
-    "lite": true
+    "comments": []
   },
   {
     "id": "s-el-calafate-duck",
@@ -20006,8 +19635,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "polulation 24k its cold the city doesnt have much shit besides cute souvenir stores and good restaurants come look at this disgustingly unhealthy and delicious pork I ate",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "polulation 24k its cold the city doesnt have much shit besides cute souvenir stores and good restaurants come look at this disgustingly unhealthy and delicious pork I ate \n\nu can go to perito Moreno which is 90min drive to the west or el chalten 2 hours north otherwise people mostly chill here as a jump off population then bum off to Puerto natales in chile",
     "reactions": [],
     "comments": []
   },
@@ -20044,8 +19672,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "actually a cool ass city, city center is a shitshow with everything going on but thsts what u want from colombia. can understand if you suck at going around on your own that youd be sniffed out by people looking for opportunities. even then for everything going on its a clean spotless city, good job medellin",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "population uh 2.4M \n\nactually a cool ass city, city center is a shitshow with everything going on but thsts what u want from colombia. can understand if you suck at going around on your own that youd be sniffed out by people looking for opportunities. even then for everything going on its a clean spotless city, good job medellin\n\ncommuna 13 is an obnoxious tourist trap, honestly go there to admire the fact that people used to be gunned down there on the daily basis back in the past only to turn to gaudy neon stores selling neon ai shit. view there is really pretty with all the shlop going on \n\nI remember being at Cerro de nutibara and there was a death metal concert going on within earshot so locals would be chilling at a beautiful park that had death metal music playing in the background thats cool\n\nel poblado has a bunch of yummy ass restaurants \n\nalso go on the cable cars to gawk at the poor people below",
     "reactions": [],
     "comments": [
       {
@@ -20110,11 +19737,9 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "tippity tip of sud america with like 85k people",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "tippity tip of sud america with like 85k people\n\nfucking freezing my ass off here in june\nvery cloudy, shitty weather. dont go to the prison its overpriced as fuck typical argentina inflation shenanigans \n\nhowever definitely do the beagle channel boat tour its pretty cool even though its not jaw dropping compared to patagonia. the water there originates actually from the pacific entering into the Atlantic so youre technically on the pacific when you get there \n\nu can find whales all year, then penguins in the spring cus winter is too damn cold there even for them\n\ntheres other hiking spots but again this is mostly the jump point to antarctica if youre cool and rich enougj to do that, just hike patagonia at this point\n\nParque Nacional tierra del fuego is overrated with a shitty tourist trap train thats way too overpriced, easy skip. again just hike in patagonia\n\ncity center is mid but u can find a food truck named after pollos hermanos from breaking bad which is neat",
     "reactions": [],
-    "comments": [],
-    "lite": true
+    "comments": []
   },
   {
     "id": "s-el-penol-duck",
@@ -20174,8 +19799,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "town by the reservoir in antoquia, known for being a vacation place for locals where rich people own mansions by the waterfront. all i know is that Pablo Escobar has a house easily seen since its all burnt down and never been fixed up",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "cute town of 16.2k\n\ntown by the reservoir in antoquia, known for being a vacation place for locals where rich people own mansions by the waterfront. all i know is that Pablo Escobar has a house easily seen since its all burnt down and never been fixed up\n\nthe original town actually got flooded since they dammed the place so the existing place is a giant reservoir which outlines the hilly terrain of Antoquia\n\nif you take a boat on the reservoir itll go past the cross of the old church of penol, which is still underwater. apparently when word reached the locals that the government was gonna flood the place, they moved the old town up a hill with an exact replica of the church\n\noh yeah el penol is most famous for that big rock of guatape. it lies like in the middle of guatape and el penol but guatape lays claim to it despite both making that statement",
     "reactions": [],
     "comments": []
   },
@@ -20227,8 +19851,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "its up in the mountains about 2 hours from santo domingo. all in all not really a tremendous lot to do here but from the name you can bet Yer arse they grow chocolate here",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "population of 49.6k \n\nits up in the mountains about 2 hours from santo domingo. all in all not really a tremendous lot to do here but from the name you can bet Yer arse they grow chocolate here\n\nbut mostly you go here to hike waterfalls which are really cool. the best one is el tabernaculo which you swim through cold streams and climb up waterfalls. I could've easily done that for days it was so relaxing\n\nel tabernaculo has a cool boulder thats wedged in a ravine with a waterfall which you can ascend upwards if you have climbing gear. but when you go downstream you have the choice of doing sick jumps into the water or sliding down the waterfalls if youre shit like me",
     "reactions": [],
     "comments": []
   },
@@ -20290,8 +19913,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "I really enjoyed Antwerp, very pretty city, it’s very clean, when I arrived to Brussels I thought it was very dirty and smelled like piss",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "I really enjoyed Antwerp, very pretty city, it’s very clean, when I arrived to Brussels I thought it was very dirty and smelled like piss \n\nAntwerp is very nice, big center with bars and great restaurants, lots of nice places to walk around in\n\nTook a day trip to boom for Tomorrowland!\n\nBeware uber, bolt, and other ride shares will try to fuck you \n\nWaffles are great",
     "reactions": [],
     "comments": []
   },
@@ -20353,8 +19975,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "I really enjoyed Antwerp, very pretty city, it’s very clean, when I arrived to Brussels I thought it was very dirty and smelled like piss so I was glad to see Antwerp wasn’t like that",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "I really enjoyed Antwerp, very pretty city, it’s very clean, when I arrived to Brussels I thought it was very dirty and smelled like piss so I was glad to see Antwerp wasn’t like that\n\nAntwerp is very nice, big center with bars and great restaurants, lots of nice places to walk around in\n\nTook a day trip to boom for Tomorrowland!\n\nBeware uber, bolt, and other ride shares will try to fuck you \n\nWaffles are great\n\nAntwerp Belgium pop: 565k",
     "reactions": [
       {
         "e": "🤌",
@@ -20442,8 +20063,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Lots of places to ride your bike and go run",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Submission 10\nPopulation 920k\n\nSan Diego is based\nThere’s matcha places all over\nReally good Asian food\nDecent Mexican food\nLots of places to ride your bike and go run\nLots of fitness community so I like that\nBougie gyms and races \n\nSan Diego is a very nice city with very nice sunsets too",
     "reactions": [],
     "comments": [
       {
@@ -20452,8 +20072,7 @@ const SUBMISSIONS = [
         "text": "Do not forget how fire the matcha is here btw",
         "reactions": []
       }
-    ],
-    "lite": true
+    ]
   },
   {
     "id": "s-sibiu-rox",
@@ -20508,8 +20127,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Sibiu is a pretty small town where you can see pretty much all in a day. The population Is 134.000 people and there’s an airport, train station, you can also get here by train.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Sibiu is a pretty small town where you can see pretty much all in a day. The population Is 134.000 people and there’s an airport, train station, you can also get here by train.\n\nThe main attractions are:\n-The holy Trinity Orthodox cathedral\n-  the large and small square (I didn’t got good pics since they were building up the markets and it was cluttered)\n- Saint Mary evangelical Cathedral\n- the stairs passage\n- the bridge of lies\n- citadel park\n\nI think that’s about it, like I said it’s not much \nBut do have ur lunch at the perfect bite cuz that was some good lunch, they have lots of chocolate options but also normal things like sandwhiches\n\nAnd don’t forget to spot all the eyes, if you do don’t worry they’ll be watching you.\n\nOh they also have a mall.",
     "reactions": [
       {
         "e": "🤌",
@@ -20660,8 +20278,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Nestled in the Caucasus, Mestia is a mountainous region in the northwest of Georgia and has a population of around 10k inhabitants. I joined a tour from Kutaisi, but it’s also possible to go there by marshutkas. I visited Chaladdi Glacier, Hatsvali, Enguri dam, Svan towers, Ushguli village. I was surrounded by snow…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Nestled in the Caucasus, Mestia is a mountainous region in the northwest of Georgia and has a population of around 10k inhabitants. I joined a tour from Kutaisi, but it’s also possible to go there by marshutkas. I visited Chaladdi Glacier, Hatsvali, Enguri dam, Svan towers, Ushguli village. I was surrounded by snow capped mountains and dramatic landscapes all throughout the trip.",
     "reactions": [
       {
         "e": "🤌",
@@ -20742,8 +20359,7 @@ const SUBMISSIONS = [
     "date": "2025-11-27",
     "photos": [],
     "blurb": "Located in Upper Bavaria, Germany, in the Alps mountain region, Garmisch-Partenkirchen is a small, picturesque town (28k population) that offers plenty to do in both Summer and Winter. The town is easily accessible by Car, Flixbus or Train from Munich or Innsbruck, taking approximately 1-1.5 hrs.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Located in Upper Bavaria, Germany, in the Alps mountain region, Garmisch-Partenkirchen is a small, picturesque town (28k population) that offers plenty to do in both Summer and Winter. The town is easily accessible by Car, Flixbus or Train from Munich or Innsbruck, taking approximately 1-1.5 hrs. \n\nSummer To-Do’s:\n- Biking: Garmisch has plenty of forest roads to cycle, both in the valley and in the mountains. Several bike parks are also located for the more mountain bike oriented.\n- Climbing: Trained mountaineers can climb the Zugspitze with a 2-day hike.\n- Hiking: There are plenty of hiking routes around Garmisch, from an easy stroll around the Eibsee to an all-day tour to Schachen castle.\n- Swimming: Several lakes, such as Plansee, Rießersee, and Eibsee, located in and around Garmisch offer swimming during summers. Garmisch and Farchant also have open air swim pools. Garmisch (Aja Spa&Hotel) and Grainau (Zugspitzbad) also has an indoor swimming pool and spa area\n\nWinter To-Do’s:\n- Garmisch offers a lot of ski-ing areas, from the Hausberg (directly accessible by train from Munich) to the Kandahar (accessible by municipal bus or Zugspitzbahn) to the Zugspitz-Arena (accessible by Zugspitzbahn Cogwheel train)\n\nPlaces of Interest:\nCastles:\n- Linderhof: access via Ettal with Bus, this picturesque small castle is famous for its garden and artificial cave. Built by King Ludwig II like Neuschwanstein and Herrenchiemsee, it is the only one of the three major castles to be completed. UNESCO World Heritage Site",
     "reactions": [
       {
         "e": "🤌",
@@ -20875,8 +20491,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Hugging the coastline and just beyond the famous fjords lies Trondheim, where much can be done in this area. From hiking some beautiful areas to visiting Nidaros Cathedral to strolling beautifully colorful streets, you’re likely to see some beautiful sights on the way. Be prepared to spot some trolls along your…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Population: 212,660\n\nTransportation: plane, boat, etc.\n\nHugging the coastline and just beyond the famous fjords lies Trondheim, where much can be done in this area. From hiking some beautiful areas to visiting Nidaros Cathedral to strolling beautifully colorful streets, you’re likely to see some beautiful sights on the way. Be prepared to spot some trolls along your journey too!\n\nMy favorite (very unexpected) find was the Leif Erikson statue. If you don’t know, Leif Erikson was the first recorded European to enter the Americas around 1000 A.D. in L’anse aux Meadows, Canada. He was also a famous Viking, son of another famous Viking called Erik Erikson (also known as Erik the Red). Finding this secret statue was an amazing hidden gem for me because I’ve always wanted to go to L’anse aux Meadows and I hadn’t expected to spot a dedicated statue to Leif in this very city. If you’re interested in these little tidbits of lesser-known history, definitely consider discovering this spot!!",
     "reactions": [
       {
         "e": "🤌",
@@ -20942,8 +20557,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "I’m thrilled I spent practically a full day in this city with a good friend of mine! There was a lot to do in this city, from beautiful architectural structures of churches and historic districts to the endless amounts of museums and entertainment. There’s a museum (VASA museum) dedicated to one of the best…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Population: ~1 million\n\nTransportation: plane, boat, etc.\n\nI’m thrilled I spent practically a full day in this city with a good friend of mine! There was a lot to do in this city, from beautiful architectural structures of churches and historic districts to the endless amounts of museums and entertainment. There’s a museum (VASA museum) dedicated to one of the best preserved ships recovered from the sea, Viking-themed museums, amusement parks, the Mall of Scandinavia, and so much more. I got to deck out some great historical Viking wear at some of these museums and sit in replicated versions of rooms of Viking homes.\n\nAlso some hidden secrets — not too far from here are some moose ranches, where you can feed and pet moose (these are controlled environments — please do not try this outside a controlled environment).",
     "reactions": [
       {
         "e": "🤌",
@@ -20959,8 +20573,7 @@ const SUBMISSIONS = [
     "date": "2025-12-02",
     "photos": [],
     "blurb": "Oslo is a beautiful city with lots of places to visit and see, including places like the Fram Museum (polar exploration-based museum), Nobel Prize Museum, a Sculpture Park, and so much more. You can also see the Royal Palace up close here, and wander through some amazing architecture.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Population: ~1.7 million people in metropolitan area\n\nTransportation: plane, car, etc.\n\nOslo is a beautiful city with lots of places to visit and see, including places like the Fram Museum (polar exploration-based museum), Nobel Prize Museum, a Sculpture Park, and so much more. You can also see the Royal Palace up close here, and wander through some amazing architecture.\n\nPS: I don’t know if anyone else has gotten this feeling while in Norway, buuuut… I felt like I was surrounded by royalty in this city, mainly because of how wealthy it felt and how wealthy it looked. That doesn’t even count the Royal Palace, by the way, but the palace definitely added some to this feeling based on how open it was.",
     "reactions": [
       {
         "e": "🤌",
@@ -21007,8 +20620,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "La Quinta is essentially just a resort but it’s so pretty, I went for an iron man 70.3 it was cool went with my dad brother and two best friends. La Quinta is so gorgeous the golf course run was amazing, and the bike course was awesome because we saw a huge farms of dates and palm trees. The lake was gorgeous, and…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Population is a little under 40k\nLa Quinta is essentially just a resort but it’s so pretty, I went for an iron man 70.3 it was cool went with my dad brother and two best friends. La Quinta is so gorgeous the golf course run was amazing, and the bike course was awesome because we saw a huge farms of dates and palm trees. The lake was gorgeous, and the mountains surrounding the course were insanely beautiful",
     "reactions": [
       {
         "e": "🤌",
@@ -21102,8 +20714,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "I think this city has left the move impact on me, it’s an impressive city, with recent history of the dictator Nicolea ceausueueu I’m giving up I can’t write that.",
-    "getThere": "Country: eh Said it a sentence ago",
-    "thingsToDo": [],
+    "content": "I think this city has left the move impact on me, it’s an impressive city, with recent history of the dictator Nicolea ceausueueu I’m giving up I can’t write that.  \n\n the parliament palace, holy shit that’s one big ass buildings. Which makes sense it’s the biggest parliament building in the world (surface wise) 100.000 people worked on it and it took 18 years to complete. From these 100.000 people it were 700 architects which you can see, the building has architecture from different cultures and countries, which is pretty interesting. \n\nThe choice of place was based on an earthquake. That spot in the town is the one that’s best resistant to it, he also destroyed bout 30% of the city buildings leaving more than 1500 families on the streets. \nOh how I love copy pasting from my Polarsteps hahha\n\nOther things to visit are:\n- the umbrella street \n-cismigiiu Gardens or something\n- the royal palace (no not the parliament palace)\n- visit the old town \n-go out in the old town there’s this really cool bar with early 2000s music (I forgot the name but you know ur there it’s quiet loud and you can hear it from 2 streets away)\n\nDon’t got to the national history museum it’s pretty sad and I was out there within half an hour. There are probably more fun museums than that one in Bucharest. They also have free walking tours. It’s tip based I didn’t go cuz they kept cancelling since I kept being the only one that applied. (It’s a minimum of 4 people) \n\nPost requirements I missed: \nPopulation: 1.76milion people\nHow to get there: train, plane, car. Although we are still in Romania and cars are faster than trains here\nCountry: eh Said it a sentence ago",
     "reactions": [
       {
         "e": "🤌",
@@ -21223,17 +20834,7 @@ const SUBMISSIONS = [
     "date": "2025-12-12",
     "photos": [],
     "blurb": "Such a cute little city, lowkey wanna go back of hike, but didn’t want to hike alone because of the bears.",
-    "getThere": "",
-    "thingsToDo": [
-      "black tower",
-      "white tower (they’re kind of the same? They were watchtowers)",
-      "the black church",
-      "make a picture of the Brasov sign (better than Hollywood sign fr)",
-      "u can take a thingy up to tampa (a mountain I geuss",
-      "nearby there is fortress ruins",
-      "mall 1:AFI, they have a small arcade",
-      "mall 2: Coresi (this is the biggest mall there, it’s pretty nice. They also have an arcade + points for the Mariocart game there"
-    ],
+    "content": "Such a cute little city, lowkey wanna go back of hike, but didn’t want to hike alone because of the bears.\n\nOH MY GOD IT DIDNT SAFE 😭😭\nI was ready to post it and it didn’t post.\nI’m gonna cry.\n\nI was just writing things to do here:\n- black tower\n- white tower (they’re kind of the same? They were watchtowers)\n- the black church\n- make a picture of the Brasov sign (better than Hollywood sign fr)\n- u can take a thingy up to tampa (a mountain I geuss\n- nearby there is fortress ruins\n- mall 1:AFI, they have a small arcade \n- mall 2: Coresi (this is the biggest mall there, it’s pretty nice. They also have an arcade + points for the Mariocart game there\n\nAnd of course we are in Transylvania ( Romania, last post in Romania I promise)\nSo because of that u can visit the Dracula castle, which I think is the biggest scam Romania pulled off imo. It’s also called the bran castle some guy named vlad the impaler was supposed to live there? Anyway ITS A SCAMM. Neither of them set foot in there muahahah. It’s a nice castle though\n\nPs: you can take a night train to Budapest from Brasov, I would have put this in the Budapest post but I’m not making one cuz all I did there in the 26h I was there was going to this Dutch tosti place twice! Because the other place. I wanted to visit CHANGED THEIR FUCKING MENU.",
     "reactions": [
       {
         "e": "🤌",
@@ -21354,8 +20955,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "How many Christmas markets does a city need? Yea no idea…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "How many Christmas markets does a city need? Yea no idea…\n\nMost Christmas markets open around half November. I visited 6?\n- Belvedere palace\n- Am hof\n- Freyung Platz \n- Rathaus Platz\n- Spittelberg\n- Prater (which is like a 24/7 fair)\n- Stephans Platz (has this cool cathedral thing, you can go inside for free-ish)\n- Schonbrun\n- Hauptbahnhof\n\nMost of these things u can also visit normally.  But right now they are Christmas markets. I really like Schonbrunn. It has like 4 attractions in total and me and my mom got the everything pass. Where you can go inside the palace (which has time slot) and the rest I can also visit another day. Which are the zoo, botanical garden, reptile house and the gardens (gardens are free though) \nalthough if you go in November u don’t have access to a very thing since there is light show in the garden which I recommend if you are there around this time. IT WAS SOO AMAZING. \n\n7/9 markets open on 14 November and prater and freyung Platz are open 21 November. \n\nAnd visit the  national history museum, I actually liked this one. It’s cool. There was also this dude with a horse head playing accordion\n\nYou can also visit the river douno or something which is also 1 out of many ways to go here. The river goes all the way to Budapest aswell. So I dunno take a boat to Budapest (might take a while though)\nI got here by train, also car and planes and what not to go here to.\n\nI’m getting tired since my grammar is not making sense anymore. Deal with it. \nPopulation is too much: over 2 million people\n\nAustria is in Switzerland btw",
     "reactions": [
       {
         "e": "🤌",
@@ -21427,8 +21027,7 @@ const SUBMISSIONS = [
         "text": "Any places you’d highly recommend in Vienna?",
         "reactions": []
       }
-    ],
-    "lite": true
+    ]
   },
   {
     "id": "s-athens-rox",
@@ -21483,8 +21082,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Oh how I loved Athens! Although the heat was unbearable when you jump from -1° to 22° Greece is weird with temperatures (I’ll get to that in my other post)",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Oh how I loved Athens! Although the heat was unbearable when you jump from -1° to 22° Greece is weird with temperatures (I’ll get to that in my other post)\n\nI came here by plane but train and car are also possible, it’s also on the coast so a boat if you fancy. Also if ur under 25 and European resident you can get in to a lot of things for free. Like acropolis. Which you cannot miss!\n\nList of things:\n- acropolis obviously (free)\n*parthenon\n* the theatre \n- temple of Zeus (free)\n- Olympic stadium (6,- for EU student)\n- ancient agora of Athens (free)\n- Roman forum of Athens\n- Athens national gardens (free for everybody yay)\n- Lycanettus hill or something like that (free for everyone double yay)\n-Hadrians library \n- Monastriki square, it has a lot of restaurants\n\nFor some pita  i got for you:\n-ringo (I liked this one better than the other one, although I liked the meat more of the other one)\n-TYLIXTO MONASTIRAKI (I copied from Google I dunno why it’s in caps, also this is the other one\n\nOh I finished playing fenyx’s immortal rising earlier this year and it’s one of my favourite games. AND it just felt like I was walking in that game. Holy shit. I loved walking through all the ruins. \nAND THE CATS OMG SO MANY CATS!!",
     "reactions": [
       {
         "e": "🤌",
@@ -21556,8 +21154,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Suriname is a small country tucked into the north of South America, where 90% of the land is still jungle, and most towns are located in the north of the country. Once you head inland, roads become rare and rivers take over—boats are the main way to get around.",
-    "getThere": "Suriname is a small country tucked into the north of South America, where 90% of the land is still jungle, and most towns are located in the north of the country. Once you head inland, roads become rare and rivers take over—boats are the main way to get around. \n\nI spent my first day in the capital, Paramaribo, before traveling deeper into the jungle to a small village called Pingpe. To get there, I took a van south to Pokigron, roughly 300 kilometers from the capital. That’s where the road ends and the river begins. Along the way, the scenery slowly changed. We passed logging sites and gold-mining areas, and I saw locals zipping around on mopeds, metal detectors in hand, scanning the ground for gold.\n\nI went during the dry season, so the water level was low. Our boat had to move carefully, weaving around rocks, which stretched the journey to about five hours. Still, it was incredibly peaceful. We glided past small riverside villages, the jungle pressing in on both sides, birds flying across the sky as we drifted along.\n\nIn the jungle, time felt slower. I hiked Pineapple Mountain, trekked through dense rainforest, and swam near waterfalls hidden among the trees. The villagers were warm and welcoming, eager to share their way of life with us. Their kindness made the experience feel even more special.\n\nWhen I returned to Paramaribo, I spent some time exploring the city. I had planned to visit Pepperpot Park but arrived too late, just as it was closing. Instead, I wandered through the streets, taking in the colonial buildings and the energy of the city. It felt lively, even a little chaotic. The rainforest felt nicer and more peaceful.",
-    "thingsToDo": [],
+    "content": "Population - 230k\nGetting there - flying, ferry and van from French Guiana \n\nSuriname is a small country tucked into the north of South America, where 90% of the land is still jungle, and most towns are located in the north of the country. Once you head inland, roads become rare and rivers take over—boats are the main way to get around. \n\nI spent my first day in the capital, Paramaribo, before traveling deeper into the jungle to a small village called Pingpe. To get there, I took a van south to Pokigron, roughly 300 kilometers from the capital. That’s where the road ends and the river begins. Along the way, the scenery slowly changed. We passed logging sites and gold-mining areas, and I saw locals zipping around on mopeds, metal detectors in hand, scanning the ground for gold.\n\nI went during the dry season, so the water level was low. Our boat had to move carefully, weaving around rocks, which stretched the journey to about five hours. Still, it was incredibly peaceful. We glided past small riverside villages, the jungle pressing in on both sides, birds flying across the sky as we drifted along.\n\nIn the jungle, time felt slower. I hiked Pineapple Mountain, trekked through dense rainforest, and swam near waterfalls hidden among the trees. The villagers were warm and welcoming, eager to share their way of life with us. Their kindness made the experience feel even more special.\n\nWhen I returned to Paramaribo, I spent some time exploring the city. I had planned to visit Pepperpot Park but arrived too late, just as it was closing. Instead, I wandered through the streets, taking in the colonial buildings and the energy of the city. It felt lively, even a little chaotic. The rainforest felt nicer and more peaceful.",
     "reactions": [
       {
         "e": "🤌",
@@ -21611,8 +21208,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Okay so it’s hard to find the population I stayed in Kalabaka where the population is 8.000-12.000 people it was 8.500 in 2021 and  more I can’t find except that in meteora (the region has 19.000 people back in 2021. So I’m letting it up to the people to decide if this one counts or not since population requirements.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Okay so it’s hard to find the population I stayed in Kalabaka where the population is 8.000-12.000 people it was 8.500 in 2021 and  more I can’t find except that in meteora (the region has 19.000 people back in 2021. So I’m letting it up to the people to decide if this one counts or not since population requirements.\n\nSo since it’s so small the best way to get here is by car or train. Although I’ve seen some people biking in this area.\n\nThe main thing / pretty much the only thing to do here is go to the monasteries and hike around. Which if you want to visit all of them by hiking I recommend 2-3 days. 4 if you wanna make it more comfy for yourself. I don’t have any pictures from the inside of the monasteries cuz that wasn’t allowed. \n\nHowever i think it so worth it to visit here since the area is so beautiful \n\nThere are also some sunsets spots to watch the sunset. Or just have lunch on top of the viewpoints. ITS SO WORTH IT. I sat there for like 2 hours just sitting there\n\nI’m still not sure if this post fits the requirements of not well too bad I geuss xD",
     "reactions": [
       {
         "e": "🤌",
@@ -21717,8 +21313,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Skipping 2 towns cuz they were layovers, now we are in NAPOLI. Home town of tha pizza. So obviously eat pizza here.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Skipping 2 towns cuz they were layovers, now we are in NAPOLI. Home town of tha pizza. So obviously eat pizza here.\n\nOkay to be fair I came here for the pizza so I don’t have to much on here. I do have pizza dough recipe though. Since I did a pizza class, highly recommend!\n\nhttps://www.viator.com/Naples-tourism/d508-r26940139331-s383217011?gclsrc=aw.ds&&m=63845&supag=117742800238&supca=12132967569&supsc=kwd-816343641587&supai=724202941844&supdv=m&supnt=g&suplp=1010751&supli=9072701&supti=kwd-816343641587&tsem=true&supci=kwd-816343641587&supap1=&supap2=&supfi=&synthetic_keyword=naples%20pizza%20cooking%20class&gad_source=1&gad_campaignid=12132967569&gbraid=0AAAAAD-gbd6OE4gwVn_z0sIgiU-AL8IXE&gclid=Cj0KCQiAuvTJBhCwARIsAL6DemiHSgNVRX5y8UsRHUlHL6ks8iJCVkd67J26W4-eDIVxtwm1lXcw3ukaAmvEEALw_wcB\n\nOf fuck that link is big. Anyway that is the link for the class, I also recommend  L'Antica Pizzeria Da Michele for pizza, it’s apparently really popular so get there soon. I was there around 11:45 and could only get seated cuz I was alone. When I walked out later the queue was really big.\n\nYou also have\n- Christmas alley \n- royal palace \n- this place  Pizze Fritte da Gennaro Da Gennaro for pizza fritta? I dunno it’s fried pizza. Read somewhere it’s a must try. I find it overhyped wasn’t that good. Maybe I was at the wrong place? I dunno this was recommended\n\nAnd than last but not least make a day trip to pompeii. I recommend some sort of guide otherwise it just walking around clueless like I did. I did had a map. And bought a book. The book has some interesting fact. But get an actual guide it will be so much better. You can also visit the volcano and hike towards the top\n\nOh and for Napoli my hostel recommendation is the sun hostel. Its a little off center but it’s really nice and have free breakfast",
     "reactions": [
       {
         "e": "🇳🇵",
@@ -21788,8 +21383,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Astana is the new capital of Kazakhstan. I didn’t know what to expect and went because I found a cheap flight from Turkey. The city felt big, probably because the streets were wide and buildings appeared grand. I visited the Hazrat Sultan Mosque, Palace of Peace and Reconciliation, botanical garden, national museum…",
-    "getThere": "Astana is the new capital of Kazakhstan. I didn’t know what to expect and went because I found a cheap flight from Turkey. The city felt big, probably because the streets were wide and buildings appeared grand. I visited the Hazrat Sultan Mosque, Palace of Peace and Reconciliation, botanical garden, national museum and went up to Baiterek. I liked checking out the unique designs of the buildings in the city. The palace of creativity was said to be created in the shape of a traditional Kazak instrument.  The peace museum was pyramid shaped. There was a mall called Khan Shatyr that was shaped like a tent. Getting around was quite easy as I took shared taxis which were relatively cheap. Shops and restaurants were pretty hard to locate because they were all tucked inside tinted glass buildings that weren’t very visible from the outside. Some had signs but my knowledge of Cyrillic letters are from Greek letters so I tried to convert some of those words to the Latin alphabet.",
-    "thingsToDo": [],
+    "content": "Population: 1.35m\nGetting there: flying \n\nAstana is the new capital of Kazakhstan. I didn’t know what to expect and went because I found a cheap flight from Turkey. The city felt big, probably because the streets were wide and buildings appeared grand. I visited the Hazrat Sultan Mosque, Palace of Peace and Reconciliation, botanical garden, national museum and went up to Baiterek. I liked checking out the unique designs of the buildings in the city. The palace of creativity was said to be created in the shape of a traditional Kazak instrument.  The peace museum was pyramid shaped. There was a mall called Khan Shatyr that was shaped like a tent. Getting around was quite easy as I took shared taxis which were relatively cheap. Shops and restaurants were pretty hard to locate because they were all tucked inside tinted glass buildings that weren’t very visible from the outside. Some had signs but my knowledge of Cyrillic letters are from Greek letters so I tried to convert some of those words to the Latin alphabet.",
     "reactions": [
       {
         "e": "🤌",
@@ -21856,8 +21450,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Cayenne is the capital of French Guiana, a French overseas territory. It's located in the north of South America on the North Atlantic coast. Being a partner of the Association of Caribbean States, the country has strong ties to the islands in the Caribbean. However, getting to and from there is a challenge as the…",
-    "getThere": "Cayenne is the capital of French Guiana, a French overseas territory. It's located in the north of South America on the North Atlantic coast. Being a partner of the Association of Caribbean States, the country has strong ties to the islands in the Caribbean. However, getting to and from there is a challenge as the country only has direct flights from about 5 other countries. We were fortunate to have found a direct flight while we were in Brazil at the time. I discovered this country only after I met a friend from there so decided that i would have to check it out some time. \n\nThe country is covered mostly by the Amazon rainforest which accounts for roughly 96-98% of its the land mass. Roads only cover the northern side of the country. While there, we visited several beaches with golden yellow sand. During certain times of the year at dusk or dawn, it's possible to see leatherback turtles laying eggs. We also did some hiking in the forest, hoping to spot some sloths. We walked around the city and visited the Cayenne market, Leopold Heder plaza, Saint-Saveur Cathedral, Fort Ceperou, parks, and colonial buildings. French Guiana is also known for its space station, which is also one of the largest employers after public sector jobs in the country. Unforunately, there was no rocket launch while we were there. The Salvation islands, were penal islands and housed priosners like Alfred Dreyfus. We didn't do enough research and found out that they have ferries leaving very early in the mornings.",
-    "thingsToDo": [],
+    "content": "Population: 61k Getting there: Flying, ferry from Suriname to Saint-Laurent-du-Maroni, car from Brazil \n\nCayenne is the capital of French Guiana, a French overseas territory. It's located in the north of South America on the North Atlantic coast. Being a partner of the Association of Caribbean States, the country has strong ties to the islands in the Caribbean. However, getting to and from there is a challenge as the country only has direct flights from about 5 other countries. We were fortunate to have found a direct flight while we were in Brazil at the time. I discovered this country only after I met a friend from there so decided that i would have to check it out some time. \n\nThe country is covered mostly by the Amazon rainforest which accounts for roughly 96-98% of its the land mass. Roads only cover the northern side of the country. While there, we visited several beaches with golden yellow sand. During certain times of the year at dusk or dawn, it's possible to see leatherback turtles laying eggs. We also did some hiking in the forest, hoping to spot some sloths. We walked around the city and visited the Cayenne market, Leopold Heder plaza, Saint-Saveur Cathedral, Fort Ceperou, parks, and colonial buildings. French Guiana is also known for its space station, which is also one of the largest employers after public sector jobs in the country. Unforunately, there was no rocket launch while we were there. The Salvation islands, were penal islands and housed priosners like Alfred Dreyfus. We didn't do enough research and found out that they have ferries leaving very early in the mornings.",
     "reactions": [
       {
         "e": "🤌",
@@ -21894,8 +21487,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "[Entry #4] Hershey PA (population 14,334) is located 180 miles west of the center of the universe (NYC). You can drive there via Interstate 78. It is home to the Hershey Company; both were founded by Milton Hershey.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "[Entry #4] Hershey PA (population 14,334) is located 180 miles west of the center of the universe (NYC). You can drive there via Interstate 78. It is home to the Hershey Company; both were founded by Milton Hershey.\n\nThere is an amusement park, Hersheypark, which was also started by Milton Hershey (you may be able to tell there is a theme going on here).  It opened in 1906, and was created for the employees of his chocolate company. It has some cool roller coasters (both classic wood and modern steel), a water park and a zoo. \n\nThere is also a \"Hershey Chocolate World\" store that you can visit for no admission fee, if you are just passing though. It basically replaced their plant tour, and includes a ride that 'teaches' you about making chocolate. But instead of the ride exiting into the gift shop, the ride is within the gift shop. The ride involves multiple singing cow animatronics. \n\nHershey is also the home of Tröegs brewing. I like their beer a lot, even though the umlot in their name was added just to look cool (kinda like Haagen-Dazs).  At Christmas time I like to drink their beer \"Mad Elf\" which is a belgan strong dark ale. I usually visit the brewery in the summer though, so I drink their other stuff.",
     "reactions": [
       {
         "e": "🤌",
@@ -22002,8 +21594,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Pisa wasn’t that intresting but if you’re there for a couple of hours it’s worth to see it once.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Pisa wasn’t that intresting but if you’re there for a couple of hours it’s worth to see it once. \n\nSo once you walk outside the station you have a luggage storage 2min away \nhttps://maps.app.goo.gl/qULmVqybP1v11KgT7?g_st=ipc\n\nThen walk to busstop battisti and take 1+ to torre Di pisa 1 and walk to the piazza del duomo square where you have:\n- tower of pisa\n- Battistero di San Giovanni\n- the cathedral \n- Camposanto\nYou can get a tickets for them individualist for 8,- or all togheter for 11 of you want to go inside (Pisa not includes, if you want the tower too its 27) look at last picture for reference\n\nYou walk out on the other side and I came across this by accident but it’s a cute square\nstatue of moses on Google\n\nThen you go down to the Piazza dei Cavalieri another square with buildings \n\nFollowing to the Borgo Stretto where you obviously need to get Pisa so you can say u ate Pizza in Pisa, if you just follow the street you come across this ice cream place called GROM which is pretty nice and if you just follow the street you come across the bridge. If you just follow that straight line it’s 15min to central station. (This took me 2h and I didn’t went inside anywhere)\n\nNow if you have a little more time you can either go inside the thingys at the tower or you can  go to  Palazzo Blu which is an art museum. And if you have some more time take the green route to the fortress and then walk back.\n\nNow Pisa has an airport so you can fly, go by train or car  the population is around 90.000 people and is located in Italy\n\nNow you have seen the most intresting stuff in Pisa under 4h congratulations",
     "reactions": [
       {
         "e": "🤌",
@@ -22047,8 +21638,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Juneau (pop. 32,255) is the capital of Alaska. It is the 2nd largest city in the US by area, and is larger then the entire state of Rhode Island. There are no roads connecting the city to the rest of the state, you can only get there by air or sea. I recommend visiting by sea (cruise ship or ferry (Alaska Marine…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "[entry #5]\n\nJuneau (pop. 32,255) is the capital of Alaska. It is the 2nd largest city in the US by area, and is larger then the entire state of Rhode Island. There are no roads connecting the city to the rest of the state, you can only get there by air or sea. I recommend visiting by sea (cruise ship or ferry (Alaska Marine Highway) because ships are cool. There is also an airport (Juneau International Airport).  \n\nThe climate is very PNW-ish, doesn't get super cold in the winter (at least by Alaska standards), nor hot in the summer. It rains a lot. \n\nThe Imperial Bar opened in 1891 and is the oldest operating bar in the state of Alaska. They had some good Alaska craft beers, and they also sell food now. The tacos were tasty. It was way less busy then the \"Red Dog Saloon\" that everyone else seemed to be heading to.\n\nWe also found a cool used bookstore in town; so if you look you can find shopping other then souvenir stores. \n\nYou can take the Goldbelt Tram up to the top of Mount Roberts (1800 ft). It was foggy and rainy the morning of the day I showed up, so I didn't think I would see much of a view, and they wanted $60 for the ticket so I skipped it. Maybe I'll try it next time.\n \nThe Alaska State Museum is worth visiting; it is within walking distance of downtown. I really enjoyed it, but i love museums.\n\nThe other big thing to do here is visit the Mendhall Glacier.",
     "reactions": [
       {
         "e": "🤌",
@@ -22100,8 +21690,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Okayama is a city that often sits quietly between more prominent names on Japan’s Shinkansen route, home to about 700,000 people and serves as the capital of Okayama Prefecture. Located in western Honshu, the city exudes a tranquil charm that rewards those who choose to pause here, even briefly. With its harmonious…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Okayama is a city that often sits quietly between more prominent names on Japan’s Shinkansen route, home to about 700,000 people and serves as the capital of Okayama Prefecture. Located in western Honshu, the city exudes a tranquil charm that rewards those who choose to pause here, even briefly. With its harmonious blend of gardens, historical architecture, and minimal crowds, Okayama is a natural fit for travellers seeking beauty without the bustle. The first thing that stood out to me when I arrived at the Okayama Shinkansen Station was the abundance of fruit representation!\n\nReaching Okayama is straightforward. It’s a major stop along the JR Sanyo Shinkansen Line, making it highly accessible from all directions. From Osaka, the ride is about 45 minutes, while coming from Hiroshima takes only around 35 minutes. Travellers from Tokyo can expect a 3.5 hour ride, typically with a transfer at Shin-Osaka. Once at Okayama Station, you’ll find local attractions conveniently within reach. \n\nThe crown jewel of Okayama is undoubtedly Korakuen Garden, one of Japan’s Three Great Gardens. Unlike other gardens that lean toward dense foliage and hidden pathways, Korakuen is characterized by its wide-open layout and panoramic visibility, offering a sense of scale and calmness. Traditional bridges stretch over ponds filled with koi, pine trees twist elegantly beside walking trails, and historic teahouses invite quiet reflection. One of the most photogenic features is the uniquely crossed wooden bridge, which sits delicately over still waters—an unexpected geometric touch in a setting built for serenity. The garden is especially breathtaking during spring cherry blossoms and autumn foliage, but remains lovely year-round.\n\nJust across the Asahi River, visible from the garden, is Okayama Castle, nicknamed the “Crow Castle” due to its striking black façade. Though reconstructed after World War II, the structure pays homage to its Edo-era roots. Inside, exhibits offer a glimpse into the region’s feudal history, including samurai armour, calligraphy, and architectural models. A combined ticket for both the castle and the garden offers good value and seamless access between the two locations, which are naturally paired for a morning or afternoon of cultural immersion.\n\nBeyond these main sites, Okayama is also known for Kibi Dango, a soft rice dumpling famously linked to the legend of Momotaro, the “Peach Boy” folk hero said to have originated from this region. The city truly screamed peaches in many ways!\n\nOkayama is not a city that overwhelms—it whispers with elegance, balancing space, nature, and heritage with quiet confidence. You don’t need more than half a day to enjoy its highlights, though it wouldn’t be a waste to linger longer. Whether you’re in transit between Kyoto and Hiroshima or curating a deeper dive into southern Honshu, Okayama provides a calm, beautiful chapter to any Japan journey.\n\nAlways Wandering, \n~bunbun\n\n#XRS2025\n#bunbun",
     "reactions": [],
     "comments": [
       {
@@ -22170,8 +21759,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Takamatsu, located in Kagawa Prefecture on the island of Shikoku, is a coastal city known for its elegant gardens, seaside history, and udon culture. With a population of just under 420,000, it's compact, charming, and ideal for a half-day visit or stopover en route to Shodoshima or the Setouchi islands.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Takamatsu, located in Kagawa Prefecture on the island of Shikoku, is a coastal city known for its elegant gardens, seaside history, and udon culture. With a population of just under 420,000, it's compact, charming, and ideal for a half-day visit or stopover en route to Shodoshima or the Setouchi islands.\n\nI only had limited time in Takamatsu but managed to visit two of its most well-known landmarks: Ritsurin Garden and Takamatsu Castle. Ritsurin Garden was serene and breathtaking, meticulously landscaped with ponds, arched bridges, pine-covered hills, and a backdrop of Mount Shiun. It’s one of the finest examples of feudal-era daimyo gardens in Japan and truly invites you to slow down and reflect. Takamatsu Castle, or Tamamo Castle, stands uniquely as one of the few Japanese castles built beside the sea, with moats filled by seawater. Though largely in ruins today, the stone walls and remaining structures are still impressive, and the location near the waterfront offers peaceful views.\n\nRegrettably, I missed Mount Shiude, a famous cherry blossom viewing spot known for its panoramic vistas of the Seto Inland Sea. That alone gives me reason to return in the future with a better plan and more time to explore the natural beauty of this underrated city.\n\nAlways Wandering, \n~bunbun\n\n#XRS2025\n#bunbun",
     "reactions": [],
     "comments": []
   },
@@ -22223,8 +21811,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Himeji, located in Hyōgo Prefecture with a population of around 530,000, is most famously known for its UNESCO World Heritage icon, Himeji Castle. I stopped by for a morning visit, and it quickly became one of the most memorable heritage highlights of my trip. From Himeji Station, it’s a direct and scenic walk to…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Himeji, located in Hyōgo Prefecture with a population of around 530,000, is most famously known for its UNESCO World Heritage icon, Himeji Castle. I stopped by for a morning visit, and it quickly became one of the most memorable heritage highlights of my trip. From Himeji Station, it’s a direct and scenic walk to the castle, with its brilliant white exterior rising majestically above the cityscape. Often referred to as the “White Heron Castle,” it stands as one of Japan’s few original castles that survived both war and natural disasters.\n\nAfter exploring the inner keep, wooden interiors, and breath-taking panoramic view from the top floor, I made my way next door to Koko-en Garden, a hidden gem that complements the castle perfectly. The garden is actually a collection of nine separate Edo-style gardens, each with its own theme, from koi ponds and bamboo groves to tea garden courtyards. It was peaceful and beautifully maintained, offering a quiet moment of reflection after the grandeur of the castle.\n\nDespite a long queue, I decided to try the on-site garden restaurant overlooking one of the ponds—and it was absolutely worth it. The meal was traditional, balanced, and served with a view that made the wait feel like part of the experience.\n\nAlthough it was just a half-day trip, Himeji delivered a full experience of history, culture, and calm. If you’re heading between Osaka and Hiroshima by Shinkansen, it’s a perfect morning detour that requires minimal planning and maximum payoff.\n\nAlways Wandering, \n~bunbun\n\n#XRS2025\n#bunbun",
     "reactions": [],
     "comments": []
   },
@@ -22256,8 +21843,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Osaka, Japan’s vibrant Kansai metropolis with a population of nearly 2.7 million, has always held a special place in my travel memories especially from my winter trip last December. This time, however, I kept it simple. Rather than diving into the usual city-center energy of Dotonbori or Umeda, I headed slightly…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Osaka, Japan’s vibrant Kansai metropolis with a population of nearly 2.7 million, has always held a special place in my travel memories especially from my winter trip last December. This time, however, I kept it simple. Rather than diving into the usual city-center energy of Dotonbori or Umeda, I headed slightly off the beaten path to Satsukiyama Park.\n\nLocated in Ikeda City, just outside northern Osaka, Satsukiyama Park offered a refreshing slice of nature and calm. It’s a local favorite for light hiking, seasonal flowers, and family strolls. I didn’t make it up to the summit this time, but the forest trails and open views still delivered a quiet pause from the rest of my Honshu journey. There's even a small animal park / play park area? near the base popular with kids and curious adults alike.\n\nThough this visit to Osaka was brief, it served as a nature-infused interlude rather than a city sprint. It reminded me how even in urban Japan, you’re never far from peaceful green corners worth wandering into.\n\nAlways Wandering, \n~bunbun\n\n#XRS2025\n#bunbun",
     "reactions": [],
     "comments": [
       {
@@ -22338,8 +21924,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Kyoto, with a population of around 1.45 million, remains one of Japan’s most historically and culturally significant cities. As the former imperial capital for over a thousand years, it holds a timeless allure, one I’ve come to appreciate more deeply with each visit. While I’ve explored many of its iconic temples…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Kyoto, with a population of around 1.45 million, remains one of Japan’s most historically and culturally significant cities. As the former imperial capital for over a thousand years, it holds a timeless allure, one I’ve come to appreciate more deeply with each visit. While I’ve explored many of its iconic temples and districts during my previous winter trip, this time I experienced a new side of Kyoto through the trials of water.\n\nThe highlight of this visit was the Hozugawa Kudari boat ride, a traditional river journey that starts in Kameoka and flows down the scenic Hozu River into Arashiyama. The 16-kilometre route takes about two hours, with boatmen guiding the wooden vessel through gentle rapids and calm stretches, framed by rugged cliffs and forested valleys. It was a peaceful and immersive way to experience the natural beauty of Kyoto away from crowds and temples, but still deeply connected to the region’s spirit.\n\nGetting to Kyoto is effortless thanks to its status as a major Shinkansen hub. From Osaka, it’s just a 15-minute ride on the bullet train, while from Tokyo, it takes about 2 hours and 20 minutes via the Tokaido Shinkansen. If arriving via Kansai International Airport (KIX), the Haruka Limited Express train brings you directly to Kyoto Station in under 80 minutes. Within the city, transport is convenient but requires some planning—trains and subways cover most areas, while buses fill the gaps for sightseeing routes like Kinkakuji or Gion. For the Hozugawa ride, I took the JR Sagano Line from Kyoto Station to Kameoka, then walked to the boarding point; after the ride, you’ll end up in Arashiyama, making it a neat half-day loop.\n\nThough I only added one new activity to my Kyoto journey, the boat ride offered a fresh perspective floating rather than walking, observing rather than rushing. It reminded me that Kyoto isn’t just a city of temples and tea but a place that always offers more, especially when you choose to slow down and drift with its rhythm.\n\nAlways Wandering, \n~bunbun\n\n#XRS2025\n#bunbun",
     "reactions": [],
     "comments": [
       {
@@ -22398,8 +21983,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Kawaguchiko, located in Yamanashi Prefecture, is a serene resort town built around Lake Kawaguchi, one of the Fuji Five Lakes. With a local population of around 24,000, it serves as one of the most popular gateways to Mount Fuji, offering both iconic views and a slower, more peaceful pace than the cities. On this…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Kawaguchiko, located in Yamanashi Prefecture, is a serene resort town built around Lake Kawaguchi, one of the Fuji Five Lakes. With a local population of around 24,000, it serves as one of the most popular gateways to Mount Fuji, offering both iconic views and a slower, more peaceful pace than the cities. On this visit, I took a slightly unconventional but scenic route: a Shinkansen ride to Mishima, followed by a direct highway bus to Kawaguchiko Station. The connection was smooth, and the ride into the mountains offered beautiful glimpses of rural Japan slowly giving way to the dramatic silhouette of Fuji.\n\nAfter my stay, I departed for Tokyo via another highway bus, a convenient and direct option that drops you off in the heart of the city without the need for transfers. Kawaguchiko itself is small and walkable, though local buses (like the Red Line, Green Line, and Blue Line) loop around the lake and nearby attractions, making it easy to access viewpoints, museums, onsen, and cafes even without a car. IC cards are accepted on most routes.\n\nI was not expecting to see snow in spring (apparently even snowed the day before I arrived). However, the rain was not exactly enjoyable and I was freezingggg! Attempting to climb up at Arakurayama Sengen Park was likely one of the unwise ideas I had. \n\nUnfortunately, the views was not it for me, and I'm hoping to redeem it for a visit to Shin-Fuji next time.\n\nAlways Wandering, \n~bunbun\n\n#XRS2025\n#bunbun",
     "reactions": [],
     "comments": []
   },
@@ -22461,8 +22045,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Tokyo, Japan’s capital and largest city with a population of over 13 million, continues to offer something new no matter how many times you visit. On this second trip, I skipped the usual city-center bustle and instead explored Tokyo’s quieter side, a blend of urban nature, local charm, and one unforgettable meal.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Tokyo, Japan’s capital and largest city with a population of over 13 million, continues to offer something new no matter how many times you visit. On this second trip, I skipped the usual city-center bustle and instead explored Tokyo’s quieter side, a blend of urban nature, local charm, and one unforgettable meal.\n\nMy visit started at Todoroki Valley Park, a hidden gorge tucked away in the Setagaya ward. With its flowing stream, mossy stones, and forested path, it felt worlds apart from the city above. Later, I made my way to Shinjuku Gyoen National Garden, one of Tokyo’s largest and most beautifully landscaped parks. Even having been to many gardens across Japan, this one stood out with its spacious lawns, tranquil ponds, and a unique blend of Japanese, French, and English garden styles.\n\nA small but meaningful stop was Suga Shrine’s staircase in Yotsuya or better known as the “Your Name” stairs from the anime film. It was simple, but satisfying to finally see it in person after years of recognition from pop culture. I also visited Toneri Park in the northern Adachi ward, which surprised me with its sheer size, open green spaces, and calm atmosphere, great for a quiet afternoon walk away from the usual tourist flow.\n\nFor dinner, I treated myself to Hakushū Teppanyaki in Shibuya, a cosy, family-run spot known for its top-grade wagyu and intimate counter-side grilling experience. It lived up to the hype, with a friendly chef, well-balanced courses, and melt-in-your-mouth beef—a perfect ending to a more laid-back Tokyo day.\n\nGetting around Tokyo remains incredibly convenient thanks to its extensive rail network, whether JR lines, Tokyo Metro, or private railways. IC cards like Suica or Pasmo make transfers seamless, and most of the places I visited were within walking distance of local stations. Despite the city's size, Tokyo still makes it easy to weave between tranquil parks and vibrant neighborhoods within a single day.\n\nAlways Wandering, \n~bunbun\n\n#XRS2025\n#bunbun",
     "reactions": [],
     "comments": [
       {
@@ -22521,8 +22104,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Taipei, the energetic capital of Taiwan, is home to around 2.5 million people and serves as the island’s cultural, political, and culinary hub. For a first visit, it was nothing short of packed, from historic streets to volcanic trails, and night markets to coastal cliffs. With a highly efficient Taipei Metro (MRT)…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Taipei, the energetic capital of Taiwan, is home to around 2.5 million people and serves as the island’s cultural, political, and culinary hub. For a first visit, it was nothing short of packed, from historic streets to volcanic trails, and night markets to coastal cliffs. With a highly efficient Taipei Metro (MRT) system, intercity buses, and excellent day-trip connections, getting around was intuitive and affordable.\n\nI started my trip with a walking tour of Longshan, an area rich with cultural depth. The tour was free but respectfully tipped and offered a great grounding in the spiritual and historic essence of old Taipei. Later that day, I headed to Taipei 101, but visiting on a weekend proved unwise. Crowds flooded the observatory, making the experience more rushed than inspiring. Still, the views were iconic and the building remains an architectural marvel.\n\nThe next day was my deep dive into Taiwan’s northern coast. I began at Yehliu Geopark, where surreal rock formations meet the sea, but what really caught me off guard was the adjacent aquarium, which felt more like a comedy skit than a marine education center. From there, I moved on to the Golden Waterfall and the striking Yinyang Sea, both misty and otherworldly. Jiufen was as atmospheric as expected, though packed, while Shifen and Pingxi Lantern Street offered a nostalgic, postcard-like close to the day. I ended with a visit to Ningxia Night Market, which came highly recommended, though I’ll admit I’m not a huge fan of yeshi (night market food) culture. But I gave it a shot.\n\nMy third day was a bold one, a full circuit of Yangmingshan National Park. Starting at the Qingtiangang Grassland, I made an ambitious, even reckless, sprint to the Juansi Waterfall trail, a challenging but rewarding detour. I continued to explore Xiaoyoukeng’s sulphur vents, the scenic Lengshuikeng, the Flower Clock, and the seasonal beauty of Zhuzihu. The trip ended with a stroll through Beitou Park and a visit to the Thermal Valley. Somewhere in between, I discovered a new love: herbal tea eggs. I’m not exaggerating, I could eat them all day.\n\nOn another day, I joined a boat tour to Guishan Island off the northeast coast. While I missed out on whales, I was lucky to see dolphins swimming alongside the boat, which felt just as magical. Later that day, I met up with a friend I first connected with in Taichung, and we wandered through Shilin and Raohe Night Markets, with Raohe hyped up as the “IT” market for good reason.\n\nAnother day took me south to the tranquil mountain town of Wulai, where I explored Wulai Old Street and its waterfall area, enjoying the mix of indigenous culture and natural serenity.\n\nMy final adventure was a detour to Taichung, where I visited Zhong She Flower Market, a vibrant photo spot bursting with seasonal blooms. I also stopped by the original Chun Shui Tang (origin of bubble tea), the stylish Miyahara dessert emporium, the colorful Rainbow Village, and ended the day at the Gaomei Wetlands, a windswept and atmospheric landscape dotted with wind turbines and muddy boardwalks.\n\nAlways Wandering, \n~bunbun\n\n#XSL2025\n#bunbun",
     "reactions": [],
     "comments": [],
     "videos": [
@@ -22581,8 +22163,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Taichung, located in central Taiwan, is Taiwan’s second-largest city with a population of over 2.8 million. While the city itself offers vibrant culture and modern attractions, my visit focused on the surrounding mountain and lake regions, offering some of the most breathtaking scenery in the country. With Taichung…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Taichung, located in central Taiwan, is Taiwan’s second-largest city with a population of over 2.8 million. While the city itself offers vibrant culture and modern attractions, my visit focused on the surrounding mountain and lake regions, offering some of the most breathtaking scenery in the country. With Taichung as a base, access to Taiwan’s central wonders is smooth, thanks to HSR (High-Speed Rail), regional trains, and private transport links to the hills and highlands.\n\nMy journey began at Alishan, a misty mountain retreat famous for its cypress forests, sunrise viewing points, and heritage rail line. Though technically located in Chiayi County, Alishan is commonly paired with Taichung in regional itineraries. The cool mountain air, combined with its tranquil trails and towering trees, made it feel worlds apart from city life. After that, I visited the iconic Sun Moon Lake, one of Taiwan’s most scenic destinations. The lake’s vast, mirror-like surface changes color with the light and is surrounded by walking paths, temples, and cultural villages. A boat ride across the lake was peaceful and calming, offering views that shifted with every curve.\n\nNext, I ventured up to Qingjing Farm, located in the Nantou highlands. Known for its lush pastures and sheep-dotted hillsides, Qingjing was charming in a rustic, alpine sort of way. Walking along its scenic trails felt like stepping into a Taiwanese version of the European countryside. Nearby, I also stopped by the Old England Manor, a striking European-style building nestled in the highlands, known for its architecture, afternoon tea, and romantic ambiance. Though just a photo stop, it added a surreal fairytale element to an already diverse mountain day.\n\nAlways Wandering, \n~bunbun\n\n#XSL2025\n#bunbun",
     "reactions": [],
     "comments": [],
     "videos": [
@@ -22621,8 +22202,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Helsinki, the capital of Finland, sits gracefully by the Baltic Sea with a population of around 650,000. It’s a city defined by minimalism and calm, where Nordic design, seaside views, and moments of stillness shape the rhythm of life. My time in Helsinki was a refreshing contrast to more frenetic cities, offering…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Helsinki, the capital of Finland, sits gracefully by the Baltic Sea with a population of around 650,000. It’s a city defined by minimalism and calm, where Nordic design, seaside views, and moments of stillness shape the rhythm of life. My time in Helsinki was a refreshing contrast to more frenetic cities, offering a kind of urban clarity, open spaces, clean lines, and a deep connection to both nature and architecture.\n\nThe city is easy to navigate, thanks to its efficient public transport system of trams, buses, metro, and ferries. Getting around felt seamless with an HSL day pass, which made hopping between neighborhoods and islands smooth and stress-free. The central areas are also incredibly walkable, and there’s something satisfying about discovering Helsinki on foot, from the neoclassical Senate Square to the ultra-modern Oodi Library.\n\nHighlights included visits to the Temppeliaukio (Rock Church), a chapel carved into solid stone with natural acoustics and a dome of copper and light. I also explored the Sibelius Monument, wandered through the harborside Market Square, and took a ferry to Suomenlinna, a sea fortress and UNESCO site that blends nature and history in perfect balance. Even simple things stood out—fresh cinnamon buns at small cafes, quiet tram rides through snow-dusted streets, and long stretches of silence at the waterfront.\n\nHelsinki felt less like a city trying to impress and more like one inviting you to breathe. It was thoughtful, composed, and introspective. In a world of overstimulation, it was a rare chance to slow down and exist with space.\n\nAlso, a crazy twist was due to flight delays, we ended up meeting a finnish guy who founded his own beer company! XD\n\nAlways Wandering, \n~bunbun\n\n#XAF2025\n#bunbun",
     "reactions": [],
     "comments": []
   },
@@ -22654,8 +22234,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Abt 14.000 inhabitants. You can get there via train (Dinant or Anseremme train station) or car.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Dinant, in Belgium. \nAbt 14.000 inhabitants. You can get there via train (Dinant or Anseremme train station) or car.\n\nIt's my go-to rock climbing spot and overall there is lots of nature to enjoy. Some activities include outdoor rock climbing, some minor caving, kayaking, mountain biking, hiking, camping, etc.\n\nIt's also the city where Adolph Sax was born (the inventor of the saxophone), which is the reason the city centre is filled with giant saxophones.",
     "reactions": [],
     "comments": []
   },
@@ -22687,8 +22266,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Stockholm houses about a million people and is the capital city of Sweden. Being a capital city it is easily reached through multiple means, train, plane or road.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Stockholm houses about a million people and is the capital city of Sweden. Being a capital city it is easily reached through multiple means, train, plane or road.\n\nI personally enjoyed the old part of the town and we had a great run around some park. Accommodation was relatively cheap compared to the rest of the country (imo.. but you do get a shit hotel)",
     "reactions": [],
     "comments": []
   },
@@ -22720,8 +22298,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "A little smaller than Stockholm, but still a beautiful city. With 180.000 inhabitants it doesn't feel that crowded (which I liked.)",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "A little smaller than Stockholm, but still a beautiful city. With 180.000 inhabitants it doesn't feel that crowded (which I liked.)\n\nWe reached uppsala by road, but you can also get there by train (or bicycle if you're that guy)\n\nWe unfortunately came to the conclusion the IKEA was temporarily closed so instead we enjoyed a boulder block in some park.",
     "reactions": [
       {
         "e": "😂",
@@ -22753,8 +22330,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Alta is a relatively small town in the Norwegian Arctic Circle. You can see the northern lights there (except we went in summer).",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Alta is a relatively small town in the Norwegian Arctic Circle. You can see the northern lights there (except we went in summer).\n\nAlta has it's own (small) airport and is well reachable by car (except maybe in winter? idk how much snow it gets).\n\nI thought it was a great quiet town and enjoyed my stay.",
     "reactions": [],
     "comments": []
   },
@@ -22786,8 +22362,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Now Tromso is an actual city. With 80.000 inhabitants and the equal amount of tourists (at least that's what it felt like) the city felt very busy. Since Tromso is also still in the arctic circle you can see the northern lights as well as the occasional reindeer.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Now Tromso is an actual city. With 80.000 inhabitants and the equal amount of tourists (at least that's what it felt like) the city felt very busy. Since Tromso is also still in the arctic circle you can see the northern lights as well as the occasional reindeer.\n\nYou can reach Tromso by the sea, air and land via ship, train, plane or car.\n\nNotable tourist spots include the arctic cathedral and a place where you can eat pizza that's actively on fire.",
     "reactions": [],
     "comments": []
   },
@@ -22839,8 +22414,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Iceland felt like traveling across an ancient story written by nature itself. With a population of just under 400,000 and nearly two-thirds living in the capital Reykjavík, the island opens up the moment you leave the city. My journey followed a clockwise loop beginning in Reykjavík, moving into the west, cutting…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Iceland felt like traveling across an ancient story written by nature itself. With a population of just under 400,000 and nearly two-thirds living in the capital Reykjavík, the island opens up the moment you leave the city. My journey followed a clockwise loop beginning in Reykjavík, moving into the west, cutting through the north and east, and finally completing the route along the dramatic south coast.\n\nStarting from the capital, I headed into the western region, exploring the Snæfellsnes Peninsula, often referred to as Iceland in miniature. I visited landmarks like Kirkjufell, Djúpalónssandur, Vatnshellir Cave, and coastal spots like Skarðsvík Beach and Svörtuloft Lighthouse. The landscapes shifted constantly, from golden sands to black lava beaches and mossy craters.\n\nContinuing north, the scenery opened into wide fjords and fishing towns. I passed through Siglufjörður, Dalvík, and Akureyri, then reached the volcanic zone near Mývatn, which was one of the most otherworldly places I had seen. I explored the steaming vents at Hverir, the massive crater of Hverfjall, and the stunning Goðafoss waterfall. Each stop offered a new mood, with fewer crowds and more time to breathe.\n\nHeading east, I wound through quieter regions filled with waterfalls like Hengifoss, remote roads, and tucked-away villages such as Seyðisfjörður. The pace slowed, the skies felt closer, and the landscape grew softer. I found this stretch to be deeply reflective, with vast open spaces that felt almost untouched.\n\nThen came the south, where Iceland shows off its most iconic sights. I passed Vestrahorn, then stood in awe at the shimmering icebergs of Jökulsárlón Glacier Lagoon and Diamond Beach. I trekked through Skaftafell National Park, admired Svartifoss, and crossed endless lava fields like Eldhraun. The green cliffs of Fjaðrárgljúfur canyon and the rhyolite mountains of Landmannalaugar pushed the imagination to new limits.\n\nI ended the loop with classics of the south coast—Reynisfjara Beach, the arch at Dyrhólaey, and the towering waterfalls of Skógafoss and Seljalandsfoss. I closed the journey with the Golden Circle, including Gullfoss, Strokkur Geyser, and Þingvellir National Park, each site layered with natural, cultural, and geological significance.\n\nThis was not just a scenic road trip. It was a journey into silence, force, and rhythm. Iceland speaks through waterfalls, lava fields, glacial winds, and steaming ground. It offers no promises, just presence.\n\n(Didn't want to make a post of other cities since I didn't really do anything in the cities itself).\n\nAlways Wandering, \n~bunbun\n\n#XAF2025\n#bunbun",
     "reactions": [
       {
         "e": "🤌",
@@ -22889,8 +22463,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Trondheim is a norwegian city (very pretty uwu) and has about 215.000 inhabitants.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Trondheim is a norwegian city (very pretty uwu) and has about 215.000 inhabitants.\n\nTrondheim has some stunning views and a great city centre that feels very cozy. \n\nTrondheim is also accessible by sea, air and land so you internet navy seals can enjoy (idk you can parachute in i presume)\n\nI enjoyed running (i found an athletic track yay) and some other shit I don't remember",
     "reactions": [],
     "comments": []
   },
@@ -22917,8 +22490,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Another small northern Norwegian town. We stopped because I greatly needed a new rear tire on my motorbike and I feel the need to compliment MotoNor Narvik for the great service. They stayed a bit longer to accommodate my request knowing the next town over is quite far away.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Another small northern Norwegian town. We stopped because I greatly needed a new rear tire on my motorbike and I feel the need to compliment MotoNor Narvik for the great service. They stayed a bit longer to accommodate my request knowing the next town over is quite far away.\n\nNarvik is a bit remote and the nearest big cities are still quite far away.\n\nNarvik has about 20.000 inhabitants and is reachable by road, some fjord tours and train.",
     "reactions": [
       {
         "e": "🤌",
@@ -22975,8 +22547,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "with nearly 300.000 inhabitants Bergen is relatively big. It has its own airport, ferry port and train station which makes it very reachable.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Another favorite city of mine. \n\nwith nearly 300.000 inhabitants Bergen is relatively big. It has its own airport, ferry port and train station which makes it very reachable.\n\nThe city center with the fish market is very busy and since we didn't have great weather either we didn't really enjoy the city center that much.\n\nInstead, I went for a gigantic run and went rock climbing.",
     "reactions": [
       {
         "e": "🤌",
@@ -23050,8 +22621,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Mainz is the smaller brother of Frankfurt and kinda close. It's not as busy as Frankfurt with its 225.000 inhabitants.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Mainz is the smaller brother of Frankfurt and kinda close. It's not as busy as Frankfurt with its 225.000 inhabitants. \n\nWhilst Mainz has its own airport it's not really a commercial airport so you'd rather fly into dusseldorf or frankfurt and take the train/bus/road to get to Mainz\n\nThere is a very cozy Weihnachtsmarkt and although quite busy, not as busy as some others.",
     "reactions": [],
     "comments": []
   },
@@ -23103,8 +22673,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Rockhampton, located in Central Queensland, is a city of around 80,000 people, often dubbed the “Beef Capital of Australia” due to its strong cattle industry and heritage. It served as the main city hub during my time in Queensland, acting as the gateway to Shoalwater Bay and the broader Capricorn region. While the…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Rockhampton, located in Central Queensland, is a city of around 80,000 people, often dubbed the “Beef Capital of Australia” due to its strong cattle industry and heritage. It served as the main city hub during my time in Queensland, acting as the gateway to Shoalwater Bay and the broader Capricorn region. While the city itself isn't flashy, it has a grounded charm, warm, slow-paced, and built around a mix of old Queenslander architecture, working-class history, and wide streets lined with palm trees and cattle statues.\n\nI arrived in Rockhampton via Rockhampton Airport, which is compact but well-connected to major Australian cities. Getting around the city was straightforward, with most amenities easily reachable by car. In between operational days and movements toward the training area, I took time to explore some local highlights. The Fitzroy River cuts through the city and offers scenic walking trails and riverside views, especially at dusk. Kershaw Gardens and Botanic Gardens provided quiet green spaces to recharge, and Mount Archer offered panoramic views of the surrounding region, perfect for a brief hike or sunset stop.\n\nRockhampton felt like a place built on resilience and routine. It was the kind of city where small interactions stood out, and even everyday errands had a relaxed rhythm. It served as a calm reset between the demands of field operations and long-range road movements.\n\nVisited Gladstone & Yeppoon (and Great Keppel) but somewhat lazy to post them! However, I would recommend visiting the Great Keppel and Capricorn Caves!\n\nAlways Wandering, \n~bunbun\n\n#XWB2025\n#bunbun",
     "reactions": [],
     "comments": []
   },
@@ -23136,16 +22705,14 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Ah... Amsterdam.. the red lights and weed.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Ah... Amsterdam.. the red lights and weed.\n\nyea that is correct.. BUT ALSO SO MUCH MORE THAN THAT\n\nYou can enjoy your nutella stroopwafel or one of the many events. I visited Amsterdam a number of times this year, one of which was during SAIL amsterdam where lots of ships dock and you can enjoy them.\n\nAmsterdam is home to the biggest Dutch airport: schiphol but also very accessible by boat, train, bus, car or bicycle (just take the bicycle, it's great)\n\nI just found out that Amsterdam has like 1.5 million people, of which almost a million in the city centre itself which is like - crazy to me\n\nAnyway come to enjoy Amsterdam and then move to other nice places in the Netherlands as well",
     "reactions": [
       {
         "e": "🤌",
         "c": 1
       }
     ],
-    "comments": [],
-    "lite": true
+    "comments": []
   },
   {
     "id": "s-regensburg-spookyxjenn",
@@ -23185,8 +22752,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Regensburg, 151k inhabitants, located in the state of Bavaria.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Regensburg, 151k inhabitants, located in the state of Bavaria.\nThe closest airports are Nuremberg and Munich, both being around a 1h drive.\nsome noteworthy spots are\n\n- Dackelmuseum (the world's only Dachshund themed Museum)\n- Stenz Eis (great ice cream)\n- Miss Hong (fire japanese/korean restaurant)\n- Steinerne Brücke \n- Regensburg Cathedral\n- Wurstkuchl, the world's first sausage restaurant \n\nThe old town is super compact and nice to walk around. You can also take a boat trip across the Danube River and the German Museum Walhalla is just a stone throw away.",
     "reactions": [
       {
         "e": "🤌",
@@ -23228,8 +22794,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Also known as “Treasure City” and simply “Cluj”, it’s the county seat of Cluj county, as well as the 2nd most populous city (population of ~286k (people) in Romania (+ it’s where I live)! It got the titles of European City of Youth (2015) and European City of Sport (2018), thanks to the promotion of the education,…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Introduction\nAlso known as “Treasure City” and simply “Cluj”, it’s the county seat of Cluj county, as well as the 2nd most populous city (population of ~286k (people) in Romania (+ it’s where I live)! It got the titles of European City of Youth (2015) and European City of Sport (2018), thanks to the promotion of the education, youth life and sport events around Cluj-Napoca. \nThe city’s old town has strong Hungarian influences, primarily because of it being part of Hungary back in the Middle Ages and 18th-19th century.\n\nHow do I get there?\nYou could take the train from many of the big Romanian cities, but could also take it internationally from Budapest (~10h) or Vienna (~13-15h with transfer). Cluj’s airport is one of the biggest in the country, with many destinations around Europe operated by WizzAir (mostly), so you could also go by plane, and then either take the (1) airport bus or the (2) 5/8 trolleybus. Coach buses are also available, although beware that many bus drivers barely speak English.\nWhat can I do/see in Cluj-Napoca?\nAs the city of youth in Romania, especially thanks to its higher education institutions, there’s lots of opportunities to offer for young people, and there’s also plenty to see around Cluj, here are some things that come to mind:\nExplore the Old Town, explore the main outskirts of the area\n    You can take a walk around the old town of Cluj, admire the architecture, and visit the St. Michael’s Church and Piața Unirii (Union Square), which is the main part of the city. There’s lots of cafes and restaurants to try as well, which I’ll be listing shortly. You can also visit Central Park, which is what I’d call a relaxing place in the city, where you can socialise and exercise.\nThere’s also the Turda Gorge (I’ve been) and the Turda Salt Mines (I haven’t been yet), both of which are located about 1h away by driving from Cluj-Napoca, there are buses that go from Cluj to Turda, so that you could enjoy exploring the salt mines and/or hiking at the gorge! I know Turda is outside of Cluj, but it's worth mentioning, since a lot of people that come here tend to also go in the Salt Mines. There’s more to see, but I don’t think I could put them all in these Discord messages. 😂😅\nEnjoy the cuisine!\n    Since Cluj has many cafes and restaurants, I would highly recommend Cafe Bulgakov, really great food at a fairly affordable price, it’s also a Hungarian-owned restaurant in Cluj, which I think could add to the vibes this city has to offer. Although I’ve never been (yet), Zama is also a great choice for Romanian food as far as I know. \nCofeels, Dellissima Bakery, Gigi are among the street food and coffee shops that I’ve tried around the old town that are pretty good I’d say. I’d wanna try out more places in this city, so if you’re planning to visit and don’t know which one you’d prefer, you could contact me by pinging my username/nickname in this server!\nFestivals, partying etc etc\n    The main festivals that I could think of are: Untold (Cluj Arena stadium), Jazz in The Park (at the Ethnological Park) and TIFF/Transylvania International Film Festival (Union Square). Untold is the biggest one in the city, so if you’d like to party at night on a Summer night, then Untold is for you. If you wanna relax by listening to chill music as well, Jazz in The Park is for you. If you enjoy films, then TIFF is for you! All of these festivals take place in the Summer, I think it’s a really great time to go as well. There’s also Electric Castle, which is located in Bonțida (outside of Cluj, could go by commuter train or bus generally speaking), at the Bánffy Castle.\n\n        That’s all of the information I could give for Cluj-Napoca, if you go there, enjoy your stay! You can also ask me questions regarding Cluj if you’d like and I’ll answer depending on my knowledge/research.\nEnjoy Cluj!\n-# if you're going, that is",
     "reactions": [
       {
         "e": "🤌",
@@ -23266,8 +22831,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Mt first African city and it lives up to expectations. It has abt half a million people in the city and about half a million more in the surrounding areas.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Agadir is an ... interesting place.\n\nMt first African city and it lives up to expectations. It has abt half a million people in the city and about half a million more in the surrounding areas.\n\nThe airport is .. also .. interesting I guess. Other options are road, train or via boat.\n\nWhilst Agadir is nice, I went to Tamraught and Taghazout for surfing and according to locals those towns are a bit safer than Agadir itself, although Agadir is also quite safe according to locals.\n\nIdk man its mt first time in Africa and it seems cool so far.\n\nTheres police literally on every roundabout and they seem to just enjoy the sun everyday. Also the Africa cup is going on so idk lotsa futty I guess.\n\nFunnnnn tiiimessss",
     "reactions": [
       {
         "e": "🤌",
@@ -23324,8 +22888,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Constanța is the 4th largest city in Romania, the main port city of the country located in Constanța county, bordering the Black Sea. It’s the oldest continuously inhabited city of Romania, as well as among the oldest in Europe. Its name when it was founded was called “Tomis”, thanks to the Greek colonisers.",
-    "getThere": "The city also has an airport, however, from what I could gather, you could get there only from London Luton (LTN) airport or Istanbul (IST) airport. It’s best to get to Bucharest Otopeni (OTP) airport, take the train from there and get the train from Bucharest’s Gara de Nord (Bucharest North) train station.",
-    "thingsToDo": [],
+    "content": "Introduction\n    Constanța is the 4th largest city in Romania, the main port city of the country located in Constanța county, bordering the Black Sea. It’s the oldest continuously inhabited city of Romania, as well as among the oldest in Europe. Its name when it was founded was called “Tomis”, thanks to the Greek colonisers. \n    Constanța is known for its unique and multicultural heritage, also thanks to its rich history from the moment when it was occupied by the Romans, the Byzantines, the Bulgarians and then the Ottomans (which also explains the strong Turkish influences around the city).\n\nHow do I get there?\n    The only thing I could think of when it comes to getting there with public transport is by train from Bucharest. The journey takes ~2.5h, where most of the trains on that line get speeds up to 160 km/h. Obviously, there are also coach buses and many bus drivers here could barely speak English (I think you could get by most of the time, now to think of it). \n    The city also has an airport, however, from what I could gather, you could get there only from London Luton (LTN) airport or Istanbul (IST) airport. It’s best to get to Bucharest Otopeni (OTP) airport, take the train from there and get the train from Bucharest’s Gara de Nord (Bucharest North) train station.\n\nWhat can I do/see in Constanța?\nHere are three main things that come to mind when I think about Constanța:\nRelax at the beach\n    Since Constanța is located next to the sea, there are plenty of beaches that go around the city + Mamaia, an adjacent part of the city. There are also stands where you could take a drink or even eat something (I think), although prices vary based on the location and the type of stand. \nThe beaches that come to mind when in Constanța or nearby are: Aloha, Modern, 3 Papuci (literally called ”3 Shoes”), Mamaia Beach (NOT to be confused with Miami Beach). Reyna. And yes, these are real beach names of the city.\nExplore the Old Town and enjoy architecture\n    The old town is also worth mentioning, since it has the main tourist attraction, where events are held in the Summer nowadays, which is called the Casino (of Constanța). Other attractions worth mentioning are the Ovid’s Square, Genoese Lighthouse (it used to be a trading city with the Genoese!) and the Grand Mosque. So many architectural influences for a city like this, btw. I think the main artery of the city would have to be the Tomis Boulevard, it has so many things that I really liked around the area. Trying gelato for the first time there at RARA Gelato also felt so nice!\nTry its cuisine!\n    If there’s one thing I’d have to mention that I really liked the style of, then it has to be the Chebureki (or as we, the Romanians, like to call it, Șuberec). It’s at the Turko-Tatar restaurant called “Musafir Efendi”, right around the Old Town! \nOther restaurants/types of local stuff are: Nikos Taverna (Greek), Cin Cin (Italian), Konak (fully Turkish!) and, for what it’s worth, any “cherhana” around the coastline! “Cherhana”s are basically small businesses located near the coastline, which serve recently caught fish as far as I’m aware of.\nPlus, you can try Dobrogea’s variant of “plăcintă”, which is a variant of the popular Romanian pastry, at the heart of the region of Dobrogea (in Constanța!).\n\nThat’s all of the information I could give for Constanța, if you go there, enjoy your stay! You can also ask me questions regarding Constanța if you’d like and I’ll answer depending on my knowledge/research.",
     "reactions": [
       {
         "e": "🤌",
@@ -23379,8 +22942,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Amsterdam has a lot of canals - I recommend you spending the time just walking around them, different vibes during the day compared to the evening. There is a huge nightlife culture in Amsterdam - I stayed fairly central and could hear the sounds of conversations and music blaring till early morning.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Population of around 1 million people, Amsterdam is easily accessible via various airports, often used as a major connecting hub. I got here by plane from the UK but you can also reach here via flixbus or Eurostar. \n\nAmsterdam has a lot of canals - I recommend you spending the time just walking around them, different vibes during the day compared to the evening. There is a huge nightlife culture in Amsterdam - I stayed fairly central and could hear the sounds of conversations and music blaring till early morning.\n\nI wasn't a huge fan of Amsterdam in general to be honest, I found it kind of seedy but also I was there alone so it may be different if I was with friends. Will have to come back someday to see it properly as I technically only spent 1 day there. \n\nPS. Amsterdam is known for bikes - I was actually warned not to get into the bike lanes unless I want to get run over 🔥",
     "reactions": [
       {
         "e": "🤌",
@@ -23427,8 +22989,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "If you're ever overwhelmed by the busyness of Amsterdam and want somewhere calm, I definitely recommend Zaandam. Its about 20 minutes by train from Amsterdam Central Station.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Average population of about 70k\n\nIf you're ever overwhelmed by the busyness of Amsterdam and want somewhere calm, I definitely recommend Zaandam. Its about 20 minutes by train from Amsterdam Central Station. \n\nIn Zaandam I visited Zaanse Schans, a historic village famous for their windmills. You can easily spend few hours walking around here. \n\nThe road towards the village is actually raised to allow the cars to drive past. It's only when the road is fully lowered and the barriers raised that you can walk across it. Thought this was pretty cool.",
     "reactions": [
       {
         "e": "🤌",
@@ -23460,8 +23021,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "So I spent an afternoon in this city after catching a train from Amsterdam and I found this city a lot more calmer than Amsterdam but also a lot more multicultural with fewer tourists.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Population of around 370k \n\nSo I spent an afternoon in this city after catching a train from Amsterdam and I found this city a lot more calmer than Amsterdam but also a lot more multicultural with fewer tourists. \n\n(There's more brown people here 🥳 )\n\nI must have seen about 10 kebab shops just walking around the centre. \n\nThere is also a cool, colourful looking tunnel that you can walk through: https://maps.app.goo.gl/ocdNGnTMtVg9SDFH6\n\nFor food, there's many ethnic restaurants. I visited a Surinamese restaurant which seemed like there were many across this city: https://maps.app.goo.gl/qKCv9iFPdidJQDvf6",
     "reactions": [
       {
         "e": "🤌",
@@ -23498,8 +23058,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "I got here via Eurostar from Brussels. But you can also fly here from numerous airports.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "City of around 2 million people\n\nI got here via Eurostar from Brussels. But you can also fly here from numerous airports.\n\nI spent a whole day in Paris, racking up 30k steps at least and I was pleasantly surprise by it. Granted I didn't really visit inside of many places nor did I visit a lot of the city, but I didn't think the French were as rude as I previously thought. \n\nI stayed near the Eiffel Tower but didn't get a chance to visit it when I arrived there that night -- need to go back in the future to see the lights at night. But during the day, I walked from the Eiffel Tower, to Arc de Triomphe, Place de la Concorde before heading back to the airport.\n\nThat being said I haven't really explored Paris entirely but considering it surpassed my expectations of people, I would go back.",
     "reactions": [
       {
         "e": "🤌",
@@ -23551,8 +23110,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "You can take a train from Brussels which would take an hour. I however went to Bruges as part of a walking guided tour and literally loved this city the most during my May NL/BE/FR trip.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Population of around 120k \n\nYou can take a train from Brussels which would take an hour. I however went to Bruges as part of a walking guided tour and literally loved this city the most during my May NL/BE/FR trip. \n\nBruges has a romantic history so its famous for being visited by couples, there is also a bridge called Minnewater  or \"Lover's Bridge\"\n\nIt is also home to nuns in Begijnhof which historically housed single celibate women. As visitors you are expected to maintain quiet when walking around. \n\nBruges is also famous for its chocolate, as is with Belgium in general so you will find a lot of stores ( I bought way too many)!",
     "reactions": [
       {
         "e": "🤌",
@@ -23609,8 +23167,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "This is probably the most wildest trip I've ever taken, not in the way I ever expected it to happen. Once upon a time in WL history, someone joined the server who then invited and introduced her friend to me, who I ended up meeting in Brussels and who somehow became the love of my life.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Population: around 1.2 million\n\nThis is probably the most wildest trip I've ever taken, not in the way I ever expected it to happen. Once upon a time in WL history, someone joined the server who then invited and introduced her friend to me, who I ended up meeting in Brussels and who somehow became the love of my life. \n\nIn other words, Brussels is not that interesting, places close way too early, and if you don't drink then there aren't really places nice enough to hang out in, the metro doesn't run 24 hours, the city can seem kind of shady in places yet it oddly reminds me of my own city. From one shithole to another. But I think the most important thing is who you spend time in Brussels with. \n\nThis year alone, I've visited Brussels 4 times, got there in multiple ways (flew directly from my city, flixbus from Amsterdam or Eurostar from London), spent time in different areas and.... I must be crazy to keep going back. I do honestly think people are lovely here albeit French speaking with a high population of people from Turkish and Arab backgrounds. \n\nThere's so many gardens and parks here that you can just keep walking around in, one of my favourites is Jardin botanique de Bruxelles or Jardin du Mont des Arts where you can sit on the top of the steps and watch the sunset (we've done this so many times). \n\nIf you love shopping you can explore the streets off Rogier station\nFor chocolate and waffles visit the places around Grand Place (although may be touristy). The Grand Place also hosts events and festivals too at certain times\nFor Turkish food/community see area around Sint-Joost\nThe nicer part of the city that I've visited so far is Ixelles (to the south of brussels if you wish to stay a little further from the centre)\n\nMy boyfriend has spent a while researching and finding restaurants/food places I'd like so here's a few I recommend:\n\nMoroccan owned seafood restaurant, you pick whichever seafood you want and they will grill/fry it for you https://maps.app.goo.gl/PXhcZ6DauNxNF3w97\nChicken place https://maps.app.goo.gl/YYvU1hGLQ5jUmVXW7\nTurkish breakfast https://maps.app.goo.gl/nxM3g7DvoBQSvYwL8",
     "reactions": [
       {
         "e": "🤌",
@@ -23654,11 +23211,9 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Sooo Safi turns out has 300k people, didn't know that.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Sooo Safi turns out has 300k people, didn't know that.\n\nWe arrived by car, got stopped by police twice and only once was corrupt. Moral of the story: don't drive if ur rosa cos police don't like you.\n\nCity is pretty walkable as well and has a big train station. The closest airport is Casablanca but you could also train from Marrakech or Agadir. Then Safi is very known for the fish. Big ferry port and lots of seafood cuisine.\n\nThere's also lots of other food of course.",
     "reactions": [],
-    "comments": [],
-    "lite": true
+    "comments": []
   },
   {
     "id": "s-yerevan-lemonandlimeswirl",
@@ -23713,8 +23268,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Yerevan is the capital of Armenia and I had only a day to spare before I had to get back to work on the weekdays. I arrived there early in the morning and wanted to make sure that I would be able to see places outside of the city first and then take my time during the weekdays to walk around the city before work…",
-    "getThere": "Yerevan is the capital of Armenia and I had only a day to spare before I had to get back to work on the weekdays. I arrived there early in the morning and wanted to make sure that I would be able to see places outside of the city first and then take my time during the weekdays to walk around the city before work started. I visited the Cascade staircase with engravings of Armenian history and culture. On a clear day, it’s also possible to see Mount Ararat. There’s also a museum tucked inside. Going up further is Mother Armenia. \nI also visited the Blue Mosque, which is said to be the only mosque in Yerevan. The blue dome and the patterns were impressive. The Vernissage is an open air market selling Armenian souvenirs. At night, make sure to check out the singing fountains at Republic Square. I also visited the cathedral of St Gregory. It was very modern and felt very different to the ones you’d see outside of the city. The churches outside of the city felt very unique and unlike I’ve seen in other places. \nHere’s a list of places to check out that’s outside of Yerevan\n- Lake Sevan \n- Symphony of stones \n- Garni temple \n- Letters Park \n- Sanahin\n- Khor Virap \n- Hagiphat \n- 3D cross\n- Ohanavarank \n- Geghard Monastery",
-    "thingsToDo": [],
+    "content": "Population: 1.1m\nGetting there: bus from Tbilisi, Georgia or flight\n\nYerevan is the capital of Armenia and I had only a day to spare before I had to get back to work on the weekdays. I arrived there early in the morning and wanted to make sure that I would be able to see places outside of the city first and then take my time during the weekdays to walk around the city before work started. I visited the Cascade staircase with engravings of Armenian history and culture. On a clear day, it’s also possible to see Mount Ararat. There’s also a museum tucked inside. Going up further is Mother Armenia. \nI also visited the Blue Mosque, which is said to be the only mosque in Yerevan. The blue dome and the patterns were impressive. The Vernissage is an open air market selling Armenian souvenirs. At night, make sure to check out the singing fountains at Republic Square. I also visited the cathedral of St Gregory. It was very modern and felt very different to the ones you’d see outside of the city. The churches outside of the city felt very unique and unlike I’ve seen in other places. \nHere’s a list of places to check out that’s outside of Yerevan\n- Lake Sevan \n- Symphony of stones \n- Garni temple \n- Letters Park \n- Sanahin\n- Khor Virap \n- Hagiphat \n- 3D cross\n- Ohanavarank \n- Geghard Monastery",
     "reactions": [
       {
         "e": "🤌",
@@ -23769,8 +23323,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "I had not planned to visit Uzbekistan. Met some tourists while I was in Almaty saying how much they loved Uzbekistan. I was considering Kyrgyzstan but realized that i needed more planning than simply showing up. Since I had not done any research and basically showed up to the Tashkent airport, I was told that I…",
-    "getThere": "I had not planned to visit Uzbekistan. Met some tourists while I was in Almaty saying how much they loved Uzbekistan. I was considering Kyrgyzstan but realized that i needed more planning than simply showing up. Since I had not done any research and basically showed up to the Tashkent airport, I was told that I needed a visa. Fortunately they have a 5-day visa transit program so I had to book a last minute ticket out of UZ. Trip was cut short but it was my fault for my lack of preparedness. Samarkand and the mausoleums were definitely the highlights of my trip this summer. Upon arriving in the city, I was impressed by the Islamic architecture at Registan Square. During the Timurid Empire, the King developed the city into a center for Islamic art and learning. There are 3 madrasahs inside the square. There are several other madrasahs located not too far away from Registan square. There are also many mausoleums and my favorite was Shah-i-Zinda. I went there during sunset. There’s also a mosque but I didn’t get a chance to visit during its opening hours. About 25km south of Samarkand, there’s also the Ak-Saray-Palace (or the remnants of it) in Shahrisabz. I remember seeing a few places that were currently being restored and not open to the public.",
-    "thingsToDo": [],
+    "content": "Population: 600k\nGetting there: train from Tashkent, flight\nI had not planned to visit Uzbekistan. Met some tourists while I was in Almaty saying how much they loved Uzbekistan. I was considering Kyrgyzstan but realized that i needed more planning than simply showing up. Since I had not done any research and basically showed up to the Tashkent airport, I was told that I needed a visa. Fortunately they have a 5-day visa transit program so I had to book a last minute ticket out of UZ. Trip was cut short but it was my fault for my lack of preparedness. Samarkand and the mausoleums were definitely the highlights of my trip this summer. Upon arriving in the city, I was impressed by the Islamic architecture at Registan Square. During the Timurid Empire, the King developed the city into a center for Islamic art and learning. There are 3 madrasahs inside the square. There are several other madrasahs located not too far away from Registan square. There are also many mausoleums and my favorite was Shah-i-Zinda. I went there during sunset. There’s also a mosque but I didn’t get a chance to visit during its opening hours. About 25km south of Samarkand, there’s also the Ak-Saray-Palace (or the remnants of it) in Shahrisabz. I remember seeing a few places that were currently being restored and not open to the public.",
     "reactions": [
       {
         "e": "🤌",
@@ -23797,8 +23350,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Known as the declaration point of the Great Union of Romania in 1918, Alba Iulia is the county seat of Alba county (NOT to be confused with Scotland, btw!), with a population of ~64k people.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Introduction\n    Known as the declaration point of the Great Union of Romania in 1918, Alba Iulia is the county seat of Alba county (NOT to be confused with Scotland, btw!), with a population of ~64k people.\n    It’s one of the cities in Romania known for its historical importance in Romanian, Hungarian and Transylvanian Saxon (German-speaking) culture! Hence its name being also written in Hungarian (Gyulafehérvár) and German (Karlsburg), the other more known city in Romania that I could think of that also has a German name is Sibiu (Hermannstadt).\n\nHow do I get there?\n    Since Alba Iulia doesn’t have an airport, it’s best to take the train from one of the big cities in Romania, especially in the Transylvanian region (Cluj-Napoca, Sibiu, Timișoara etc etc). You could also take a direct train from outside the said region, examples: Bucharest, Craiova, Iași (although the length is longer than the other 2).\n    Coach buses are also available for this city.\n\nWhat can I do/see in Alba Iulia?\n     Here’s the main thing that comes to mind when I think about Alba Iulia:\nVisit its Citadel!\n    The Old Town of Alba Iulia is located in a citadel called the Alba-Carolina Citadel. This is practically the main part of the city, where events take place pretty often, especially in the Summer and on 1 December (Romania’s national day).\n    There’s two important things to visit when you’re in Alba Iulia: the National Museum of the Union and the Union’s Hall. The museum offers a wide variety of historical events and traditions from what I could recall. It was nice to see, worth the 1-2h of just seeing the museum. The Union’s Hall is part of the museum, also important to see how the Great Union of Romania started, where the Resolution of the Union (between the regions of Transylvania, Banat, Crișana and Maramureș and the Kingdom of Romania at the time) is located.\n    On the other hand, two churches are also situated in the citadel! The one at the main entrance of the citadel is called the Coronation Cathedral, which is an orthodox cathedral, and the ”St. Michael” Cathedral, which is a catholic cathedral.\n    All of the citadel can be visited in just one day. I call it a vibe to go around it, even if it’s fairly small. You could enter the citadel for free! You’d only have to pay for a ticket at the museum, which normally costs approximately 30-ish lei (~5-ish euros) as of 2025. I don’t really remember the price anymore unfortunately…\n\n    That’s all of the information I could give for Alba Iulia, if you go there, enjoy your stay! You can also ask me questions regarding Alba Iulia if you’d like and I’ll answer depending on my knowledge/research.",
     "reactions": [
       {
         "e": "🤌",
@@ -23842,8 +23394,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Hunedoara, while being an important city of Hunedoara county, is not even the county seat of Hunedoara county. As a matter of fact, it’s the 2nd largest city of Hunedoara county, with a population of ~50k people.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Introduction\n    Hunedoara, while being an important city of Hunedoara county, is not even the county seat of Hunedoara county. As a matter of fact, it’s the 2nd largest city of Hunedoara county, with a population of ~50k people.\n    It’s home to Corvin Castle (aka Hunyadi Castle, Hunedoara Castle), the only significant tourist attraction that I could think of when it comes to this city.\n\nHow do I get there?\n    Seems like the bus is the only option to get to Hunedoara, specifically from the city of Deva. To get there by just public transport, take the train to Deva from any city that has a direct connection there (layovers in the Romanian railways won’t exactly guarantee you get there in no-time, btw), then take the bus from there to arrive at Hunedoara.\n\nWhat can I do/see in Hunedoara?\nHere’s the main thing that comes to mind when I think about Hunedoara:\nVisit Corvin Castle!\n    Built by order of John Hunyadi (the Voivode of Transylvania at the time) in the 15th century (1446), is a Gothic-Renaissance castle that has been rebuilt in the 19th century, currently being one of the largest castles in Europe. To put it short, it has lots of history behind it, as well as some interesting information to find out about this castle. Fun fact: Matthias Corvinus (king of Hungary at the time, in the 15th century) used to own the castle as well!\n    There are food trucks before the entrance as well, with chimney cakes and langos in there as well! The museum that I’ve always considered as an easter egg (since I found out about it once I got there) is the Torture Museum of Hunedoara. It shows the methods of torture back in the MIddle Ages, as well as (if you could catch it) some scary sounds in there, that museum is NOT for the weak!\n    The entrance ticket to the castle would normally cost 50 lei (~10 euros), and the one for the torture museum costs 15 lei (~3 euros) as of 2025.\n\nThat’s all of the information I could give for Hunedoara, if you go there, enjoy your stay! You can also ask me questions regarding Hunedoara if you’d like and I’ll answer depending on my knowledge/research.\n    Fun fact: This might be the shortest Globetrotter 2025 post that I ever wrote, since there’s really one main tourist attraction in the city, apart from Hunedoara Zoo, which is temporarily closed (according to Google Maps, that is).",
     "reactions": [],
     "comments": [],
     "videos": [
@@ -23877,8 +23428,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Utrecht is considered one of the bigger cities in the Netherlands. It has a lil over like 350k people and is very centrally located in the country, making it very well traveled.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Utrecht is considered one of the bigger cities in the Netherlands. It has a lil over like 350k people and is very centrally located in the country, making it very well traveled.\n\nUtrecht has the Jaarbeurs, which is a big convention hall which hosts the yearly motorcycle convention and many more. The jaarbeurs is a 5 minute walk away from Utrecht central station.\n\nBeing so central, you can catch a direct train from Utrecht to all corners of the country, including the airport. You can either fly into Amsterdam or Eindhoven, with AMS being the more usual route.\n\nUtrecht also has its shopping center \"Hoog Catharijne\" close to the central train station, but it's rather known for homeless people begging and generally being bothersome.\n\nAnyway, NL isn't that big and Utrecht is so central, every tourist attraction or nice spot is reachable within the hour.",
     "reactions": [],
     "comments": []
   },
@@ -23930,18 +23480,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "You can fly into Paris via many airports and airlines",
-    "getThere": "You can fly into Paris via many airports and airlines\n\nHere’s how to get into Paris from Paris’ 2 airports:\nFrom Aéroport Paris-CDG:\n• Take the RER B, which operates from 04:50 to 23:00\n• Take the Roissybus, which provides a direct link between Terminal 1 and Opéra.\nThe Roissybus operates from 05:15 to 00:30\n• Take either the Noctiliens N143 and N140 bus, which operate from Terminals 1, 2, and 3 to Gare de l’Est.\nThese buses operate during the night\n\nFrom Aéroport d'Orly:\n• Take the Metro Line 14 to either Paris-Gare de Lyon or Paris-Châtelet, which take 23 minutes and 26 minutes respectively\nThe line stops directly at Aéroport d'Orly Terminal 3\n• There is a free shuttle bus available from Terminals 1, 2, and 4, or you can walk on foot\n\nYou can also take the Eurostar to Paris 🚃 \n\nFrom London:\n• You can take the Eurostar from St Pancras International, London to Paris Gard du Nord\nYou will go through the Channel Tunnel",
-    "thingsToDo": [
-      "Visit the Eiffel Tower and climb it (tickets have to be booked in advance to climb it)",
-      "Watch the Eiffel Tower light up at night and sparkle",
-      "Book a Seine River boat trip",
-      "Take a day trip to Versailles, where you can visit the Palace of Versailles",
-      "Visit Le Musée du Louvre (the Louvre Museum) and see the Mona Lisa (known as La Joconde in french)",
-      "Visit l’Arc de Triomphe, Les Champs-Elysées, Place de la Concorde, and eat in an amazing restaurant called « Le Mac-Mahon Café » (all these places are close together)",
-      "Seethe Basilique du Sacré-Cœur de Montmartre (thé Sacré-Cœur) and the Moulin Rouge",
-      "Visit Notre Dame",
-      "Enjoy a meal at the Canal Saint-Martin"
-    ],
+    "content": "Population: 🏡\nRoughly 2 million people\n\nHow to get there: ✈️\nYou can fly into Paris via many airports and airlines\n\nHere’s how to get into Paris from Paris’ 2 airports:\nFrom Aéroport Paris-CDG:\n• Take the RER B, which operates from 04:50 to 23:00\n• Take the Roissybus, which provides a direct link between Terminal 1 and Opéra.\nThe Roissybus operates from 05:15 to 00:30\n• Take either the Noctiliens N143 and N140 bus, which operate from Terminals 1, 2, and 3 to Gare de l’Est.\nThese buses operate during the night\n\nFrom Aéroport d'Orly:\n• Take the Metro Line 14 to either Paris-Gare de Lyon or Paris-Châtelet, which take 23 minutes and 26 minutes respectively\nThe line stops directly at Aéroport d'Orly Terminal 3\n• There is a free shuttle bus available from Terminals 1, 2, and 4, or you can walk on foot\n\nYou can also take the Eurostar to Paris 🚃 \n\nFrom London:\n• You can take the Eurostar from St Pancras International, London to Paris Gard du Nord\nYou will go through the Channel Tunnel\n\nThings to see/do: 📷\nThere are many places to go and things to do in Paris! Here are some of the things I did whilst in Paris last July:\n\n• Visit the Eiffel Tower and climb it (tickets have to be booked in advance to climb it)\n• Watch the Eiffel Tower light up at night and sparkle\n• Book a Seine River boat trip\n• Take a day trip to Versailles, where you can visit the Palace of Versailles\n• Visit Le Musée du Louvre (the Louvre Museum) and see the Mona Lisa (known as La Joconde in french)\n• Visit l’Arc de Triomphe, Les Champs-Elysées, Place de la Concorde, and eat in an amazing restaurant called « Le Mac-Mahon Café » (all these places are close together)\n• Seethe Basilique du Sacré-Cœur de Montmartre (thé Sacré-Cœur) and the Moulin Rouge\n• Visit Notre Dame\n• Enjoy a meal at the Canal Saint-Martin\n\nParis is a fantastic city, filled with so much history! I loved every minute of my trip!  🇫🇷✨",
     "reactions": [],
     "comments": [],
     "videos": [
@@ -23980,16 +23519,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "You can get to Belfast city centre easily from these airports:",
-    "getThere": "You can get to Belfast city centre easily from these airports:\n• Belfast International Airport\n• George Best Belfast City Airport\n\nFrom Belfast International Airport:\nThere are regular buses and taxis that take you into Belfast\n\n From George Best Belfast City Airport:\n• There is a designated bus service called the Airport Express 600 Service\nThese buses arrive every 20 minutes and then journey takes around 10 minutes\n• There is also a train service operated by NI Railways that connects George Best Belfast City Airport with the rest of Northern Ireland\n\nThere are also ferries from Scotland to Belfast",
-    "thingsToDo": [
-      "Watch ice hockey games in the SSE Arena",
-      "Visit Belfast Zoo",
-      "Visit Belfast City Hall",
-      "Visit the Titanic Centre",
-      "Visit the Ulster Museum and stop by the Botanical Gardens",
-      "Take a day trip to the Giant’s Causeway up north, and also visit Dunluce Castle and Rathlin Island",
-      "Go shopping in Victoria Square"
-    ],
+    "content": "Population:\nAround 350,000 people\n\nHow to get there?\n\nYou can get to Belfast city centre easily from these airports:\n• Belfast International Airport\n• George Best Belfast City Airport\n\nFrom Belfast International Airport:\nThere are regular buses and taxis that take you into Belfast\n\n From George Best Belfast City Airport:\n• There is a designated bus service called the Airport Express 600 Service\nThese buses arrive every 20 minutes and then journey takes around 10 minutes\n• There is also a train service operated by NI Railways that connects George Best Belfast City Airport with the rest of Northern Ireland\n\nThere are also ferries from Scotland to Belfast\n\nThings to do/see:\n\nThere’s lots in Belfast to do!\n\n• Watch ice hockey games in the SSE Arena\n• Visit Belfast Zoo\n• Visit Belfast City Hall\n• Visit the Titanic Centre\n• Visit the Ulster Museum and stop by the Botanical Gardens\n• Take a day trip to the Giant’s Causeway up north, and also visit Dunluce Castle and Rathlin Island\n• Go shopping in Victoria Square\n\nI love my home country so much <33",
     "reactions": [
       {
         "e": "🤌",
@@ -24064,14 +23594,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "There are 3 main ways to get to Versailles from Paris:",
-    "getThere": "From Paris:\nThere are 3 main ways to get to Versailles from Paris:\n\n• Way 1: Take the RER C train that crosses Paris and follows the Seine River\n• Way 2: Take the Train Line L, starting at Saint Lazare\n• Way 3: Take the Train Line N, starting at Montparnasse",
-    "thingsToDo": [
-      "Visit the Palace of Versailles and the gardens",
-      "See Carrés Saint-Louis",
-      "Visit Musée Lambinet, which showcases the history of Versailles",
-      "Visit the Notre-Dame Market, where you can buy fresh food and goods",
-      "Eat in some of the many boulangeries and cafés in Versailles"
-    ],
+    "content": "Population: 🏡 \n85,000 people\n\nHow to get there? 🚃 \nFrom Paris:\nThere are 3 main ways to get to Versailles from Paris:\n\n• Way 1: Take the RER C train that crosses Paris and follows the Seine River\n• Way 2: Take the Train Line L, starting at Saint Lazare\n• Way 3: Take the Train Line N, starting at Montparnasse\n\nThings to see/do: 📸 \n• Visit the Palace of Versailles and the gardens\n• See Carrés Saint-Louis\n• Visit Musée Lambinet, which showcases the history of Versailles\n• Visit the Notre-Dame Market, where you can buy fresh food and goods\n• Eat in some of the many boulangeries and cafés in Versailles",
     "reactions": [
       {
         "e": "🤌",
@@ -24168,17 +23691,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Capital of Azerbaijan located on the western shore of the Caspian Sea. Known for its oil in the 15th century, modern commercialization began in 1872 and continues today. I only heard about Azerbaijan when I met some friends from there 5 years ago. Since I was in the Caucasus I decided to visit. There’s an old town…",
-    "getThere": "Capital of Azerbaijan located on the western shore of the Caspian Sea. Known for its oil in the 15th century, modern commercialization began in 1872 and continues today. I only heard about Azerbaijan when I met some friends from there 5 years ago. Since I was in the Caucasus I decided to visit. There’s an old town (Icherisheher) that’s impossible to miss. Palace of the Shirvanshas and the Maiden Tower date back to the 15th and 12th centuries, respectively. You can catch a glimpse of the city from the tower. There’s also a miniature bookstore that’s worth checking out. I also enjoyed the parks that were found almost everywhere in the city. Similar to all former USSR countries, there’s an eternal flame monument. There’s a cable car that takes you all the way up there. I did a boat ride on the Caspian Sea. The sea had a mirror like feel. I liked the architecture at the Heydar Aliyev Center but didn’t get a chance to go inside. \n\nAlso listing a few things to do outside the city\n- Candy mountain \n- Gobustan \n- Mud volcano \n- Samaxi \n- Shaki palace\n- Shadag \n- Yanardag\n- Ateshagah temple",
-    "thingsToDo": [
-      "Candy mountain",
-      "Gobustan",
-      "Mud volcano",
-      "Samaxi",
-      "Shaki palace",
-      "Shadag",
-      "Yanardag",
-      "Ateshagah temple"
-    ],
+    "content": "Population: 2.5m \nGetting there: flight\nCapital of Azerbaijan located on the western shore of the Caspian Sea. Known for its oil in the 15th century, modern commercialization began in 1872 and continues today. I only heard about Azerbaijan when I met some friends from there 5 years ago. Since I was in the Caucasus I decided to visit. There’s an old town (Icherisheher) that’s impossible to miss. Palace of the Shirvanshas and the Maiden Tower date back to the 15th and 12th centuries, respectively. You can catch a glimpse of the city from the tower. There’s also a miniature bookstore that’s worth checking out. I also enjoyed the parks that were found almost everywhere in the city. Similar to all former USSR countries, there’s an eternal flame monument. There’s a cable car that takes you all the way up there. I did a boat ride on the Caspian Sea. The sea had a mirror like feel. I liked the architecture at the Heydar Aliyev Center but didn’t get a chance to go inside. \n\nAlso listing a few things to do outside the city\n- Candy mountain \n- Gobustan \n- Mud volcano \n- Samaxi \n- Shaki palace\n- Shadag \n- Yanardag\n- Ateshagah temple",
     "reactions": [],
     "comments": []
   },
@@ -24210,8 +23723,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "The Budapest of Africa.. idk that was the vibe I got from all the American media...",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "The Budapest of Africa.. idk that was the vibe I got from all the American media...\n\nVibes are okayish, the Medina market is overwhelming if you're autistic like me. We got lots of attention from people trying to sell us shit.\n\nOverall, vibes are great, I felt fairly safe although there were lots of hustlers and beggars on the streets. \"No hablo Casablanca\" seemed to do the trick. \n\nGoogle maps kinda did us dirty (like everywhere else so far) so don't even bother trying to find a nice place to eat but rather just get lost in the city till you find a place.\n\nThere's also lots of smoking everywhere, including inside in restaurants and cafés, which prevented us from going into a lot (i fking hate smoking). There were still some good spots but kinda hard to find.\n\nNow if you would want to come to Casablanca after my semi rant, you can do so ny train, plane, road or ferry, and join its 4 million inhabitants in the chaos that is the city center.",
     "reactions": [],
     "comments": []
   },
@@ -24238,13 +23750,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "(There is also a restaurant called “Yoko” here)",
-    "getThere": "From Belfast Airports:\n• Take the bus/shuttle to Belfast City\n• Then take a Translink train or bus to Coleraine\nor\n• Take a direct taxi/private transfer\n\nFrom Derry Airport:\n• Take the Line 234 Bus to Coleraine\nor\n• Take the airport transfer",
-    "thingsToDo": [
-      "Take a leisurely walk along the River Bann",
-      "Visit the Jet Centre, where you can watch a movie, play mini golf, go 10-pin bowling, or play in the arcade",
-      "Visit the town centre, where you can shop in the many shops, restaurants, and cafés",
-      "You can easily take a taxi/bus/train to some of the beaches"
-    ],
+    "content": "Population:\n25,000 people\n\nHow to get there?\nFrom Belfast Airports:\n• Take the bus/shuttle to Belfast City\n• Then take a Translink train or bus to Coleraine\nor\n• Take a direct taxi/private transfer\n\nFrom Derry Airport:\n• Take the Line 234 Bus to Coleraine\nor\n• Take the airport transfer\n\nWhat to do?\n• Take a leisurely walk along the River Bann\n• Visit the Jet Centre, where you can watch a movie, play mini golf, go 10-pin bowling, or play in the arcade\n(There is also a restaurant called “Yoko” here)\n• Visit the town centre, where you can shop in the many shops, restaurants, and cafés\n• You can easily take a taxi/bus/train to some of the beaches",
     "reactions": [],
     "comments": []
   },
@@ -24270,17 +23776,8 @@ const SUBMISSIONS = [
         "caption": ""
       }
     ],
-    "blurb": "",
-    "getThere": "From Belfast Airports:\n• Take the bus/shuttle to Belfast City\n• Then take a Translink train to Ballymoney\nor\n• Take a direct taxi/private transfer\nor\n• Take the Airport Transfer\n\nFrom Derry Airport:\n• Take the train to Ballymoney\nor\n• Take a taxi",
-    "thingsToDo": [
-      "Visit the Joey Dunlop Memorial Garden",
-      "Visit Joey’s Bar",
-      "Take a walk through the Riverside Park",
-      "Visit the iconic Game of Thrones filming location, the Dark Hedges",
-      "Take a day trip to Rose Park Farm",
-      "Stop in at the Ballymoney Museum to learn about the history of Ballymoney",
-      "Visit the Causeway Golf Centre"
-    ],
+    "blurb": "or",
+    "content": "Population\n11,000 people\n\nHow to get there?\nFrom Belfast Airports:\n• Take the bus/shuttle to Belfast City\n• Then take a Translink train to Ballymoney\nor\n• Take a direct taxi/private transfer\nor\n• Take the Airport Transfer\n\nFrom Derry Airport:\n• Take the train to Ballymoney\nor\n• Take a taxi\n\nThings to do/see?\n• Visit the Joey Dunlop Memorial Garden\n• Visit Joey’s Bar\n• Take a walk through the Riverside Park\n• Visit the iconic Game of Thrones filming location, the Dark Hedges\n• Take a day trip to Rose Park Farm\n• Stop in at the Ballymoney Museum to learn about the history of Ballymoney\n• Visit the Causeway Golf Centre",
     "reactions": [],
     "comments": []
   },
@@ -24327,8 +23824,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Sure Cairo might have pyramids, ancient Egyptian shit and, millenia-old mosques but it also has a district full of garbage where the Coptic neighborhood collects trash from the city then sorts it here for re-sale, and repurpose",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "258K people, walked here \n\nSure Cairo might have pyramids, ancient Egyptian shit and, millenia-old mosques but it also has a district full of garbage where the Coptic neighborhood collects trash from the city then sorts it here for re-sale, and repurpose\n\nGarbage City or Manshiyat Nasser is a district in Cairo \n\nIt smells just how you imagine and not a single Uber driver wanted to take me anywhere near to the entrance so I spent two hours walking on the Cairo highways to get here\n\nThe Zabbaleen or the garbage people translated literally from Arabic are the Coptics that live here so pigs are actually raised on the edible trash that's picked up from the streets. Households have been doing this for generations and you can see the trash piled in the buildings that are sorted by the women and children before being lifted down by winches to the steet\n\nSo any time you see a giant truck full of trash in Cairo it probably came through here at one point\n\nThe locals are very skeptical about idiots like me entering as I  was trying to cut through Garbage City to re-enter the Islamic sector but locals redirected me back to the highway which was nice\n\nSupposedly 90% of the trash gets directed here in some capacity as Cairo's municipal source for waste removal so while overlooked and stanky does offer a critical role to Cairo's ever abundant trash problem\n\nI didnt go because of Garbage City but its a requirement to visit Cave Church which is neat but not as neat as the Garbage City imo, but you do notice a lack of garbage the moment you enter the religious site\n\nCool place, they don't want you to take pics in the actual inner Garbage City streets for obvious reasons theyve probably been shafted by too many travel vloggers who exploited their livelihood to make more $ than the locals will ever see in their lifetime. I took the majority of these pics from the highway while ducking maniacs speeding feet next to me",
     "reactions": [],
     "comments": []
   },
@@ -24365,8 +23861,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "From Bengaluru, KLM and Air India offered direct flights spanning 10-11 hours. I went with a 1-stop Emirates flight that had a 4 hour layover in DXB. B-777s are pretty cramped so I’d recommend a better option next time.",
-    "getThere": "From Bengaluru, KLM and Air India offered direct flights spanning 10-11 hours. I went with a 1-stop Emirates flight that had a 4 hour layover in DXB. B-777s are pretty cramped so I’d recommend a better option next time.\n\nFrom Schipol, I took a train + metro to where I was staying.\n\nAlternatives would be to fly into London then take the Eurostar, or an intercity train from Berlin or Brussels. The trains are clean enough with adequate seating.\n\nThings to do/see:\nAmsterdam has been on my wishlist to visit since college. It really blew me away by how quiet it was (I’ve been told Europeans find it very busy 😆). You could cycle, walk, take the metro, or if you’re patient enough, drive around the city which is not that large in size and appreciate the infrastructure in place catered to each mode of transport. The cycling infrastructure in particular was the best I’d ever seen, and I used cycles for the most part while I was in the Netherlands.\n\nGiven its cosmopolitan nature you’d also be able to find cuisines from different parts of the world. In particular I tried Ethiopian cuisine for the first time which was quite similar to Indian cuisine. There are a few places of interest such as the Van Gogh Museum and the Anne Frank House, and wonderful parks to cycle around. All-in-all a good starting point to my trip across Western Europe.",
-    "thingsToDo": [],
+    "content": "Population:\n2.4 million in the metropolitan area\n\nHow to get there: \nFrom Bengaluru, KLM and Air India offered direct flights spanning 10-11 hours. I went with a 1-stop Emirates flight that had a 4 hour layover in DXB. B-777s are pretty cramped so I’d recommend a better option next time.\n\nFrom Schipol, I took a train + metro to where I was staying.\n\nAlternatives would be to fly into London then take the Eurostar, or an intercity train from Berlin or Brussels. The trains are clean enough with adequate seating.\n\nThings to do/see:\nAmsterdam has been on my wishlist to visit since college. It really blew me away by how quiet it was (I’ve been told Europeans find it very busy 😆). You could cycle, walk, take the metro, or if you’re patient enough, drive around the city which is not that large in size and appreciate the infrastructure in place catered to each mode of transport. The cycling infrastructure in particular was the best I’d ever seen, and I used cycles for the most part while I was in the Netherlands.\n\nGiven its cosmopolitan nature you’d also be able to find cuisines from different parts of the world. In particular I tried Ethiopian cuisine for the first time which was quite similar to Indian cuisine. There are a few places of interest such as the Van Gogh Museum and the Anne Frank House, and wonderful parks to cycle around. All-in-all a good starting point to my trip across Western Europe.",
     "reactions": [],
     "comments": []
   },
@@ -24418,8 +23913,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "The easiest option is to take the intercity train from any part of the Netherlands. I took a 15 minute one in the morning from Amsterdam, and another one in the evening around 6pm. You could even cycle if you have the energy to do so 😆",
-    "getThere": "The easiest option is to take the intercity train from any part of the Netherlands. I took a 15 minute one in the morning from Amsterdam, and another one in the evening around 6pm. You could even cycle if you have the energy to do so 😆\n\nThings to do/see:\nUtrecht is more of a college town, so it isn’t as “bustling” as Amsterdam and a bit limited in what you can do. But that also makes it perfect for a day trip, with a great collection of parks and food (Voorstrat has a lot of food options). In particular, I was drawn to this town from a NotJustBikes video.\n\nI spent the first half of my day cycling across a nature reserve to a village called Westbroek, where I had some time to unwind and reflect amidst the serenity of the surroundings. Came back for lunch to a Vietnamese place which was a ripoff 😭 and finished up with some dessert at a popular bakery. \n\nThen I pretty much traversed the central part of the city by cycle around the Vecht river, as I wasn’t keen on visiting a place of interest. The weather was quite iffy on that day but that wasn’t much of a bother. On my way back, I had time to roam around the complex next to the central station to do some shopping.",
-    "thingsToDo": [],
+    "content": "Population:\n656K in the metropolitan area\n\nHow to get there:\nThe easiest option is to take the intercity train from any part of the Netherlands. I took a 15 minute one in the morning from Amsterdam, and another one in the evening around 6pm. You could even cycle if you have the energy to do so 😆\n\nThings to do/see:\nUtrecht is more of a college town, so it isn’t as “bustling” as Amsterdam and a bit limited in what you can do. But that also makes it perfect for a day trip, with a great collection of parks and food (Voorstrat has a lot of food options). In particular, I was drawn to this town from a NotJustBikes video.\n\nI spent the first half of my day cycling across a nature reserve to a village called Westbroek, where I had some time to unwind and reflect amidst the serenity of the surroundings. Came back for lunch to a Vietnamese place which was a ripoff 😭 and finished up with some dessert at a popular bakery. \n\nThen I pretty much traversed the central part of the city by cycle around the Vecht river, as I wasn’t keen on visiting a place of interest. The weather was quite iffy on that day but that wasn’t much of a bother. On my way back, I had time to roam around the complex next to the central station to do some shopping.",
     "reactions": [],
     "comments": []
   },
@@ -24481,8 +23975,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Being the capital of Germany and an important city, you can get there by several modes of transport, such as air, rail, or road. I missed my overnight DB train from Amsterdam so I took an overnight Flixbus, which was actually pretty comfortable. What was not comfortable was the rude awakening at 1 am at the border…",
-    "getThere": "Being the capital of Germany and an important city, you can get there by several modes of transport, such as air, rail, or road. I missed my overnight DB train from Amsterdam so I took an overnight Flixbus, which was actually pretty comfortable. What was not comfortable was the rude awakening at 1 am at the border for checking passports 😆\n\nThings to do/see:\nBerlin was a stark departure from the comforting and breezy Netherlands. It felt rough, cold, and uninviting for starters. As I arrived early in the morning, I decided to take the time until check-in to explore the city by public transport, which is how I ended up at the East Side Gallery. Some of the graffiti got a chuckle, and I appreciated the history behind the (broken) wall.\n\nLater, I took an S-Bahn to Alexanderplatz, and made my way by foot to the Berliner Dom, where I climbed up to the top and got a panoramic view of the city. I had some motorcycle gear shopping to do so I took another S-Bahn to a quite eastern part of the city but couldn’t find what I wanted. Finally, I decided to come back and roam around Alexanderplatz for food and some more shopping, where I had a sumptuous meal from Burgermeister.\n\nOn Day 2, with a local friend in tow I was able to cover a few more important parts of the city, like the Brandenburg Gate, and a walk to the Victory Column in the centre of Tiergarten after exploring the park. The Victory Column frankly offers the best view of Berlin and is a must-visit. For lunch, I had some authentic German food (or as I was told) at this restaurant called Walhalla, where I stood out like a sore thumb 😆.\n\nA lot of walking later, we were at the final stop of the city, the Treptower Park, where I was given a short history lesson on the Soviet War Memorial and had a (slightly) better understanding of what transpired during WW2. Headed back for the night to catch my overnight bus, and grabbed some bites from the local bakery.",
-    "thingsToDo": [],
+    "content": "Population:\n3.6 million\n\nHow to get there:\nBeing the capital of Germany and an important city, you can get there by several modes of transport, such as air, rail, or road. I missed my overnight DB train from Amsterdam so I took an overnight Flixbus, which was actually pretty comfortable. What was not comfortable was the rude awakening at 1 am at the border for checking passports 😆\n\nThings to do/see:\nBerlin was a stark departure from the comforting and breezy Netherlands. It felt rough, cold, and uninviting for starters. As I arrived early in the morning, I decided to take the time until check-in to explore the city by public transport, which is how I ended up at the East Side Gallery. Some of the graffiti got a chuckle, and I appreciated the history behind the (broken) wall.\n\nLater, I took an S-Bahn to Alexanderplatz, and made my way by foot to the Berliner Dom, where I climbed up to the top and got a panoramic view of the city. I had some motorcycle gear shopping to do so I took another S-Bahn to a quite eastern part of the city but couldn’t find what I wanted. Finally, I decided to come back and roam around Alexanderplatz for food and some more shopping, where I had a sumptuous meal from Burgermeister.\n\nOn Day 2, with a local friend in tow I was able to cover a few more important parts of the city, like the Brandenburg Gate, and a walk to the Victory Column in the centre of Tiergarten after exploring the park. The Victory Column frankly offers the best view of Berlin and is a must-visit. For lunch, I had some authentic German food (or as I was told) at this restaurant called Walhalla, where I stood out like a sore thumb 😆.\n\nA lot of walking later, we were at the final stop of the city, the Treptower Park, where I was given a short history lesson on the Soviet War Memorial and had a (slightly) better understanding of what transpired during WW2. Headed back for the night to catch my overnight bus, and grabbed some bites from the local bakery.",
     "reactions": [
       {
         "e": "🤌",
@@ -24509,10 +24002,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "more will follow, I'll update this post later tonight since I just got here last night, meanwhile  check the creepy ass giant labubu",
-    "getThere": "What to do: \n-Star City, a cool amusement type of mall with things like go-karting, arcades, trampoline hall and a diverse selection of food \n- Resorts World\n\nmore will follow, I'll update this post later tonight since I just got here last night, meanwhile  check the creepy ass giant labubu",
-    "thingsToDo": [
-      "Resorts World"
-    ],
+    "content": "Population of 1,15 million\nGetting there: fly into Birmingham Airport, take a train to one of the stations\nWhat to do: \n-Star City, a cool amusement type of mall with things like go-karting, arcades, trampoline hall and a diverse selection of food \n- Resorts World\n\nmore will follow, I'll update this post later tonight since I just got here last night, meanwhile  check the creepy ass giant labubu",
     "reactions": [
       {
         "e": "🤌",
@@ -24585,8 +24075,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "I love Hanoi, the old town is super walkable and super commie. Food is great and the people are kind. It’s surprisingly not that hot in august due to the amount of trees providing shade.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "I love Hanoi, the old town is super walkable and super commie. Food is great and the people are kind. It’s surprisingly not that hot in august due to the amount of trees providing shade.\n\nHanoi is the capital of Vietnam and makes a great base to explore places like ninh binh and ha long bay. The city itself has unique french-viet architecture that reflects Vietnam’s past.",
     "reactions": [],
     "comments": [
       {
@@ -24630,8 +24119,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Also don’t forget to bring cash since not a lot of places here accept card",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "3hrs from Hanoi and you arrive at this beauty, i took a day trip from Hanoi which includes a bike ride, boat ride, lunch and other things. Make sure to pack a good sunscreen since the sun was pretty intense.\n\nAlso don’t forget to bring cash since not a lot of places here accept card",
     "reactions": [],
     "comments": [
       {
@@ -24718,16 +24206,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Bangkok is a massive city with lots to see and do!",
-    "getThere": "What to do?\nBangkok is a massive city with lots to see and do!\n- Wat Phra Chetuphon Wimon (temple south of the grand palace) - it has a big golden reclining buddha statue! \n- The Grand Palace\n- Wat Arun\n- Wat Saket (gold mount)\n- Hiden river tour/cruise\n- Explore bangkok chinatown (some say this is the biggest chinatown outside of china)\n- and of course enjoy a drink at a roof top bar or a roof top pool.",
-    "thingsToDo": [
-      "Wat Phra Chetuphon Wimon (temple south of the grand palace) - it has a big golden reclining buddha statue!",
-      "The Grand Palace",
-      "Wat Arun",
-      "Wat Saket (gold mount)",
-      "Hiden river tour/cruise",
-      "Explore bangkok chinatown (some say this is the biggest chinatown outside of china)",
-      "and of course enjoy a drink at a roof top bar or a roof top pool."
-    ],
+    "content": "Submission 3:)\n\nCity: Bangkok\nCountry: Thailand\nPopulation: Estimated: 11 300 000.\nHow to get here: You can get here many different ways. the most common one is flying! I flew from Busan to Bangkok after my SK trip.\n\nWhat to do?\nBangkok is a massive city with lots to see and do!\n- Wat Phra Chetuphon Wimon (temple south of the grand palace) - it has a big golden reclining buddha statue! \n- The Grand Palace\n- Wat Arun\n- Wat Saket (gold mount)\n- Hiden river tour/cruise\n- Explore bangkok chinatown (some say this is the biggest chinatown outside of china)\n- and of course enjoy a drink at a roof top bar or a roof top pool.",
     "reactions": [
       {
         "e": "🤌",
@@ -24779,8 +24258,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "What do you?",
-    "getThere": "What do you?\n- rent a scooter and drive around the Oslo city centrum (lots of fun)\n- visit the kings palace\n- enjoy an EXPENSIVE meal at a restaurant\n- Enjoy a nice view from Aker Brygge fortress (Akershus Fortress (Norwegian: Akershus festning).\n- enjoy the harbor view, great in the summer for some fresh ocean air\n- visit one of the many museums",
-    "thingsToDo": [],
+    "content": "City: Oslo\nCountry: NORWAY            \nPopulation: around 700 000 now.\nHow to get here: You can get here many different ways. the most common one is flying. Oslo is located in the south of Norway, so you can also fly into it.\n\nWhat do you?\n- rent a scooter and drive around the Oslo city centrum (lots of fun)\n- visit the kings palace\n- enjoy an EXPENSIVE meal at a restaurant\n- Enjoy a nice view from Aker Brygge fortress (Akershus Fortress (Norwegian: Akershus festning).\n- enjoy the harbor view, great in the summer for some fresh ocean air\n- visit one of the many museums",
     "reactions": [
       {
         "e": "🤌",
@@ -24829,14 +24307,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "What to do?",
-    "getThere": "What to do?\n- nothing, so get yourself over to the next location:) (jk, eh, kind of)\n- Visit the City Nord mall. i belive this is the biggest mall in Nordland.\n- If you visit in teh winter you might be able to see some northen lights.\n- You can visit the Norwegian Aviation Museum.\n- Enjoying a nice walk down at the harbour area is also a lovley thing to do! (moslty in the summer times)",
-    "thingsToDo": [
-      "nothing, so get yourself over to the next location:) (jk, eh, kind of)",
-      "Visit the City Nord mall. i belive this is the biggest mall in Nordland.",
-      "If you visit in teh winter you might be able to see some northen lights.",
-      "You can visit the Norwegian Aviation Museum.",
-      "Enjoying a nice walk down at the harbour area is also a lovley thing to do! (moslty in the summer times)"
-    ],
+    "content": "City: Bodø\nCountry: NORWAY            \nPopulation: around 40-50 000 people.\nHow to get here: By plane, you can drive here, or even take the ferry to Bodø! \n\nWhat to do?\n- nothing, so get yourself over to the next location:) (jk, eh, kind of)\n- Visit the City Nord mall. i belive this is the biggest mall in Nordland.\n- If you visit in teh winter you might be able to see some northen lights.\n- You can visit the Norwegian Aviation Museum.\n- Enjoying a nice walk down at the harbour area is also a lovley thing to do! (moslty in the summer times)",
     "reactions": [
       {
         "e": "🤌",
@@ -24903,8 +24374,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Flixbus, Flixbus, Flixbus from Berlin overnight. Being close to Wieliczka and Auschwitz, Krakow and Katowice are frequented by many, so the airport and train station should come in handy.",
-    "getThere": "Flixbus, Flixbus, Flixbus from Berlin overnight. Being close to Wieliczka and Auschwitz, Krakow and Katowice are frequented by many, so the airport and train station should come in handy.\n\nThings to see/do:\nThe first morning in Krakow was wonderful. The weather was sunny and the air was so clear, it felt like a different planet. I had an early entry to the hostel so decided to once again explore the city by foot. I hopped over to the Zabka (Polish 7-11) next door to grab a bite where I was astounded by the prices of everything (croissants cost less here than in my city and anywhere else I've been to in Europe!). Made my way to the St. Mary's Basilica which had an aura to it.\n\nSpent some time eating some Polish food (with difficulty) then with 's recs, went up to Kopiec Krakusa with a wonderful view of the city. I had the brilliant idea of trekking around for my way back down where it turned out to be a non-existent path alongside a fence which made me a little more religious 😅 At night, met up with another WLer for dinner and drinks.\n\nFor Day 2, I headed to the Wavel/Wawel Castle for a day trip. Covered everything the entire castle complex had to offer, with some interesting art pieces and history spanning centuries. I’ll let the pictures do the talking for this one. \n\nTowards the end of the day, made a quick stop at a Biedronka for some lovely Polish liquor and a LOT of chocolates. At night, had sausages from the local legendary stand, which was right opposite my hostel 😀\n\nDay 3 was mostly in Wieliczka, but I attended an Urbankiz dance social at night (I take classes for it) and experienced a friendlier side of the Polish. For the morning train to Prague via Wroclaw, I managed to grab some Pierogi for lunch.\n\nI missed out on an Auschwitz, but I felt I made the most on my trip. Krakow is in my top 5 cities I’ve ever visited, and I’d like to see more of Poland in the future.",
-    "thingsToDo": [],
+    "content": "Population:\n1.4 million in the metropolitan area\n\nHow to get there:\nFlixbus, Flixbus, Flixbus from Berlin overnight. Being close to Wieliczka and Auschwitz, Krakow and Katowice are frequented by many, so the airport and train station should come in handy.\n\nThings to see/do:\nThe first morning in Krakow was wonderful. The weather was sunny and the air was so clear, it felt like a different planet. I had an early entry to the hostel so decided to once again explore the city by foot. I hopped over to the Zabka (Polish 7-11) next door to grab a bite where I was astounded by the prices of everything (croissants cost less here than in my city and anywhere else I've been to in Europe!). Made my way to the St. Mary's Basilica which had an aura to it.\n\nSpent some time eating some Polish food (with difficulty) then with 's recs, went up to Kopiec Krakusa with a wonderful view of the city. I had the brilliant idea of trekking around for my way back down where it turned out to be a non-existent path alongside a fence which made me a little more religious 😅 At night, met up with another WLer for dinner and drinks.\n\nFor Day 2, I headed to the Wavel/Wawel Castle for a day trip. Covered everything the entire castle complex had to offer, with some interesting art pieces and history spanning centuries. I’ll let the pictures do the talking for this one. \n\nTowards the end of the day, made a quick stop at a Biedronka for some lovely Polish liquor and a LOT of chocolates. At night, had sausages from the local legendary stand, which was right opposite my hostel 😀\n\nDay 3 was mostly in Wieliczka, but I attended an Urbankiz dance social at night (I take classes for it) and experienced a friendlier side of the Polish. For the morning train to Prague via Wroclaw, I managed to grab some Pierogi for lunch.\n\nI missed out on an Auschwitz, but I felt I made the most on my trip. Krakow is in my top 5 cities I’ve ever visited, and I’d like to see more of Poland in the future.",
     "reactions": [],
     "comments": [
       {
@@ -24978,8 +24448,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "There are direct trains from Krakow. In particular, I took one from Krakow Glowny. Interesting to note, this city has their ticket machines INSIDE the train, which can be quite confusing to first-timers XD",
-    "getThere": "There are direct trains from Krakow. In particular, I took one from Krakow Glowny. Interesting to note, this city has their ticket machines INSIDE the train, which can be quite confusing to first-timers XD\n\nThings to see/do:\n\nWieliczka is known mostly for its salt mines, but I was lucky enough to stroll around the park near the train station and the entrance of the salt mine for an hour or two before my assigned time. Since it gets quite crowded I’d recommend coming in 30 mins to an hour in advance. Our group had an assigned guide in English (guides also present for other languages like Polish, German etc.) who showed us around the Salt Mine and went through its history. Most of the salt has been emptied out save for one location where you were allowed to “lick” it 😆. What I found amazing though was a chapel right in the heart of the mine, and the pretty good network coverage.\n\nHad some more cuisine local to the region (apologies but I don’t remember what they are) then took a train back after some shopping. Wieliczka is a good day trip and worth a look if in Krakow/Katowice or its surroundings.",
-    "thingsToDo": [],
+    "content": "Population:\n27k (tiny town)\n\nHow to get there:\nThere are direct trains from Krakow. In particular, I took one from Krakow Glowny. Interesting to note, this city has their ticket machines INSIDE the train, which can be quite confusing to first-timers XD\n\nThings to see/do:\n\nWieliczka is known mostly for its salt mines, but I was lucky enough to stroll around the park near the train station and the entrance of the salt mine for an hour or two before my assigned time. Since it gets quite crowded I’d recommend coming in 30 mins to an hour in advance. Our group had an assigned guide in English (guides also present for other languages like Polish, German etc.) who showed us around the Salt Mine and went through its history. Most of the salt has been emptied out save for one location where you were allowed to “lick” it 😆. What I found amazing though was a chapel right in the heart of the mine, and the pretty good network coverage.\n\nHad some more cuisine local to the region (apologies but I don’t remember what they are) then took a train back after some shopping. Wieliczka is a good day trip and worth a look if in Krakow/Katowice or its surroundings.",
     "reactions": [],
     "comments": []
   },
@@ -25041,8 +24510,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Prague is a city famous the world over for its night lights and the castle, and being the capital of Czechia, it has several connectivity options. I was on a comfortable train (somewhere between 1st and 2nd class) from Wroclaw where I had some nice neighbours for a chat, who were from Ethiopia (living in NYC) and…",
-    "getThere": "Prague is a city famous the world over for its night lights and the castle, and being the capital of Czechia, it has several connectivity options. I was on a comfortable train (somewhere between 1st and 2nd class) from Wroclaw where I had some nice neighbours for a chat, who were from Ethiopia (living in NYC) and Croatia (living in St Louis).\n\nThings to see/do:\nPrague was more of a rest stop for me, so I lazed around for most of my time here.\n\nSpent the first day doing laundry and socialising with the hostel, where I finally found my way to an underground club (my first ever clubbing experience of note) and had a really late trip back.\n\nThe second day was mostly cooking chicken in the hostel with some Italians in tow for lunch, then speedran the city from 2pm where I visited the Prague Castle via the metro, then walked across the Charles Bridge (stopping at the Old Town Bridge Tower for another panoramic photo). A clock tower and another cool looking building later, headed to U Fleku (established in 1499!) for a lot of cheese and quite possibly the best restaurant meal and beer I’ve had on my trip overall.\n\nI wish I could’ve done more with this city, but I also needed to recharge for the remaining half of my trip. Prague definitely is more than just a party hub, as is the case with most other cities, and I will visit again.",
-    "thingsToDo": [],
+    "content": "Population:\n2.2m in the metro area\n\nHow to get there:\nPrague is a city famous the world over for its night lights and the castle, and being the capital of Czechia, it has several connectivity options. I was on a comfortable train (somewhere between 1st and 2nd class) from Wroclaw where I had some nice neighbours for a chat, who were from Ethiopia (living in NYC) and Croatia (living in St Louis).\n\nThings to see/do:\nPrague was more of a rest stop for me, so I lazed around for most of my time here.\n\nSpent the first day doing laundry and socialising with the hostel, where I finally found my way to an underground club (my first ever clubbing experience of note) and had a really late trip back.\n\nThe second day was mostly cooking chicken in the hostel with some Italians in tow for lunch, then speedran the city from 2pm where I visited the Prague Castle via the metro, then walked across the Charles Bridge (stopping at the Old Town Bridge Tower for another panoramic photo). A clock tower and another cool looking building later, headed to U Fleku (established in 1499!) for a lot of cheese and quite possibly the best restaurant meal and beer I’ve had on my trip overall.\n\nI wish I could’ve done more with this city, but I also needed to recharge for the remaining half of my trip. Prague definitely is more than just a party hub, as is the case with most other cities, and I will visit again.",
     "reactions": [],
     "comments": []
   },
@@ -25079,8 +24547,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Kaohsiung is the third-largest city in Taiwan, with a population of about 2.7 million. It is a port city that has transformed from an industrial center into a cultural and creative hub.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Kaohsiung is the third-largest city in Taiwan, with a population of about 2.7 million. It is a port city that has transformed from an industrial center into a cultural and creative hub.\n\nYou can get there by HSR (1.5-2 hours from Taipei), Taiwan Railways, or plane (via Kaohsiung International Airport). Within the city, there are KMRT, LRT, ferries, and YouBikes; however, the coverage is not enough, so most people drive cars or ride scooters.\n\nI only had one day in Kaohsiung this year, as it was a stop on my way to Pingtung. With limited time, I visited the area around Lotus Pond. It was pleasant to bike or walk around the pond, where you could see people cable wakeboarding, fishing, and walking their pets, as well as ducks and herons relaxing by the water.\n\nLotus Pond is surrounded by more than 20 temples, making it one of the most important cultural and religious areas in Kaohsiung. Among them, the Dragon and Tiger Pagodas are the most popular.\n\nDragon and Tiger Pagodas are seven-story towers connected to the shore by a zigzag bridge. Visitors traditionally enter through the dragon’s mouth and exit through the tiger’s mouth (入龍門，出虎口), symbolizing gaining good fortune and getting rid of bad luck.\n\nLocated next to the Dragon and Tiger Pagodas are the Spring and Autumn Pavilions, named after Confucius’ classic work Spring and Autumn Annals. My favorite part of it was the dragon-shaped tunnel with vividly painted murals illustrating religious stories.\n\nThe Kaohsiung Confucius Temple, also located near Lotus Pond, is the largest Confucian temple complex in Taiwan. A traditional Confucius ceremony is held here each year.\n\nDuring my past visits, I also went to The Dome of Light, Meinong Village (a Hakka culture-centered village), Chaishan (with monkeys), Cijin Island, as well as art centers like the Pier 2 Art Center, Weiwuying, and Kaohsiung Music Center.\n\nhttps://open.spotify.com/track/56rph7R7t31KFespX91dPY?si=KgCUNNkaQ66ZHaXoFG6ppQ",
     "reactions": [
       {
         "e": "🤌",
@@ -25147,8 +24614,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Capital of Austria, known for its museums and history, so accessible by multiple modes of travel including sea across the Danube river (Bratislava is right over). I used a morning bus from Prague to get here.",
-    "getThere": "Capital of Austria, known for its museums and history, so accessible by multiple modes of travel including sea across the Danube river (Bratislava is right over). I used a morning bus from Prague to get here.\n\nThings to see/do:\nVienna blew me away, both with the amount of museums, and the amount of money left in my wallet after them 😆\n\nOn Day 1, wandered aimlessly across Stephensplatz, the centre of Vienna, for some photos as I found the entrance to the cathedral a bit expensive. Headed over to Stadtpark to relax and unwind, then back to the hostel with a McDonald’s stop on the way.\n\nOn Day 2, dropped my plan to go to Bratislava, and instead visited a few museums around Hofburg, mainly:\nNatural History Museum (spent over 3 hours!)\nKunsthistorisches Museum (for some beautiful art pieces)\nMuseum of Modern Art (which was weird :3)\nUpper and Lower Belvedere which was strikingly beautiful\n\nand had the famous Wiener Schnitzel, which was okay :3\n\nAs I had an early bus to catch, headed back for the night, and talked world history with some Americans over really good Doner Kebab at a local Turkish joint 😀",
-    "thingsToDo": [],
+    "content": "Population:\n2.8m in the metro area\n\nHow to get there:\nCapital of Austria, known for its museums and history, so accessible by multiple modes of travel including sea across the Danube river (Bratislava is right over). I used a morning bus from Prague to get here.\n\nThings to see/do:\nVienna blew me away, both with the amount of museums, and the amount of money left in my wallet after them 😆\n\nOn Day 1, wandered aimlessly across Stephensplatz, the centre of Vienna, for some photos as I found the entrance to the cathedral a bit expensive. Headed over to Stadtpark to relax and unwind, then back to the hostel with a McDonald’s stop on the way.\n\nOn Day 2, dropped my plan to go to Bratislava, and instead visited a few museums around Hofburg, mainly:\nNatural History Museum (spent over 3 hours!)\nKunsthistorisches Museum (for some beautiful art pieces)\nMuseum of Modern Art (which was weird :3)\nUpper and Lower Belvedere which was strikingly beautiful\n\nand had the famous Wiener Schnitzel, which was okay :3\n\nAs I had an early bus to catch, headed back for the night, and talked world history with some Americans over really good Doner Kebab at a local Turkish joint 😀",
     "reactions": [],
     "comments": []
   },
@@ -25210,11 +24676,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "It’s Budapest. Train, bus, flight, ferry, take your pick.",
-    "getThere": "It’s Budapest. Train, bus, flight, ferry, take your pick.\n\nThings to see/do:\nIts Budapest. You cannot go wrong with anything, and is (with close competition) my favorite city in Europe. The locals are genuine, prices are reasonable, and it was the F1 weekend! I would strongly recommend this city to anyone visiting Central Europe on vacation, and for first-time solo travellers, though the language was quite hard for me to grasp.\n\nOn Day 1, went hiking for, as you guessed it, panoramic city view. Stopped by at Ildikó Konyhája for some amazing food and paprika (owner thought I was veggie at first). At night, just did what every other hosteller does in Budapest.\n\nOn Day 2, my greatest speedrun of a city ever:\n1. Rushed to the Budapest Parliament where I was late by a few minutes to explore the inside\n2. Took a ferry across the Danube for day picture of the Parliament\nWalked to the Fisherman’s Bastion\nWalked across the Chain Bridge to the St. Stephen's Basilica, where I went up…\nWalked by the Dohány Street Synagogue to catch a bus\nWalked across Heroes Square which was one of the best public parks I have been to, and got a glimpse of the Széchenyi Thermal Bath building (my next day)\nBooked a last minute ticket for the Budapest Danube Wine Cruise on GetYourGuide where I met a wonderful group to later hang out with, and also got my night picture of the Parliament\n\nDay 3 was mostly chilling at the Széchenyi Thermal Bath (first thermal bath and sauna experience) before my flight back home. It was a great few hours to end the trip and left me back with a lot of fond memories of the city.\n\nBudapest is budabest!",
-    "thingsToDo": [
-      "Rushed to the Budapest Parliament where I was late by a few minutes to explore the inside",
-      "Took a ferry across the Danube for day picture of the Parliament"
-    ],
+    "content": "Population:\n3.3m in the metro area\n\nHow to get there:\nIt’s Budapest. Train, bus, flight, ferry, take your pick.\n\nThings to see/do:\nIts Budapest. You cannot go wrong with anything, and is (with close competition) my favorite city in Europe. The locals are genuine, prices are reasonable, and it was the F1 weekend! I would strongly recommend this city to anyone visiting Central Europe on vacation, and for first-time solo travellers, though the language was quite hard for me to grasp.\n\nOn Day 1, went hiking for, as you guessed it, panoramic city view. Stopped by at Ildikó Konyhája for some amazing food and paprika (owner thought I was veggie at first). At night, just did what every other hosteller does in Budapest.\n\nOn Day 2, my greatest speedrun of a city ever:\n1. Rushed to the Budapest Parliament where I was late by a few minutes to explore the inside\n2. Took a ferry across the Danube for day picture of the Parliament\nWalked to the Fisherman’s Bastion\nWalked across the Chain Bridge to the St. Stephen's Basilica, where I went up…\nWalked by the Dohány Street Synagogue to catch a bus\nWalked across Heroes Square which was one of the best public parks I have been to, and got a glimpse of the Széchenyi Thermal Bath building (my next day)\nBooked a last minute ticket for the Budapest Danube Wine Cruise on GetYourGuide where I met a wonderful group to later hang out with, and also got my night picture of the Parliament\n\nDay 3 was mostly chilling at the Széchenyi Thermal Bath (first thermal bath and sauna experience) before my flight back home. It was a great few hours to end the trip and left me back with a lot of fond memories of the city.\n\nBudapest is budabest!",
     "reactions": [
       {
         "e": "🤌",
@@ -25273,8 +24735,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Krabi is well-connected by land, air and sea. I flew in via KUL and the airport was fantastic.",
-    "getThere": "Krabi is well-connected by land, air and sea. I flew in via KUL and the airport was fantastic.\n\nThings to see/do:\nThough I say Krabi, I essentially was at Ao Nang. It was a bit of a surprise with great beaches and roads, sumptuous food, lots of ferries and speedboats to go wherever.\n\nDay 1 was beach walking across the main beach, then a monkey trail (with actual monkeys) to Monkey Beach. Walked to the pier to take a speedboat across to Railay Beach (one of the best sunset points in Thailand!), and checked out the Night Market, at well, night.\n\nDay 2 was Phi Phi and some other islands which I’d cover separately.\n\nDay 3 was a frantic scooter ride on the highway to the Hot Springs (the Emerald Pool was closed so I couldn’t make it) and a ride around the villages where I was able to appreciate the serenity of living in those parts. A quick stop at Krabi Town later, just bummed at the hostel for the night.\n\nAll in all, Krabi is a good departure from the more populous Bangkok, Pattaya, and Phuket, and offers a laid-back experience if that’s what you’re looking for!",
-    "thingsToDo": [],
+    "content": "Population:\n483K\n\nHow to get there:\nKrabi is well-connected by land, air and sea. I flew in via KUL and the airport was fantastic.\n\nThings to see/do:\nThough I say Krabi, I essentially was at Ao Nang. It was a bit of a surprise with great beaches and roads, sumptuous food, lots of ferries and speedboats to go wherever.\n\nDay 1 was beach walking across the main beach, then a monkey trail (with actual monkeys) to Monkey Beach. Walked to the pier to take a speedboat across to Railay Beach (one of the best sunset points in Thailand!), and checked out the Night Market, at well, night.\n\nDay 2 was Phi Phi and some other islands which I’d cover separately.\n\nDay 3 was a frantic scooter ride on the highway to the Hot Springs (the Emerald Pool was closed so I couldn’t make it) and a ride around the villages where I was able to appreciate the serenity of living in those parts. A quick stop at Krabi Town later, just bummed at the hostel for the night.\n\nAll in all, Krabi is a good departure from the more populous Bangkok, Pattaya, and Phuket, and offers a laid-back experience if that’s what you’re looking for!",
     "reactions": [],
     "comments": [
       {
@@ -25349,8 +24810,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "One of the largest islands in the area, it also has an airport so options are plenty. I took a ferry from Donsak which is the most popular option to get there from land.",
-    "getThere": "One of the largest islands in the area, it also has an airport so options are plenty. I took a ferry from Donsak which is the most popular option to get there from land.\n\nThings to see/do:\nKoh Samui is a very touristy island, with activities for every age group, be it surfing, jetskis, scuba diving, ATVs, a literal mall, and more!\n\n My first day was all about relaxing at the hostel (full of dudebro influencers) and walking across Chaweng Beach, then checking out the Night Market.\n\nOn Day 2, being the speedrunner I am, I rented a scooter and did the following:\nFell down and scraped my knee near a beach\nVisited 2 Buddhist temples (Wat Khao Chedi and Wat Phra Chedi Laem Sor)\nChecked out Na Muang Waterfall 1 (did not do 2)\nExplored the Tarnim Magic Garden\nA quick stop at Lipa Noi Pier\nPad Thai with a scenic view\nChecked out Hin Lad Waterfall first, then hiked for 30 minutes through the jungle to Hin Lat Waterfall for events to remember 😅\nScootered across possibly the worst roads in Koh Samui to get to a view point which made me believe in God for a bit\nEnded the journey at Mae Nam Beach, then back to the hostel to return the scooter (with quite the penalty)\n\nDay 3 was a rush, where I hopped over to Koh Phangan for yet another scooter ride to the Bottle Beach. This time my instincts got the better of me and I trekked down for 30 mins in slippery terrain to find quite a lot of people at a supposedly secluded beach. Went back up on a jeep to my scooter, then met up with  for a late lunch and walked around the pier, where I finally took a speedboat back for some relaxation after a much-needed Thai Foot Massage.\n\nKoh Samui was a bit too touristy for my liking, and I would stay in a nicer spot next time.",
-    "thingsToDo": [],
+    "content": "Population:\n70k (2019 census)\n\nHow to get there:\nOne of the largest islands in the area, it also has an airport so options are plenty. I took a ferry from Donsak which is the most popular option to get there from land.\n\nThings to see/do:\nKoh Samui is a very touristy island, with activities for every age group, be it surfing, jetskis, scuba diving, ATVs, a literal mall, and more!\n\n My first day was all about relaxing at the hostel (full of dudebro influencers) and walking across Chaweng Beach, then checking out the Night Market.\n\nOn Day 2, being the speedrunner I am, I rented a scooter and did the following:\nFell down and scraped my knee near a beach\nVisited 2 Buddhist temples (Wat Khao Chedi and Wat Phra Chedi Laem Sor)\nChecked out Na Muang Waterfall 1 (did not do 2)\nExplored the Tarnim Magic Garden\nA quick stop at Lipa Noi Pier\nPad Thai with a scenic view\nChecked out Hin Lad Waterfall first, then hiked for 30 minutes through the jungle to Hin Lat Waterfall for events to remember 😅\nScootered across possibly the worst roads in Koh Samui to get to a view point which made me believe in God for a bit\nEnded the journey at Mae Nam Beach, then back to the hostel to return the scooter (with quite the penalty)\n\nDay 3 was a rush, where I hopped over to Koh Phangan for yet another scooter ride to the Bottle Beach. This time my instincts got the better of me and I trekked down for 30 mins in slippery terrain to find quite a lot of people at a supposedly secluded beach. Went back up on a jeep to my scooter, then met up with  for a late lunch and walked around the pier, where I finally took a speedboat back for some relaxation after a much-needed Thai Foot Massage.\n\nKoh Samui was a bit too touristy for my liking, and I would stay in a nicer spot next time.",
     "reactions": [],
     "comments": []
   },
@@ -25412,8 +24872,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Its Bangkok! Name it and you have it. I flew in via a wonderful flight from Koh Samui and spent quite some time at the luggage counter thanks to “efficient” staff.",
-    "getThere": "Its Bangkok! Name it and you have it. I flew in via a wonderful flight from Koh Samui and spent quite some time at the luggage counter thanks to “efficient” staff.\n\nThings to see/do:\nIts Bangkok! Perhaps the best city to visit as a tourist in SEA (with KUL and SIN following close behind). Lots to do within the city and is a good starting point for your other day trips, like Ayutthaya, Pattaya, Chiang Mai and more! The friendliness of locals, the astronomical amount of food and transit options and Buddhist temples, and cosmopolitan nature of the city is a wonderful cherry on top.\n\nDay 1 was just roaming around the pier. Took a boat across the river and stopped right opposite Wat Arun. A chaotic auto ride and another Thai Foot Massage later, I ended up at Khao San Road at night for wonderful food!\n\nDay 2 was a day trip to Ayutthaya, but I was able to get some time off in the evening and met  at Tep Bar for a few beers and many laughs, and some Indian street food (which should’ve been spicier tbh)! Ended the night with a pub crawl from the hostel.\n\nDay 3 was another unfruitful search for motorcycle gear in the centre of the city, following which I decided to use public transport (changed 3 metro lines) to get to ICONSIAM. It is by far the best mall I’ve been to (even counting Dubai Mall) with 7 floors, and a “river” plus local market at the ground floor. Took a very delayed flight back home where I got to try the local Burger King and loved it!",
-    "thingsToDo": [],
+    "content": "Population:\n11m approx\n\nHow to get there:\nIts Bangkok! Name it and you have it. I flew in via a wonderful flight from Koh Samui and spent quite some time at the luggage counter thanks to “efficient” staff.\n\nThings to see/do:\nIts Bangkok! Perhaps the best city to visit as a tourist in SEA (with KUL and SIN following close behind). Lots to do within the city and is a good starting point for your other day trips, like Ayutthaya, Pattaya, Chiang Mai and more! The friendliness of locals, the astronomical amount of food and transit options and Buddhist temples, and cosmopolitan nature of the city is a wonderful cherry on top.\n\nDay 1 was just roaming around the pier. Took a boat across the river and stopped right opposite Wat Arun. A chaotic auto ride and another Thai Foot Massage later, I ended up at Khao San Road at night for wonderful food!\n\nDay 2 was a day trip to Ayutthaya, but I was able to get some time off in the evening and met  at Tep Bar for a few beers and many laughs, and some Indian street food (which should’ve been spicier tbh)! Ended the night with a pub crawl from the hostel.\n\nDay 3 was another unfruitful search for motorcycle gear in the centre of the city, following which I decided to use public transport (changed 3 metro lines) to get to ICONSIAM. It is by far the best mall I’ve been to (even counting Dubai Mall) with 7 floors, and a “river” plus local market at the ground floor. Took a very delayed flight back home where I got to try the local Burger King and loved it!",
     "reactions": [
       {
         "e": "🤌",
@@ -25445,8 +24904,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Topeka is not a place I would typically go out of my way to visit, and I don't think it has enough things to sustain a long trip, but if you happen to find yourself in the area, it's certainly worth stopping in. A large variety of museums and a decently cute main street with shops and the like make it worth a pit…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Pop 125k\nGet there by driving from Kansas City\nThings to do? Check out the Brown v Board of Education National Historic Site (which has a neat gift shop, though it does feel perhaps a tough tone-deaf?), or the state capitol building, or Lake Shawnee for some outdoor recreation (or this random building I took a photo of because apparently I did not take a picture of the state capitol when I visited 9 months ago(?))\n\nTopeka is not a place I would typically go out of my way to visit, and I don't think it has enough things to sustain a long trip, but if you happen to find yourself in the area, it's certainly worth stopping in. A large variety of museums and a decently cute main street with shops and the like make it worth a pit stop at minimum, if not a longer trip. You'd be better served by Kansas City proper, but if you've already visited KC, no harm stopping here on your way to Denver (or wherever else out west you're headed)",
     "reactions": [],
     "comments": []
   },
@@ -25503,13 +24961,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "There are plenty of buses, minivans, and day tours that start from Bangkok, which I would say is the most ideal way to visit. I booked one from GetYourGuide.",
-    "getThere": "There are plenty of buses, minivans, and day tours that start from Bangkok, which I would say is the most ideal way to visit. I booked one from GetYourGuide.\n\nThings to see/do:\nAyutthaya is the inverse of Bangkok, being quieter, perhaps more conservative, and mainly enriched with its vast collection of places of interest from centuries, in particular all the Buddhist temples. On my tour we visited 4 of them (what most others would also be doing anyway), namely:\n\n1. Wat Chaiwatthanaram (the most important one)\n2. Wat Lokaya Sutha\n3. Wat Phra Sri Sanphet\n4. Wat Maha That (the most surprising one)\n\nIt was fascinating to explore and gather insight into the history of the city which was the seat of power for the kingdom for centuries, with feuds from neighbouring kingdoms (such as present day Cambodia) that desecrated many of the remains.\n\nThe whole tour lasted for probably 9 hours total with a drop back to the city. If you’re inclined towards the art and cultural side of Thailand, worth a look for your itinerary!",
-    "thingsToDo": [
-      "Wat Chaiwatthanaram (the most important one)",
-      "Wat Lokaya Sutha",
-      "Wat Phra Sri Sanphet",
-      "Wat Maha That (the most surprising one)"
-    ],
+    "content": "Population:\n50k (2020)\n\nHow to get there:\nThere are plenty of buses, minivans, and day tours that start from Bangkok, which I would say is the most ideal way to visit. I booked one from GetYourGuide.\n\nThings to see/do:\nAyutthaya is the inverse of Bangkok, being quieter, perhaps more conservative, and mainly enriched with its vast collection of places of interest from centuries, in particular all the Buddhist temples. On my tour we visited 4 of them (what most others would also be doing anyway), namely:\n\n1. Wat Chaiwatthanaram (the most important one)\n2. Wat Lokaya Sutha\n3. Wat Phra Sri Sanphet\n4. Wat Maha That (the most surprising one)\n\nIt was fascinating to explore and gather insight into the history of the city which was the seat of power for the kingdom for centuries, with feuds from neighbouring kingdoms (such as present day Cambodia) that desecrated many of the remains.\n\nThe whole tour lasted for probably 9 hours total with a drop back to the city. If you’re inclined towards the art and cultural side of Thailand, worth a look for your itinerary!",
     "reactions": [],
     "comments": []
   },
@@ -25536,11 +24988,9 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Get there by flying, or driving from KC (as I did)",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "City proper pop: 429k\nMetropolitan Area pop: 3.7m\nGet there by flying, or driving from KC (as I did)\n\nThe primary location visited in my pictures here is the Mall of America, a monument to consumerism in the outskirt suburbs of the twin cities. But there's a lot to do here - visit the city center and be slightly offput by the indoor city that connects the entirety of the place in an effort to seemingly wall off poor people from getting to participate in daily life. Also, make sure to try the juicy lucy, an admittedly oddly-named but delicious burger with cheese cooked into the interior of the patty rather than atop it. Of course, this is a major midwest city, which means it wouldn't be complete without some elements of being an outpost in the middle of nowhere. To that end, check out plenty of hikes in the surrounding area - one of my pictures here is from one. All in all, this is a city that really is worth visiting for a proper trip, even if my post here only scratches the surface of the things you can do in the place.",
     "reactions": [],
-    "comments": [],
-    "lite": true
+    "comments": []
   },
   {
     "id": "s-tulsa-michael",
@@ -25565,8 +25015,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Get there by driving from Oklahoma City or Kansas City, or by flying in directly",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Pop: 413k, Metro area: 1mil\nGet there by driving from Oklahoma City or Kansas City, or by flying in directly\n\nTulsa has got to be one of the biggest surprises thus far for me in my travels - a city I expected nothing at all out of, which turned out to pleasantly surprise me. Tulsa is situated smack-dab center of the route 66 highway, which means it features a wide variety of Americana pit stops, museums, and history. Check out any number of Route 66 markers or pit stops along the city, such as the lovely barbeque joint I visited as pictured. Tulsa is also a) a native american cultural center, and b) an oil epicenter, which means that both histories are well storied in the city. For the former, check out the city council oak tree, a monument of great importance to early Lochapoka Creek indigenous peoples, or the Gilcrease Museum. For the latter, check out the (pictured) Philbrook Museum of Art, a museum created by a wealthy oil baron in the twilight years of his life. The oppression that he surely must have commanded does linger in one's mind as they look at the ornate mansion that was since converted into the museum, alongside questions of the origins of many of the pieces - but it's an iconic part of Tulsa that's worth seeing. All in all, I never thought I'd say this but I think Tulsa is a location genuinely worthy of visiting for anyone interested in Americana or native american history. If you're passing through for a road trip, 100% make a stop in Tulsa.",
     "reactions": [],
     "comments": []
   },
@@ -25593,8 +25042,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Get there by flying, or driving from KC/Dallas",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Pop 712k, Metro. Area: 1.5m\nGet there by flying, or driving from KC/Dallas\n\nOklahoma City might be one of the most overlooked cities in the United State - a dubious honor that is not entirely undeserved, but not one entirely earned either. If Tulsa is an outpost to the Americana that made route 66 et al so famous in its heyday, OKC is a bona fide monument. Make sure to check out the Oklahoma Fried Onion Burger, what genuinely may be the greatest foodstuff ever to come out of the continental United States - most famous in the legendary burger's canon is Sid's Diner in nearby El Reno, but there are a huge number of places that serve the item and many a number of them purport to have originated the food. On a more somber note, visit the Oklahoma City National Memorial and Museum (pictured here on the bombing's 30th anniversary) for an oft-underdiscussed piece of terrorism in US history. On a more lighthearted note, the National Cowboy and Western Heritage Museum gives you all the cowboy western lark you'd probably expect visiting somewhere like Oklahoma. To keep it a buck, I think Denver and Cheyenne do it better, though.\n\nWhile OKC didn't wow me as much as Tulsa did, I think it's certainly a place worth visiting - any trip to one should certainly include the other, as both have a wealth of history and a surprising number of things to do, all told!",
     "reactions": [
       {
         "e": "🤌",
@@ -25625,8 +25073,7 @@ const SUBMISSIONS = [
         "text": "based post, the onion burger is so goated",
         "reactions": []
       }
-    ],
-    "lite": true
+    ]
   },
   {
     "id": "s-dubai-itsmebrat",
@@ -25676,8 +25123,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "You usually go there when you wanna get to somewhere else 😆 Emirates flights usually have a stopover at Dubai, which was what I did on my return leg from Amsterdam.",
-    "getThere": "You usually go there when you wanna get to somewhere else 😆 Emirates flights usually have a stopover at Dubai, which was what I did on my return leg from Amsterdam.\n\nThings to see/do:\nDubai is a really hot city especially in the summer, as it is situated in a desert, so you spend most of your daytime indoors. I had plans to visit a few places of interest, but the metro ride and weather and my general condition threw me so off that I changed courses and holed up in Dubai Mall, just stepping out to grab a photo of the Burj Khalifa.\n\nI did get around to checking out the city, first by getting some tech shopping done at a local computer store in some random part of the town, then walked over in 45 C heat to a supermarket to grab some essentials as I needed to change and didn’t pack them in my backpack. A metro ride back to the mall and got to frantically searching for stuff my friends asked me to get 😆\n\nFinally, I took a taxi back to the airport, which was a much nicer part for me. Spent 3 hours getting my step count at the airport and bummed at a sports bar playing FIFA until my flight back.\n\nDubai is different for many people, and I’d love to change my mind at some point. But the experience I had may not inspire me to visit in the near future.",
-    "thingsToDo": [],
+    "content": "Population:\n4 million (of which there are barely any Emiratis)\n\nHow to get there:\nYou usually go there when you wanna get to somewhere else 😆 Emirates flights usually have a stopover at Dubai, which was what I did on my return leg from Amsterdam.\n\nThings to see/do:\nDubai is a really hot city especially in the summer, as it is situated in a desert, so you spend most of your daytime indoors. I had plans to visit a few places of interest, but the metro ride and weather and my general condition threw me so off that I changed courses and holed up in Dubai Mall, just stepping out to grab a photo of the Burj Khalifa.\n\nI did get around to checking out the city, first by getting some tech shopping done at a local computer store in some random part of the town, then walked over in 45 C heat to a supermarket to grab some essentials as I needed to change and didn’t pack them in my backpack. A metro ride back to the mall and got to frantically searching for stuff my friends asked me to get 😆\n\nFinally, I took a taxi back to the airport, which was a much nicer part for me. Spent 3 hours getting my step count at the airport and bummed at a sports bar playing FIFA until my flight back.\n\nDubai is different for many people, and I’d love to change my mind at some point. But the experience I had may not inspire me to visit in the near future.",
     "reactions": [
       {
         "e": "🤌",
@@ -25721,8 +25167,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Okay my photos here aren't all that impressive as it was raining and I really wasn't about to get myself drenched for this competition, but Wichita is a place that very much felt like a small cohort of people trying to fight back against a larger tide of midwestern boredom. Ostensibly the largest city in Kansas…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Pop: 400k, Metro. Area: 650k\nGet there by driving from KC or OKC\n\nOkay my photos here aren't all that impressive as it was raining and I really wasn't about to get myself drenched for this competition, but Wichita is a place that very much felt like a small cohort of people trying to fight back against a larger tide of midwestern boredom. Ostensibly the largest city in Kansas (only because the bulk of Kansas City's population lives across the border in Missouri!), by a country mile here the best thing to see and do is visit the large variety of museums in the city. Pictured is the Ulrich Museum of Art, a charming (free admission!) setup that showcases young and upcoming artists from the area, and felt like such an incredible breath of fresh air that I forgot I was in the middle of nowhere in the midwest. Other places to visit are the Wichita-Sedgwick County Historical Museum, which details the history of the place (as even a place like this was important... once), and the Wichita Art Museum, which is a more traditional display collection than the Ulrich previously mentioned.\n\nAll in all, there isn't a ton to talk about here - there's really no need to visit a place like Wichita, but as it's home to some major universities in Kansas, there's a small chance some number of you might somehow find yourself having to visit for a weekend. If you do, you'll find enough things to keep yourselves entertained. Good luck.",
     "reactions": [],
     "comments": []
   },
@@ -25784,8 +25229,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Getting to New Delhi is easy, being the capital of India it is well connected by air, rail, and road. The metro connectivity is fantastic so you’ll have no problems on your way to Agra as well which is what most people go to Delhi for.",
-    "getThere": "Getting to New Delhi is easy, being the capital of India it is well connected by air, rail, and road. The metro connectivity is fantastic so you’ll have no problems on your way to Agra as well which is what most people go to Delhi for.\n\nThings to see/do:\nIts New Delhi. Do not do what the internet tells you 😆 and bring a local along if you can.\n\nI was here twice for different reasons, one being a dance festival, and second being a big fat Indian Wedding, so my experience is across both events.\n\nOutside those, I managed to do a few spots of interest, mainly \n\nLajpat Nagar for food\nChandni Chowk for more food\nA walk to Jama Masjid with a view of the Red Fort, for, wait for it, even more food!\n\nYes I am a big eater XD\n\nI was surprised to see many non-locals in particular around Jama Masjid embracing the absolute chaos, and so I believe great food is like gravity. Delhi is also known for its nightlife, for which I hopped over to Gurgaon by metro + rail.\n\nMy hostel for one of the visits was also pretty social and attracted tourists from all over the world, so it is worth a look if you’re in the area. Do beware the behemoth that is the New Delhi railway station.\n\nDid miss out on the Taj Mahal though, maybe another time!",
-    "thingsToDo": [],
+    "content": "Population:\n28 frickin million 😆\n\nHow to get there:\nGetting to New Delhi is easy, being the capital of India it is well connected by air, rail, and road. The metro connectivity is fantastic so you’ll have no problems on your way to Agra as well which is what most people go to Delhi for.\n\nThings to see/do:\nIts New Delhi. Do not do what the internet tells you 😆 and bring a local along if you can.\n\nI was here twice for different reasons, one being a dance festival, and second being a big fat Indian Wedding, so my experience is across both events.\n\nOutside those, I managed to do a few spots of interest, mainly \n\nLajpat Nagar for food\nChandni Chowk for more food\nA walk to Jama Masjid with a view of the Red Fort, for, wait for it, even more food!\n\nYes I am a big eater XD\n\nI was surprised to see many non-locals in particular around Jama Masjid embracing the absolute chaos, and so I believe great food is like gravity. Delhi is also known for its nightlife, for which I hopped over to Gurgaon by metro + rail.\n\nMy hostel for one of the visits was also pretty social and attracted tourists from all over the world, so it is worth a look if you’re in the area. Do beware the behemoth that is the New Delhi railway station.\n\nDid miss out on the Taj Mahal though, maybe another time!",
     "reactions": [
       {
         "e": "🤌",
@@ -25852,15 +25296,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Gdańsk is part of the Tri-City area (Gdańsk–Sopot–Gdynia), which makes getting around very easy. Everything is well connected by public transport - trams, buses, and especially the SKM trains",
-    "getThere": "Gdańsk has direct train connections from major Polish cities like Warsaw, Poznań, and Kraków. Once in the city, public transport is reliable enough that you won’t need a car.\n\nThings to do / see:\n• Museum of the Second World War – a must-visit. I’d strongly recommend the audio guide. You’ll need around 2 hours, but the storytelling is very well structured and chronological, which makes such a heavy topic much easier to follow. \nOne of the best museums I’ve visited in Poland.\n\n• Westerplatte – historically very important, as this is where World War II began. It’s a quiet, open area today, and visiting it adds a lot of context after seeing the WWII museum.\n\n• Old Town & Long Market – worth walking through for the architecture, Neptune’s Fountain, and the atmosphere, especially in the evening.\n\n• Wyspa Spichrzów (Granary Island) – for cafés, restaurants, and pubs, this area has better and calmer options than the main Market Square, with great views along the water.\n\n• Amber Street & shops – if amber interests you, this is the place to check out Baltic amber, jewelry and small souvenirs.\n\n• Tri-City : If you have extra time, Sopot and Gdynia are easy add-ons. Sopot for the pier and beach vibes, coastal hikes and forest opera Gdynia for a more modern coastal feel.\n\nThanks for reading!",
-    "thingsToDo": [
-      "Museum of the Second World War – a must-visit. I’d strongly recommend the audio guide. You’ll need around 2 hours, but the storytelling is very well structured and chronological, which makes such a heavy topic much easier to follow.",
-      "Westerplatte – historically very important, as this is where World War II began. It’s a quiet, open area today, and visiting it adds a lot of context after seeing the WWII museum.",
-      "Old Town & Long Market – worth walking through for the architecture, Neptune’s Fountain, and the atmosphere, especially in the evening.",
-      "Wyspa Spichrzów (Granary Island) – for cafés, restaurants, and pubs, this area has better and calmer options than the main Market Square, with great views along the water.",
-      "Amber Street & shops – if amber interests you, this is the place to check out Baltic amber, jewelry and small souvenirs.",
-      "Tri-City : If you have extra time, Sopot and Gdynia are easy add-ons. Sopot for the pier and beach vibes, coastal hikes and forest opera Gdynia for a more modern coastal feel."
-    ],
+    "content": "Gdańsk, Poland 🇵🇱\n📍 Population: ~470,000\n\nSubmission #2\n\nGdańsk is part of the Tri-City area (Gdańsk–Sopot–Gdynia), which makes getting around very easy. Everything is well connected by public transport - trams, buses, and especially the SKM trains\n\n🚆 How to get there:\nGdańsk has direct train connections from major Polish cities like Warsaw, Poznań, and Kraków. Once in the city, public transport is reliable enough that you won’t need a car.\n\nThings to do / see:\n• Museum of the Second World War – a must-visit. I’d strongly recommend the audio guide. You’ll need around 2 hours, but the storytelling is very well structured and chronological, which makes such a heavy topic much easier to follow. \nOne of the best museums I’ve visited in Poland.\n\n• Westerplatte – historically very important, as this is where World War II began. It’s a quiet, open area today, and visiting it adds a lot of context after seeing the WWII museum.\n\n• Old Town & Long Market – worth walking through for the architecture, Neptune’s Fountain, and the atmosphere, especially in the evening.\n\n• Wyspa Spichrzów (Granary Island) – for cafés, restaurants, and pubs, this area has better and calmer options than the main Market Square, with great views along the water.\n\n• Amber Street & shops – if amber interests you, this is the place to check out Baltic amber, jewelry and small souvenirs.\n\n• Tri-City : If you have extra time, Sopot and Gdynia are easy add-ons. Sopot for the pier and beach vibes, coastal hikes and forest opera Gdynia for a more modern coastal feel.\n\nThanks for reading!",
     "reactions": [],
     "comments": []
   },
@@ -25871,8 +25307,7 @@ const SUBMISSIONS = [
     "date": "2025-12-31",
     "photos": [],
     "blurb": "Getting to Tokyo, Japan is easy. You can arrive by flight (there are two airports Narita - furthest from city or Haneda), train (bullet train is awesome), bus, and ferry.",
-    "getThere": "Getting to Tokyo, Japan is easy. You can arrive by flight (there are two airports Narita - furthest from city or Haneda), train (bullet train is awesome), bus, and ferry. \n\nThings to see/do:\n\nThis is my 3rd time visiting and I’m always overwhelmed with all the things you can do here. Reason why I chose this city to work remote (not to mention internet is reliable) and also I knew I’d easily be able to meet people. \n\nThis trip I managed to score a half off ticket to team labs planet, an immersive digital art museum. Got my feet wet while some digital koi swam between my feet.\n\nI visited so many restaurants here that I won’t go into detail but I would say that if you are a solo traveler and your English is not the greatest travelling is easy. A love how efficient the ordering system is. A lot of times you can order by QR code or tablet and they just bring your food to you.. it’s an introverts dream especially if you are shy about your lack of uh.. language skills. 😢 my fav convenience foods were the gyudon chains which are open late or 24/7 (fav is Yoshinoya) the conveyor belt sushi (Hama sushi). I also visited Torikizoku, a known yakitori chain with folks! I really liked the strawberry milk here.",
-    "thingsToDo": [],
+    "content": "Population: Over 14 million \n\nHow to get there: \nGetting to Tokyo, Japan is easy. You can arrive by flight (there are two airports Narita - furthest from city or Haneda), train (bullet train is awesome), bus, and ferry. \n\nThings to see/do:\n\nThis is my 3rd time visiting and I’m always overwhelmed with all the things you can do here. Reason why I chose this city to work remote (not to mention internet is reliable) and also I knew I’d easily be able to meet people. \n\nThis trip I managed to score a half off ticket to team labs planet, an immersive digital art museum. Got my feet wet while some digital koi swam between my feet.\n\nI visited so many restaurants here that I won’t go into detail but I would say that if you are a solo traveler and your English is not the greatest travelling is easy. A love how efficient the ordering system is. A lot of times you can order by QR code or tablet and they just bring your food to you.. it’s an introverts dream especially if you are shy about your lack of uh.. language skills. 😢 my fav convenience foods were the gyudon chains which are open late or 24/7 (fav is Yoshinoya) the conveyor belt sushi (Hama sushi). I also visited Torikizoku, a known yakitori chain with folks! I really liked the strawberry milk here.",
     "reactions": [
       {
         "e": "🤌",
@@ -25916,8 +25351,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "After Casablanca we are now visiting Rabat. Where Casablanca felt like a busy garbage dump, Rabat somehow felt spacier.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "After Casablanca we are now visiting Rabat. Where Casablanca felt like a busy garbage dump, Rabat somehow felt spacier.\n\nEven though the Medina was insanely tiny, we didn't get as overwhelmed and we weren't bothered as much. There's also much more aesthetic things within the city walls, compared to Casablanca.\n\nIt feels cozier and more arabic than Casablanca.\n\nWe also made a bet on what common item you couldn't find in the market if you tried. Our guesses (after 10 mins) was a bicycle and an accu powered drill. We haven't found either of those so we win.\n\nYou can get here via the Rabat-Salé airport or Casablanca airport. There is also a ferry por and trainstation. Obviously Morocco also has roads.",
     "reactions": [],
     "comments": []
   },
@@ -25979,8 +25413,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Taipei has a population of over 7 million people. You can get here by the usual, bus, train, ferry, flight. Also probably biking ahaha. People will cycle the island. I even rented a bike myself but my days were limited bc I wanted to make sure I hit up a night market every night. 😛",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Taipei has a population of over 7 million people. You can get here by the usual, bus, train, ferry, flight. Also probably biking ahaha. People will cycle the island. I even rented a bike myself but my days were limited bc I wanted to make sure I hit up a night market every night. 😛\n\nBetween eating so much I did manage to visit a few historical places. \n\nSightseeing:\nChiang Kai-Shel Memorial Hall\nNational Palace Museum\nLungshan Temple\n\nI also went to Fuhang Soy Milk, a famous Taiwanese breakfast place and Din Tai Fung.. the lineup was huge for the latter.. like you get a ticket and have to wait in a room.. so arrive early.. I don’t know if I would do it again tbh. \n\nThere are lots of nightmarkets (and everyone has favourites). A few that my friend recommended are Raohe Street Night Market and Ximending Night Market so I went to those. \n\nFor a day trip I went to Jiufen and ate some mini crabs. (:\n\nThey have cute charms, transpo cards for taking the train. One thing I’d like to comment is that it was annoying to fill up.. they only take cash even when I went to the 7-eleven so it was quite a contrast to the convenience of using the suica in Japan (I have a Apple Watch so I can load via my digital wallet on the spot). Luckily they pretty much have atms in train stations and they don’t have fees unlike Thailand to pull money out. \n\nI definitely would revisit because I missed out on the shaved ice and I would also like to do visit nature.. do some more trails…",
     "reactions": [
       {
         "e": "🤌",
@@ -26047,17 +25480,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "The city is very well connected by public transport, and getting around is straightforward.",
-    "getThere": "Kraków has direct train connections from most major Polish cities. Inside the city, trams and buses cover almost everything - tickets can be bought via the Jakdojade app or directly inside trams.\n\nThings to do / see:\n• Main Market Square & Cloth Hall – busy and touristy, but still worth walking through at least once. The scale of the square is impressive.\n\n• Wawel Castle – great spot for architecture and views over the Vistula River; walking around the castle grounds is free and relaxing.\n\n• Kazimierz – my favorite area to just wander. Cafés, quieter streets, and a very different rhythm compared to the Old Town.\n\n• Zakrzówek Viewpoint + Krakus Mound– one of the best city views in Kraków. It feels more local and is perfect around sunset if you want a break from crowds.\n\n• Benedictine Abbey in Tyniec – a bit outside the city, but worth it. Peaceful, scenic, and a completely different side of Kraków along the river.\n\nFood & café tips:\n• If you want a city view with lunch but don’t want to eat on the Market Square, Zielone Tarasy is a fine option. calm atmosphere, decent food, no complaints.\n\n• Leaky Cauldron – fun, theme-based café for Harry Potter fans. Not a must, but enjoyable if you’re into that.\n• For Polish donuts, check out Dobra Pączkarnia \n\nThanks for reading!",
-    "thingsToDo": [
-      "Main Market Square & Cloth Hall – busy and touristy, but still worth walking through at least once. The scale of the square is impressive.",
-      "Wawel Castle – great spot for architecture and views over the Vistula River; walking around the castle grounds is free and relaxing.",
-      "Kazimierz – my favorite area to just wander. Cafés, quieter streets, and a very different rhythm compared to the Old Town.",
-      "Zakrzówek Viewpoint + Krakus Mound– one of the best city views in Kraków. It feels more local and is perfect around sunset if you want a break from crowds.",
-      "Benedictine Abbey in Tyniec – a bit outside the city, but worth it. Peaceful, scenic, and a completely different side of Kraków along the river.",
-      "If you want a city view with lunch but don’t want to eat on the Market Square, Zielone Tarasy is a fine option. calm atmosphere, decent food, no complaints.",
-      "Leaky Cauldron – fun, theme-based café for Harry Potter fans. Not a must, but enjoyable if you’re into that.",
-      "For Polish donuts, check out Dobra Pączkarnia"
-    ],
+    "content": "Kraków, Poland 🇵🇱\n📍 Population: ~800,000\n\nSubmission #3\n\nThe city is very well connected by public transport, and getting around is straightforward.\n\n🚋 How to get there & around:\n\nKraków has direct train connections from most major Polish cities. Inside the city, trams and buses cover almost everything - tickets can be bought via the Jakdojade app or directly inside trams.\n\nThings to do / see:\n• Main Market Square & Cloth Hall – busy and touristy, but still worth walking through at least once. The scale of the square is impressive.\n\n• Wawel Castle – great spot for architecture and views over the Vistula River; walking around the castle grounds is free and relaxing.\n\n• Kazimierz – my favorite area to just wander. Cafés, quieter streets, and a very different rhythm compared to the Old Town.\n\n• Zakrzówek Viewpoint + Krakus Mound– one of the best city views in Kraków. It feels more local and is perfect around sunset if you want a break from crowds.\n\n• Benedictine Abbey in Tyniec – a bit outside the city, but worth it. Peaceful, scenic, and a completely different side of Kraków along the river.\n\nFood & café tips:\n• If you want a city view with lunch but don’t want to eat on the Market Square, Zielone Tarasy is a fine option. calm atmosphere, decent food, no complaints.\n\n• Leaky Cauldron – fun, theme-based café for Harry Potter fans. Not a must, but enjoyable if you’re into that.\n• For Polish donuts, check out Dobra Pączkarnia \n\nThanks for reading!",
     "reactions": [],
     "comments": []
   },
@@ -26079,8 +25502,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Bangkok the city itself has a population of over 5.5 million people. You can get here by air, train, and bus.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Bangkok the city itself has a population of over 5.5 million people. You can get here by air, train, and bus. \n\nA few of the things I did here was go to the markets. I especially like to the visit the Chatuchak Weekend Market - honestly if you are arriving on the weekend I would come here as it’s most likely on the way from the airport to the city centre. This is where I got my first coconut ice cream fix. (; another market I recommend is Bang Nam Phueng Floating Market. I took the BTS and boat to get to the island area. Then I rented a bike to get to here. All great local foods and at reasonable prices. \n\nBangkok or I guess Thailand overall is known for their temples for the most part covered in gold. I went to Wat Arun. There are many stalls outside where you pay a fee and you can dress up in traditional Thai attire. \n\nOne place I keep going back to is Chinatown. It’s super bustling with great street food. I would recommend to at least get the Chinese donuts to snack on as you wander around. They actually have like dips for them too surprisingly. Do not sleep on the affordable seafood! \n\nThis is my third time visiting and it was a quick stop as I was moving on to Koh Tao to do some scuba diving. I don’t know if I would revisit anytime soon but for a place that is the most touristy I feel of Asia I’m still surprised how affordable everything is (as long as you don’t visit the tourist towns/islands). I usually follow where the thais eat and that includes shopping malls. Asia is big on malls fyi.",
     "reactions": [
       {
         "e": "🤌",
@@ -26112,8 +25534,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Montreal has a population of over 1.6 million people. You can get here by air, road, and sea. I’m in Ottawa so it was only a 2.5 hour drive for me.",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Montreal has a population of over 1.6 million people. You can get here by air, road, and sea. I’m in Ottawa so it was only a 2.5 hour drive for me. \n\nThere are so many things to do all season particularly winter and summer. This year I visited in the summer because I went to this out door music festival, ÎLESONIQ. That weekend there also happened to be the pride festival parade so that was fun to see! (;\n\nSightseeing:\n\nHistorical: Old Montreal/Old Port is very european like with coblestone. A few steps away is Chinatown which I would recommend for some hand pulled noodles. There is a a place I really liked called Nouilles De Lan Zhou but unfortunately there is always a lineup! If you follow along the path by the port you will hit a boardwalk. Honestly would come here at night bc there is this Ferris wheel that is lit up and there is a zip line. \n\nFor Nature and views I’d recommend the walk up Mont Royal. I think there is a lookout with a cafe at the top. On your way down don’t forget to visit a bakery a.k.a boulangerie. \n\nMontreal is known for their brunch places! I’m not big on brunch bc I don’t eat early ahaha but if would recommmend La Fabrique. They change up their menu every couple of months and you can make a reservation (most brunch places don’t allow for this and you have to wait in line ):\n\nI would definitely recommend Montreal. It’s got a very cool urban artsy vibe and the people I find generally friendly! I love the food options as well.",
     "reactions": [],
     "comments": [],
     "videos": [
@@ -26157,8 +25578,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Yokohama has a population of over 3.77 million. It is just south of Tokyo and you can get here by train, bus, or air (through Haneda or Narita airport).",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Yokohama has a population of over 3.77 million. It is just south of Tokyo and you can get here by train, bus, or air (through Haneda or Narita airport).\n\nA museum I went to was the Daigo Fukuryumaru museum. Cost is free and takes an hour to walk through it. The museum offers information about those who were affected my the atomic bomb testing. I decided to kill two birds with one stone and also visit the Yokohama strawberry festival right beside. The strawberry daifuku was so good and worth its cost! Finished off the day by seeing some fireworks by the harbour.\n\nYokohama is also known for their chinatown. There are many food street stalls selling xiao long bao! I had some but since I was going to Taipei soon I decided not to over indulge. \n\nI’m not sure if I would revisit unless it was for another special event like for the Strawberry festival. It was a very quick day trip and I had never gone before my other two times I stayed in Tokyo so I was curious what it would be like!",
     "reactions": [],
     "comments": []
   },
@@ -26220,18 +25640,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Reykjavík is usually the starting point for exploring Iceland rather than the main attraction itself.",
-    "getThere": "We landed at Keflavík International Airport and booked a cab to Reykjavík via GetYourGuide, which was smooth and hassle-free after a long flight. From Reykjavík, most sightseeing happens via guided tours or rented cars.\n\nThings to do / see: (winters) \n\n• Aurora hunting (Northern Lights tour) – we went out with a guide who took us to a remote spot (adding the exact coordinates here: https://maps.app.goo.gl/RXVfQMKX6QJbZBGo9). Unfortunately, we didn’t get to see the aurora that night. \n\n• Reykjavík city walk – compact, colorful streets, lots of cafés, and a very calm vibe, especially at night.\n\n• Hallgrímskirkja – striking architecture and one of the city’s landmarks, especially impressive after dark.\n\n• Café Babalú – a cute, cozy café we stumbled upon, and they also offer vegan options, which was a nice surprise.\n\n• Golden Circle / South Coast stops:\n• Hveragerði – geothermal town, good stop to stretch your legs.\n• Selfoss – nice for a quick coffee and food break on the way south.\n\n• Seljalandsfoss – one of the most memorable waterfalls\n\n• Diamond Beach & Jökulsárlón area – unreal landscapes with ice scattered across black sand and water. Easily one of the highlights of the trip.\n\nThanks for reading",
-    "thingsToDo": [
-      "Aurora hunting (Northern Lights tour) – we went out with a guide who took us to a remote spot (adding the exact coordinates here: https://maps.app.goo.gl/RXVfQMKX6QJbZBGo9). Unfortunately, we didn’t get to see the aurora that night.",
-      "Reykjavík city walk – compact, colorful streets, lots of cafés, and a very calm vibe, especially at night.",
-      "Hallgrímskirkja – striking architecture and one of the city’s landmarks, especially impressive after dark.",
-      "Café Babalú – a cute, cozy café we stumbled upon, and they also offer vegan options, which was a nice surprise.",
-      "Golden Circle / South Coast stops:",
-      "Hveragerði – geothermal town, good stop to stretch your legs.",
-      "Selfoss – nice for a quick coffee and food break on the way south.",
-      "Seljalandsfoss – one of the most memorable waterfalls",
-      "Diamond Beach & Jökulsárlón area – unreal landscapes with ice scattered across black sand and water. Easily one of the highlights of the trip."
-    ],
+    "content": "Reykjavík, Iceland 🇮🇸\n📍 Population: ~140,000\n\nSubmission #4\n\nReykjavík is usually the starting point for exploring Iceland rather than the main attraction itself. \n\n✈️ How to get there:\n\nWe landed at Keflavík International Airport and booked a cab to Reykjavík via GetYourGuide, which was smooth and hassle-free after a long flight. From Reykjavík, most sightseeing happens via guided tours or rented cars.\n\nThings to do / see: (winters) \n\n• Aurora hunting (Northern Lights tour) – we went out with a guide who took us to a remote spot (adding the exact coordinates here: https://maps.app.goo.gl/RXVfQMKX6QJbZBGo9). Unfortunately, we didn’t get to see the aurora that night. \n\n• Reykjavík city walk – compact, colorful streets, lots of cafés, and a very calm vibe, especially at night.\n\n• Hallgrímskirkja – striking architecture and one of the city’s landmarks, especially impressive after dark.\n\n• Café Babalú – a cute, cozy café we stumbled upon, and they also offer vegan options, which was a nice surprise.\n\n• Golden Circle / South Coast stops:\n• Hveragerði – geothermal town, good stop to stretch your legs.\n• Selfoss – nice for a quick coffee and food break on the way south.\n\n• Seljalandsfoss – one of the most memorable waterfalls\n\n• Diamond Beach & Jökulsárlón area – unreal landscapes with ice scattered across black sand and water. Easily one of the highlights of the trip.\n\nThanks for reading",
     "reactions": [
       {
         "e": "🤌",
@@ -26268,8 +25677,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Guam, a U.S. territory in Micronesia, has a population of about 170k. You can get there by plane (or boat in the ancient Chamorro way). On the island, most people drive. I love that there was free parking everywhere (except at the airport).",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Håfa Adai! \n\nGuam, a U.S. territory in Micronesia, has a population of about 170k. You can get there by plane (or boat in the ancient Chamorro way). On the island, most people drive. I love that there was free parking everywhere (except at the airport).\n\nGuam has beautiful and calm beaches. I spent the majority of my time there in the ocean. Gun Beach was my favorite as it has crystal-clear water and pinkish sands. You can find some World War II structures, such as a gun emplacement, there. However, I found the show TaoTao Tasi on Gun Beach just alright. Besides Gun Beach, I also went to Tumon Beach, Matapang Beach, Ypao Beach, Tepungan Beach, and Dungcas Beach.\n\nThe Guam Museum is small, but it’s a good place to learn about the island’s history and colonization. I felt moved seeing Chief Hurao’s speech. I also learned that the stone pillar symbols all over the island are latte stones, iconic foundations in Chamorro architecture.\n\nI visited the Dededo Morning Market (farmer’s market & flea market) and the Chamorro Village Wednesday Night Market. I enjoyed the latter more because of its variety and how people of all ages dance to live music, surrounded by Spanish-influenced architecture.\n\nTwo of my favorite restaurants in Guam were Manang Pika and Mosa’s.\n\nI was sick during this trip, so sadly, I missed out on the Mount Lam Lam hike, which is the tallest mountain in the world when measured from its base in the Challenger Deep  .\n\nhttps://open.spotify.com/track/12WKY8yOziVkSISLHxfeOc?si=vWRUDCmuRja5xKQvCTJ00g",
     "reactions": [
       {
         "e": "🤌",
@@ -26356,8 +25764,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Where do I even start? Taipei City 臺北市, the capital of Taiwan, has a population of 2.5 million; most visitors get here by Taoyuan Airport MRT from TPE airport. You can get around easily by public transportation such as the MRT, buses, and YouBikes (the first 30 minutes are free.99).",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Where do I even start? Taipei City 臺北市, the capital of Taiwan, has a population of 2.5 million; most visitors get here by Taoyuan Airport MRT from TPE airport. You can get around easily by public transportation such as the MRT, buses, and YouBikes (the first 30 minutes are free.99). \n\nTaipei offers a little bit of everything. From historical sites and vibrant street food to modern architecture, art hubs, and easy access to nature. It is a great starter pack for first-time visitors to Taiwan. \n\nMy favorite thing to do here is probably randomly cycling around at night. Taipei might not be the prettiest or the most exciting, but I love how unpretentious and comfy it is. \n\nI actually have trouble introducing the must-sees in Taipei, so let the pictures do the talking.\n\nhttps://open.spotify.com/track/63N9fNPJ5kkbvtntCwgIbm?si=TxSCDSpFTKufQLJzTMepiQ",
     "reactions": [
       {
         "e": "🤌",
@@ -26399,8 +25806,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "The city of Portland is the largest city in the state of Maine. Reaching the city can be done by train, plane, or bus from numerous other cities. The train only reaches as far south as Boston, and is not connected to any other Amtrak networks, meaning to get from Main, and New Hampshire via Amtrak train, you need…",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "The city of Portland is the largest city in the state of Maine. Reaching the city can be done by train, plane, or bus from numerous other cities. The train only reaches as far south as Boston, and is not connected to any other Amtrak networks, meaning to get from Main, and New Hampshire via Amtrak train, you need to transfer in Boston via foot, bus or subway. Portland has a city population of 68,408, and a metro population nearly 550,000. The city has numerous islands that can be accessed via ferry or boat, but most of the city. Navigating the city can be done via bus, ferries, foot, bike or car. There are numerous hiking trails in the area as well!\n\nBrunswick College: The college has 2 museums which were very interesting. One of which is the museum of the arctic. Maine has been home to a few notable arctic explorers, so this museum highlights their achievements and the land of the north. The art museum is also pleasant. Both are rather small, but free!\n\nFood: Portland is considered one of the best food cities in New England. Duck Fat, won best sandwich awards in the past, and Holy Donut is famed for their donuts. There are more, but those are 2 I have been too and would recommend.\n\nOld Port: This neighborhood has all of the nice restaurants, shops, museums and more. I would recommend you visit when warm!",
     "reactions": [],
     "comments": [
       {
@@ -26434,8 +25840,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Perhaps America's most blatant monument to rampant consumerism, Bentonville holds the dubious distinction of being the home-town of Walmart, infamous titan of groceries and gentrification. The Walton family has, however, followed a more classical model of billionaire behavior, and invested heavily into their…",
-    "getThere": "Perhaps America's most blatant monument to rampant consumerism, Bentonville holds the dubious distinction of being the home-town of Walmart, infamous titan of groceries and gentrification. The Walton family has, however, followed a more classical model of billionaire behavior, and invested heavily into their hometown/corporate HQ's surroundings, creating something of an outpost in rural Arkansas that stands as a unique curio in the region. Visitors here might be surprised to find an idyllic main street, littered with bike paths and green space, with a shocking amount of events and entertainment to keep anyone forgetting that they're in nothern Arkansas. Visit the Crystal Bridges Museum of American Art to find an outrageously good collection of contemporary artwork, or the admittedly quaint Walmart Museum (though I'd advise leaving after the first half, as it shifts from the origins of Walmart in the region into corporate platitutes and the like. Finally, the Peel Botanical Garden is a delightful window into some of the best nature this region has to offer, which is an astonishing claim for a place an hour's drive from the Ozarks. \n\nAll in all, while the circumstances of this city's creation leave something to be desired, the net result is a city that's easily got enough in it to delight and surprise an unsuspecting visitor. Just try not to vomit as you think about what it's done to the rest of America in order to achieve it all.",
-    "thingsToDo": [],
+    "content": "Pop: 55k\nHow to get there: Drive from Little Rock or Tulsa, or fly to the (very small) airport\n\nPerhaps America's most blatant monument to rampant consumerism, Bentonville holds the dubious distinction of being the home-town of Walmart, infamous titan of groceries and gentrification. The Walton family has, however, followed a more classical model of billionaire behavior, and invested heavily into their hometown/corporate HQ's surroundings, creating something of an outpost in rural Arkansas that stands as a unique curio in the region. Visitors here might be surprised to find an idyllic main street, littered with bike paths and green space, with a shocking amount of events and entertainment to keep anyone forgetting that they're in nothern Arkansas. Visit the Crystal Bridges Museum of American Art to find an outrageously good collection of contemporary artwork, or the admittedly quaint Walmart Museum (though I'd advise leaving after the first half, as it shifts from the origins of Walmart in the region into corporate platitutes and the like. Finally, the Peel Botanical Garden is a delightful window into some of the best nature this region has to offer, which is an astonishing claim for a place an hour's drive from the Ozarks. \n\nAll in all, while the circumstances of this city's creation leave something to be desired, the net result is a city that's easily got enough in it to delight and surprise an unsuspecting visitor. Just try not to vomit as you think about what it's done to the rest of America in order to achieve it all.",
     "reactions": [],
     "comments": []
   },
@@ -26472,8 +25877,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "(I've included some nice photos from the surrounding area to supplement my fairly lame 3 photos of actual Bozeman proper, which are the first 3 in the post)",
-    "getThere": "Bozeman is a relatively charming outpost at the edge of the world. You could visit the Gallatin History Museum to experience the history of the region, or check out the Emerson Center for the Arts and Culture, which hosts tons of events that connect the artistic community. But to speak of these things is to ignore the elephant in the room - if you've flown into Bozeman, you are probably visiting Yellowstone National Park, arguably the most famous national park in the country (if not the world). A 90 minute drive from the city borders, I highly recommend booking accomodation in one of the tiny villages nearer the park. My group booked one right outside the place, and we were still up at 4am daily to beat the crowds (and there will be crowds). As for Yellowstone, I won't go on too much about it as it's a little out of scope for this write-up, but it's somewhere everyone with ready access to the United States should visit at least once in their life. As for Bozeman, I can't imagine a world where you come here for a reason besides that, but if you do, you should hopefully find enough to entertain yourself. If you're coming here, you're going hiking though, and if you're going hiking and skipping Yellowstone, what are we doing here?",
-    "thingsToDo": [],
+    "content": "(I've included some nice photos from the surrounding area to supplement my fairly lame 3 photos of actual Bozeman proper, which are the first 3 in the post)\n\nPopulation: 55k, Metro. Area: 120k\nHow to get there: Fly to Bozeman airport. Drive up from yellowstone if you're insane.\n\nBozeman is a relatively charming outpost at the edge of the world. You could visit the Gallatin History Museum to experience the history of the region, or check out the Emerson Center for the Arts and Culture, which hosts tons of events that connect the artistic community. But to speak of these things is to ignore the elephant in the room - if you've flown into Bozeman, you are probably visiting Yellowstone National Park, arguably the most famous national park in the country (if not the world). A 90 minute drive from the city borders, I highly recommend booking accomodation in one of the tiny villages nearer the park. My group booked one right outside the place, and we were still up at 4am daily to beat the crowds (and there will be crowds). As for Yellowstone, I won't go on too much about it as it's a little out of scope for this write-up, but it's somewhere everyone with ready access to the United States should visit at least once in their life. As for Bozeman, I can't imagine a world where you come here for a reason besides that, but if you do, you should hopefully find enough to entertain yourself. If you're coming here, you're going hiking though, and if you're going hiking and skipping Yellowstone, what are we doing here?",
     "reactions": [],
     "comments": []
   },
@@ -26505,8 +25909,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "To me, it feels intensely unfair to write off Casablanca as a city to fly into then promptly leave on a Moroccan itinerary. This might just be my personal travel proclivities, but I care just as much as experiencing the cities where people genuinely live their lives as I do the tourist-y places - and Casablanca has…",
-    "getThere": "To me, it feels intensely unfair to write off Casablanca as a city to fly into then promptly leave on a Moroccan itinerary. This might just be my personal travel proclivities, but I care just as much as experiencing the cities where people genuinely live their lives as I do the tourist-y places - and Casablanca has that in spades. You will feel very out of place at the King Hassan II Mosque, but you should visit anyway, because it is a beautiful feat of architecture built on the jawdropping coast of the Atlantic. Relax at the Arab League Park (for which my photo is a popular angle to take from but I promise I did in fact take it myself!) where people frequently congregate, and events are held (when I was there, I saw a large music event being set-up, although I left before it actually began). Finally, the walk from the aforementioned walk to the El Hank Lighthouse is a wonderful way to spend a sunny afternoon, though you'd be wise to pack water. \n\nI won't pretend that other Moroccan cities aren't places that have more tourist infrastructure set-up to their benefit, but don't overlook Casablanca on your itinerary if you're planning a trip to the country. Sometimes seeing people living their lives in the real world is the greatest joy of all.",
-    "thingsToDo": [],
+    "content": "Population: 3.2mil, Metro: 4.3mil\nHow to get there: Fly in, or take the ferry to Tangier and take the high speed rail down\n\nTo me, it feels intensely unfair to write off Casablanca as a city to fly into then promptly leave on a Moroccan itinerary. This might just be my personal travel proclivities, but I care just as much as experiencing the cities where people genuinely live their lives as I do the tourist-y places - and Casablanca has that in spades. You will feel very out of place at the King Hassan II Mosque, but you should visit anyway, because it is a beautiful feat of architecture built on the jawdropping coast of the Atlantic. Relax at the Arab League Park (for which my photo is a popular angle to take from but I promise I did in fact take it myself!) where people frequently congregate, and events are held (when I was there, I saw a large music event being set-up, although I left before it actually began). Finally, the walk from the aforementioned walk to the El Hank Lighthouse is a wonderful way to spend a sunny afternoon, though you'd be wise to pack water. \n\nI won't pretend that other Moroccan cities aren't places that have more tourist infrastructure set-up to their benefit, but don't overlook Casablanca on your itinerary if you're planning a trip to the country. Sometimes seeing people living their lives in the real world is the greatest joy of all.",
     "reactions": [],
     "comments": []
   },
@@ -26543,11 +25946,9 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Get there by taking the train from Casablanca",
-    "getThere": "",
-    "thingsToDo": [],
+    "content": "Population: 580k, Metro 2.1mil\nGet there by taking the train from Casablanca\n\nThis is the capital of the country, and from that one can quickly surmise that this is the city Morocco has put a lot of effort into cleaning up and being a sparkling jewel of the country. It's worked.\n\nTake a visit to the Kasbah and wander throughout the picture-esque gardens, houses, and views of the beach. Nearby is the medina, a mainstay of every Moroccan city but one that stands out amongst them in Rabat due to its comparatively small size and charm - this is one you can explore without getting lost in, which is a rarity in this country. Finally, you'd be remiss without visiting the Hasan Tower, the remains of what was once the biggest mosque in the world, right next to the royal mausoleum for king Muhammad V (for whom Casablanca's airport is named).\n\nRabat is a quieter city than what most picture when thinking of Morocco, but to me that's one of its key strengths. If you're planning a trip to Morocco that takes you through the north of Casablanca (as most trips to Fez or Tangier would), stop off in Rabat. It'll be a welcome introduction to the more intense cities to come.",
     "reactions": [],
-    "comments": [],
-    "lite": true
+    "comments": []
   },
   {
     "id": "s-swidnica-chaoticblush",
@@ -26607,13 +26008,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Świdnica is a small, quiet town that works best as a slow half-day trip. Everything is close, walkable, and you don’t need a packed plan to enjoy it.",
-    "getThere": "You can reach Świdnica easily by train or car. In Lower Silesia, train tickets can be booked via Koleje Dolnośląskie. Once you arrive, there’s no real need for public transport , the town center is compact.\n\nThings to do / see:\n\n• Church of Peace in Świdnica – the highlight of the town and a UNESCO World Heritage Site. From the outside it looks simple, but the interior is surprisingly massive, detailed. Definitely worth going inside.\n\n• Market Square (Rynek) – colorful buildings, calm atmosphere, and a good place to walk around without rushing.\n\n• Town walk – Świdnica feels best when you just walk through it slowly, noticing architecture and small details rather than jumping between attractions.\n\n• Top city viewpoint – a nice spot to get a wider perspective of the town and surroundings, especially if you like ending your visit with a quiet view.\n\nIf you fancy covering mountains, castles, and historic spots across Lower Silesia, getting a Koleje Dolnośląskie weekend pass is a great option, it lets you travel unlimited within the region, and Świdnica fits perfectly into that kind of itinerary.\n\nThanks for reading",
-    "thingsToDo": [
-      "Church of Peace in Świdnica – the highlight of the town and a UNESCO World Heritage Site. From the outside it looks simple, but the interior is surprisingly massive, detailed. Definitely worth going inside.",
-      "Market Square (Rynek) – colorful buildings, calm atmosphere, and a good place to walk around without rushing.",
-      "Town walk – Świdnica feels best when you just walk through it slowly, noticing architecture and small details rather than jumping between attractions.",
-      "Top city viewpoint – a nice spot to get a wider perspective of the town and surroundings, especially if you like ending your visit with a quiet view."
-    ],
+    "content": "Świdnica, Poland 🇵🇱\n📍 Population: ~55,000\n\nSubmission #5 \n\nŚwidnica is a small, quiet town that works best as a slow half-day trip. Everything is close, walkable, and you don’t need a packed plan to enjoy it.\n\n🚆🚗 How to get there:\n\nYou can reach Świdnica easily by train or car. In Lower Silesia, train tickets can be booked via Koleje Dolnośląskie. Once you arrive, there’s no real need for public transport , the town center is compact.\n\nThings to do / see:\n\n• Church of Peace in Świdnica – the highlight of the town and a UNESCO World Heritage Site. From the outside it looks simple, but the interior is surprisingly massive, detailed. Definitely worth going inside.\n\n• Market Square (Rynek) – colorful buildings, calm atmosphere, and a good place to walk around without rushing.\n\n• Town walk – Świdnica feels best when you just walk through it slowly, noticing architecture and small details rather than jumping between attractions.\n\n• Top city viewpoint – a nice spot to get a wider perspective of the town and surroundings, especially if you like ending your visit with a quiet view.\n\nIf you fancy covering mountains, castles, and historic spots across Lower Silesia, getting a Koleje Dolnośląskie weekend pass is a great option, it lets you travel unlimited within the region, and Świdnica fits perfectly into that kind of itinerary.\n\nThanks for reading",
     "reactions": [],
     "comments": []
   },
@@ -26640,8 +26035,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Tangier is a city with a vibe unlike any other I've been to. Never more in a city have I felt like a ghost, an ephemeral being simply passing through an entity much larger than me with more moving parts than I could ever hope to know. At the same time, though, it felt sleepy in a way, as though I was standing on…",
-    "getThere": "Tangier is a city with a vibe unlike any other I've been to. Never more in a city have I felt like a ghost, an ephemeral being simply passing through an entity much larger than me with more moving parts than I could ever hope to know. At the same time, though, it felt sleepy in a way, as though I was standing on the shoulders of a giant who lay dormant. Sorry to wax poetic - I think if I ever found myself wanting to write a novel, I'd do it in Tangier.\n\nWhile you're here, check out the medina, which feels very unique compared to other medinas in Morocco in that it's extremely vertical (it's on a hillside!) and feels, while just as expansive in land area, much less crowded. I'll also point out the American Legation which is a unique piece of history in the city, as well as Cafe Hafa, which was a favorite cafe of many famous artists during the 1960s and boasts some extraordinary views and good eats (though, be warned, the staff are pretty rude. Be prepared).\n\nAll in all, Tangier was the city that left the most conflicted feelings in me from this visit. It's somewhere beautiful, but somewhere I'd never want to live, but somewhere where I'd love to just. Exist. Go for yourself and see how you feel.",
-    "thingsToDo": [],
+    "content": "Population: 1.3Mil\nHow to get there: Take a ferry from southern Spain, or a train up from Casablanca, or fly directly.\n\nTangier is a city with a vibe unlike any other I've been to. Never more in a city have I felt like a ghost, an ephemeral being simply passing through an entity much larger than me with more moving parts than I could ever hope to know. At the same time, though, it felt sleepy in a way, as though I was standing on the shoulders of a giant who lay dormant. Sorry to wax poetic - I think if I ever found myself wanting to write a novel, I'd do it in Tangier.\n\nWhile you're here, check out the medina, which feels very unique compared to other medinas in Morocco in that it's extremely vertical (it's on a hillside!) and feels, while just as expansive in land area, much less crowded. I'll also point out the American Legation which is a unique piece of history in the city, as well as Cafe Hafa, which was a favorite cafe of many famous artists during the 1960s and boasts some extraordinary views and good eats (though, be warned, the staff are pretty rude. Be prepared).\n\nAll in all, Tangier was the city that left the most conflicted feelings in me from this visit. It's somewhere beautiful, but somewhere I'd never want to live, but somewhere where I'd love to just. Exist. Go for yourself and see how you feel.",
     "reactions": [],
     "comments": []
   },
@@ -26673,8 +26067,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Fez is the Morocco that you're picturing in your head. Sprawling medinas, old history, touts at every corner, it's chaos incarnate in the best way possible. Most obvious to point out is the medina, but it almost feels unfair to list that as its own thing-to-do when you could spend your entire visit without ever…",
-    "getThere": "Fez is the Morocco that you're picturing in your head. Sprawling medinas, old history, touts at every corner, it's chaos incarnate in the best way possible. Most obvious to point out is the medina, but it almost feels unfair to list that as its own thing-to-do when you could spend your entire visit without ever leaving its walls. It's massive, and always full of people. If you know French, strike up some conversations! You'd be surprised what you might find. Perhaps almost as famous within Fez are the Tanneries, the infamously-smelly leatherworking facilities where you can tour for essentially free (given they're hoping you'll buy the leather at the end!). Pay for a mint leaf, though, because you'll want to hold it up to block out the unpleasant smell. Finally, the Marinid Tombs just outside the medina give one a stunning view of the whole city, and I also played football with some young children there which was a good time. Watch your step at the top, though.\n\nI will caveat by saying I haven't been to Marrakesh. But that aside, of the cities I have been to, I think Fez is the one that most emblemizes the Moroccan experience as a whole. I'd go back here just to show it off to other people, and I recommend you experience it too.",
-    "thingsToDo": [],
+    "content": "Population: 1.25Mil\nHow to get there: Take a train from Casablanca/Rabat\n\nFez is the Morocco that you're picturing in your head. Sprawling medinas, old history, touts at every corner, it's chaos incarnate in the best way possible. Most obvious to point out is the medina, but it almost feels unfair to list that as its own thing-to-do when you could spend your entire visit without ever leaving its walls. It's massive, and always full of people. If you know French, strike up some conversations! You'd be surprised what you might find. Perhaps almost as famous within Fez are the Tanneries, the infamously-smelly leatherworking facilities where you can tour for essentially free (given they're hoping you'll buy the leather at the end!). Pay for a mint leaf, though, because you'll want to hold it up to block out the unpleasant smell. Finally, the Marinid Tombs just outside the medina give one a stunning view of the whole city, and I also played football with some young children there which was a good time. Watch your step at the top, though.\n\nI will caveat by saying I haven't been to Marrakesh. But that aside, of the cities I have been to, I think Fez is the one that most emblemizes the Moroccan experience as a whole. I'd go back here just to show it off to other people, and I recommend you experience it too.",
     "reactions": [],
     "comments": []
   },
@@ -26701,8 +26094,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Denver is near and dear to my heart - I lived there for quite some time! My revisit this year was for some concerts and the like, but rest assured, all my pictures are from this year. No cheating for me 🙂",
-    "getThere": "Denver is near and dear to my heart - I lived there for quite some time! My revisit this year was for some concerts and the like, but rest assured, all my pictures are from this year. No cheating for me 🙂\n\nWhile my pictures are new, my recommendations will be old-informed indeed. Denver is a place to go for nature - anyone could tell you about Rocky Mountain National Park, so I'll instead tell you about the much less-visited Staunton State Park, just south of the city and inside which you will find jawdropping snowy mountaintops (all to yourself too!). Near-ish by is the remote Bud's Cafe, a sketchy-seeming burger joint that will nonetheless provide you the best cheeseburger you will find anywhere in the metropolitan area, and quite possibly the American West as a whole. Finally, the Denver Botanical Garden is where I usually take people visiting the city for the first time - it showcases the commitment to nature Denver holds that makes it so special, all a stone's toss away from the city center. I love Denver to bits, and I think it's going to be one of the more realistic places to visit amongst my 15 or so here, so I really do encourage you all to check it out (and bring hiking boots!)",
-    "thingsToDo": [],
+    "content": "Population: 750k, Metro 3Mil\nHow to get there: Fly, or make a fairly long drive from Salt Lake City\n\nDenver is near and dear to my heart - I lived there for quite some time! My revisit this year was for some concerts and the like, but rest assured, all my pictures are from this year. No cheating for me 🙂\n\nWhile my pictures are new, my recommendations will be old-informed indeed. Denver is a place to go for nature - anyone could tell you about Rocky Mountain National Park, so I'll instead tell you about the much less-visited Staunton State Park, just south of the city and inside which you will find jawdropping snowy mountaintops (all to yourself too!). Near-ish by is the remote Bud's Cafe, a sketchy-seeming burger joint that will nonetheless provide you the best cheeseburger you will find anywhere in the metropolitan area, and quite possibly the American West as a whole. Finally, the Denver Botanical Garden is where I usually take people visiting the city for the first time - it showcases the commitment to nature Denver holds that makes it so special, all a stone's toss away from the city center. I love Denver to bits, and I think it's going to be one of the more realistic places to visit amongst my 15 or so here, so I really do encourage you all to check it out (and bring hiking boots!)",
     "reactions": [],
     "comments": []
   },
@@ -26729,8 +26121,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Monterey is a place that you will certainly know if you are from California, and likely never have heard of if you aren't. I'm going ahead and wrapping this up together with Carmel-by-the-sea to describe this peninsula across the bay from Santa Cruz as one of the finest examples of paradise you can find in the…",
-    "getThere": "Monterey is a place that you will certainly know if you are from California, and likely never have heard of if you aren't. I'm going ahead and wrapping this up together with Carmel-by-the-sea to describe this peninsula across the bay from Santa Cruz as one of the finest examples of paradise you can find in the continental United States. Perfect weather and stunning natural beauty mark this city year-round, alongside a great deal of things to do...\n\nSuch as the iconic 17-mile-drive, a scenic tour through the finest stretch of coastline the world has to offer. Driven, of course, as is the American way, but nothing's perfect 🙂 In addition, one might deign to drive slightly south and check out Point Lobos State Park, the iconic state park (whose lack of status as a National Park frankly astounds and confuses me, but I digress). And within nearby Carmel-by-the-sea, contains the beautiful Mission San Carlos, an old California mission from the days of antiquity that makes clear the amount of culture and history that someone might dismiss America as having. \n\nI love this place, and it's places like these that make me proud to be as Californian as I am Irish (okay, well. maybe not AS much. but I lived there a good solid while!) go check it out.",
-    "thingsToDo": [],
+    "content": "Population: 30k\nHow to get there: Drive (or fly) from San Francisco\n\nMonterey is a place that you will certainly know if you are from California, and likely never have heard of if you aren't. I'm going ahead and wrapping this up together with Carmel-by-the-sea to describe this peninsula across the bay from Santa Cruz as one of the finest examples of paradise you can find in the continental United States. Perfect weather and stunning natural beauty mark this city year-round, alongside a great deal of things to do...\n\nSuch as the iconic 17-mile-drive, a scenic tour through the finest stretch of coastline the world has to offer. Driven, of course, as is the American way, but nothing's perfect 🙂 In addition, one might deign to drive slightly south and check out Point Lobos State Park, the iconic state park (whose lack of status as a National Park frankly astounds and confuses me, but I digress). And within nearby Carmel-by-the-sea, contains the beautiful Mission San Carlos, an old California mission from the days of antiquity that makes clear the amount of culture and history that someone might dismiss America as having. \n\nI love this place, and it's places like these that make me proud to be as Californian as I am Irish (okay, well. maybe not AS much. but I lived there a good solid while!) go check it out.",
     "reactions": [],
     "comments": []
   },
@@ -26757,8 +26148,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "Tralee, Ireland. What a place. It's not exactly what I'd call a tourist destination, being an administrative center of Kerry with the more popular tourist destinations of the peninsula adjacent to it (Killarney, Dingle, Cork further south), but it does just so happen to be my hometown. So here it is in all its…",
-    "getThere": "Tralee, Ireland. What a place. It's not exactly what I'd call a tourist destination, being an administrative center of Kerry with the more popular tourist destinations of the peninsula adjacent to it (Killarney, Dingle, Cork further south), but it does just so happen to be my hometown. So here it is in all its meager glory.\n\nIf you find yourself in Tralee, you'd be welcome to check out the Aqua Dome, a water resort that is pretty much the most exciting \"activity\" you can find in the place. Nearby is the admittedly fairly neat Blennerville marshland, where you can go for scenic walks and birdwatch. Finally, if you're able to leave the city proper, just next to Tralee is Fenit, a harbor that everyone I've ever known in Tralee will constantly visit for their walks and days out. I have to concede it's a beautiful place.\n\nMy feelings about Tralee are a bit complicated, given the personal history I'd have with the place. I don't think I'd like to live there properly, but going back every so often never hurts. I HIGHLY recommend visiting Kerry, as Dingle and Killarney are both awesome places and Skellig Michael is a stunning example of natural Irish beauty. But Tralee? It's up to you.",
-    "thingsToDo": [],
+    "content": "Population: 26k\nHow to get there: Fly to Shannon Airport and drive from there. Or, Fly to Cork/Dublin and fly a bit further.\n\nTralee, Ireland. What a place. It's not exactly what I'd call a tourist destination, being an administrative center of Kerry with the more popular tourist destinations of the peninsula adjacent to it (Killarney, Dingle, Cork further south), but it does just so happen to be my hometown. So here it is in all its meager glory.\n\nIf you find yourself in Tralee, you'd be welcome to check out the Aqua Dome, a water resort that is pretty much the most exciting \"activity\" you can find in the place. Nearby is the admittedly fairly neat Blennerville marshland, where you can go for scenic walks and birdwatch. Finally, if you're able to leave the city proper, just next to Tralee is Fenit, a harbor that everyone I've ever known in Tralee will constantly visit for their walks and days out. I have to concede it's a beautiful place.\n\nMy feelings about Tralee are a bit complicated, given the personal history I'd have with the place. I don't think I'd like to live there properly, but going back every so often never hurts. I HIGHLY recommend visiting Kerry, as Dingle and Killarney are both awesome places and Skellig Michael is a stunning example of natural Irish beauty. But Tralee? It's up to you.",
     "reactions": [],
     "comments": []
   },
@@ -26790,8 +26180,7 @@ const SUBMISSIONS = [
       }
     ],
     "blurb": "(The pictures were all taken from my car while I was driving because I did not go here as a tourist I literally just had to shuttle in and out for some family calls. Sue me this is entry #16)",
-    "getThere": "(The pictures were all taken from my car while I was driving because I did not go here as a tourist I literally just had to shuttle in and out for some family calls. Sue me this is entry #16)\n\nThe second largest city in Ireland, the most striking thing about Cork as you visit will be how small as an entire country Ireland must be if this is the second biggest one. While it's dwarved by Dublin in terms of size, there's plenty to do here, and it's a city well worth visiting by any metric.\n\nCheck out St Fin Barre's Cathedral, a particularly impressive church in a country where there is nothing but churches. This might seem a silly thing to point out in particular, but the University College Cork campus really is worth going around and simply taking in the architecture, which is a unique sight in a city like Cork that seems otherwise quaint in its presentation. I'm also particularly fond of Ballincollig, a small village near the place which was once an important military outpost for the British. These days, they're ruins, but what ruins they are! Cork is often overlooked in Irish itineraries which frequently never go past the Dublin metro area, but while I might have done a poor job selling it here on account of having like 10 minutes left to get this submission in before the year's out, it's a lovely city. If you visit Ireland, you should visit the southwestern portion of the country, and if you're visiting the southwestern portion of the country, you should visit Cork.",
-    "thingsToDo": [],
+    "content": "Population: 225K, Metro: 300K\nHow to get there: Fly, or drive from Dublin\n\n(The pictures were all taken from my car while I was driving because I did not go here as a tourist I literally just had to shuttle in and out for some family calls. Sue me this is entry #16)\n\nThe second largest city in Ireland, the most striking thing about Cork as you visit will be how small as an entire country Ireland must be if this is the second biggest one. While it's dwarved by Dublin in terms of size, there's plenty to do here, and it's a city well worth visiting by any metric.\n\nCheck out St Fin Barre's Cathedral, a particularly impressive church in a country where there is nothing but churches. This might seem a silly thing to point out in particular, but the University College Cork campus really is worth going around and simply taking in the architecture, which is a unique sight in a city like Cork that seems otherwise quaint in its presentation. I'm also particularly fond of Ballincollig, a small village near the place which was once an important military outpost for the British. These days, they're ruins, but what ruins they are! Cork is often overlooked in Irish itineraries which frequently never go past the Dublin metro area, but while I might have done a poor job selling it here on account of having like 10 minutes left to get this submission in before the year's out, it's a lovely city. If you visit Ireland, you should visit the southwestern portion of the country, and if you're visiting the southwestern portion of the country, you should visit Cork.",
     "reactions": [],
     "comments": [
       {
