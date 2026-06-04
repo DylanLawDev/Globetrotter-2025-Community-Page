@@ -71,24 +71,29 @@ function extractProse(raw = "") {
 }
 
 function gatherComments(t) {
+  // author_posts (owner) and comments (everyone else) arrive as separate arrays;
+  // interleave them chronologically by full created_at — the emitted day-level
+  // `date` can't order same-day conversation.
   const seen = new Set();
-  const out = [];
+  const msgs = [];
   const push = (m) => {
     if (!m || m.is_starter || seen.has(m.id)) return;
     seen.add(m.id);
+    msgs.push(m);
+  };
+  (t.author_posts || []).forEach(push);
+  (t.comments || []).forEach(push);
+  msgs.sort((a, b) => (a.created_at || "").localeCompare(b.created_at || ""));
+  return msgs.map((m) => {
     const text = clean(m.content || "");
-    if (!text) return;
-    out.push({
+    if (!text) return null;
+    return {
       by: slug(m.author?.display_name || m.author?.name || "member"),
       date: seasonDate(ymd(m.created_at)),
       text,
       reactions: mapReactions(m.reactions),
-    });
-  };
-  (t.author_posts || []).forEach(push);
-  (t.comments || []).forEach(push);
-  out.sort((a, b) => (a.date < b.date ? -1 : 1));
-  return out;
+    };
+  }).filter(Boolean);
 }
 
 /* ============================== build ====================================== */

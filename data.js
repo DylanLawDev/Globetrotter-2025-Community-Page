@@ -3037,12 +3037,6 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
-        "by": "eeeeeeeh",
-        "date": "2025-01-31",
-        "text": "First post had to start with the biggest city",
-        "reactions": []
-      },
-      {
         "by": "hk77",
         "date": "2025-01-31",
         "text": "first post, ill take the first comment then;)",
@@ -3064,6 +3058,12 @@ const SUBMISSIONS = [
         "by": "genyuz",
         "date": "2025-01-31",
         "text": "nice",
+        "reactions": []
+      },
+      {
+        "by": "eeeeeeeh",
+        "date": "2025-01-31",
+        "text": "First post had to start with the biggest city",
         "reactions": []
       },
       {
@@ -3187,6 +3187,17 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "carl",
+        "date": "2025-01-31",
+        "text": "Amazing submission!",
+        "reactions": [
+          {
+            "e": "❤️",
+            "c": 1
+          }
+        ]
+      },
+      {
         "by": "hk77",
         "date": "2025-01-31",
         "text": "Thank you!",
@@ -3199,26 +3210,15 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "hk77",
-        "date": "2025-01-31",
-        "text": "Good good, just wanted to put that out in the open, just in case lol. Most of my Korea visit was during 2025, minus those few days right before new years",
-        "reactions": []
-      },
-      {
-        "by": "carl",
-        "date": "2025-01-31",
-        "text": "Amazing submission!",
-        "reactions": [
-          {
-            "e": "❤️",
-            "c": 1
-          }
-        ]
-      },
-      {
         "by": "carl",
         "date": "2025-01-31",
         "text": "Yeah, the most important thing is that you've taken the pictures and that your visit was during 2025.",
+        "reactions": []
+      },
+      {
+        "by": "hk77",
+        "date": "2025-01-31",
+        "text": "Good good, just wanted to put that out in the open, just in case lol. Most of my Korea visit was during 2025, minus those few days right before new years",
         "reactions": []
       },
       {
@@ -3378,6 +3378,18 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "uncle-mooshi",
+        "date": "2025-02-01",
+        "text": "boutta take a corresponding photo at my local target",
+        "reactions": []
+      },
+      {
+        "by": "uncle-mooshi",
+        "date": "2025-02-01",
+        "text": "q39 is my go to rec as well lol",
+        "reactions": []
+      },
+      {
         "by": "michael",
         "date": "2025-02-01",
         "text": "Lmfao",
@@ -3396,6 +3408,18 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "e119",
+        "date": "2025-02-01",
+        "text": "You missed the Jazz and Mormon history though",
+        "reactions": []
+      },
+      {
+        "by": "uncle-mooshi",
+        "date": "2025-02-01",
+        "text": "yeah that’s what i assumed lol",
+        "reactions": []
+      },
+      {
         "by": "michael",
         "date": "2025-02-01",
         "text": "Listen mate you come here you can write whatever u want",
@@ -3405,6 +3429,12 @@ const SUBMISSIONS = [
         "by": "michael",
         "date": "2025-02-01",
         "text": "Someone comes to KC I'm not telling them to go to a Mormon history museum I'm telling them to watch a chiefs game and eat barbeque",
+        "reactions": []
+      },
+      {
+        "by": "e119",
+        "date": "2025-02-01",
+        "text": "I'm pretty sure the only reason people come to KC other than to visit family is to do Mormon stuff",
         "reactions": []
       },
       {
@@ -3420,6 +3450,12 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "e119",
+        "date": "2025-02-01",
+        "text": "Oh no most Kansascitians aren't Mormon for sure, but I'm pretty sure most non-family tourism is mormonism",
+        "reactions": []
+      },
+      {
         "by": "michael",
         "date": "2025-02-01",
         "text": "literally nothing to indicate this at all",
@@ -3427,38 +3463,14 @@ const SUBMISSIONS = [
       },
       {
         "by": "uncle-mooshi",
-        "date": "2025-02-01",
-        "text": "boutta take a corresponding photo at my local target",
-        "reactions": []
-      },
-      {
-        "by": "uncle-mooshi",
-        "date": "2025-02-01",
-        "text": "q39 is my go to rec as well lol",
+        "date": "2025-02-02",
+        "text": "i thought Mormonism had real beef with the area since their founder was murdered and they were forcibly expelled",
         "reactions": []
       },
       {
         "by": "e119",
-        "date": "2025-02-01",
-        "text": "You missed the Jazz and Mormon history though",
-        "reactions": []
-      },
-      {
-        "by": "uncle-mooshi",
-        "date": "2025-02-01",
-        "text": "yeah that’s what i assumed lol",
-        "reactions": []
-      },
-      {
-        "by": "e119",
-        "date": "2025-02-01",
-        "text": "I'm pretty sure the only reason people come to KC other than to visit family is to do Mormon stuff",
-        "reactions": []
-      },
-      {
-        "by": "e119",
-        "date": "2025-02-01",
-        "text": "Oh no most Kansascitians aren't Mormon for sure, but I'm pretty sure most non-family tourism is mormonism",
+        "date": "2025-02-02",
+        "text": "Just vibes",
         "reactions": []
       },
       {
@@ -3480,6 +3492,12 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "e119",
+        "date": "2025-02-02",
+        "text": "Damn that sucks! Hope you can move soon",
+        "reactions": []
+      },
+      {
         "by": "michael",
         "date": "2025-02-02",
         "text": "while i do agree the place does have some nice elements to it haha",
@@ -3492,6 +3510,12 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "e119",
+        "date": "2025-02-02",
+        "text": "We can agree to disagree",
+        "reactions": []
+      },
+      {
         "by": "michael",
         "date": "2025-02-02",
         "text": "while we can. i feel like the point of this whole series is to show the good in places and make the case for visiting places",
@@ -3501,54 +3525,6 @@ const SUBMISSIONS = [
         "by": "michael",
         "date": "2025-02-02",
         "text": "so like. if you have nothing nice to say dont say anything at all yfm",
-        "reactions": []
-      },
-      {
-        "by": "michael",
-        "date": "2025-02-02",
-        "text": "have you even been here",
-        "reactions": []
-      },
-      {
-        "by": "michael",
-        "date": "2025-02-02",
-        "text": "like. ever",
-        "reactions": []
-      },
-      {
-        "by": "michael",
-        "date": "2025-02-02",
-        "text": "Yeah tech n9ne is definitely the big musician people currently associate with KC and the chiefs",
-        "reactions": []
-      },
-      {
-        "by": "michael",
-        "date": "2025-02-02",
-        "text": "nobody else in the public eye",
-        "reactions": []
-      },
-      {
-        "by": "uncle-mooshi",
-        "date": "2025-02-02",
-        "text": "i thought Mormonism had real beef with the area since their founder was murdered and they were forcibly expelled",
-        "reactions": []
-      },
-      {
-        "by": "e119",
-        "date": "2025-02-02",
-        "text": "Just vibes",
-        "reactions": []
-      },
-      {
-        "by": "e119",
-        "date": "2025-02-02",
-        "text": "Damn that sucks! Hope you can move soon",
-        "reactions": []
-      },
-      {
-        "by": "e119",
-        "date": "2025-02-02",
-        "text": "We can agree to disagree",
         "reactions": []
       },
       {
@@ -3576,9 +3552,33 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "michael",
+        "date": "2025-02-02",
+        "text": "have you even been here",
+        "reactions": []
+      },
+      {
+        "by": "michael",
+        "date": "2025-02-02",
+        "text": "like. ever",
+        "reactions": []
+      },
+      {
         "by": "e119",
         "date": "2025-02-02",
         "text": "Nah Tech N9ne is also a big reason people come I guess",
+        "reactions": []
+      },
+      {
+        "by": "michael",
+        "date": "2025-02-02",
+        "text": "Yeah tech n9ne is definitely the big musician people currently associate with KC and the chiefs",
+        "reactions": []
+      },
+      {
+        "by": "michael",
+        "date": "2025-02-02",
+        "text": "nobody else in the public eye",
         "reactions": []
       },
       {
@@ -3746,18 +3746,6 @@ const SUBMISSIONS = [
         ]
       },
       {
-        "by": "rozark",
-        "date": "2025-02-02",
-        "text": "I look forward to visiting Tallinn so I can compare :D\n\nI've been thinking about doing a Warsaw-Kaunas-Riga-Tallinn-Narva trip at some point by train and bus",
-        "reactions": []
-      },
-      {
-        "by": "rozark",
-        "date": "2025-02-02",
-        "text": "It is!",
-        "reactions": []
-      },
-      {
         "by": "cw",
         "date": "2025-02-02",
         "text": "Looks a lot like Tallinn from these pics",
@@ -3779,6 +3767,18 @@ const SUBMISSIONS = [
         "by": "pidge",
         "date": "2025-02-02",
         "text": "it's so good",
+        "reactions": []
+      },
+      {
+        "by": "rozark",
+        "date": "2025-02-02",
+        "text": "I look forward to visiting Tallinn so I can compare :D\n\nI've been thinking about doing a Warsaw-Kaunas-Riga-Tallinn-Narva trip at some point by train and bus",
+        "reactions": []
+      },
+      {
+        "by": "rozark",
+        "date": "2025-02-02",
+        "text": "It is!",
         "reactions": []
       }
     ]
@@ -4022,6 +4022,12 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
+        "by": "msicebear-g",
+        "date": "2025-05-24",
+        "text": "this is suggested by Ai",
+        "reactions": []
+      },
+      {
         "by": "met3774",
         "date": "2025-05-24",
         "text": "Changing my vote on u",
@@ -4031,12 +4037,6 @@ const SUBMISSIONS = [
             "c": 1
           }
         ]
-      },
-      {
-        "by": "msicebear-g",
-        "date": "2025-05-24",
-        "text": "this is suggested by Ai",
-        "reactions": []
       }
     ]
   },
@@ -4331,39 +4331,15 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
-        "by": "tom-sawyer",
-        "date": "2025-02-15",
-        "text": "I didn't",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-02-15",
-        "text": "You mean Liberia or Costa Rica?",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-02-15",
-        "text": "Oooh",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-02-15",
-        "text": "I don't remember seeing it",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-02-15",
-        "text": "Internet so shit I can't see it right now",
-        "reactions": []
-      },
-      {
         "by": "dylan",
         "date": "2025-02-15",
         "text": "Did you notice how close their flag looks to Palestine lmao",
+        "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-02-15",
+        "text": "I didn't",
         "reactions": []
       },
       {
@@ -4379,6 +4355,12 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "tom-sawyer",
+        "date": "2025-02-15",
+        "text": "You mean Liberia or Costa Rica?",
+        "reactions": []
+      },
+      {
         "by": "cat",
         "date": "2025-02-15",
         "text": "🔥",
@@ -4388,6 +4370,12 @@ const SUBMISSIONS = [
         "by": "dylan",
         "date": "2025-02-15",
         "text": "Guanacaste",
+        "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-02-15",
+        "text": "Oooh",
         "reactions": []
       },
       {
@@ -4403,9 +4391,21 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "tom-sawyer",
+        "date": "2025-02-15",
+        "text": "I don't remember seeing it",
+        "reactions": []
+      },
+      {
         "by": "dylan",
         "date": "2025-02-15",
         "text": "Is what it’s supposed to look like",
+        "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-02-15",
+        "text": "Internet so shit I can't see it right now",
         "reactions": []
       },
       {
@@ -4487,12 +4487,6 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "tom-sawyer",
-        "date": "2025-02-16",
-        "text": "Rub rub",
-        "reactions": []
-      },
-      {
         "by": "cat",
         "date": "2025-02-16",
         "text": "Jesus was in the bathroom haha",
@@ -4514,6 +4508,12 @@ const SUBMISSIONS = [
         "by": "cw",
         "date": "2025-02-16",
         "text": "https://tenor.com/view/hmusicruof4-rowley-diary-of-a-wimpy-kid-rodrick-rules-gif-26773802",
+        "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-02-16",
+        "text": "Rub rub",
         "reactions": []
       }
     ]
@@ -4648,15 +4648,15 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
-        "by": "sakib",
-        "date": "2025-02-19",
-        "text": "Depends. The day I went definitely but my family went the day after and it was OK.",
-        "reactions": []
-      },
-      {
         "by": "duck",
         "date": "2025-02-19",
         "text": "so cool, is it as hectic to circle around the kaaba as the media depicts",
+        "reactions": []
+      },
+      {
+        "by": "sakib",
+        "date": "2025-02-19",
+        "text": "Depends. The day I went definitely but my family went the day after and it was OK.",
         "reactions": []
       },
       {
@@ -4720,12 +4720,6 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
-        "by": "sakib",
-        "date": "2025-02-22",
-        "text": "Why not, depends how much you're into the history of the Muslim world",
-        "reactions": []
-      },
-      {
         "by": "duck",
         "date": "2025-02-22",
         "text": "do you think a non Muslim would enjoy madinah as a tourist?",
@@ -4735,6 +4729,12 @@ const SUBMISSIONS = [
         "by": "duck",
         "date": "2025-02-22",
         "text": "madinah interests me at a cultural perspective",
+        "reactions": []
+      },
+      {
+        "by": "sakib",
+        "date": "2025-02-22",
+        "text": "Why not, depends how much you're into the history of the Muslim world",
         "reactions": []
       }
     ]
@@ -4953,15 +4953,15 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "ragnar-danneskjold",
-        "date": "2025-03-03",
-        "text": "there, i changed it to something technically correct",
-        "reactions": []
-      },
-      {
         "by": "duck",
         "date": "2025-03-03",
         "text": "I wanna go to PR now",
+        "reactions": []
+      },
+      {
+        "by": "ragnar-danneskjold",
+        "date": "2025-03-03",
+        "text": "there, i changed it to something technically correct",
         "reactions": []
       }
     ]
@@ -5114,12 +5114,6 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "gia",
-        "date": "2025-03-11",
-        "text": "This looks so good",
-        "reactions": []
-      },
-      {
         "by": "ragnar-danneskjold",
         "date": "2025-03-11",
         "text": "osteria dell'orsa, and you get the tagliatelle al ragu",
@@ -5147,6 +5141,12 @@ const SUBMISSIONS = [
         "by": "ragnar-danneskjold",
         "date": "2025-03-11",
         "text": "tagliatelle al ragu is the classic bolognese dish",
+        "reactions": []
+      },
+      {
+        "by": "gia",
+        "date": "2025-03-11",
+        "text": "This looks so good",
         "reactions": []
       },
       {
@@ -5283,15 +5283,15 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
-        "by": "duck",
-        "date": "2025-03-03",
-        "text": "lol nah it's fine it's just a tradition to shit on Philly",
-        "reactions": []
-      },
-      {
         "by": "spiceboy",
         "date": "2025-03-03",
         "text": "Rip I am going in April for a week",
+        "reactions": []
+      },
+      {
+        "by": "duck",
+        "date": "2025-03-03",
+        "text": "lol nah it's fine it's just a tradition to shit on Philly",
         "reactions": []
       },
       {
@@ -5412,18 +5412,6 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
-        "by": "kerb",
-        "date": "2025-03-06",
-        "text": "Woke up a hater!",
-        "reactions": []
-      },
-      {
-        "by": "kerb",
-        "date": "2025-03-06",
-        "text": "But no I just always make fun of a friend for living in Birmingham so I carried it over",
-        "reactions": []
-      },
-      {
         "by": "gia",
         "date": "2025-03-06",
         "text": "why are you censoring birmingham? 😂",
@@ -5442,9 +5430,21 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "kerb",
+        "date": "2025-03-06",
+        "text": "Woke up a hater!",
+        "reactions": []
+      },
+      {
         "by": "zara",
         "date": "2025-03-06",
         "text": "one of the most depressing cities in the island + next to wolverhampton",
+        "reactions": []
+      },
+      {
+        "by": "kerb",
+        "date": "2025-03-06",
+        "text": "But no I just always make fun of a friend for living in Birmingham so I carried it over",
         "reactions": []
       },
       {
@@ -5848,6 +5848,12 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "michael",
+        "date": "2025-03-14",
+        "text": "how was your time there? ive hardly researched the place but my vague sense would be that this isnt the safest/most reasonable place for a tourist to visit",
+        "reactions": []
+      },
+      {
         "by": "shlug",
         "date": "2025-03-14",
         "text": "I wouldnt say its a dangerous place moreso its a developing nation with poor infrastructure",
@@ -5863,12 +5869,6 @@ const SUBMISSIONS = [
         "by": "shlug",
         "date": "2025-03-14",
         "text": "Was a nice expriemce and lovely people",
-        "reactions": []
-      },
-      {
-        "by": "michael",
-        "date": "2025-03-14",
-        "text": "how was your time there? ive hardly researched the place but my vague sense would be that this isnt the safest/most reasonable place for a tourist to visit",
         "reactions": []
       }
     ]
@@ -6239,18 +6239,6 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "spiceboy",
-        "date": "2025-03-24",
-        "text": "Spotted Cat is where I went too for a jazz show. It was fine. For food, I don’t really know causs I only ate 3 meals total so idk",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-03-24",
-        "text": "I only spent 1 day",
-        "reactions": []
-      },
-      {
         "by": "dragon-library-system",
         "date": "2025-03-24",
         "text": "I didn’t know about Louis Armstrong Park, sounds really cool!",
@@ -6264,14 +6252,26 @@ const SUBMISSIONS = [
       },
       {
         "by": "spiceboy",
-        "date": "2025-03-29",
-        "text": "One of the bar tenders got rude when we called her ma’am",
+        "date": "2025-03-24",
+        "text": "Spotted Cat is where I went too for a jazz show. It was fine. For food, I don’t really know causs I only ate 3 meals total so idk",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-03-24",
+        "text": "I only spent 1 day",
         "reactions": []
       },
       {
         "by": "dylan",
         "date": "2025-03-29",
         "text": "Spotted cat is fun",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-03-29",
+        "text": "One of the bar tenders got rude when we called her ma’am",
         "reactions": []
       }
     ]
@@ -6404,6 +6404,24 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "dylan",
+        "date": "2025-03-29",
+        "text": "GPT ahh write up",
+        "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-03-29",
+        "text": "Was just about to say, good to see I'm not the only one",
+        "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-03-29",
+        "text": "what say you?",
+        "reactions": []
+      },
+      {
         "by": "duck",
         "date": "2025-03-29",
         "text": "how's this gpt bro",
@@ -6428,30 +6446,6 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "duck",
-        "date": "2025-03-29",
-        "text": "I wrote another one too",
-        "reactions": []
-      },
-      {
-        "by": "dylan",
-        "date": "2025-03-29",
-        "text": "GPT ahh write up",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-03-29",
-        "text": "Was just about to say, good to see I'm not the only one",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-03-29",
-        "text": "what say you?",
-        "reactions": []
-      },
-      {
         "by": "tom-sawyer",
         "date": "2025-03-29",
         "text": "You're walking while typing all this out?",
@@ -6461,6 +6455,12 @@ const SUBMISSIONS = [
         "by": "tom-sawyer",
         "date": "2025-03-29",
         "text": "I'm giving you the benefit of doubt",
+        "reactions": []
+      },
+      {
+        "by": "duck",
+        "date": "2025-03-29",
+        "text": "I wrote another one too",
         "reactions": []
       }
     ]
@@ -6895,6 +6895,12 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "uncle-mooshi",
+        "date": "2025-03-30",
+        "text": "ok",
+        "reactions": []
+      },
+      {
         "by": "dragon-library-system",
         "date": "2025-03-30",
         "text": "Highlights\n\nBurlington City Park: This huge city park is filled with walking paths, tennis courts, soccer fields, exercise equipment, etc., on one side. On the other side is the Amusement Area, where the carousel resides. There are plenty more things to do in the Amusement Area, too, including themed rides and an aquatic center. Most of the Amusement Area is designed for young children, but some (like the Carousel and the train ride) are more inclusive. Prices are relatively affordable, as low as $2 USD per ride, which I think is pretty cool.\n\nBurlington Arboretum: This Arboretum has beautiful walkways and is extremely picturesque — perfect if you love taking lots of photos! The place is very well-kept and, other than the concrete trails, it’s easy to forget you’re in the middle of the city!\n\nThe World’s Largest Dollar Tree: Okay maybe not the largest (apparently Dollar Tree doesn’t list any official largest Dollar Tree), but it is unofficially recognized as the largest one in the world. They have a sign designating this place as one of the largest in the world, and their selection is great! They’ve got some brand name stuff for only $1.25, and some of your average supplies for affordable prices. I’m not gonna lie, I was really excited for this one!!\n\nCum Park Plaza: … need I say more? LOL. It’s right by the world’s largest Dollar Tree as well, so no need to go out of your way. Worth a pic for shits and giggles at least.\n\nTextile Heritage Museum: Burlington’s history in textiles is rich and informative of the area and how it’s grown since. I’ve only been once to their booth at an event, but I hope to pop in next time I’m in the area.\n\nAnimal Park at the Conservators Center: This is supposed to be a great park to engage with wild animals (safely) up close and learn more information about them and their livelihood! I have not been able to go yet, but I am planning to when I return later this year.",
@@ -6910,12 +6916,6 @@ const SUBMISSIONS = [
         "by": "dragon-library-system",
         "date": "2025-03-30",
         "text": "Hm?",
-        "reactions": []
-      },
-      {
-        "by": "uncle-mooshi",
-        "date": "2025-03-30",
-        "text": "ok",
         "reactions": []
       },
       {
@@ -7147,27 +7147,27 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
-        "by": "carl",
-        "date": "2025-04-20",
-        "text": "The roasted Mangalica neck!\n\nIt’s a Hungarian pig, their equivalent of bellota/pata negra, delicious!",
-        "reactions": []
-      },
-      {
-        "by": "carl",
-        "date": "2025-04-20",
-        "text": "Yes! \n\nWe bought chimney cakes with us home from a lady down in the subway, they were alright and very cheap, but then we also went to this place for straight out of the oven ones: https://maps.app.goo.gl/2W2cdo23CjcRp12H6?g_st=com.google.maps.preview.copy\n\nCan recommend! I had mine with gelato!",
-        "reactions": []
-      },
-      {
         "by": "cat",
         "date": "2025-04-20",
         "text": "For TATI which one was your favourite dish? Might go there, but probably not doing the tasting menu",
         "reactions": []
       },
       {
+        "by": "carl",
+        "date": "2025-04-20",
+        "text": "The roasted Mangalica neck!\n\nIt’s a Hungarian pig, their equivalent of bellota/pata negra, delicious!",
+        "reactions": []
+      },
+      {
         "by": "cat",
         "date": "2025-04-20",
         "text": "Haha okay, I had thought about the chicken, but I'll keep that in mind  \nDid you get a chimney cake anywhere?",
+        "reactions": []
+      },
+      {
+        "by": "carl",
+        "date": "2025-04-20",
+        "text": "Yes! \n\nWe bought chimney cakes with us home from a lady down in the subway, they were alright and very cheap, but then we also went to this place for straight out of the oven ones: https://maps.app.goo.gl/2W2cdo23CjcRp12H6?g_st=com.google.maps.preview.copy\n\nCan recommend! I had mine with gelato!",
         "reactions": []
       },
       {
@@ -7195,15 +7195,15 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "carl",
-        "date": "2025-04-23",
-        "text": "Haha nice! Did you take a picture?",
-        "reactions": []
-      },
-      {
         "by": "zara",
         "date": "2025-04-23",
         "text": "it isss i did manage to find it the next day!! weather was so good :)",
+        "reactions": []
+      },
+      {
+        "by": "carl",
+        "date": "2025-04-23",
+        "text": "Haha nice! Did you take a picture?",
         "reactions": []
       },
       {
@@ -7429,12 +7429,6 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "espressodesperado",
-        "date": "2025-04-25",
-        "text": "I really liked it. Also the rhabarberschorle I had.",
-        "reactions": []
-      },
-      {
         "by": "dragon-library-system",
         "date": "2025-04-25",
         "text": "That’s really awesome to know there’s a card and a city pass for being able to tour the place for significantly cheaper! Marking that for my knowledge bank.\n\nDo you have a favorite thing you did there? What did you find most shocking (in a good, bad, or neutral way)? Any specific good foods you’d highly recommend? :0",
@@ -7450,6 +7444,12 @@ const SUBMISSIONS = [
             "c": 1
           }
         ]
+      },
+      {
+        "by": "espressodesperado",
+        "date": "2025-04-25",
+        "text": "I really liked it. Also the rhabarberschorle I had.",
+        "reactions": []
       }
     ]
   },
@@ -7505,6 +7505,12 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
+        "by": "kerb",
+        "date": "2025-04-25",
+        "text": "awesome pictures my goat",
+        "reactions": []
+      },
+      {
         "by": "zara",
         "date": "2025-04-25",
         "text": "we are getting married in vienna bro",
@@ -7514,12 +7520,6 @@ const SUBMISSIONS = [
             "c": 1
           }
         ]
-      },
-      {
-        "by": "kerb",
-        "date": "2025-04-25",
-        "text": "awesome pictures my goat",
-        "reactions": []
       },
       {
         "by": "carl",
@@ -7609,51 +7609,15 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "tom-sawyer",
-        "date": "2025-05-11",
-        "text": "The metro? \nIt was alright. Fairly new, fairly clean, modern. Takes you from one city to the other.",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-05-11",
-        "text": "I didn't",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-05-11",
-        "text": "Had to buy ticket first. If you mean if I could do card at the gates?",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-05-11",
-        "text": "I could pay with card. And even had to as my coin was too big and they only had exact change at the machine lol, so that took card. But not at the gates. You needed a ticket/metro card",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-05-11",
-        "text": "Metro is good if you go from one end to the other.  But outside that long line, it doesn't cover much, so if you're going somewhere in the same area of town, you're gonna have to bus/walk or uber",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-05-11",
-        "text": "Traffic can be terrible yea. Remember we spent 45 min for like 12km or something trying to get to the game lol",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-05-11",
-        "text": "It is broadly. But if you're not going exactly on the line, uber and bus will be faster.",
-        "reactions": []
-      },
-      {
         "by": "e119",
         "date": "2025-05-11",
         "text": "No mention of MDQ? Curious how it is as a tourist",
+        "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-05-11",
+        "text": "The metro? \nIt was alright. Fairly new, fairly clean, modern. Takes you from one city to the other.",
         "reactions": []
       },
       {
@@ -7669,15 +7633,33 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "tom-sawyer",
+        "date": "2025-05-11",
+        "text": "I didn't",
+        "reactions": []
+      },
+      {
         "by": "e119",
         "date": "2025-05-11",
         "text": "Or to buy credits or is it all 100% cash",
         "reactions": []
       },
       {
+        "by": "tom-sawyer",
+        "date": "2025-05-11",
+        "text": "Had to buy ticket first. If you mean if I could do card at the gates?",
+        "reactions": []
+      },
+      {
         "by": "e119",
         "date": "2025-05-11",
         "text": "Yes",
+        "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-05-11",
+        "text": "I could pay with card. And even had to as my coin was too big and they only had exact change at the machine lol, so that took card. But not at the gates. You needed a ticket/metro card",
         "reactions": []
       },
       {
@@ -7693,9 +7675,27 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "tom-sawyer",
+        "date": "2025-05-11",
+        "text": "Metro is good if you go from one end to the other.  But outside that long line, it doesn't cover much, so if you're going somewhere in the same area of town, you're gonna have to bus/walk or uber",
+        "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-05-11",
+        "text": "Traffic can be terrible yea. Remember we spent 45 min for like 12km or something trying to get to the game lol",
+        "reactions": []
+      },
+      {
         "by": "e119",
         "date": "2025-05-11",
         "text": "But most of the city is just 1 long line is it not?",
+        "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-05-11",
+        "text": "It is broadly. But if you're not going exactly on the line, uber and bus will be faster.",
         "reactions": []
       }
     ]
@@ -7764,18 +7764,6 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "genyuz",
-        "date": "2025-11-26",
-        "text": "LOL ye",
-        "reactions": []
-      },
-      {
-        "by": "genyuz",
-        "date": "2025-11-26",
-        "text": "tbf tho I'm still learning things about my country, but fair enough xd",
-        "reactions": []
-      },
-      {
         "by": "rox",
         "date": "2025-11-26",
         "text": "Dude wrote like 5 times as more then Me",
@@ -7785,6 +7773,18 @@ const SUBMISSIONS = [
         "by": "rox",
         "date": "2025-11-26",
         "text": "But tbh I feel like ur more of a local who would know more things xD",
+        "reactions": []
+      },
+      {
+        "by": "genyuz",
+        "date": "2025-11-26",
+        "text": "LOL ye",
+        "reactions": []
+      },
+      {
+        "by": "genyuz",
+        "date": "2025-11-26",
+        "text": "tbf tho I'm still learning things about my country, but fair enough xd",
         "reactions": []
       },
       {
@@ -7828,15 +7828,15 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "spiceboy",
-        "date": "2025-04-29",
-        "text": "Yes",
-        "reactions": []
-      },
-      {
         "by": "duck",
         "date": "2025-04-29",
         "text": "that boi thic goodness",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-04-29",
+        "text": "Yes",
         "reactions": []
       }
     ]
@@ -8103,15 +8103,15 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "espressodesperado",
-        "date": "2025-04-30",
-        "text": "Thank you! 🙂",
-        "reactions": []
-      },
-      {
         "by": "spookyxjenn",
         "date": "2025-04-30",
         "text": "Glad you enjoyed Nürnberg 🔥",
+        "reactions": []
+      },
+      {
+        "by": "espressodesperado",
+        "date": "2025-04-30",
+        "text": "Thank you! 🙂",
         "reactions": []
       },
       {
@@ -8155,15 +8155,15 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
-        "by": "gia",
-        "date": "2025-05-02",
-        "text": "I'm a Sweden fangirl",
-        "reactions": []
-      },
-      {
         "by": "carl",
         "date": "2025-05-02",
         "text": "🔥",
+        "reactions": []
+      },
+      {
+        "by": "gia",
+        "date": "2025-05-02",
+        "text": "I'm a Sweden fangirl",
         "reactions": []
       }
     ]
@@ -8387,15 +8387,15 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "duck",
-        "date": "2025-05-09",
-        "text": "shoot i should've visited Nevis, i forgot about that",
-        "reactions": []
-      },
-      {
         "by": "karl",
         "date": "2025-05-09",
         "text": "fun fact: alexander hamilton was born on nevis",
+        "reactions": []
+      },
+      {
+        "by": "duck",
+        "date": "2025-05-09",
+        "text": "shoot i should've visited Nevis, i forgot about that",
         "reactions": []
       }
     ]
@@ -8612,6 +8612,12 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "karl",
+        "date": "2025-05-17",
+        "text": "i like taking photos of interesting signs",
+        "reactions": []
+      },
+      {
         "by": "spiceboy",
         "date": "2025-05-17",
         "text": "Yeah it was a strange sign",
@@ -8625,8 +8631,8 @@ const SUBMISSIONS = [
       },
       {
         "by": "karl",
-        "date": "2025-05-17",
-        "text": "i like taking photos of interesting signs",
+        "date": "2025-07-06",
+        "text": "is the light rail a good way to get from the airport to the city?",
         "reactions": []
       },
       {
@@ -8636,21 +8642,15 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "spiceboy",
-        "date": "2025-07-06",
-        "text": "yes I did take that a lot",
-        "reactions": []
-      },
-      {
-        "by": "karl",
-        "date": "2025-07-06",
-        "text": "is the light rail a good way to get from the airport to the city?",
-        "reactions": []
-      },
-      {
         "by": "karl",
         "date": "2025-07-06",
         "text": "great to hear. though i think i have to try out that monorail they have too, just because",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-07-06",
+        "text": "yes I did take that a lot",
         "reactions": []
       }
     ]
@@ -9172,12 +9172,6 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
-        "by": "dragon-library-system",
-        "date": "2025-05-19",
-        "text": "Didn’t have much time to see more unless if I wanted to take pics in the dark",
-        "reactions": []
-      },
-      {
         "by": "e119",
         "date": "2025-05-19",
         "text": "Travel advisories are about as useful as asking a fortune teller about travel safety",
@@ -9187,6 +9181,12 @@ const SUBMISSIONS = [
         "by": "e119",
         "date": "2025-05-19",
         "text": "Also Bogota looks amazing but you just took some pics of some malls, a highway barrier, and an airplane view of some nearby hills 😒",
+        "reactions": []
+      },
+      {
+        "by": "dragon-library-system",
+        "date": "2025-05-19",
+        "text": "Didn’t have much time to see more unless if I wanted to take pics in the dark",
         "reactions": []
       },
       {
@@ -9583,66 +9583,6 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "msicebear-g",
-        "date": "2025-05-22",
-        "text": "Okay I will exit later",
-        "reactions": []
-      },
-      {
-        "by": "msicebear-g",
-        "date": "2025-05-22",
-        "text": "Ai is my God",
-        "reactions": []
-      },
-      {
-        "by": "msicebear-g",
-        "date": "2025-05-22",
-        "text": "I will edit just busy with work",
-        "reactions": []
-      },
-      {
-        "by": "msicebear-g",
-        "date": "2025-05-22",
-        "text": "This is not Ai. Edited",
-        "reactions": []
-      },
-      {
-        "by": "msicebear-g",
-        "date": "2025-05-22",
-        "text": "https://tenor.com/view/pray-artificial-intelligence-open-ai-religion-praying-gif-9349591470172231321",
-        "reactions": []
-      },
-      {
-        "by": "msicebear-g",
-        "date": "2025-05-22",
-        "text": "I use chat gpt to arrange my thoughts but all idea are from me",
-        "reactions": []
-      },
-      {
-        "by": "msicebear-g",
-        "date": "2025-05-22",
-        "text": "What I visited, what I did how did I go there",
-        "reactions": []
-      },
-      {
-        "by": "msicebear-g",
-        "date": "2025-05-22",
-        "text": "We should embrace Ai help",
-        "reactions": []
-      },
-      {
-        "by": "msicebear-g",
-        "date": "2025-05-22",
-        "text": "To make our task faster",
-        "reactions": []
-      },
-      {
-        "by": "msicebear-g",
-        "date": "2025-05-22",
-        "text": "As long as we still some add some personal touch",
-        "reactions": []
-      },
-      {
         "by": "spookyxjenn",
         "date": "2025-05-22",
         "text": "read the rules",
@@ -9658,6 +9598,18 @@ const SUBMISSIONS = [
             "c": 1
           }
         ]
+      },
+      {
+        "by": "msicebear-g",
+        "date": "2025-05-22",
+        "text": "Okay I will exit later",
+        "reactions": []
+      },
+      {
+        "by": "msicebear-g",
+        "date": "2025-05-22",
+        "text": "Ai is my God",
+        "reactions": []
       },
       {
         "by": "cat",
@@ -9700,9 +9652,27 @@ const SUBMISSIONS = [
         ]
       },
       {
+        "by": "msicebear-g",
+        "date": "2025-05-22",
+        "text": "I will edit just busy with work",
+        "reactions": []
+      },
+      {
         "by": "duck",
         "date": "2025-05-22",
         "text": "are you saying youre unable to articulate for yourself",
+        "reactions": []
+      },
+      {
+        "by": "msicebear-g",
+        "date": "2025-05-22",
+        "text": "This is not Ai. Edited",
+        "reactions": []
+      },
+      {
+        "by": "msicebear-g",
+        "date": "2025-05-22",
+        "text": "https://tenor.com/view/pray-artificial-intelligence-open-ai-religion-praying-gif-9349591470172231321",
         "reactions": []
       },
       {
@@ -9721,6 +9691,36 @@ const SUBMISSIONS = [
         "by": "e119",
         "date": "2025-05-22",
         "text": "Do some real shit like insulting her, calling her a disappointment, banning from globetrotter",
+        "reactions": []
+      },
+      {
+        "by": "msicebear-g",
+        "date": "2025-05-22",
+        "text": "I use chat gpt to arrange my thoughts but all idea are from me",
+        "reactions": []
+      },
+      {
+        "by": "msicebear-g",
+        "date": "2025-05-22",
+        "text": "What I visited, what I did how did I go there",
+        "reactions": []
+      },
+      {
+        "by": "msicebear-g",
+        "date": "2025-05-22",
+        "text": "We should embrace Ai help",
+        "reactions": []
+      },
+      {
+        "by": "msicebear-g",
+        "date": "2025-05-22",
+        "text": "To make our task faster",
+        "reactions": []
+      },
+      {
+        "by": "msicebear-g",
+        "date": "2025-05-22",
+        "text": "As long as we still some add some personal touch",
         "reactions": []
       },
       {
@@ -9865,18 +9865,6 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
-        "by": "tom-sawyer",
-        "date": "2025-05-24",
-        "text": "It's what happens when you book Machu Picchu months in advance without having a fully fletched plan and greatly underestimating the time it takes to get there",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-05-24",
-        "text": "Oh and watch me do it again cause I agreed I'd join Guyana in October",
-        "reactions": []
-      },
-      {
         "by": "e119",
         "date": "2025-05-24",
         "text": "Bro you're going too fast",
@@ -9898,6 +9886,18 @@ const SUBMISSIONS = [
             "c": 1
           }
         ]
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-05-24",
+        "text": "It's what happens when you book Machu Picchu months in advance without having a fully fletched plan and greatly underestimating the time it takes to get there",
+        "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-05-24",
+        "text": "Oh and watch me do it again cause I agreed I'd join Guyana in October",
+        "reactions": []
       },
       {
         "by": "dragon-library-system",
@@ -9980,15 +9980,15 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "karl",
-        "date": "2025-05-26",
-        "text": "thanks! with London/Paris/New York, nobody needs to be 'sold' on those cities. Toss in whatever 'hidden gem' you find, or some other interesting take, and you are done and everyone is happy. but if I was gonna do East Rutherford, New Jersey, i figured I needed to go all in",
-        "reactions": []
-      },
-      {
         "by": "tom-sawyer",
         "date": "2025-05-26",
         "text": "This has to be one of the most, if not he most thorough submission so far",
+        "reactions": []
+      },
+      {
+        "by": "karl",
+        "date": "2025-05-26",
+        "text": "thanks! with London/Paris/New York, nobody needs to be 'sold' on those cities. Toss in whatever 'hidden gem' you find, or some other interesting take, and you are done and everyone is happy. but if I was gonna do East Rutherford, New Jersey, i figured I needed to go all in",
         "reactions": []
       },
       {
@@ -10078,12 +10078,6 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "spiceboy",
-        "date": "2025-05-28",
-        "text": "Bro I’ll never use ai",
-        "reactions": []
-      },
-      {
         "by": "msicebear-g",
         "date": "2025-05-28",
         "text": "Ai",
@@ -10097,14 +10091,50 @@ const SUBMISSIONS = [
       },
       {
         "by": "spiceboy",
+        "date": "2025-05-28",
+        "text": "Bro I’ll never use ai",
+        "reactions": []
+      },
+      {
+        "by": "bun-thit-nuong",
+        "date": "2025-06-01",
+        "text": "oh my god haha what",
+        "reactions": []
+      },
+      {
+        "by": "bun-thit-nuong",
+        "date": "2025-06-01",
+        "text": "hello college memories...",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
         "date": "2025-06-01",
         "text": "Did you go to Clark?",
+        "reactions": []
+      },
+      {
+        "by": "bun-thit-nuong",
+        "date": "2025-06-01",
+        "text": "UMass. This would be blunt cruise territory. back before weed was legal!",
+        "reactions": []
+      },
+      {
+        "by": "bun-thit-nuong",
+        "date": "2025-06-01",
+        "text": "Mass Moca is obviously the fucking sickest btw",
         "reactions": []
       },
       {
         "by": "spiceboy",
         "date": "2025-06-01",
         "text": "Amherst?",
+        "reactions": []
+      },
+      {
+        "by": "bun-thit-nuong",
+        "date": "2025-06-01",
+        "text": "yep",
         "reactions": []
       },
       {
@@ -10123,420 +10153,6 @@ const SUBMISSIONS = [
         "by": "spiceboy",
         "date": "2025-06-01",
         "text": "What did you study?",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "Well, I did my masters",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "I did my degree in education of students with visual impairments. Like basically teaching the blind",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "Which one?",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "Purgatory Chasm?",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "I have never really been to Florida. Only driven through",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "Are you from Mass?",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "Which area?",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "I’m close to Brockton",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "Ah okay.",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "Oop.",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "I’m southern ma",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "Close to Rhode Island",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "Where are you now?",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "What part of Mexico?",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "I saw. Haven’t read that yet",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "I love Mexico City",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "I mostly went to Oaxaca",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "So I didn’t fully explore mexico city",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "We stayed near Chapultec park",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "I’m planning on going in February again",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "But idk spanish",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "Very poor spanish",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "My gf speaks it. She’s veen begging me too",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "I do want too",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "I know I just need like energy",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "After work I’m too drained",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "Oh I’m anti ai",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "To each their own",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "Good for you!",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "All I know that is kinda close is I can read and write braille",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "But not by touch",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "Only using my vision",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "Yes",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "You need years",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "And I have good vision",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "But like, I work with 3 kids who read braille",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "2 are totally blind.",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "Oh yeah.",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "What did you teach?",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "In SEA?",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "You don’t have to be sorry he best. You just gotta be trying",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "That’s good",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "Especially with kids",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "Just be a good person and try",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "Yup.",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "Last year, a lady I worked with got arrested for hitting disabled babies",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "Yeah.",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "It’s crazy.",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "Well,",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "I think for some too it’s like",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "They wanna be around kids,",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "For not good reasons",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "You know what I mean?",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "Idk if I’ve experienced that yet",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "Well,",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "Okay idk how to say this",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "I don’t wanna dox myself",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "But one of the schools I work at has done some fucked up stuff",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "It’s worse than you can imagine",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "I hate that place.",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "Yup",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "I mean, I love my job, and the kids",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "It’s just the schools I hate",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-01",
-        "text": "Have fun!",
-        "reactions": []
-      },
-      {
-        "by": "bun-thit-nuong",
-        "date": "2025-06-01",
-        "text": "oh my god haha what",
-        "reactions": []
-      },
-      {
-        "by": "bun-thit-nuong",
-        "date": "2025-06-01",
-        "text": "hello college memories...",
-        "reactions": []
-      },
-      {
-        "by": "bun-thit-nuong",
-        "date": "2025-06-01",
-        "text": "UMass. This would be blunt cruise territory. back before weed was legal!",
-        "reactions": []
-      },
-      {
-        "by": "bun-thit-nuong",
-        "date": "2025-06-01",
-        "text": "Mass Moca is obviously the fucking sickest btw",
-        "reactions": []
-      },
-      {
-        "by": "bun-thit-nuong",
-        "date": "2025-06-01",
-        "text": "yep",
         "reactions": []
       },
       {
@@ -10576,9 +10192,27 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "Well, I did my masters",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "I did my degree in education of students with visual impairments. Like basically teaching the blind",
+        "reactions": []
+      },
+      {
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "hey have you found that really cool mini grand canyon out in western ma?",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "Which one?",
         "reactions": []
       },
       {
@@ -10591,6 +10225,12 @@ const SUBMISSIONS = [
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "lemme find it",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "Purgatory Chasm?",
         "reactions": []
       },
       {
@@ -10612,9 +10252,33 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "I have never really been to Florida. Only driven through",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "Are you from Mass?",
+        "reactions": []
+      },
+      {
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "a long time ago. yes.",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "Which area?",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "I’m close to Brockton",
         "reactions": []
       },
       {
@@ -10624,15 +10288,39 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "Ah okay.",
+        "reactions": []
+      },
+      {
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "I don't remember anything man",
         "reactions": []
       },
       {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "Oop.",
+        "reactions": []
+      },
+      {
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "I  have lived crazy lives lol",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "I’m southern ma",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "Close to Rhode Island",
         "reactions": []
       },
       {
@@ -10654,6 +10342,12 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "Where are you now?",
+        "reactions": []
+      },
+      {
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "MX",
@@ -10663,6 +10357,12 @@ const SUBMISSIONS = [
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "but I go back to SE Asia as often as possible",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "What part of Mexico?",
         "reactions": []
       },
       {
@@ -10690,9 +10390,21 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "I saw. Haven’t read that yet",
+        "reactions": []
+      },
+      {
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "brokenphone, new one on order",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "I love Mexico City",
         "reactions": []
       },
       {
@@ -10708,6 +10420,24 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "I mostly went to Oaxaca",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "So I didn’t fully explore mexico city",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "We stayed near Chapultec park",
+        "reactions": []
+      },
+      {
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "so I have spent like 1 month in BKK",
@@ -10717,6 +10447,12 @@ const SUBMISSIONS = [
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "i'd say cdmx is almost month worthy",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "I’m planning on going in February again",
         "reactions": []
       },
       {
@@ -10732,6 +10468,12 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "But idk spanish",
+        "reactions": []
+      },
+      {
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "start!!",
@@ -10744,15 +10486,45 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "Very poor spanish",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "My gf speaks it. She’s veen begging me too",
+        "reactions": []
+      },
+      {
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "hahaahha",
         "reactions": []
       },
       {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "I do want too",
+        "reactions": []
+      },
+      {
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "well its no fun learning language by yourself",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "I know I just need like energy",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "After work I’m too drained",
         "reactions": []
       },
       {
@@ -10780,6 +10552,12 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "Oh I’m anti ai",
+        "reactions": []
+      },
+      {
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "interesting",
@@ -10795,6 +10573,12 @@ const SUBMISSIONS = [
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "as my personal assistant",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "To each their own",
         "reactions": []
       },
       {
@@ -10816,6 +10600,12 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "Good for you!",
+        "reactions": []
+      },
+      {
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "I thought the AI thing was/is an annoying circlejerk",
@@ -10825,6 +10615,12 @@ const SUBMISSIONS = [
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "but its a useful tool",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "All I know that is kinda close is I can read and write braille",
         "reactions": []
       },
       {
@@ -10840,6 +10636,18 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "But not by touch",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "Only using my vision",
+        "reactions": []
+      },
+      {
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "that's quite interesting",
@@ -10849,6 +10657,36 @@ const SUBMISSIONS = [
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "is it very hard to learn by touch",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "Yes",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "You need years",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "And I have good vision",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "But like, I work with 3 kids who read braille",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "2 are totally blind.",
         "reactions": []
       },
       {
@@ -10870,9 +10708,21 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "Oh yeah.",
+        "reactions": []
+      },
+      {
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "I used to teach",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "What did you teach?",
         "reactions": []
       },
       {
@@ -10894,6 +10744,12 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "In SEA?",
+        "reactions": []
+      },
+      {
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "but it wasnt who I was ya know",
@@ -10912,9 +10768,33 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "You don’t have to be sorry he best. You just gotta be trying",
+        "reactions": []
+      },
+      {
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "i certainly tried a lot harder than most of my colleagues lol.",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "That’s good",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "Especially with kids",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "Just be a good person and try",
         "reactions": []
       },
       {
@@ -10933,6 +10813,18 @@ const SUBMISSIONS = [
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "shouldnt be around kids, yikes",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "Yup.",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "Last year, a lady I worked with got arrested for hitting disabled babies",
         "reactions": []
       },
       {
@@ -10966,6 +10858,18 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "Yeah.",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "It’s crazy.",
+        "reactions": []
+      },
+      {
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "last resort for some, i think",
@@ -10978,9 +10882,39 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "Well,",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "I think for some too it’s like",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "They wanna be around kids,",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "For not good reasons",
+        "reactions": []
+      },
+      {
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "yes absolutely, saw some of that in asia",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "You know what I mean?",
         "reactions": []
       },
       {
@@ -11008,6 +10942,12 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "Idk if I’ve experienced that yet",
+        "reactions": []
+      },
+      {
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "oh man",
@@ -11017,6 +10957,30 @@ const SUBMISSIONS = [
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "last teaching job I had",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "Well,",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "Okay idk how to say this",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "I don’t wanna dox myself",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "But one of the schools I work at has done some fucked up stuff",
         "reactions": []
       },
       {
@@ -11032,15 +10996,45 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "It’s worse than you can imagine",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "I hate that place.",
+        "reactions": []
+      },
+      {
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "i think parents dont realize how decisions are made",
         "reactions": []
       },
       {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "Yup",
+        "reactions": []
+      },
+      {
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "yeah man I would never teach in the US",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "I mean, I love my job, and the kids",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "It’s just the schools I hate",
         "reactions": []
       },
       {
@@ -11071,6 +11065,12 @@ const SUBMISSIONS = [
         "by": "bun-thit-nuong",
         "date": "2025-06-01",
         "text": "but good chat!!!!",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-01",
+        "text": "Have fun!",
         "reactions": []
       },
       {
@@ -11119,15 +11119,15 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "spiceboy",
-        "date": "2025-05-28",
-        "text": "Huh?",
-        "reactions": []
-      },
-      {
         "by": "teddy",
         "date": "2025-05-28",
         "text": "Really guy?",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-05-28",
+        "text": "Huh?",
         "reactions": []
       }
     ]
@@ -11184,12 +11184,6 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
-        "by": "tom-sawyer",
-        "date": "2025-05-28",
-        "text": "Wasn't an option",
-        "reactions": []
-      },
-      {
         "by": "karl",
         "date": "2025-05-28",
         "text": "i would have expected a real norwegian to be able to ski or snowboard down the dune",
@@ -11197,20 +11191,20 @@ const SUBMISSIONS = [
       },
       {
         "by": "tom-sawyer",
-        "date": "2025-05-29",
-        "text": "I think some other companies wouldve allowed skiis, but eh, the one I took was cheaper and more convinient",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-05-29",
-        "text": "https://tenor.com/view/cavemanspongebob-caveman-spongebob-react-whatreact-gif-20206670",
+        "date": "2025-05-28",
+        "text": "Wasn't an option",
         "reactions": []
       },
       {
         "by": "uncle-mooshi",
         "date": "2025-05-29",
         "text": "it should always be an option",
+        "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-05-29",
+        "text": "I think some other companies wouldve allowed skiis, but eh, the one I took was cheaper and more convinient",
         "reactions": []
       },
       {
@@ -11221,14 +11215,20 @@ const SUBMISSIONS = [
       },
       {
         "by": "tom-sawyer",
-        "date": "2025-06-22",
-        "text": "Huacachina was so cool, I definitely found it to be one of the highlights in Peru",
+        "date": "2025-05-29",
+        "text": "https://tenor.com/view/cavemanspongebob-caveman-spongebob-react-whatreact-gif-20206670",
         "reactions": []
       },
       {
         "by": "dragon-library-system",
         "date": "2025-06-22",
         "text": "Im late to this, but also went to the oasis! Seems like you had a super nice sandboarding experience… the guide I had for sandboarding really wanted us to live on the edge 🙈 lolol",
+        "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-06-22",
+        "text": "Huacachina was so cool, I definitely found it to be one of the highlights in Peru",
         "reactions": []
       }
     ],
@@ -11297,9 +11297,21 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
+        "by": "duck",
+        "date": "2025-06-01",
+        "text": "wow two testicles this time",
+        "reactions": []
+      },
+      {
         "by": "tom-sawyer",
         "date": "2025-06-01",
         "text": "The more the merrier",
+        "reactions": []
+      },
+      {
+        "by": "dragon-library-system",
+        "date": "2025-06-01",
+        "text": "I feel like so many of us are in Peru right now! In Peru for 30 days ourselves",
         "reactions": []
       },
       {
@@ -11309,9 +11321,21 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "dragon-library-system",
+        "date": "2025-06-01",
+        "text": "Cusco!",
+        "reactions": []
+      },
+      {
         "by": "tom-sawyer",
         "date": "2025-06-01",
         "text": "Oh that's cool, I'm literally entering the city right now",
+        "reactions": []
+      },
+      {
+        "by": "dragon-library-system",
+        "date": "2025-06-01",
+        "text": "Oh no way!! :0",
         "reactions": []
       },
       {
@@ -11327,122 +11351,27 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "tom-sawyer",
-        "date": "2025-06-01",
-        "text": "What a timing",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-06-01",
-        "text": "Will you be back in Cusco?",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-06-01",
-        "text": "My plan is essentially after Machu Picchu to spend some nights in Ollantaytambo on my way back to Cusco, and then explore Cusco after since I don't have much time here now",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-06-01",
-        "text": "How long have you been in Cusco? Any recommendations?",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-06-01",
-        "text": "Just got to plaza del armas and there's some huge parade going on today lol",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-06-01",
-        "text": "On the way back I think I'll easily spend a week in Cusco, maybe even more before moving along",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-06-01",
-        "text": "I may give this a shot tomorrow. Today is just about survival until I can check in at the hostel, then sleep lol",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-06-01",
-        "text": "I haven't quite decided. But I've been moving quote fast to try and get to Machu Picchu in time for my ticket. So I need to chill after that, lol.",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-06-01",
-        "text": "For how long are you in Cusco for after Machu Picchu?",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-06-01",
-        "text": "Ah okay, great. Should be plenty of time then. Let's meet when we're back in Cusco. \n\nMy guess is that I'm back in Cusco around the 7th",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-06-01",
-        "text": "It'll be one of the highlights of south America so far I'm sure",
-        "reactions": [
-          {
-            "e": "💯",
-            "c": 1
-          }
-        ]
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-06-01",
-        "text": "Sounds good, let's do that. Cheers ✌️",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-06-01",
-        "text": "I'll DM you when I'm on my way back to Cusco",
-        "reactions": []
-      },
-      {
-        "by": "duck",
-        "date": "2025-06-01",
-        "text": "wow two testicles this time",
-        "reactions": []
-      },
-      {
-        "by": "dragon-library-system",
-        "date": "2025-06-01",
-        "text": "I feel like so many of us are in Peru right now! In Peru for 30 days ourselves",
-        "reactions": []
-      },
-      {
-        "by": "dragon-library-system",
-        "date": "2025-06-01",
-        "text": "Cusco!",
-        "reactions": []
-      },
-      {
-        "by": "dragon-library-system",
-        "date": "2025-06-01",
-        "text": "Oh no way!! :0",
-        "reactions": []
-      },
-      {
         "by": "dragon-library-system",
         "date": "2025-06-01",
         "text": "Oh shoot, tomorrow and the day after I’m heading to Machu Picchu",
         "reactions": []
       },
       {
+        "by": "tom-sawyer",
+        "date": "2025-06-01",
+        "text": "What a timing",
+        "reactions": []
+      },
+      {
         "by": "dragon-library-system",
         "date": "2025-06-01",
         "text": "Uhhhh",
+        "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-06-01",
+        "text": "Will you be back in Cusco?",
         "reactions": []
       },
       {
@@ -11455,6 +11384,18 @@ const SUBMISSIONS = [
         "by": "dragon-library-system",
         "date": "2025-06-01",
         "text": "If you wanna grab coffee another day?",
+        "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-06-01",
+        "text": "My plan is essentially after Machu Picchu to spend some nights in Ollantaytambo on my way back to Cusco, and then explore Cusco after since I don't have much time here now",
+        "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-06-01",
+        "text": "How long have you been in Cusco? Any recommendations?",
         "reactions": []
       },
       {
@@ -11482,6 +11423,18 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "tom-sawyer",
+        "date": "2025-06-01",
+        "text": "Just got to plaza del armas and there's some huge parade going on today lol",
+        "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-06-01",
+        "text": "On the way back I think I'll easily spend a week in Cusco, maybe even more before moving along",
+        "reactions": []
+      },
+      {
         "by": "dragon-library-system",
         "date": "2025-06-01",
         "text": "Wait, how long are you going to be in the Cusco area?",
@@ -11494,9 +11447,27 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "tom-sawyer",
+        "date": "2025-06-01",
+        "text": "I may give this a shot tomorrow. Today is just about survival until I can check in at the hostel, then sleep lol",
+        "reactions": []
+      },
+      {
         "by": "dragon-library-system",
         "date": "2025-06-01",
         "text": "Ohhhh gotcha. Have fun!!",
+        "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-06-01",
+        "text": "I haven't quite decided. But I've been moving quote fast to try and get to Machu Picchu in time for my ticket. So I need to chill after that, lol.",
+        "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-06-01",
+        "text": "For how long are you in Cusco for after Machu Picchu?",
         "reactions": []
       },
       {
@@ -11512,9 +11483,38 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "tom-sawyer",
+        "date": "2025-06-01",
+        "text": "Ah okay, great. Should be plenty of time then. Let's meet when we're back in Cusco. \n\nMy guess is that I'm back in Cusco around the 7th",
+        "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-06-01",
+        "text": "It'll be one of the highlights of south America so far I'm sure",
+        "reactions": [
+          {
+            "e": "💯",
+            "c": 1
+          }
+        ]
+      },
+      {
         "by": "dragon-library-system",
         "date": "2025-06-01",
         "text": "Ohh, that sounds like good timing too! And then we can plan a location and time when we’re both back from Machu Picchu",
+        "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-06-01",
+        "text": "Sounds good, let's do that. Cheers ✌️",
+        "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-06-01",
+        "text": "I'll DM you when I'm on my way back to Cusco",
         "reactions": []
       }
     ]
@@ -11842,27 +11842,15 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
-        "by": "virtual-metro",
-        "date": "2025-06-01",
-        "text": "did not get to meet blue's helper",
-        "reactions": []
-      },
-      {
-        "by": "virtual-metro",
-        "date": "2025-06-01",
-        "text": "based, yeah i was trying to think of some way that people could feel how i felt on each trip and thats the best i came up with haha",
-        "reactions": []
-      },
-      {
-        "by": "virtual-metro",
-        "date": "2025-06-01",
-        "text": "Honestly was such a cool area, loved it! Will be going back there on the second trip",
-        "reactions": []
-      },
-      {
         "by": "e119",
         "date": "2025-06-01",
         "text": "Did Blue's Helper come?",
+        "reactions": []
+      },
+      {
+        "by": "virtual-metro",
+        "date": "2025-06-01",
+        "text": "did not get to meet blue's helper",
         "reactions": []
       },
       {
@@ -11875,6 +11863,12 @@ const SUBMISSIONS = [
             "c": 1
           }
         ]
+      },
+      {
+        "by": "virtual-metro",
+        "date": "2025-06-01",
+        "text": "based, yeah i was trying to think of some way that people could feel how i felt on each trip and thats the best i came up with haha",
+        "reactions": []
       },
       {
         "by": "spookyxjenn",
@@ -11892,6 +11886,12 @@ const SUBMISSIONS = [
             "c": 1
           }
         ]
+      },
+      {
+        "by": "virtual-metro",
+        "date": "2025-06-01",
+        "text": "Honestly was such a cool area, loved it! Will be going back there on the second trip",
+        "reactions": []
       }
     ]
   },
@@ -12036,6 +12036,12 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
+        "by": "karl",
+        "date": "2025-06-03",
+        "text": "also home to WPI",
+        "reactions": []
+      },
+      {
         "by": "spiceboy",
         "date": "2025-06-03",
         "text": "Yes yes. I’ve never been so I didn’t include it",
@@ -12045,24 +12051,6 @@ const SUBMISSIONS = [
         "by": "spiceboy",
         "date": "2025-06-03",
         "text": "But I’ve drive by it and know a few people who went",
-        "reactions": []
-      },
-      {
-        "by": "karl",
-        "date": "2025-06-03",
-        "text": "also home to WPI",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-04",
-        "text": "What conspiracies?",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-04",
-        "text": "Idk any",
         "reactions": []
       },
       {
@@ -12093,6 +12081,18 @@ const SUBMISSIONS = [
         "by": "bun-thit-nuong",
         "date": "2025-06-04",
         "text": "woods",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-04",
+        "text": "What conspiracies?",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-04",
+        "text": "Idk any",
         "reactions": []
       }
     ]
@@ -12186,6 +12186,12 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
+        "by": "spiceboy",
+        "date": "2025-06-09",
+        "text": "Is the city like tense due to the conflict?",
+        "reactions": []
+      },
+      {
         "by": "shlug",
         "date": "2025-06-09",
         "text": "Its fully controlled by morocco",
@@ -12204,9 +12210,21 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "spiceboy",
+        "date": "2025-06-09",
+        "text": "Right I know that",
+        "reactions": []
+      },
+      {
         "by": "shlug",
         "date": "2025-06-09",
         "text": "Its known as the no mans zone",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-09",
+        "text": "But I was just wondering like",
         "reactions": []
       },
       {
@@ -12216,9 +12234,21 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "spiceboy",
+        "date": "2025-06-09",
+        "text": "Is there like a movement against the Moroccans? Like do they feel occupied? Or have most people kinda moved on?",
+        "reactions": []
+      },
+      {
         "by": "shlug",
         "date": "2025-06-09",
         "text": "Lotta moroccan propaganda everywhere",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-09",
+        "text": "I see",
         "reactions": []
       },
       {
@@ -12228,9 +12258,21 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "spiceboy",
+        "date": "2025-06-09",
+        "text": "Is the Polasario front that region?",
+        "reactions": []
+      },
+      {
         "by": "shlug",
         "date": "2025-06-09",
         "text": "Theyre isolated to the desert 1/3rd f the territory",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-09",
+        "text": "Got it",
         "reactions": []
       },
       {
@@ -12240,10 +12282,27 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "spiceboy",
+        "date": "2025-06-09",
+        "text": "Looks interesting",
+        "reactions": []
+      },
+      {
         "by": "shlug",
         "date": "2025-06-09",
         "text": "The train crosses polisario territory on two occasions",
         "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-09",
+        "text": "Not for me lol",
+        "reactions": [
+          {
+            "e": "👍",
+            "c": 1
+          }
+        ]
       },
       {
         "by": "shlug",
@@ -12270,83 +12329,6 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "shlug",
-        "date": "2025-06-09",
-        "text": "Its sad what colonialisms done to the african continent",
-        "reactions": []
-      },
-      {
-        "by": "shlug",
-        "date": "2025-06-09",
-        "text": "I woild like to explore more of western sahara in the future",
-        "reactions": []
-      },
-      {
-        "by": "shlug",
-        "date": "2025-06-09",
-        "text": "Geopolitically moroccos claim is getting stronger especislly due to the migrant crisis and it being the main route into western africa by land",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-09",
-        "text": "Is the city like tense due to the conflict?",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-09",
-        "text": "Right I know that",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-09",
-        "text": "But I was just wondering like",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-09",
-        "text": "Is there like a movement against the Moroccans? Like do they feel occupied? Or have most people kinda moved on?",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-09",
-        "text": "I see",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-09",
-        "text": "Is the Polasario front that region?",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-09",
-        "text": "Got it",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-09",
-        "text": "Looks interesting",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-09",
-        "text": "Not for me lol",
-        "reactions": [
-          {
-            "e": "👍",
-            "c": 1
-          }
-        ]
-      },
-      {
         "by": "spiceboy",
         "date": "2025-06-09",
         "text": "I see",
@@ -12362,6 +12344,24 @@ const SUBMISSIONS = [
         "by": "spiceboy",
         "date": "2025-06-09",
         "text": "Idk much about this region so cool to learn more",
+        "reactions": []
+      },
+      {
+        "by": "shlug",
+        "date": "2025-06-09",
+        "text": "Its sad what colonialisms done to the african continent",
+        "reactions": []
+      },
+      {
+        "by": "shlug",
+        "date": "2025-06-09",
+        "text": "I woild like to explore more of western sahara in the future",
+        "reactions": []
+      },
+      {
+        "by": "shlug",
+        "date": "2025-06-09",
+        "text": "Geopolitically moroccos claim is getting stronger especislly due to the migrant crisis and it being the main route into western africa by land",
         "reactions": []
       }
     ]
@@ -12443,15 +12443,15 @@ const SUBMISSIONS = [
         ]
       },
       {
-        "by": "dragon-library-system",
-        "date": "2025-06-14",
-        "text": "Absolutely!! And if you want any ideas/tips in the area, don’t be afraid to reach out!",
-        "reactions": []
-      },
-      {
         "by": "tom-sawyer",
         "date": "2025-06-14",
         "text": "It was a pleasure! 🙏",
+        "reactions": []
+      },
+      {
+        "by": "dragon-library-system",
+        "date": "2025-06-14",
+        "text": "Absolutely!! And if you want any ideas/tips in the area, don’t be afraid to reach out!",
         "reactions": []
       },
       {
@@ -12810,6 +12810,12 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "tom-sawyer",
+        "date": "2025-09-09",
+        "text": "Wow, who knew globetrotter could be informative, im actually headed here tomorrow",
+        "reactions": []
+      },
+      {
         "by": "duck",
         "date": "2025-09-09",
         "text": "im not doing that anymore it takes too much effort",
@@ -12825,6 +12831,12 @@ const SUBMISSIONS = [
         "by": "duck",
         "date": "2025-09-09",
         "text": "then pad it out with NJ towns",
+        "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-09-09",
+        "text": "Is it deadass 45 bucks on the Argentinian side? May actually just visit the Brazilian side. Spending 65 to see two sides of the same waterfall is kinda fucking nuts to me",
         "reactions": []
       },
       {
@@ -12858,15 +12870,33 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "tom-sawyer",
+        "date": "2025-09-09",
+        "text": "Lol, holy shit. \n\nWe'll be staying on the Argentinian side, and then I'll probably head for the Brazilian side as a day trip. \n\nI was wondering if I could bike to get to the waterfall, do you think that's possible? Is there a place I can park the bike and then take the park bus or whatever it is? Or how did you get to and from town?",
+        "reactions": []
+      },
+      {
         "by": "duck",
         "date": "2025-09-09",
         "text": "to brazil side? youll need to take a bus to get to there",
         "reactions": []
       },
       {
+        "by": "tom-sawyer",
+        "date": "2025-09-09",
+        "text": "I cant take a bike?",
+        "reactions": []
+      },
+      {
         "by": "duck",
         "date": "2025-09-09",
         "text": "theres buses that regularly get to foz de iguacu, tho I think uber is available",
+        "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-09-09",
+        "text": "We're staying on the argentinian side tho, and it was kinda annoying and time consuming to cross over to here, so i may just go to the argentinian side cause i cant be fucking arsed to go to the brazilian side and back",
         "reactions": []
       },
       {
@@ -12882,56 +12912,15 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "duck",
-        "date": "2025-09-09",
-        "text": "I think the biking distance is just as long lol its more remote than the brazil side",
-        "reactions": []
-      },
-      {
-        "by": "duck",
-        "date": "2025-09-09",
-        "text": "oh yeah they'll take card",
-        "reactions": [
-          {
-            "e": "🔥",
-            "c": 1
-          }
-        ]
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-09-09",
-        "text": "Wow, who knew globetrotter could be informative, im actually headed here tomorrow",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-09-09",
-        "text": "Is it deadass 45 bucks on the Argentinian side? May actually just visit the Brazilian side. Spending 65 to see two sides of the same waterfall is kinda fucking nuts to me",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-09-09",
-        "text": "Lol, holy shit. \n\nWe'll be staying on the Argentinian side, and then I'll probably head for the Brazilian side as a day trip. \n\nI was wondering if I could bike to get to the waterfall, do you think that's possible? Is there a place I can park the bike and then take the park bus or whatever it is? Or how did you get to and from town?",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-09-09",
-        "text": "I cant take a bike?",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-09-09",
-        "text": "We're staying on the argentinian side tho, and it was kinda annoying and time consuming to cross over to here, so i may just go to the argentinian side cause i cant be fucking arsed to go to the brazilian side and back",
-        "reactions": []
-      },
-      {
         "by": "tom-sawyer",
         "date": "2025-09-09",
         "text": "What about argentinian side if im already in puerto?",
+        "reactions": []
+      },
+      {
+        "by": "duck",
+        "date": "2025-09-09",
+        "text": "I think the biking distance is just as long lol its more remote than the brazil side",
         "reactions": []
       },
       {
@@ -12948,9 +12937,14 @@ const SUBMISSIONS = [
       },
       {
         "by": "duck",
-        "date": "2025-09-11",
-        "text": "thats probably why they bumped the prices, maybe along with their ridiculous inflation",
-        "reactions": []
+        "date": "2025-09-09",
+        "text": "oh yeah they'll take card",
+        "reactions": [
+          {
+            "e": "🔥",
+            "c": 1
+          }
+        ]
       },
       {
         "by": "tom-sawyer",
@@ -12962,6 +12956,12 @@ const SUBMISSIONS = [
             "c": 1
           }
         ]
+      },
+      {
+        "by": "duck",
+        "date": "2025-09-11",
+        "text": "thats probably why they bumped the prices, maybe along with their ridiculous inflation",
+        "reactions": []
       },
       {
         "by": "tom-sawyer",
@@ -13540,24 +13540,6 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "hk77",
-        "date": "2025-06-29",
-        "text": "well as long as the boobs are fine then im happy!",
-        "reactions": []
-      },
-      {
-        "by": "hk77",
-        "date": "2025-06-29",
-        "text": "(althought just to say, no squid were harmed here, well beside the ones that were killed to feed me - the tentacles just move due to nerve activity after being cut and prepared)",
-        "reactions": []
-      },
-      {
-        "by": "hk77",
-        "date": "2025-06-29",
-        "text": "It wasnt that good tbf, not that i didnt like it, just not something id eat a lot of, was nice to try tho!",
-        "reactions": []
-      },
-      {
         "by": "duck",
         "date": "2025-06-29",
         "text": "boobs are fine but the squid",
@@ -13579,6 +13561,24 @@ const SUBMISSIONS = [
         "by": "duck",
         "date": "2025-06-29",
         "text": "id probably eat one or two then put the rest into a deep fryer",
+        "reactions": []
+      },
+      {
+        "by": "hk77",
+        "date": "2025-06-29",
+        "text": "well as long as the boobs are fine then im happy!",
+        "reactions": []
+      },
+      {
+        "by": "hk77",
+        "date": "2025-06-29",
+        "text": "(althought just to say, no squid were harmed here, well beside the ones that were killed to feed me - the tentacles just move due to nerve activity after being cut and prepared)",
+        "reactions": []
+      },
+      {
+        "by": "hk77",
+        "date": "2025-06-29",
+        "text": "It wasnt that good tbf, not that i didnt like it, just not something id eat a lot of, was nice to try tho!",
         "reactions": []
       }
     ],
@@ -13735,36 +13735,6 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
-        "by": "spiceboy",
-        "date": "2025-06-30",
-        "text": "I saw quite a few breast",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-30",
-        "text": "I have a shirt that says that in braille",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-30",
-        "text": "So blind people can know where my eyes are",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-30",
-        "text": "There is a more famous statue",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-06-30",
-        "text": "That one is different",
-        "reactions": []
-      },
-      {
         "by": "duck",
         "date": "2025-06-30",
         "text": "damn when did the mermaid get work done",
@@ -13789,15 +13759,45 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "spiceboy",
+        "date": "2025-06-30",
+        "text": "I saw quite a few breast",
+        "reactions": []
+      },
+      {
         "by": "duck",
         "date": "2025-06-30",
         "text": "hey my eyes are slightly up here",
         "reactions": []
       },
       {
+        "by": "spiceboy",
+        "date": "2025-06-30",
+        "text": "I have a shirt that says that in braille",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-30",
+        "text": "So blind people can know where my eyes are",
+        "reactions": []
+      },
+      {
         "by": "shlug",
         "date": "2025-06-30",
         "text": "It looked sad when i went over",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-30",
+        "text": "There is a more famous statue",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-06-30",
+        "text": "That one is different",
         "reactions": []
       }
     ]
@@ -13869,12 +13869,6 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
-        "by": "spiceboy",
-        "date": "2025-06-30",
-        "text": "This is from my hike yesterday",
-        "reactions": []
-      },
-      {
         "by": "duck",
         "date": "2025-06-30",
         "text": "I like that tusk",
@@ -13893,6 +13887,12 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "spiceboy",
+        "date": "2025-06-30",
+        "text": "This is from my hike yesterday",
+        "reactions": []
+      },
+      {
         "by": "shlug",
         "date": "2025-06-30",
         "text": "Hell yeah🔥",
@@ -13908,6 +13908,12 @@ const SUBMISSIONS = [
         "by": "spiceboy",
         "date": "2025-07-02",
         "text": "Guys also, if you do visit Nuuk, I should have put in the description, but Nuuk is now the new base to explore the rest of Greenland. So it’s useful to explore other areas, and you come in and out of Nuuk for best connections!",
+        "reactions": []
+      },
+      {
+        "by": "duck",
+        "date": "2025-07-02",
+        "text": "what areas",
         "reactions": []
       },
       {
@@ -13938,12 +13944,6 @@ const SUBMISSIONS = [
         "by": "spiceboy",
         "date": "2025-07-02",
         "text": "I also know there are lots of hiking trails, and more",
-        "reactions": []
-      },
-      {
-        "by": "duck",
-        "date": "2025-07-02",
-        "text": "what areas",
         "reactions": []
       }
     ]
@@ -13990,12 +13990,6 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
-        "by": "tom-sawyer",
-        "date": "2025-07-03",
-        "text": "Thanks, I definitetely had a lot of fun in Peru, going to remember it for a long time I think. Not often I get to explore countries with this much diversity",
-        "reactions": []
-      },
-      {
         "by": "dragon-library-system",
         "date": "2025-07-03",
         "text": "Those look stunning! Glad you’re enjoying Perú to the fullest!!",
@@ -14005,6 +13999,12 @@ const SUBMISSIONS = [
             "c": 1
           }
         ]
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-07-03",
+        "text": "Thanks, I definitetely had a lot of fun in Peru, going to remember it for a long time I think. Not often I get to explore countries with this much diversity",
+        "reactions": []
       },
       {
         "by": "duck",
@@ -14081,6 +14081,12 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
+        "by": "dragon-library-system",
+        "date": "2025-07-06",
+        "text": "Must’ve been an amazing sight to see!",
+        "reactions": []
+      },
+      {
         "by": "spiceboy",
         "date": "2025-07-06",
         "text": "Well",
@@ -14090,12 +14096,6 @@ const SUBMISSIONS = [
         "by": "spiceboy",
         "date": "2025-07-06",
         "text": "I was only there for a day. Cause this was a connection from Greenland",
-        "reactions": []
-      },
-      {
-        "by": "dragon-library-system",
-        "date": "2025-07-06",
-        "text": "Must’ve been an amazing sight to see!",
         "reactions": []
       }
     ]
@@ -14142,27 +14142,27 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
-        "by": "tom-sawyer",
-        "date": "2025-07-12",
-        "text": "Didnt have luck getting ubers home thats for sure",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-07-12",
-        "text": "Barely",
-        "reactions": []
-      },
-      {
         "by": "duck",
         "date": "2025-07-12",
         "text": "any good luck yet?",
         "reactions": []
       },
       {
+        "by": "tom-sawyer",
+        "date": "2025-07-12",
+        "text": "Didnt have luck getting ubers home thats for sure",
+        "reactions": []
+      },
+      {
         "by": "duck",
         "date": "2025-07-12",
         "text": "they got uber there too?",
+        "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-07-12",
+        "text": "Barely",
         "reactions": []
       }
     ]
@@ -14214,15 +14214,15 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
-        "by": "tom-sawyer",
-        "date": "2025-07-13",
-        "text": "Fighting me on this is futile, Carl already signed off on this bull months ago, it counts 🔥",
-        "reactions": []
-      },
-      {
         "by": "duck",
         "date": "2025-07-13",
         "text": "are you sure you rubbed the right lock",
+        "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-07-13",
+        "text": "Fighting me on this is futile, Carl already signed off on this bull months ago, it counts 🔥",
         "reactions": []
       }
     ]
@@ -14509,15 +14509,15 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "tom-sawyer",
-        "date": "2025-08-25",
-        "text": "Oh it was, it was a very enjoyable city!",
-        "reactions": []
-      },
-      {
         "by": "dragon-library-system",
         "date": "2025-08-25",
         "text": "Definitely hope to go someday! It seems like a really great city",
+        "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-08-25",
+        "text": "Oh it was, it was a very enjoyable city!",
         "reactions": []
       }
     ]
@@ -14965,17 +14965,6 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "tom-sawyer",
-        "date": "2025-09-07",
-        "text": "And he never will, cause now spring is around the corner 🔥",
-        "reactions": [
-          {
-            "e": "😭",
-            "c": 1
-          }
-        ]
-      },
-      {
         "by": "adrenal",
         "date": "2025-09-07",
         "text": "MODS we need to disqualify him from globetrotter entirely",
@@ -14986,6 +14975,17 @@ const SUBMISSIONS = [
         "date": "2025-09-07",
         "text": "also its winter and he still has not gotten proper clothes",
         "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-09-07",
+        "text": "And he never will, cause now spring is around the corner 🔥",
+        "reactions": [
+          {
+            "e": "😭",
+            "c": 1
+          }
+        ]
       },
       {
         "by": "hk77",
@@ -15068,15 +15068,15 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
-        "by": "tom-sawyer",
-        "date": "2025-09-08",
-        "text": "Its my only pair of pants, so youre god damn right I am running around in sweatpants",
-        "reactions": []
-      },
-      {
         "by": "spookyxjenn",
         "date": "2025-09-08",
         "text": "Bro really running around shamelessly in grey sweatpants",
+        "reactions": []
+      },
+      {
+        "by": "tom-sawyer",
+        "date": "2025-09-08",
+        "text": "Its my only pair of pants, so youre god damn right I am running around in sweatpants",
         "reactions": []
       }
     ]
@@ -15330,24 +15330,6 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
-        "by": "karl",
-        "date": "2025-09-17",
-        "text": "no, i should do that one of these days",
-        "reactions": []
-      },
-      {
-        "by": "karl",
-        "date": "2025-09-17",
-        "text": "easton is also kinda cool",
-        "reactions": []
-      },
-      {
-        "by": "karl",
-        "date": "2025-09-17",
-        "text": "yeah",
-        "reactions": []
-      },
-      {
         "by": "spiceboy",
         "date": "2025-09-17",
         "text": "Did you visit Bethlehem?",
@@ -15360,9 +15342,27 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "karl",
+        "date": "2025-09-17",
+        "text": "no, i should do that one of these days",
+        "reactions": []
+      },
+      {
+        "by": "karl",
+        "date": "2025-09-17",
+        "text": "easton is also kinda cool",
+        "reactions": []
+      },
+      {
         "by": "spiceboy",
         "date": "2025-09-17",
         "text": "Easton PA?",
+        "reactions": []
+      },
+      {
+        "by": "karl",
+        "date": "2025-09-17",
+        "text": "yeah",
         "reactions": []
       }
     ]
@@ -15434,12 +15434,6 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
-        "by": "rox",
-        "date": "2025-09-19",
-        "text": "It was fun for the time I stayed but not longer",
-        "reactions": []
-      },
-      {
         "by": "spookyxjenn",
         "date": "2025-09-19",
         "text": "My condolences you had to go to Frankfurt  I Hope you enjoyed the concert tho!",
@@ -15449,6 +15443,12 @@ const SUBMISSIONS = [
             "c": 1
           }
         ]
+      },
+      {
+        "by": "rox",
+        "date": "2025-09-19",
+        "text": "It was fun for the time I stayed but not longer",
+        "reactions": []
       }
     ]
   },
@@ -16795,15 +16795,15 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
-        "by": "dragon-library-system",
-        "date": "2025-10-24",
-        "text": "Definitely worth checking out!",
-        "reactions": []
-      },
-      {
         "by": "duck",
         "date": "2025-10-24",
         "text": "that aint bad, maybe I should stop by this winter to go skiing",
+        "reactions": []
+      },
+      {
+        "by": "dragon-library-system",
+        "date": "2025-10-24",
+        "text": "Definitely worth checking out!",
         "reactions": []
       },
       {
@@ -16912,15 +16912,15 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
-        "by": "rox",
-        "date": "2025-10-28",
-        "text": "Yea",
-        "reactions": []
-      },
-      {
         "by": "duck",
         "date": "2025-10-28",
         "text": "its got a cute historic center but you can kinda walk that in an hour",
+        "reactions": []
+      },
+      {
+        "by": "rox",
+        "date": "2025-10-28",
+        "text": "Yea",
         "reactions": []
       }
     ],
@@ -17036,9 +17036,33 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
+        "by": "genyuz",
+        "date": "2025-10-30",
+        "text": "getting closer and closer to cluj",
+        "reactions": []
+      },
+      {
+        "by": "genyuz",
+        "date": "2025-10-30",
+        "text": ":0",
+        "reactions": []
+      },
+      {
         "by": "rox",
         "date": "2025-10-30",
         "text": "I am there now",
+        "reactions": []
+      },
+      {
+        "by": "genyuz",
+        "date": "2025-10-30",
+        "text": "interesting, I was also there for uni just today",
+        "reactions": []
+      },
+      {
+        "by": "genyuz",
+        "date": "2025-10-30",
+        "text": "how long are you in cluj for?",
         "reactions": []
       },
       {
@@ -17060,9 +17084,27 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "genyuz",
+        "date": "2025-10-30",
+        "text": "and this is your what night?",
+        "reactions": []
+      },
+      {
+        "by": "genyuz",
+        "date": "2025-10-30",
+        "text": "first, second?",
+        "reactions": []
+      },
+      {
         "by": "rox",
         "date": "2025-10-30",
         "text": "First",
+        "reactions": []
+      },
+      {
+        "by": "genyuz",
+        "date": "2025-10-30",
+        "text": "ahhh got it",
         "reactions": []
       },
       {
@@ -17084,84 +17126,6 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "rox",
-        "date": "2025-10-30",
-        "text": "Sure I geuss",
-        "reactions": []
-      },
-      {
-        "by": "rox",
-        "date": "2025-10-30",
-        "text": "Where’s ur home town?",
-        "reactions": []
-      },
-      {
-        "by": "rox",
-        "date": "2025-10-30",
-        "text": "We can dm though",
-        "reactions": []
-      },
-      {
-        "by": "rox",
-        "date": "2025-10-30",
-        "text": "I can make one about cluj",
-        "reactions": []
-      },
-      {
-        "by": "rox",
-        "date": "2025-10-30",
-        "text": "Okay",
-        "reactions": []
-      },
-      {
-        "by": "rox",
-        "date": "2025-10-30",
-        "text": "Sorry didn’t see that",
-        "reactions": []
-      },
-      {
-        "by": "genyuz",
-        "date": "2025-10-30",
-        "text": "getting closer and closer to cluj",
-        "reactions": []
-      },
-      {
-        "by": "genyuz",
-        "date": "2025-10-30",
-        "text": ":0",
-        "reactions": []
-      },
-      {
-        "by": "genyuz",
-        "date": "2025-10-30",
-        "text": "interesting, I was also there for uni just today",
-        "reactions": []
-      },
-      {
-        "by": "genyuz",
-        "date": "2025-10-30",
-        "text": "how long are you in cluj for?",
-        "reactions": []
-      },
-      {
-        "by": "genyuz",
-        "date": "2025-10-30",
-        "text": "and this is your what night?",
-        "reactions": []
-      },
-      {
-        "by": "genyuz",
-        "date": "2025-10-30",
-        "text": "first, second?",
-        "reactions": []
-      },
-      {
-        "by": "genyuz",
-        "date": "2025-10-30",
-        "text": "ahhh got it",
-        "reactions": []
-      },
-      {
         "by": "genyuz",
         "date": "2025-10-30",
         "text": "nah but I was gonna ask if you'd like me to show you around these days 🤔 but I see that the trip is over the weekend (and I don't have much access to public transport over the weekend)",
@@ -17171,6 +17135,18 @@ const SUBMISSIONS = [
         "by": "genyuz",
         "date": "2025-10-30",
         "text": "I like to show people around my hometown even tho I live a bit further away from it",
+        "reactions": []
+      },
+      {
+        "by": "rox",
+        "date": "2025-10-30",
+        "text": "Sure I geuss",
+        "reactions": []
+      },
+      {
+        "by": "rox",
+        "date": "2025-10-30",
+        "text": "Where’s ur home town?",
         "reactions": []
       },
       {
@@ -17192,6 +17168,12 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "rox",
+        "date": "2025-10-30",
+        "text": "We can dm though",
+        "reactions": []
+      },
+      {
         "by": "genyuz",
         "date": "2025-10-30",
         "text": "sure, so we don't have to like, fill this chat lol",
@@ -17204,15 +17186,33 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "rox",
+        "date": "2025-10-30",
+        "text": "I can make one about cluj",
+        "reactions": []
+      },
+      {
         "by": "genyuz",
         "date": "2025-10-30",
         "text": "yeah, but I'll also dm you about whether I can show you around or couldn't cuz of time (time is important)",
         "reactions": []
       },
       {
+        "by": "rox",
+        "date": "2025-10-30",
+        "text": "Okay",
+        "reactions": []
+      },
+      {
         "by": "genyuz",
         "date": "2025-10-30",
         "text": "oh yea, feel free to accept my friend request, as apparently I can't dm anyone unless I have them as a discord friend",
+        "reactions": []
+      },
+      {
+        "by": "rox",
+        "date": "2025-10-30",
+        "text": "Sorry didn’t see that",
         "reactions": []
       },
       {
@@ -17485,6 +17485,12 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
+        "by": "chaoticblush",
+        "date": "2025-11-09",
+        "text": "Yhe tower bar looks cute",
+        "reactions": []
+      },
+      {
         "by": "dragon-library-system",
         "date": "2025-11-09",
         "text": "Right? It was really cute! Good food too! Tried some Belgian fries",
@@ -17494,12 +17500,6 @@ const SUBMISSIONS = [
             "c": 1
           }
         ]
-      },
-      {
-        "by": "chaoticblush",
-        "date": "2025-11-09",
-        "text": "Yhe tower bar looks cute",
-        "reactions": []
       }
     ]
   },
@@ -17609,15 +17609,15 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
-        "by": "spiceboy",
-        "date": "2025-11-26",
-        "text": "I think like every state has one",
-        "reactions": []
-      },
-      {
         "by": "rox",
         "date": "2025-11-26",
         "text": "HALLO SPRINGFIELD IS REAl?",
+        "reactions": []
+      },
+      {
+        "by": "spiceboy",
+        "date": "2025-11-26",
+        "text": "I think like every state has one",
         "reactions": []
       },
       {
@@ -17721,6 +17721,12 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "duck",
+        "date": "2025-11-14",
+        "text": "was tom as cute as I think he is irl",
+        "reactions": []
+      },
+      {
         "by": "micky-mickardo",
         "date": "2025-11-14",
         "text": "In Mexico City I stayed in Polanco I’ll show you guys my view",
@@ -17773,30 +17779,6 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "micky-mickardo",
-        "date": "2025-11-14",
-        "text": "Ok kind of I was running late but then he couldn’t decide what to eat and he chose the shittiest ramen",
-        "reactions": []
-      },
-      {
-        "by": "micky-mickardo",
-        "date": "2025-11-14",
-        "text": "I actually was going to go",
-        "reactions": []
-      },
-      {
-        "by": "micky-mickardo",
-        "date": "2025-11-14",
-        "text": "But Herman fucking flaked on me",
-        "reactions": []
-      },
-      {
-        "by": "duck",
-        "date": "2025-11-14",
-        "text": "was tom as cute as I think he is irl",
-        "reactions": []
-      },
-      {
         "by": "tom-sawyer",
         "date": "2025-11-14",
         "text": "lying is not allowed in globetrotter",
@@ -17814,6 +17796,12 @@ const SUBMISSIONS = [
         ]
       },
       {
+        "by": "micky-mickardo",
+        "date": "2025-11-14",
+        "text": "Ok kind of I was running late but then he couldn’t decide what to eat and he chose the shittiest ramen",
+        "reactions": []
+      },
+      {
         "by": "cat",
         "date": "2025-11-14",
         "text": "Because no one listens to me to get the Chilaquiles",
@@ -17823,6 +17811,18 @@ const SUBMISSIONS = [
         "by": "tom-sawyer",
         "date": "2025-11-14",
         "text": "Lying will disqualify your submission",
+        "reactions": []
+      },
+      {
+        "by": "micky-mickardo",
+        "date": "2025-11-14",
+        "text": "I actually was going to go",
+        "reactions": []
+      },
+      {
+        "by": "micky-mickardo",
+        "date": "2025-11-14",
+        "text": "But Herman fucking flaked on me",
         "reactions": []
       },
       {
@@ -17861,36 +17861,6 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
-        "by": "micky-mickardo",
-        "date": "2025-11-14",
-        "text": "Bro stop texting you’re fucking up my submissions",
-        "reactions": []
-      },
-      {
-        "by": "micky-mickardo",
-        "date": "2025-11-14",
-        "text": "Don’t text let me finish I forget what I have to put in them so I go back and read them",
-        "reactions": []
-      },
-      {
-        "by": "micky-mickardo",
-        "date": "2025-11-14",
-        "text": "tell him to stfu and let me cook",
-        "reactions": []
-      },
-      {
-        "by": "micky-mickardo",
-        "date": "2025-11-14",
-        "text": "Barcelona population is 1.73 million but the surrounding areas make it go up to almost 6million. It’s a pretty big city, I thought it was kinda fucking dirty tbh this last time I was there I didn’t enjoy it as much as other times, I’ve visited Barcelona about 4 times in my life and twice this year and it’s always fun to go\n\nI got churros and Pablo’s which are 50mg nicotine pouches which made me sick I didn’t like them.\n\nI then went to the Mercado and got some fruit because I got dizzy and felt like ass after the nicotine pouch \n\nThings to do\nSagrada familia\nWalk around las ramblas\nPray you don’t get pickpocketed\nGet rejected at every hostel because you didn’t book a night\nSleep outside in a bench\nEat paella with some sea food in it\n\nI got to Barcelona by train from Madrid but the second time I went this year I had a long layover there I liked the gothic quarter too walking through there was fun and I found some churros to eat",
-        "reactions": []
-      },
-      {
-        "by": "micky-mickardo",
-        "date": "2025-11-14",
-        "text": "happy?",
-        "reactions": []
-      },
-      {
         "by": "tom-sawyer",
         "date": "2025-11-14",
         "text": "I swear to god, I already told you in the last one",
@@ -17903,9 +17873,27 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "micky-mickardo",
+        "date": "2025-11-14",
+        "text": "Bro stop texting you’re fucking up my submissions",
+        "reactions": []
+      },
+      {
+        "by": "micky-mickardo",
+        "date": "2025-11-14",
+        "text": "Don’t text let me finish I forget what I have to put in them so I go back and read them",
+        "reactions": []
+      },
+      {
         "by": "tom-sawyer",
         "date": "2025-11-14",
         "text": "youre thinking the same, arent you",
+        "reactions": []
+      },
+      {
+        "by": "micky-mickardo",
+        "date": "2025-11-14",
+        "text": "tell him to stfu and let me cook",
         "reactions": []
       },
       {
@@ -17918,6 +17906,18 @@ const SUBMISSIONS = [
         "by": "tom-sawyer",
         "date": "2025-11-14",
         "text": "will there be an award for laziest globetrotter submissions?",
+        "reactions": []
+      },
+      {
+        "by": "micky-mickardo",
+        "date": "2025-11-14",
+        "text": "Barcelona population is 1.73 million but the surrounding areas make it go up to almost 6million. It’s a pretty big city, I thought it was kinda fucking dirty tbh this last time I was there I didn’t enjoy it as much as other times, I’ve visited Barcelona about 4 times in my life and twice this year and it’s always fun to go\n\nI got churros and Pablo’s which are 50mg nicotine pouches which made me sick I didn’t like them.\n\nI then went to the Mercado and got some fruit because I got dizzy and felt like ass after the nicotine pouch \n\nThings to do\nSagrada familia\nWalk around las ramblas\nPray you don’t get pickpocketed\nGet rejected at every hostel because you didn’t book a night\nSleep outside in a bench\nEat paella with some sea food in it\n\nI got to Barcelona by train from Madrid but the second time I went this year I had a long layover there I liked the gothic quarter too walking through there was fun and I found some churros to eat",
+        "reactions": []
+      },
+      {
+        "by": "micky-mickardo",
+        "date": "2025-11-14",
+        "text": "happy?",
         "reactions": []
       }
     ],
@@ -18031,12 +18031,6 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "micky-mickardo",
-        "date": "2025-11-14",
-        "text": "🔥 🔥",
-        "reactions": []
-      },
-      {
         "by": "tom-sawyer",
         "date": "2025-11-14",
         "text": "He's getting better at this 🔥",
@@ -18044,14 +18038,20 @@ const SUBMISSIONS = [
       },
       {
         "by": "micky-mickardo",
-        "date": "2025-11-25",
-        "text": "I’m a labubu",
+        "date": "2025-11-14",
+        "text": "🔥 🔥",
         "reactions": []
       },
       {
         "by": "gia",
         "date": "2025-11-25",
         "text": "where are the labubus",
+        "reactions": []
+      },
+      {
+        "by": "micky-mickardo",
+        "date": "2025-11-25",
+        "text": "I’m a labubu",
         "reactions": []
       },
       {
@@ -18167,15 +18167,15 @@ const SUBMISSIONS = [
     "reactions": [],
     "comments": [
       {
-        "by": "virtual-metro",
-        "date": "2025-11-14",
-        "text": "couldnt even get up there to do it there was a SOLID WALL of tourists there at all times",
-        "reactions": []
-      },
-      {
         "by": "cat",
         "date": "2025-11-14",
         "text": "So you did not throw some coins in it 😂",
+        "reactions": []
+      },
+      {
+        "by": "virtual-metro",
+        "date": "2025-11-14",
+        "text": "couldnt even get up there to do it there was a SOLID WALL of tourists there at all times",
         "reactions": []
       },
       {
@@ -18622,15 +18622,15 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "micky-mickardo",
-        "date": "2025-11-15",
-        "text": "I read VM’s and it made me embarrassed😂",
-        "reactions": []
-      },
-      {
         "by": "tom-sawyer",
         "date": "2025-11-15",
         "text": "Wow, he's just getting better and better",
+        "reactions": []
+      },
+      {
+        "by": "micky-mickardo",
+        "date": "2025-11-15",
+        "text": "I read VM’s and it made me embarrassed😂",
         "reactions": []
       },
       {
@@ -18924,6 +18924,12 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
+        "by": "gia",
+        "date": "2025-11-25",
+        "text": "I showed this post to my friend who is from Baguio and she said grab taxi isn't banned in the city - its actually the main form of transport and almost all taxis are also grab taxis cause its cheap af. Grab motorcycles are banned but thats cause most streets don't allow motorcycles to pass through due to tight spaces - nothing to do with corruption.\nShe said \"motorcycles aren't allowed to pass through session road but they can go through Harrison road and the back of the Baguio cathedral\"\n\nShe said the place you went to with the grandma is not Baguio anymore, its the provinces so there is no grab there. You need to hire a car. \n\nShe saw the \"Filipino baddies\" and asked if you were a passport bro 😂",
+        "reactions": []
+      },
+      {
         "by": "japoolie",
         "date": "2025-11-25",
         "text": "Idk I was staying with my local friends there and the grab app said “does not work in this region” 🤷‍♂️ same with places like Puerto Galera where you can only use authorised tuk tuks. Just repeating what the locals said regarding corruption",
@@ -18933,12 +18939,6 @@ const SUBMISSIONS = [
         "by": "japoolie",
         "date": "2025-11-25",
         "text": "And definitely not a passport bro 🤣🤣 I am a respectful traveller 😌",
-        "reactions": []
-      },
-      {
-        "by": "gia",
-        "date": "2025-11-25",
-        "text": "I showed this post to my friend who is from Baguio and she said grab taxi isn't banned in the city - its actually the main form of transport and almost all taxis are also grab taxis cause its cheap af. Grab motorcycles are banned but thats cause most streets don't allow motorcycles to pass through due to tight spaces - nothing to do with corruption.\nShe said \"motorcycles aren't allowed to pass through session road but they can go through Harrison road and the back of the Baguio cathedral\"\n\nShe said the place you went to with the grandma is not Baguio anymore, its the provinces so there is no grab there. You need to hire a car. \n\nShe saw the \"Filipino baddies\" and asked if you were a passport bro 😂",
         "reactions": []
       }
     ]
@@ -19129,15 +19129,15 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "japoolie",
-        "date": "2025-11-20",
-        "text": "😎",
-        "reactions": []
-      },
-      {
         "by": "spiceboy",
         "date": "2025-11-20",
         "text": "Dang you really did all at once lol",
+        "reactions": []
+      },
+      {
+        "by": "japoolie",
+        "date": "2025-11-20",
+        "text": "😎",
         "reactions": []
       }
     ]
@@ -19395,15 +19395,15 @@ const SUBMISSIONS = [
     "reactions": [],
     "comments": [
       {
-        "by": "ragnar-danneskjold",
-        "date": "2025-11-21",
-        "text": "Maybe you sold us beer",
-        "reactions": []
-      },
-      {
         "by": "spiceboy",
         "date": "2025-11-21",
         "text": "You know I probably walked right by you as I work right at Fenway",
+        "reactions": []
+      },
+      {
+        "by": "ragnar-danneskjold",
+        "date": "2025-11-21",
+        "text": "Maybe you sold us beer",
         "reactions": []
       },
       {
@@ -20136,30 +20136,6 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
-        "by": "rox",
-        "date": "2025-11-26",
-        "text": "Yea the weather lol",
-        "reactions": []
-      },
-      {
-        "by": "rox",
-        "date": "2025-11-26",
-        "text": "I liked it",
-        "reactions": []
-      },
-      {
-        "by": "rox",
-        "date": "2025-11-26",
-        "text": "Oh yea we did",
-        "reactions": []
-      },
-      {
-        "by": "rox",
-        "date": "2025-11-26",
-        "text": "Yours look more happy",
-        "reactions": []
-      },
-      {
         "by": "spookyxjenn",
         "date": "2025-11-26",
         "text": "it looks depressing af ngl",
@@ -20205,6 +20181,30 @@ const SUBMISSIONS = [
         "by": "genyuz",
         "date": "2025-11-26",
         "text": "(Romania-Serbia border)",
+        "reactions": []
+      },
+      {
+        "by": "rox",
+        "date": "2025-11-26",
+        "text": "Yea the weather lol",
+        "reactions": []
+      },
+      {
+        "by": "rox",
+        "date": "2025-11-26",
+        "text": "I liked it",
+        "reactions": []
+      },
+      {
+        "by": "rox",
+        "date": "2025-11-26",
+        "text": "Oh yea we did",
+        "reactions": []
+      },
+      {
+        "by": "rox",
+        "date": "2025-11-26",
+        "text": "Yours look more happy",
         "reactions": []
       },
       {
@@ -20500,6 +20500,12 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
+        "by": "tom-sawyer",
+        "date": "2025-12-02",
+        "text": "oh holy shit, now she's on my hometurf",
+        "reactions": []
+      },
+      {
         "by": "dragon-library-system",
         "date": "2025-12-02",
         "text": "Mhm mhm! I was a few months ago!! It took me forever to find my old writing on this spot",
@@ -20509,12 +20515,6 @@ const SUBMISSIONS = [
             "c": 1
           }
         ]
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-12-02",
-        "text": "oh holy shit, now she's on my hometurf",
-        "reactions": []
       },
       {
         "by": "tom-sawyer",
@@ -20641,15 +20641,15 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "micky-mickardo",
-        "date": "2025-12-09",
-        "text": "What?",
-        "reactions": []
-      },
-      {
         "by": "teddy",
         "date": "2025-12-09",
         "text": "The hotel?",
+        "reactions": []
+      },
+      {
+        "by": "micky-mickardo",
+        "date": "2025-12-09",
+        "text": "What?",
         "reactions": []
       }
     ],
@@ -20735,15 +20735,15 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "rox",
-        "date": "2025-12-12",
-        "text": "I mean it’s the exact same place right?",
-        "reactions": []
-      },
-      {
         "by": "genyuz",
         "date": "2025-12-12",
         "text": "The last photo has a special place in my heart, it reminds me of the vibe I had while walking there at night",
+        "reactions": []
+      },
+      {
+        "by": "rox",
+        "date": "2025-12-12",
+        "text": "I mean it’s the exact same place right?",
         "reactions": []
       },
       {
@@ -20988,6 +20988,12 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
+        "by": "dragon-library-system",
+        "date": "2025-12-12",
+        "text": "I’d love to visit Vienna someday! Hoping you had lots of fun",
+        "reactions": []
+      },
+      {
         "by": "rox",
         "date": "2025-12-12",
         "text": "I did! My mum visited me there",
@@ -20997,6 +21003,12 @@ const SUBMISSIONS = [
             "c": 1
           }
         ]
+      },
+      {
+        "by": "dragon-library-system",
+        "date": "2025-12-12",
+        "text": "Any places you’d highly recommend in Vienna?",
+        "reactions": []
       },
       {
         "by": "rox",
@@ -21014,18 +21026,6 @@ const SUBMISSIONS = [
             "c": 1
           }
         ]
-      },
-      {
-        "by": "dragon-library-system",
-        "date": "2025-12-12",
-        "text": "I’d love to visit Vienna someday! Hoping you had lots of fun",
-        "reactions": []
-      },
-      {
-        "by": "dragon-library-system",
-        "date": "2025-12-12",
-        "text": "Any places you’d highly recommend in Vienna?",
-        "reactions": []
       }
     ]
   },
@@ -21496,6 +21496,12 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
+        "by": "spiceboy",
+        "date": "2025-12-16",
+        "text": "I went there as a kid. Is it worth going as an adult?",
+        "reactions": []
+      },
+      {
         "by": "karl",
         "date": "2025-12-16",
         "text": "i mostly go because of my kids",
@@ -21508,24 +21514,6 @@ const SUBMISSIONS = [
         "reactions": []
       },
       {
-        "by": "karl",
-        "date": "2025-12-16",
-        "text": "https://discord.com/channels/583718278468206612/1417610264316088400/1417610264316088400",
-        "reactions": []
-      },
-      {
-        "by": "karl",
-        "date": "2025-12-16",
-        "text": "i like to stop there on the way back as it's kinda equidistant between Hershey PA and NYC",
-        "reactions": []
-      },
-      {
-        "by": "spiceboy",
-        "date": "2025-12-16",
-        "text": "I went there as a kid. Is it worth going as an adult?",
-        "reactions": []
-      },
-      {
         "by": "spiceboy",
         "date": "2025-12-16",
         "text": "Idk what that is",
@@ -21535,6 +21523,18 @@ const SUBMISSIONS = [
         "by": "spiceboy",
         "date": "2025-12-16",
         "text": "Dorney park",
+        "reactions": []
+      },
+      {
+        "by": "karl",
+        "date": "2025-12-16",
+        "text": "https://discord.com/channels/583718278468206612/1417610264316088400/1417610264316088400",
+        "reactions": []
+      },
+      {
+        "by": "karl",
+        "date": "2025-12-16",
+        "text": "i like to stop there on the way back as it's kinda equidistant between Hershey PA and NYC",
         "reactions": []
       }
     ],
@@ -22556,6 +22556,12 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
+        "by": "tom-sawyer",
+        "date": "2025-12-20",
+        "text": "Ofc it's the favorite",
+        "reactions": []
+      },
+      {
         "by": "d1sco",
         "date": "2025-12-20",
         "text": "Mainly cos I rock climbed tho",
@@ -22583,12 +22589,6 @@ const SUBMISSIONS = [
         "by": "d1sco",
         "date": "2025-12-20",
         "text": "I like",
-        "reactions": []
-      },
-      {
-        "by": "tom-sawyer",
-        "date": "2025-12-20",
-        "text": "Ofc it's the favorite",
         "reactions": []
       }
     ]
@@ -23528,15 +23528,15 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
-        "by": "stu",
-        "date": "2025-12-30",
-        "text": "nice, hope you enjoy it!",
-        "reactions": []
-      },
-      {
         "by": "tom-sawyer",
         "date": "2025-12-30",
         "text": "ooh neat, im going there in a couple months",
+        "reactions": []
+      },
+      {
+        "by": "stu",
+        "date": "2025-12-30",
+        "text": "nice, hope you enjoy it!",
         "reactions": []
       }
     ]
@@ -24011,12 +24011,6 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
-        "by": "spookyxjenn",
-        "date": "2025-12-31",
-        "text": "I didn't see you no",
-        "reactions": []
-      },
-      {
         "by": "met3774",
         "date": "2025-12-31",
         "text": "Wtf labubu in british make up",
@@ -24038,6 +24032,12 @@ const SUBMISSIONS = [
         "by": "recurse",
         "date": "2025-12-31",
         "text": "Did you see the rats the size of cats",
+        "reactions": []
+      },
+      {
+        "by": "spookyxjenn",
+        "date": "2025-12-31",
+        "text": "I didn't see you no",
         "reactions": []
       }
     ]
@@ -24123,12 +24123,6 @@ const SUBMISSIONS = [
     "reactions": [],
     "comments": [
       {
-        "by": "met3774",
-        "date": "2025-12-31",
-        "text": "I’ll passs i’m too drunk to tothis",
-        "reactions": []
-      },
-      {
         "by": "tom-sawyer",
         "date": "2025-12-31",
         "text": "Decided to do globetrotter after all huh?",
@@ -24138,6 +24132,12 @@ const SUBMISSIONS = [
         "by": "tom-sawyer",
         "date": "2025-12-31",
         "text": "You're going to have to improve this post tho, cause there's very few rules for this globetrotter and this one currently do not clear that bar",
+        "reactions": []
+      },
+      {
+        "by": "met3774",
+        "date": "2025-12-31",
+        "text": "I’ll passs i’m too drunk to tothis",
         "reactions": []
       },
       {
@@ -25051,6 +25051,12 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
+        "by": "virtual-metro",
+        "date": "2025-12-31",
+        "text": "based post, the onion burger is so goated",
+        "reactions": []
+      },
+      {
         "by": "michael",
         "date": "2025-12-31",
         "text": "it's truly a special experience",
@@ -25066,12 +25072,6 @@ const SUBMISSIONS = [
             "c": 1
           }
         ]
-      },
-      {
-        "by": "virtual-metro",
-        "date": "2025-12-31",
-        "text": "based post, the onion burger is so goated",
-        "reactions": []
       }
     ]
   },
@@ -25686,15 +25686,15 @@ const SUBMISSIONS = [
     ],
     "comments": [
       {
-        "by": "oak",
-        "date": "2025-12-31",
-        "text": "i did, check the pic in the middle",
-        "reactions": []
-      },
-      {
         "by": "spookyxjenn",
         "date": "2025-12-31",
         "text": "Did you meet Cass?",
+        "reactions": []
+      },
+      {
+        "by": "oak",
+        "date": "2025-12-31",
+        "text": "i did, check the pic in the middle",
         "reactions": []
       }
     ],

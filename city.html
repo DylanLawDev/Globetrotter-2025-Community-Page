@@ -58,8 +58,10 @@
 .sub-lead{ font-size:16px; line-height:1.7; color:#D8D0BC; margin:0 0 18px; }
 .read-more{ display:inline; background:none; border:none; padding:0; margin-left:6px; cursor:pointer; font:inherit; font-family:var(--ff-mono); font-size:12px; letter-spacing:.1em; text-transform:uppercase; color:var(--gold); white-space:nowrap; }
 .read-more:hover{ color:var(--cream); text-decoration:underline; }
-.sub-lead .lead-full p{ margin:0 0 14px; }
-.sub-lead .lead-full p:last-of-type{ margin-bottom:8px; }
+.sub-lead p{ margin:0 0 14px; }
+.sub-lead p:last-child{ margin-bottom:0; }
+.sub-lead .lead-body.clamped{ display:-webkit-box; -webkit-box-orient:vertical; -webkit-line-clamp:5; overflow:hidden; }
+.sub-lead .read-more{ margin:10px 0 0; }
 .sub-cols{ display:grid; grid-template-columns:1fr 1fr; gap:28px; }
 @media(max-width:680px){ .sub-cols{ grid-template-columns:1fr; } }
 .sub-cols h4{ font-family:var(--ff-mono); font-size:11px; letter-spacing:.16em; text-transform:uppercase; color:var(--gold); margin:0 0 10px; }
@@ -70,6 +72,14 @@
 
 .thread{ margin-top:20px; padding-top:18px; border-top:1px solid var(--line); }
 .thread .th-h{ font-family:var(--ff-mono); font-size:11px; letter-spacing:.16em; text-transform:uppercase; color:var(--steel); margin-bottom:10px; }
+.thread .th-toggle{ display:flex; align-items:center; gap:12px; width:100%; padding:10px 14px; background:rgba(255,255,255,.03); border:1px solid var(--line); border-radius:10px; cursor:pointer; text-align:left; font-family:var(--ff-mono); font-size:11px; letter-spacing:.14em; text-transform:uppercase; color:var(--cream-2); }
+.thread .th-toggle:hover{ border-color:var(--gold); color:var(--gold); }
+.thread .th-toggle .chev{ margin-left:auto; transition:transform .2s ease; }
+.thread .th-toggle.open .chev{ transform:rotate(180deg); }
+.thread .th-avs{ display:flex; }
+.thread .th-av{ width:24px; height:24px; border-radius:7px; margin-right:-7px; border:2px solid var(--navy-2); object-fit:cover; background:var(--ink); color:var(--cream); font-weight:700; font-size:11px; display:grid; place-items:center; flex:none; }
+.thread .th-avs .th-av:last-child{ margin-right:7px; }
+.thread .th-body{ padding-top:8px; }
 .cmt{ display:flex; gap:12px; padding:12px 0; border-top:1px solid var(--line-2); }
 .cmt:first-of-type{ border-top:none; }
 .cmt .av{ width:34px; height:34px; border-radius:8px; flex:none; background:var(--ink); color:var(--cream); font-family:var(--ff-mono); font-weight:700; font-size:14px; display:grid; place-items:center; }
@@ -168,16 +178,31 @@ if(!c){
   document.querySelectorAll(".gallery .shot").forEach(sh=>sh.addEventListener("click",()=>openLB(sh.dataset.sid,+sh.dataset.i)));
   document.getElementById("lightbox").addEventListener("click",e=>{ if(e.target.id==="lightbox") closeLB(); });
 
-  /* read-more inline expand/collapse */
+  /* read-more inline expand/collapse — clamp to 5 rendered lines, button only when overflowing */
+  const fitLeads=()=>document.querySelectorAll(".sub-lead").forEach(wrap=>{
+    const body=wrap.querySelector(".lead-body"), btn=wrap.querySelector(".read-more");
+    if(!btn.hidden) return;
+    body.classList.add("clamped");
+    if(body.scrollHeight > body.clientHeight + 1) btn.hidden=false;
+    else body.classList.remove("clamped");
+  });
+  fitLeads();
+  if(document.fonts) document.fonts.ready.then(fitLeads);
   window.toggleMore=(btn)=>{ const wrap=btn.closest(".sub-lead"); if(!wrap) return;
-    const preview=wrap.querySelector(".lead-preview");
-    const full=wrap.querySelector(".lead-full"); if(!full) return;
-    if(!full.hasChildNodes()){ const s=submissionById(wrap.dataset.sid);
-      (s&&s.content||"").split(/\n+/).map(t=>t.trim()).filter(Boolean).forEach(t=>{ const p=document.createElement("p"); p.textContent=t; full.appendChild(p); });
-      const less=document.createElement("button"); less.type="button"; less.className="read-more"; less.textContent="Read less ↑"; less.style.marginLeft="0"; less.onclick=()=>toggleMore(less); full.appendChild(less); }
-    const expand=full.hidden;
-    full.hidden=!expand; preview.hidden=expand;
-    if(expand) wrap.scrollIntoView({block:"nearest"}); };
+    const body=wrap.querySelector(".lead-body");
+    const expand=body.classList.contains("clamped");
+    body.classList.toggle("clamped",!expand);
+    btn.textContent = expand ? "Read less ↑" : "Read more →";
+    if(!expand) wrap.scrollIntoView({block:"nearest"}); };
+
+  /* comment trays start closed */
+  window.toggleThread=(btn)=>{ const body=btn.nextElementSibling; if(!body) return;
+    const open=body.hidden;
+    body.hidden=!open;
+    btn.setAttribute("aria-expanded",open);
+    btn.classList.toggle("open",open);
+    const lb=btn.querySelector(".th-label");
+    lb.textContent = lb.textContent.replace(/^(Show|Hide)/, open?"Hide":"Show"); };
 
   document.addEventListener("keydown",e=>{ if(e.key==="Escape") closeLB(); });
 
@@ -194,13 +219,11 @@ function renderSubmission(s, si, total){
     <div class="shot ${i===0?'big':''}" data-sid="${s.id}" data-i="${i}">${photoHTML(p)}
       <div class="cred">${p.caption ? p.caption : ''}${p.caption&&p.by?' — ':''}${p.by&&!p.caption?contributor(p.by).display:''}</div>
     </div>`).join("");
-  const norm = (t)=> (t||"").replace(/\s+/g," ").trim();
-  const fullText = norm(s.content);
-  const preview = s.blurb || (fullText ? fullText.slice(0,300).trim()+"…" : "");
-  const hasMore = fullText.length > norm(preview).replace(/…$/,"").trim().length;
-  const lead = preview ? `<div class="sub-lead" data-sid="${s.id}">
-      <span class="lead-preview">${preview}${hasMore?` <button type="button" class="read-more" onclick="toggleMore(this)">Read more →</button>`:""}</span>
-      ${hasMore?`<div class="lead-full" hidden></div>`:""}
+  const esc = (t)=> (t||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+  const lines = (s.content || s.blurb || "").split(/\n+/).map(t=>t.trim()).filter(Boolean);
+  const lead = lines.length ? `<div class="sub-lead">
+      <div class="lead-body clamped">${lines.map(t=>`<p>${esc(t)}</p>`).join("")}</div>
+      <button type="button" class="read-more" hidden onclick="toggleMore(this)">Read more →</button>
     </div>` : "";
   const comments = s.comments.length ? s.comments.map(cm=>{ const a=contributor(cm.by);
     return `<div class="cmt">${avatarHTML(a)}<div style="flex:1">
@@ -219,8 +242,13 @@ function renderSubmission(s, si, total){
     <div class="gallery">${gallery}</div>
     ${lead}
     <div class="thread">
-      <div class="th-h">From the thread · ${s.comments.length} ${s.comments.length===1?'reply':'replies'}</div>
-      ${comments}
+      ${s.comments.length?`<button type="button" class="th-toggle" aria-expanded="false" onclick="toggleThread(this)">
+        <span class="th-avs">${[...new Set(s.comments.map(cm=>cm.by))].slice(0,4).map(id=>avatarHTML(contributor(id),"th-av")).join("")}</span>
+        <span class="th-label">Show ${s.comments.length} ${s.comments.length===1?'comment':'comments'} from the thread</span>
+        <span class="chev">▾</span>
+      </button>
+      <div class="th-body" hidden>${comments}</div>`
+      :`<div class="th-h">From the thread · 0 replies</div>${comments}`}
     </div>
   </article>`;
 }
