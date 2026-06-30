@@ -173,9 +173,14 @@ document.getElementById("hero-passport").innerHTML = `
     <span class="stamp ovl-stamp" style="background:rgba(236,227,204,.6)">Visited · '25</span>
   </a>`;
 
-/* featured stamps — the most-submitted cities, one representative card each */
+/* featured stamps — the most-submitted cities, one representative card each.
+   Ties on submission count break on total city engagement (so a more-reacted
+   city isn't dropped from the cutoff for an alphabetically-earlier one), then name. */
+const cityReacts = (id) => submissionsForCity(id).reduce((n,s)=>n+totalReacts(s),0);
 const featured = submittedCities()
-  .sort((a,b)=> submissionCount(b.id)-submissionCount(a.id) || a.name.localeCompare(b.name))
+  .sort((a,b)=> submissionCount(b.id)-submissionCount(a.id)
+             || cityReacts(b.id)-cityReacts(a.id)
+             || a.name.localeCompare(b.name))
   .slice(0,6)
   .map(c => submissionsForCity(c.id).slice()
     .sort((x,y)=> totalReacts(y)-totalReacts(x) || (y.photos.length-x.photos.length))[0]);
