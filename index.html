@@ -4,6 +4,7 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Globetrotter 2025 Atlas</title>
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
 <link rel="stylesheet" href="styles.css" />
 <style>
 /* ---- hero ---- */
@@ -45,7 +46,6 @@
 .stamp-card .meta-top{ display:flex; justify-content:space-between; align-items:flex-end; margin-top:11px; }
 .stamp-card .city{ font-family:var(--ff-display); text-transform:uppercase; font-size:19px; color:#2A2418; line-height:1; }
 .stamp-card .sub{ font-family:var(--ff-mono); font-size:10.5px; color:#6B6048; margin-top:4px; }
-.stamp-card .no{ font-family:var(--ff-mono); font-size:10px; color:#8A7B55; text-align:right; }
 .stamp-card .by{ display:flex; align-items:center; gap:7px; margin-top:11px; padding-top:9px; border-top:1px dashed #C7B894; }
 .stamp-card .ava{ width:21px; height:21px; border-radius:5px; background:var(--ink); color:#fff; font-family:var(--ff-mono); font-size:10px; font-weight:700; display:grid; place-items:center; }
 .stamp-card .by .nm{ font-family:var(--ff-mono); font-size:11px; color:#4A4232; }
@@ -69,7 +69,7 @@
 .mapteaser .inner{ position:relative; padding:48px 48px; display:grid; grid-template-columns:1fr auto; gap:30px; align-items:center; }
 .mapteaser h2{ font-family:var(--ff-display); text-transform:uppercase; font-size:34px; color:var(--cream); margin:0 0 12px; }
 .mapteaser p{ font-family:var(--ff-mono); font-size:13.5px; color:var(--steel); max-width:420px; line-height:1.7; margin:0 0 22px; }
-.mapteaser .dots{ position:absolute; inset:0; opacity:.5; }
+.mapteaser .dots{ position:absolute; inset:0; opacity:.7; }
 
 @media(max-width:900px){
   .hero .grid2{ grid-template-columns:1fr; } .passport{ max-width:360px; }
@@ -87,7 +87,6 @@
 <section class="hero" data-screen-label="Home / Hero">
   <div class="wrap grid2">
     <div>
-      <span class="stamp gold">★ Entry Granted · <span id="hero-count">100</span> Cities</span>
       <h1>The<br><span class="o">Globe&shy;trotter</span><br><span class="g">Atlas</span> 2025</h1>
       <div class="cta">
         <a class="btn btn-primary" href="atlas.html">Open the Atlas →</a>
@@ -95,7 +94,7 @@
       </div>
       <div class="banner-strip">
         <img src="assets/banner.png" alt="Globetrotter 2025" />
-        <div class="t">The 2025 community travel challenge.<br>Submit a city, stamp your passport,<br>climb to Gold.</div>
+        <div class="t">The 2025 community travel challenge.</div>
       </div>
     </div>
     <div class="passport" id="hero-passport"></div>
@@ -110,7 +109,7 @@
 <!-- FEATURED STAMPS -->
 <section class="section wrap" data-screen-label="Home / Featured">
   <div class="section-head">
-    <h2>Recent Stamps</h2><div class="ln"></div>
+    <h2>Most Visited</h2><div class="ln"></div>
     <a class="meta" href="atlas.html" style="color:var(--gold)">Browse all →</a>
   </div>
   <div class="stamp-grid" id="featured"></div>
@@ -134,9 +133,8 @@
     <canvas class="dots" id="teaser-dots"></canvas>
     <div class="inner">
       <div>
-        <span class="eyebrow">Six continents</span>
-        <h2 style="margin-top:10px">Every pin, one world</h2>
-        <p>From Reykjavík to Queenstown, see the whole year laid out on the globe. Click any pin to read the submission.</p>
+        <h2>Every pin, one world</h2>
+        <p>From Reykjavík to Queenstown, see the whole year laid out on the globe. Click any pin to read the submissions.</p>
         <a class="btn btn-gold" href="map.html">Open the world map →</a>
       </div>
       <div class="stamp gold" id="teaser-countries" style="font-size:14px; padding:9px 16px; transform:rotate(-5deg)">★ Countries</div>
@@ -147,12 +145,12 @@
 <div id="footer"></div>
 
 <script src="data.js"></script>
+<script src="world.js"></script>
 <script src="site.js"></script>
 <script>
 mountChrome("home");
 
-/* hero count + stats */
-document.getElementById("hero-count").textContent = STATS.cities;
+/* stats */
 const statCells = [
   [STATS.submissions,"Submissions"],[STATS.cities,"Cities"],[STATS.countries,"Countries"],
   [STATS.contributors,"Trotters"],[STATS.photos,"Photos"]
@@ -175,19 +173,21 @@ document.getElementById("hero-passport").innerHTML = `
     <span class="stamp ovl-stamp" style="background:rgba(236,227,204,.6)">Visited · '25</span>
   </a>`;
 
-/* featured stamps — the most recent submissions */
-const featured = SUBMISSIONS.slice().sort((a,b)=>b.date.localeCompare(a.date)).slice(0,6);
+/* featured stamps — the most-submitted cities, one representative card each */
+const featured = submittedCities()
+  .sort((a,b)=> submissionCount(b.id)-submissionCount(a.id) || a.name.localeCompare(b.name))
+  .slice(0,6)
+  .map(c => submissionsForCity(c.id).slice()
+    .sort((x,y)=> totalReacts(y)-totalReacts(x) || (y.photos.length-x.photos.length))[0]);
 document.getElementById("featured").innerHTML = featured.map((s,i) => {
   const c = cityOf(s); const sub = contributor(s.submittedBy);
-  const others = submissionCount(c.id);
   const rot = [-1.2,.9,-.6,1.1,-.9,.7][i]||0;
   return `<a class="stamp-card" href="city.html?id=${c.id}#${s.id}" style="transform:rotate(${rot}deg)">
     <div class="pic">${photoHTML(s.photos[0])}
       <span class="stamp ovl">${flag(c.cc)} ${c.cc}</span>
     </div>
     <div class="meta-top">
-      <div><div class="city">${c.name}</div><div class="sub">${c.country.toUpperCase()} · ${s.date.slice(0,7)}</div></div>
-      <div class="no">${others>1?others+'×':'NO.'+String(i+1).padStart(2,'0')}</div>
+      <div><div class="city">${c.name}</div><div class="sub">${c.country.toUpperCase()} · ${fmtDate(s.date)}</div></div>
     </div>
     <div class="by">${avatarHTML(sub,"ava")}<span class="nm">${sub.display}</span><span class="rx">${totalReacts(s)} ✦</span></div>
   </a>`;
@@ -202,20 +202,32 @@ document.getElementById("leaderboard").innerHTML = ["gold","silver","bronze"].ma
   </div>`;
 }).join("");
 
-/* teaser dots — subtle drifting constellation */
+/* teaser map — faint world landmass with a gold pin per submitted city */
 (function(){
   const cv = document.getElementById("teaser-dots");
-  const fit = () => { cv.width = cv.offsetWidth; cv.height = cv.offsetHeight; };
-  fit(); window.addEventListener("resize", fit);
-  const pts = submittedCities().map(c => ({ x:(c.lng+180)/360, y:(90-c.lat)/180 }));
+  if(!cv) return;
   const ctx = cv.getContext("2d");
-  (function draw(){
+  const cities = submittedCities();
+  function draw(){
+    cv.width = cv.offsetWidth; cv.height = cv.offsetHeight;
     ctx.clearRect(0,0,cv.width,cv.height);
-    pts.forEach(p=>{
-      ctx.beginPath(); ctx.arc(p.x*cv.width, p.y*cv.height*1.05+10, 2.2, 0, 7);
-      ctx.fillStyle="rgba(216,162,76,.55)"; ctx.fill();
+    const px = (lng)=> (lng+180)/360*cv.width;
+    const py = (lat)=> (90-lat)/180*cv.height;
+    if (typeof WORLD_LAND !== "undefined"){
+      ctx.fillStyle="rgba(159,180,216,.10)"; ctx.strokeStyle="rgba(159,180,216,.20)";
+      ctx.lineWidth=1; ctx.lineJoin="round";
+      for (const ring of WORLD_LAND){
+        ctx.beginPath();
+        for (let i=0;i<ring.length;i++){ const x=px(ring[i][0]), y=py(ring[i][1]); i?ctx.lineTo(x,y):ctx.moveTo(x,y); }
+        ctx.closePath(); ctx.fill(); ctx.stroke();
+      }
+    }
+    cities.forEach(c=>{
+      ctx.beginPath(); ctx.arc(px(c.lng), py(c.lat), 2.1, 0, 7);
+      ctx.fillStyle="rgba(216,162,76,.85)"; ctx.fill();
     });
-  })();
+  }
+  draw(); window.addEventListener("resize", draw);
 })();
 </script>
 </body>

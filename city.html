@@ -4,6 +4,7 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>City · Globetrotter 2025 Atlas</title>
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
 <link rel="stylesheet" href="styles.css" />
 <style>
 .cb{ font-family:var(--ff-mono); font-size:12px; color:var(--steel); padding:22px 0 0; }
@@ -227,7 +228,7 @@ function renderSubmission(s, si, total){
     </div>` : "";
   const comments = s.comments.length ? s.comments.map(cm=>{ const a=contributor(cm.by);
     return `<div class="cmt">${avatarHTML(a)}<div style="flex:1">
-      <div class="hd"><span class="nm">${a.display}</span>${a.role?`<span class="hl">${a.role}</span>`:""}<span class="dt">${cm.date}</span></div>
+      <div class="hd"><span class="nm">${a.display}</span>${a.role?`<span class="hl">${a.role}</span>`:""}<span class="dt">${fmtDate(cm.date)}</span></div>
       <div class="tx">${cm.text}</div>
       ${cm.reactions&&cm.reactions.length?`<div class="react">${cm.reactions.map(r=>`<span>${r.e} ${r.c}</span>`).join("")}</div>`:""}
     </div></div>`; }).join("") : `<div class="cmt-empty">No comments on this submission yet.</div>`;
@@ -237,7 +238,7 @@ function renderSubmission(s, si, total){
       ${avatarHTML(sub)}
       <div class="who"><div class="n"><a href="profile.html?id=${s.submittedBy}">${sub.display}</a></div><div class="h">@${sub.handle}${total>1?` · submission ${si+1} of ${total}`:""}</div></div>
       ${tierStamp}
-      <div class="when">${s.date}${s.note?`<br><span style="color:var(--cream-2)">“${s.note}”</span>`:""}</div>
+      <div class="when">${fmtDate(s.date)}${s.note?`<br><span style="color:var(--cream-2)">“${s.note}”</span>`:""}</div>
     </div>
     <div class="gallery">${gallery}</div>
     ${lead}

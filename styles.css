@@ -5,6 +5,9 @@
    ========================================================================== */
 
 @import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500&family=Archivo+Black&family=Space+Mono:wght@400;700&display=swap');
+/* Color-emoji fallback so flag emoji render on platforms (e.g. Windows) whose
+   system font draws region pairs as plain letters instead of a flag. */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap');
 
 :root{
   --navy:    #0E1A38;
@@ -30,9 +33,9 @@
   --maxw: 1200px;
   --radius: 10px;
   --shadow: 0 18px 44px rgba(0,0,0,.42);
-  --ff-display: "Archivo Black", sans-serif;
-  --ff-mono: "Space Mono", monospace;
-  --ff-body: "Archivo", sans-serif;
+  --ff-display: "Archivo Black", "Noto Color Emoji", sans-serif;
+  --ff-mono: "Space Mono", "Noto Color Emoji", monospace;
+  --ff-body: "Archivo", "Noto Color Emoji", sans-serif;
 }
 
 *{ box-sizing:border-box; }
