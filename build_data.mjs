@@ -18,6 +18,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { DEFAULT_EXPORT_DIR, loadMedalLookup, enrichContributors } from "./build/medals.mjs";
+import { selectImageAttachments } from "./build/photos.mjs";
 
 const ROOT = path.resolve(".");
 const EXPORT_DIR = path.join(ROOT, "data/threads");
@@ -117,11 +118,12 @@ const SUBMISSIONS = subsIn.map((s) => {
   // Reference the web-optimized derivatives produced by optimize_media.mjs:
   // images -> media/<thread>/<name>.webp, videos -> media/<thread>/<name>.mp4
   const mediaName = (orig) => orig.replace(/^.*\//, "").replace(/\.[^.]+$/, "");
-  const atts = starter.attachments || [];
-  const photos = atts
-    .filter((a) => (a.content_type || "").startsWith("image/"))
+  // Starter-post images are the canonical gallery; when the starter is text-only,
+  // fall back to the submitter's own follow-up/reply images (see build/photos.mjs)
+  // so the card isn't blank. Videos stay starter-only.
+  const photos = selectImageAttachments(starter, t, s.submittedBy, slug)
     .map((a) => ({ src: `media/${s.id}/${mediaName(a.original)}.webp`, by: s.submittedBy, caption: "" }));
-  const videos = atts
+  const videos = (starter.attachments || [])
     .filter((a) => (a.content_type || "").startsWith("video/"))
     .map((a) => ({ src: `media/${s.id}/${mediaName(a.original)}.mp4`, by: s.submittedBy, caption: "" }));
 

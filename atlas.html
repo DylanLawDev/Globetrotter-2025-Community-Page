@@ -4,6 +4,7 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Submissions · Globetrotter 2025 Atlas</title>
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
 <link rel="stylesheet" href="styles.css" />
 <style>
 .atlas-hero{ padding:46px 0 30px; }
@@ -50,7 +51,7 @@
   <section class="atlas-hero">
     <span class="eyebrow">Every Entry · 2025</span>
     <h1>All Submissions</h1>
-    <p>Every city write-up posted to the challenge — one card per submission. The same city can appear more than once when different trotters visited. Filter by continent or member, or search.</p>
+    <p>One card per submission. Filter by region or trotter, or search for a city.</p>
   </section>
 
   <div class="toolbar">
@@ -81,7 +82,7 @@
 mountChrome("atlas");
 
 const CONTINENTS=["All",...Array.from(new Set(submittedCities().map(c=>c.continent))).sort()];
-let activeCont="All", activeMember="all", query="", sortBy="recent";
+let activeCont="All", activeMember="all", query="", sortBy="most";
 
 /* continent chips */
 const filterEl=document.getElementById("continent-filters");
@@ -98,14 +99,15 @@ document.getElementById("member-filter").innerHTML =
 
 /* sort dropdown */
 document.getElementById("sort").innerHTML =
-  `<option value="recent">Newest first</option><option value="oldest">Oldest first</option><option value="city">City A–Z</option><option value="reacted">Most reacted</option>`;
+  `<option value="most">Most submissions</option><option value="city">City A–Z</option><option value="reacted">Most reacted</option><option value="recent">Newest first</option><option value="oldest">Oldest first</option>`;
 
 function render(){
   let list=SUBMISSIONS.slice();
   if(activeCont!=="All") list=list.filter(s=>cityOf(s).continent===activeCont);
   if(activeMember!=="all") list=list.filter(s=>s.submittedBy===activeMember);
   if(query){ const q=query.toLowerCase(); list=list.filter(s=>{const c=cityOf(s); return (c.name+" "+c.country).toLowerCase().includes(q);}); }
-  if(sortBy==="recent") list.sort((a,b)=>b.date.localeCompare(a.date));
+  if(sortBy==="most") list.sort((a,b)=>(submissionCount(cityOf(b).id)-submissionCount(cityOf(a).id)) || cityOf(a).name.localeCompare(cityOf(b).name));
+  else if(sortBy==="recent") list.sort((a,b)=>b.date.localeCompare(a.date));
   else if(sortBy==="oldest") list.sort((a,b)=>a.date.localeCompare(b.date));
   else if(sortBy==="city") list.sort((a,b)=>cityOf(a).name.localeCompare(cityOf(b).name));
   else if(sortBy==="reacted") list.sort((a,b)=>totalReacts(b)-totalReacts(a));
@@ -128,7 +130,7 @@ function render(){
       </div>
       <div class="nm">${c.name}</div>
       <div class="meta">${c.country.toUpperCase()} · POP ${fmtPop(c.population)}</div>
-      <div class="ft">${avatarHTML(sub)}${sub.display}<span class="dt">${s.date.slice(0,7)}</span></div>
+      <div class="ft">${avatarHTML(sub)}${sub.display}<span class="dt">${fmtDate(s.date)}</span></div>
     </a>`;
   }).join("");
 }

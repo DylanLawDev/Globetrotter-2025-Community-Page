@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Globetrotter">
+  <defs>
+    <clipPath id="badge"><circle cx="50" cy="50" r="46"/></clipPath>
+  </defs>
+
+  <!-- sky -->
+  <circle cx="50" cy="50" r="46" fill="#bfe3dd"/>
+
+  <g clip-path="url(#badge)">
+    <!-- rolling mid hill -->
+    <path d="M0 56 C20 49 36 53 56 50 C76 47 90 52 100 50 L100 100 L0 100 Z" fill="#4a7aa6"/>
+
+    <!-- sun behind the peaks -->
+    <circle cx="33" cy="49" r="12" fill="#f4c64a"/>
+
+    <!-- birds -->
+    <g fill="none" stroke="#13294a" stroke-width="1.4" stroke-linecap="round">
+      <path d="M17 32 q3 -3 6 0 q3 -3 6 0"/>
+      <path d="M27 27 q2.4 -2.4 4.8 0 q2.4 -2.4 4.8 0"/>
+    </g>
+
+    <!-- mountains -->
+    <path d="M2 74 L26 41 L48 74 Z" fill="#2a4a72"/>
+    <path d="M27 76 L54 33 L82 76 Z" fill="#1e3a5c"/>
+
+    <!-- snow caps -->
+    <path d="M26 41 L21 50 L24 49 L27 46 L30 51 Z" fill="#ffffff" opacity=".92"/>
+    <path d="M54 33 L48 45 L52 44 L56 40 L60 47 Z" fill="#ffffff"/>
+
+    <!-- city skyline -->
+    <g fill="#2c4c70">
+      <rect x="64" y="50" width="6" height="26"/>
+      <rect x="71" y="44" width="7" height="32"/>
+      <rect x="80" y="54" width="6" height="22"/>
+      <rect x="87" y="49" width="5" height="27"/>
+    </g>
+
+    <!-- dark foreground -->
+    <path d="M0 70 C30 66 70 68 100 72 L100 100 L0 100 Z" fill="#12274a"/>
+
+    <!-- winding river -->
+    <path d="M40 100 C46 90 42 84 56 77 C49 84 60 92 60 100 Z" fill="#ffffff" opacity=".96"/>
+
+    <!-- plane -->
+    <path d="M75 27 L88 21 L84 26 L89 27 L83 30 L81 34 L79 29 L74 28 Z" fill="#12274a"/>
+  </g>
+
+  <!-- ring -->
+  <circle cx="50" cy="50" r="46" fill="none" stroke="#12274a" stroke-width="4"/>
+</svg>

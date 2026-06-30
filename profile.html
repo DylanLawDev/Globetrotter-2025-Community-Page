@@ -4,6 +4,7 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Trotter · Globetrotter 2025 Atlas</title>
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
 <link rel="stylesheet" href="styles.css" />
 <style>
 .cb{ font-family:var(--ff-mono); font-size:12px; color:var(--steel); padding:22px 0 0; }
@@ -128,7 +129,7 @@ if(!m){
       <div class="section-h"><h2 style="font-size:20px">Their Map</h2><div class="ln"></div></div>
       <div class="chart-wrap journey">
         <div class="chart" id="journey"></div>
-        <div class="cap"><span>Chronological · ${subs[0]?subs[0].date.slice(0,7):''} → ${subs.length?subs[subs.length-1].date.slice(0,7):''}</span></div>
+        <div class="cap"><span>Chronological · ${subs[0]?fmtDate(subs[0].date):''} → ${subs.length?fmtDate(subs[subs.length-1].date):''}</span></div>
       </div>
       <div style="font-family:var(--ff-mono); font-size:11px; color:var(--steel); margin-top:12px; line-height:1.6">
         Pins numbered in the order ${m.display.split(" ")[0]} submitted them through 2025. The dashed line traces the year's path.
@@ -146,7 +147,7 @@ if(!m){
       <div class="tl-card">
         <div class="thumb">${photoHTML(s.photos[0],{glyph:false})}</div>
         <div class="body">
-          <div class="date">${s.date} · ${flag(c.cc)} ${c.country}</div>
+          <div class="date">${fmtDate(s.date)} · ${flag(c.cc)} ${c.country}</div>
           <div class="city">${c.name}</div>
           <div class="blurb">${s.blurb||""}</div>
         </div>
@@ -166,7 +167,7 @@ if(!m){
     pin.className="pin num"; pin.href=`city.html?id=${c.id}#${s.id}`;
     pin.style.left=p.x+"%"; pin.style.top=p.y+"%"; pin.style.setProperty("--col",col);
     pin.innerHTML=`<span class="seq">${i+1}</span>`;
-    pin.title=`${i+1}. ${c.name} — ${s.date}`;
+    pin.title=`${i+1}. ${c.name} — ${fmtDate(s.date)}`;
     journeyEl.appendChild(pin);
   });
 

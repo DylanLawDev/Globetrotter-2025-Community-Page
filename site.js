@@ -19,6 +19,13 @@ const flag = (cc) => FLAGS[cc] || (/^[A-Za-z]{2}$/.test(cc || "")
 const fmtPop = (n) => n >= 1e6 ? (n/1e6).toFixed(n>=1e7?1:2).replace(/\.?0+$/,'') + "M"
                     : n >= 1e3 ? Math.round(n/1e3) + "k" : "" + n;
 
+// Full readable date from an ISO "YYYY-MM-DD" string, e.g. "Jan 31, 2025".
+const MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+const fmtDate = (d) => {
+  const m = /^(\d{4})-(\d{2})-(\d{2})/.exec(d || "");
+  return m ? `${MONTHS[+m[2]-1]} ${+m[3]}, ${m[1]}` : (d || "");
+};
+
 // gold/silver/bronze = awarded Globetrotter 2025 medal roles (see build/medals.mjs).
 const TIER_LABEL = { gold:"Gold", silver:"Silver", bronze:"Bronze" };
 const TIER_COLOR = { gold:"var(--gold)", silver:"var(--silver)", bronze:"var(--bronze)" };
@@ -126,7 +133,7 @@ function mountChrome(active) {
 
 if (typeof window !== "undefined") {
   Object.assign(window, {
-    flag, fmtPop, TIER_LABEL, TIER_COLOR, TIER_GLYPH, avatarHTML,
+    flag, fmtPop, fmtDate, TIER_LABEL, TIER_COLOR, TIER_GLYPH, avatarHTML,
     contributor, tierMembers, cityById, submissionById,
     submissionsForCity, submissionsBy, cityOf, submittedCities,
     submissionCount, totalReacts, photoHTML, coordLabel,
