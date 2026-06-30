@@ -68,7 +68,7 @@ SUBMISSIONS = [{
   id, cityId, title /* original raw thread title */, note, submittedBy, date,
   imageCount, videoCount,
   content,                              // member's post, Discord-markup stripped, NO AI extraction
-  photos:    [{ src, caption, by }],    // this submission's starter-post images only
+  photos:    [{ src, caption, by }],    // starter-post images, else the author's own reply images
   reactions: [{ e, c }],                // custom Discord emoji aliased or dropped
   comments:  [{ by, date, text, reactions }],   // replies, oldest→newest
 }]
@@ -80,8 +80,15 @@ STATS = { cities, countries, continents, submissions, photos, contributors, comm
 Referenced **in place** by default: `src = "data/threads/<threadId>/images/originals/<attId>_<file>"`
 (no duplication of the 8.6 GB image set). Run `node build_data.mjs --copy-photos` to instead
 copy clean-named files into `photos/<threadId>/<filename>` and rewrite `src` accordingly.
-Only starter-post images are gallery photos (per the challenge rules); reply images and
-videos are excluded.
+Starter-post images are the canonical gallery (the challenge rule). When a starter post is
+text-only, `build_data.mjs` falls back to images the **same author** attached in their own
+follow-up posts/replies (see `build/photos.mjs`) so the submission card isn't blank — it never
+borrows another member's photos. Videos remain starter-only.
+
+> Note: optimize_media only builds WebP derivatives for images **referenced in `data.js`**.
+> After this change, re-run `node build_data.mjs` (so fallback images get referenced) and then
+> `node optimize_media.mjs` so the newly-referenced reply images get `media/<id>/<name>.webp`
+> derivatives — otherwise those cards would point at missing files.
 
 ## Review queue
 `out/cities-review.md` lists everything needing a human eye: the 2 skipped admin threads,
