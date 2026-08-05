@@ -1,0 +1,25 @@
+# Keep the build context to the site payload — .git alone is ~1.1 GB.
+.git
+.gitignore
+.github
+.superpowers/
+
+node_modules/
+
+# raw Discord export and regenerable pipeline output
+data/
+out/
+dist/
+build/
+
+# tooling that has no place in a static-serving image
+test/
+*.mjs
+package.json
+package-lock.json
+DATA.md
+Dockerfile
+.dockerignore
+
+*.bak
+*.orig
