@@ -13,8 +13,11 @@ dist/
 build/
 
 # tooling that has no place in a static-serving image
+# (** so this also catches assets/fonts/refresh_fonts.mjs — a bare *.mjs is
+#  only matched against top-level paths)
 test/
-*.mjs
+**/*.mjs
+**/README.md
 package.json
 package-lock.json
 DATA.md

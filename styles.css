@@ -4,10 +4,12 @@
    Shared across index · atlas · city · map · contributors
    ========================================================================== */
 
-@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500&family=Archivo+Black&family=Space+Mono:wght@400;700&display=swap');
-/* Color-emoji fallback so flag emoji render on platforms (e.g. Windows) whose
-   system font draws region pairs as plain letters instead of a flag. */
-@import url('https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap');
+/* Archivo · Archivo Black · Space Mono, plus the Noto Color Emoji fallback that
+   makes flag emoji render on platforms (e.g. Windows) whose system font draws
+   region pairs as plain letters. Self-hosted rather than pulled from
+   fonts.googleapis.com so the site renders with no third-party egress —
+   see assets/fonts/README.md to refresh them. */
+@import url('assets/fonts/fonts.css');
 
 :root{
   --navy:    #0E1A38;
